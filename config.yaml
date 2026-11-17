@@ -1,0 +1,33 @@
+# Logins de Twitch a vigilar (los que no existan se ignoran con un aviso).
+streamers:
+  - rubius
+  - illojuan
+  - rivers_gg
+  - juansguarnizo
+  - ibai
+  - thegrefg
+  - auronplay
+  - elxokas
+  - elspreen
+  - quackity
+
+# Solo clips de estos juegos (nombre exacto en Twitch). Si no se encuentra, no se filtra.
+games:
+  - Grand Theft Auto VI
+
+selection:
+  window_hours: 3        # buscar clips creados en las últimas N horas
+  min_views: 30          # vistas mínimas del clip en Twitch
+  min_duration: 8        # segundos
+  max_per_run: 4         # clips procesados por ejecución (cada ~10 min)
+  min_score: 5           # nota mínima (1-10) que da la IA para enviarlo
+
+brand:
+  handle: "@tucuenta"    # CAMBIAR: tu @ en redes
+  color: "FFD400"        # color de marca (hex RGB) para el gancho y la palabra activa
+  font: "Anton"
+  hashtags: ["#gta6", "#gtavi", "#streamers", "#clips"]
+
+groq:
+  transcribe_model: whisper-large-v3
+  llm_model: openai/gpt-oss-120b

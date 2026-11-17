@@ -1,0 +1,5 @@
+out/
+work/
+fonts/
+__pycache__/
+.env
