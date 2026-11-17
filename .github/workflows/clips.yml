@@ -16,6 +16,7 @@ concurrency:
 
 permissions:
   contents: write
+  actions: write   # para relanzarse a sí mismo al terminar el bucle
 
 jobs:
   run:
@@ -58,3 +59,9 @@ jobs:
             save
             sleep 90
           done
+
+      - name: Relanzar el bucle
+        if: always() && github.event.inputs.clip == ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run clips.yml --ref main
