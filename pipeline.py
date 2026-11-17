@@ -80,17 +80,39 @@ class Twitch:
 
 # ---------------------------------------------------------------- Groq
 
+# Modelo de reserva (con su propio cupo) por si el principal devuelve 429 o está caído.
+GROQ_FALLBACK = {"whisper-large-v3": "whisper-large-v3-turbo", "openai/gpt-oss-120b": "openai/gpt-oss-20b"}
+
+
+class GroqBusy(Exception):
+    """Groq sin cupo: el clip se reintenta en la siguiente vuelta en vez de perderse."""
+
+
+def groq_call(path, model, make_kwargs):
+    for m in [model] + ([GROQ_FALLBACK[model]] if model in GROQ_FALLBACK else []):
+        r = requests.post(f"https://api.groq.com/openai/v1/{path}", timeout=120,
+                          headers={"Authorization": f"Bearer {env('GROQ_API_KEY')}"}, **make_kwargs(m))
+        if r.status_code == 429 or r.status_code >= 500:
+            log(f"Groq {m}: {r.status_code}, pruebo reserva")
+            continue
+        r.raise_for_status()
+        return r.json()
+    raise GroqBusy(f"Groq sin cupo para {path}")
+
+
+def groq_chat_json(model, prompt, temperature):
+    data = groq_call("chat/completions", model, lambda m: {"json": {
+        "model": m, "temperature": temperature, "response_format": {"type": "json_object"},
+        "messages": [{"role": "user", "content": prompt}]}})
+    return json.loads(data["choices"][0]["message"]["content"])
+
+
 def groq_transcribe(audio_path, model, language="es"):
-    with open(audio_path, "rb") as f:
-        r = requests.post(
-            "https://api.groq.com/openai/v1/audio/transcriptions",
-            headers={"Authorization": f"Bearer {env('GROQ_API_KEY')}"},
-            files={"file": (audio_path.name, f, "audio/mpeg")},
-            data=[("model", model), ("language", language), ("response_format", "verbose_json"),
-                  ("timestamp_granularities[]", "word"), ("timestamp_granularities[]", "segment")],
-            timeout=120)
-    r.raise_for_status()
-    return r.json()
+    audio = audio_path.read_bytes()
+    return groq_call("audio/transcriptions", model, lambda m: {
+        "files": {"file": (audio_path.name, audio, "audio/mpeg")},
+        "data": [("model", m), ("language", language), ("response_format", "verbose_json"),
+                 ("timestamp_granularities[]", "word"), ("timestamp_granularities[]", "segment")]})
 
 
 PROMPT = """Eres el editor de una cuenta de TikTok/Reels/Shorts en español sobre streamers jugando a GTA 6: \
@@ -128,33 +150,21 @@ Responde SOLO con JSON:
 def groq_translate_segments(model, segments, lang):
     """Traduce al español el texto de cada segmento manteniendo sus tiempos."""
     src = [{"i": i, "t": seg["text"].strip()} for i, seg in enumerate(segments)]
-    prompt = (f"Traduce al español de España, coloquial y natural (es un streamer hablando, idioma original: {lang}), "
-              "cada texto de esta lista. Mantén insultos/exclamaciones con su intensidad. "
+    prompt = (f"Traduce a español neutro, coloquial y natural (es un streamer hablando, idioma original: {lang}), "
+              "que se entienda igual en España y en Latinoamérica: evita palabras que en algún país son vulgares "
+              "(p. ej. 'coger': usa 'agarrar', 'tomar', 'pillar'...). "
+              "Mantén insultos/exclamaciones con su intensidad. "
               'Responde SOLO con JSON: {"es": ["traducción 0", "traducción 1", ...]} con el mismo número de elementos.\n'
               + json.dumps(src, ensure_ascii=False))
-    r = requests.post(
-        "https://api.groq.com/openai/v1/chat/completions",
-        headers={"Authorization": f"Bearer {env('GROQ_API_KEY')}"},
-        json={"model": model, "temperature": 0.2, "response_format": {"type": "json_object"},
-              "messages": [{"role": "user", "content": prompt}]},
-        timeout=60)
-    r.raise_for_status()
-    es = json.loads(r.json()["choices"][0]["message"]["content"]).get("es", [])
+    es = groq_chat_json(model, prompt, 0.2).get("es", [])
     if len(es) != len(segments):
         raise RuntimeError(f"traducción incompleta ({len(es)}/{len(segments)} segmentos)")
     return [{**seg, "text": t} for seg, t in zip(segments, es)]
 
 
 def groq_judge(model, streamer, title, views, transcript):
-    r = requests.post(
-        "https://api.groq.com/openai/v1/chat/completions",
-        headers={"Authorization": f"Bearer {env('GROQ_API_KEY')}"},
-        json={"model": model, "temperature": 0.4, "response_format": {"type": "json_object"},
-              "messages": [{"role": "user", "content": PROMPT.format(
-                  streamer=streamer, title=title, views=views, transcript=transcript[:3000] or "(sin voz)")}]},
-        timeout=60)
-    r.raise_for_status()
-    return json.loads(r.json()["choices"][0]["message"]["content"])
+    return groq_chat_json(model, PROMPT.format(
+        streamer=streamer, title=title, views=views, transcript=transcript[:3000] or "(sin voz)"), 0.4)
 
 
 # ---------------------------------------------------------------- Subtítulos ASS
@@ -302,6 +312,12 @@ CAT_LABEL = {"bug": "🐛 BUG · ", "curiosidad": "🔍 CURIOSIDAD · ", "reacci
              "gracioso": "😂 GRACIOSO · ", "epico": "🔥 ÉPICO · "}
 
 
+def pending(state, clip_id):
+    """Clip aún por procesar (nuevo, o con error y menos de 3 intentos)."""
+    prev = state["processed"].get(clip_id)
+    return prev is None or (prev.get("status") == "error" and prev.get("tries", 1) < 3)
+
+
 def sent_last_hour(state):
     return sum(1 for v in state["processed"].values()
                if v.get("status") == "enviado" and v.get("t", 0) > time.time() - 3600)
@@ -392,7 +408,7 @@ def main():
                 for c in tw.get("clips", {"game_id": gid, "first": 100,
                                           "started_at": since.strftime("%Y-%m-%dT%H:%M:%SZ")}):
                     c["broadcaster_login"] = re.sub(r"[^a-z0-9_]", "", c["broadcaster_name"].lower()) or c["broadcaster_id"]
-                    if (c["id"] not in state["processed"] and c["view_count"] >= sel["global_min_views"]
+                    if (pending(state, c["id"]) and c["view_count"] >= sel["global_min_views"]
                             and c["duration"] >= sel["min_duration"]
                             and c.get("language", "").split("-")[0] in sel["global_languages"]):
                         candidates.append(c)
@@ -401,7 +417,7 @@ def main():
             try:
                 for c in tw.clips(uid, since):
                     c["broadcaster_login"] = login
-                    if (c["id"] not in state["processed"] and c["view_count"] >= sel["min_views"]
+                    if (pending(state, c["id"]) and c["view_count"] >= sel["min_views"]
                             and c["duration"] >= sel["min_duration"]
                             and (not games or c.get("game_id") in games)):
                         candidates.append(c)
@@ -422,9 +438,13 @@ def main():
     for c in candidates:
         try:
             result = process(c, cfg, args.dry_run)
+        except GroqBusy as e:  # sin cupo de IA: no se marca, se reintenta en la siguiente vuelta
+            log(f"{e}; paro esta vuelta")
+            break
         except Exception as e:  # un clip roto no debe parar al resto
             log(f"[{c['broadcaster_name']}] ERROR: {e}")
-            result = {"status": "error", "error": str(e)[:200]}
+            tries = state["processed"].get(c["id"], {}).get("tries", 0) + 1
+            result = {"status": "error", "tries": tries, "error": str(e)[:200]}
         state["processed"][c["id"]] = {"t": time.time(), "streamer": c["broadcaster_name"], **result}
 
     if not args.dry_run:
