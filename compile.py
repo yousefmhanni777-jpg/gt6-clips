@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""Recopilación semanal para YouTube: "TOP N bugs de streamers en GTA 6".
+"""Recopilaciones para YouTube: bugs, curiosidades o mejores momentos de streamers en GTA 6.
 
-Coge los clips que la IA clasificó como "bug" en state.json, los ordena por vistas (el mejor al final),
+Coge los clips de esa categoría guardados en state.json, los ordena por vistas (el mejor al final),
 monta un vídeo horizontal 1920x1080 con intro y rótulos, lo sube como Release de GitHub y
 manda a Telegram el enlace de descarga con título, descripción y capítulos.
 
 Uso:
-  python compile.py                  # últimos 7 días, top 10
+  python compile.py                  # bugs, últimos 7 días, top 10
+  python compile.py --cat curiosidad # también: todo (mejores momentos de cualquier categoría)
   python compile.py --days 3 --top 5
   python compile.py --dry-run        # deja el vídeo en out/ y no sube nada
 """
@@ -26,6 +27,15 @@ import pipeline as p
 
 CW, CH = 1920, 1080
 INTRO_SECS = 3
+KINDS = {
+    "bug": {"title": "TOP {n} BUGS DE STREAMERS EN GTA 6", "about": "bugs más locos",
+            "tags": ["#bugs", "#gta6bugs"], "emoji": "🐛"},
+    "curiosidad": {"title": "{n} DETALLES DE GTA 6 QUE DESCUBRIERON LOS STREAMERS",
+                   "about": "detalles, curiosidades y easter eggs más sorprendentes",
+                   "tags": ["#curiosidades", "#eastereggs", "#gta6detalles"], "emoji": "🔍"},
+    "todo": {"title": "LOS {n} MEJORES MOMENTOS DE STREAMERS EN GTA 6", "about": "mejores momentos",
+             "tags": ["#mejoresmomentos", "#gta6momentos"], "emoji": "🔥"},
+}
 ENC = ["-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-pix_fmt", "yuv420p", "-r", "30",
        "-video_track_timescale", "15360", "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-ac", "2"]
 
@@ -91,10 +101,10 @@ def mmss(t):
     return f"{t // 60}:{t % 60:02d}"
 
 
-def ai_texts(model, top, clips):
+def ai_texts(model, top, clips, about):
     lista = "\n".join(f"#{c['rank']} {c['streamer']}: {c['hook']}" for c in clips)
     prompt = (f"Escribe el título y la descripción de un vídeo de YouTube en español: recopilación de los TOP {top} "
-              f"bugs más locos de streamers jugando a GTA 6 esta semana. Clips:\n{lista}\n\n"
+              f"{about} de streamers jugando a GTA 6. Clips:\n{lista}\n\n"
               "Título: máx 70 caracteres, con gancho, menciona a 1-2 streamers famosos de la lista. "
               "Descripción: 2-3 frases naturales, invita a suscribirse. "
               'Responde SOLO con JSON: {"titulo": "...", "descripcion": "..."}')
@@ -126,7 +136,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--days", type=float, default=7)
     ap.add_argument("--top", type=int, default=10)
-    ap.add_argument("--min", type=int, default=3, help="mínimo de bugs para montar el vídeo")
+    ap.add_argument("--cat", choices=list(KINDS), default="bug")
+    ap.add_argument("--min", type=int, default=3, help="mínimo de clips para montar el vídeo")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
@@ -134,30 +145,33 @@ def main():
     brand = cfg["brand"]
     state = p.load_state()
     cutoff = time.time() - args.days * 86400
-    bugs = [{"id": k, **v} for k, v in state["processed"].items()
-            if v.get("cat") == "bug" and v.get("t", 0) > cutoff and v.get("duration", 0) >= 10]
-    bugs = sorted(bugs, key=lambda c: c.get("views", 0), reverse=True)[:args.top]
-    if len(bugs) < args.min:
-        msg = f"🐛 Recopilación semanal: solo hay {len(bugs)} bugs en los últimos {args.days:g} días (mínimo {args.min}). No se monta vídeo."
+    kind = KINDS[args.cat]
+    clips = [{"id": k, **v} for k, v in state["processed"].items()
+            if v.get("t", 0) > cutoff and v.get("duration", 0) >= 10 and v.get("url")
+            and (v.get("cat") == args.cat if args.cat != "todo" else v.get("status") == "enviado")]
+    clips = sorted(clips, key=lambda c: c.get("views", 0), reverse=True)[:args.top]
+    if len(clips) < args.min:
+        msg = (f"{kind['emoji']} Recopilación '{args.cat}': solo hay {len(clips)} clips en los últimos "
+               f"{args.days:g} días (mínimo {args.min}). No se monta vídeo todavía.")
         p.log(msg)
         if not args.dry_run:
             p.send_telegram_text(msg)
         return
 
     # Cuenta atrás: el más visto, al final.
-    bugs.reverse()
-    for i, c in enumerate(bugs):
-        c["rank"] = len(bugs) - i
+    clips.reverse()
+    for i, c in enumerate(clips):
+        c["rank"] = len(clips) - i
 
     work = p.WORK_DIR / "compilacion"
     shutil.rmtree(work, ignore_errors=True)
     work.mkdir(parents=True)
     try:
-        segs = [render_intro(work, f"TOP {len(bugs)} BUGS DE STREAMERS EN GTA 6",
+        segs = [render_intro(work, kind["title"].format(n=len(clips)),
                              f"Semana del {datetime.now():%d/%m/%Y}  ·  {brand['handle']}", brand)]
         chapters, t = ["0:00 Intro"], float(INTRO_SECS)
         ok = []
-        for i, c in enumerate(bugs, start=1):
+        for i, c in enumerate(clips, start=1):
             try:
                 src = work / f"src_{i:03d}.mp4"
                 p.download(c["url"], src)
@@ -174,22 +188,22 @@ def main():
 
         (work / "list.txt").write_text("".join(f"file '{s.name}'\n" for s in segs))
         p.OUT_DIR.mkdir(exist_ok=True)
-        out = p.OUT_DIR / f"top_bugs_{datetime.now():%Y%m%d}.mp4"
+        out = p.OUT_DIR / f"top_{args.cat}_{datetime.now():%Y%m%d}.mp4"
         p.run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", "list.txt", "-c", "copy",
                "-movflags", "+faststart", str(out)], cwd=work)
         p.log(f"recopilación: {out.name} · {mmss(duration(out))} · {out.stat().st_size // 2**20} MB")
 
-        texts = ai_texts(cfg["groq"]["llm_model"], len(ok), ok)
+        texts = ai_texts(cfg["groq"]["llm_model"], len(ok), ok, kind["about"])
         credits = "\n".join(sorted({f"twitch.tv/{c['login']}" for c in ok}))
         description = (f"{texts.get('descripcion', '')}\n\n⏱️ Capítulos\n" + "\n".join(chapters) +
                        f"\n\n🎥 Créditos a los streamers:\n{credits}\n\n"
-                       + " ".join(brand["hashtags"] + ["#bugs", "#gta6bugs"]))
-        title = texts.get("titulo", f"TOP {len(ok)} BUGS DE STREAMERS EN GTA 6")
+                       + " ".join(brand["hashtags"] + kind["tags"]))
+        title = texts.get("titulo", kind["title"].format(n=len(ok)))
         if args.dry_run:
             p.log(f"--- {title} ---\n{description}")
             return
         url = publish_release(out, title, description)
-        p.send_telegram_text(f"🎬 RECOPILACIÓN SEMANAL LISTA ({mmss(duration(out))})\n\n⬇️ Descargar vídeo:\n{url}\n\n"
+        p.send_telegram_text(f"🎬 {kind['emoji']} RECOPILACIÓN LISTA ({mmss(duration(out))})\n\n⬇️ Descargar vídeo:\n{url}\n\n"
                              f"📋 TÍTULO:\n{title}\n\n📋 DESCRIPCIÓN:\n{description}")
     finally:
         shutil.rmtree(work, ignore_errors=True)

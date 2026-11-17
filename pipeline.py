@@ -93,8 +93,8 @@ def groq_transcribe(audio_path, model, language="es"):
     return r.json()
 
 
-PROMPT = """Eres el editor de una cuenta de TikTok/Reels/Shorts en español especializada en REACCIONES de streamers \
-(rabia, gritos, flipadas, risas, momentos épicos) jugando a GTA 6.
+PROMPT = """Eres el editor de una cuenta de TikTok/Reels/Shorts en español sobre streamers jugando a GTA 6: \
+reacciones, bugs, curiosidades del juego, momentos épicos y graciosos.
 
 Clip de Twitch de {streamer}. Título que le puso el chat: "{title}". Vistas: {views}.
 Si el streamer no es hispanohablante, el vídeo irá subtitulado al español: el gancho debe presentarlo para \
@@ -107,14 +107,19 @@ lo encontró gracioso o épico, así que NO lo descartes solo por tener poca voz
 Descarta solo si es claramente charla aburrida, o si la transcripción es mayormente letra de una canción \
 (riesgo de copyright por la radio del juego).
 
-Clasifica también el clip. "bug" = un fallo del juego (físicas raras, coches volando, NPCs atravesando paredes, \
-personajes atascados...); se nota porque el streamer dice cosas como "bug", "glitch", "¿qué ha pasado?", \
-"el juego está roto", o porque lo dice el título.
+Clasifica también el clip:
+- "bug": un fallo del juego (físicas raras, coches volando, NPCs atravesando paredes, personajes atascados...); \
+se nota porque el streamer dice "bug", "glitch", "¿qué ha pasado?", "el juego está roto", o lo dice el título.
+- "curiosidad": el streamer descubre un detalle del juego, un easter egg, una mecánica sorprendente o realista \
+("mira qué detalle", "¿esto se puede hacer?", "no sabía que...").
+- "reaccion": rabia, gritos, flipadas, emoción del streamer.
+- "gracioso": situación cómica que no es un bug.
+- "epico": jugada, persecución o momento espectacular.
 
 Responde SOLO con JSON:
 {{"publicar": true/false,
   "puntuacion": 1-10,
-  "categoria": "bug" | "reaccion" | "epico" | "otro",
+  "categoria": "bug" | "curiosidad" | "reaccion" | "gracioso" | "epico" | "otro",
   "gancho": "texto corto (máx 55 caracteres) para poner arriba del vídeo, que genere curiosidad, menciona al streamer",
   "descripcion": "1-2 frases para el post, natural, en español",
   "motivo": "por qué (breve)"}}"""
@@ -293,6 +298,15 @@ def load_state():
     return state
 
 
+CAT_LABEL = {"bug": "🐛 BUG · ", "curiosidad": "🔍 CURIOSIDAD · ", "reaccion": "😱 REACCIÓN · ",
+             "gracioso": "😂 GRACIOSO · ", "epico": "🔥 ÉPICO · "}
+
+
+def sent_last_hour(state):
+    return sum(1 for v in state["processed"].values()
+               if v.get("status") == "enviado" and v.get("t", 0) > time.time() - 3600)
+
+
 def process(clip, cfg, dry_run):
     brand = cfg["brand"]
     streamer = clip["broadcaster_name"]
@@ -333,7 +347,7 @@ def process(clip, cfg, dry_run):
         log(f"[{streamer}] renderizado {out.name}")
 
         tags = " ".join(brand["hashtags"] + [f"#{login}"])
-        caption = (("🐛 BUG · " if cat == "bug" else "") + (f"🌍 {lang.upper()}→ES · " if lang != "es" else "") + f"⭐ {score}/10 · {streamer} · {clip.get('view_count', 0)} vistas en Twitch\n\n"
+        caption = (CAT_LABEL.get(cat, "") + (f"🌍 {lang.upper()}→ES · " if lang != "es" else "") + f"⭐ {score}/10 · {streamer} · {clip.get('view_count', 0)} vistas en Twitch\n\n"
                    f"📋 TEXTO PARA PUBLICAR:\n{hook}\n\n{verdict.get('descripcion', '')}\n"
                    f"🎥 Créditos: twitch.tv/{login}\n{tags}\n\n🔗 Original: {clip['url']}")
         if dry_run:
@@ -399,7 +413,10 @@ def main():
             age_h = (now - datetime.fromisoformat(c["created_at"].replace("Z", "+00:00"))).total_seconds() / 3600
             return c["view_count"] / max(age_h, 0.25)
         candidates.sort(key=velocity, reverse=True)
-        candidates = candidates[:sel["max_per_run"]]
+        room = max(0, sel["max_per_hour"] - sent_last_hour(state))
+        if room == 0:
+            log(f"tope de {sel['max_per_hour']} vídeos/hora alcanzado; espero")
+        candidates = candidates[:min(sel["max_per_run"], room)]
 
     log(f"{len(candidates)} clips a procesar")
     for c in candidates:

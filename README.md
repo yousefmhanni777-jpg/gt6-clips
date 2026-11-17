@@ -23,3 +23,8 @@ Cada ~10 min, GitHub Actions:
 - `config.yaml`: streamers, vistas mínimas, clips por ejecución, nota mínima de la IA y color de marca.
 - Prueba local: `python pipeline.py --dry-run` (necesita las mismas variables de entorno). Los vídeos se quedan en `out/`.
 - El cron de GitHub puede retrasarse unos minutos en horas punta.
+
+## Recopilaciones (vídeos largos para YouTube)
+Los domingos a las 10:00 se montan solas tres: **bugs**, **curiosidades** y **mejores momentos** (si hay al menos 3 clips de cada una).
+Para lanzar una cuando quieras: Actions → recopilacion-semanal → "Run workflow" → elige la categoría y los días.
+Te llega a Telegram con el enlace de descarga, el título, la descripción y los capítulos.

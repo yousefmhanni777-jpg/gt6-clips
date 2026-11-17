@@ -11,6 +11,11 @@ on:
       top:
         description: "Número de clips"
         default: "10"
+      cat:
+        description: "Categoría"
+        type: choice
+        options: [bug, curiosidad, todo]
+        default: todo
 
 permissions:
   contents: write
@@ -18,6 +23,12 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        # Domingo: las tres recopilaciones. Manual: solo la elegida.
+        cat: ${{ fromJSON(github.event_name == 'workflow_dispatch' && format('["{0}"]', github.event.inputs.cat) || '["bug","curiosidad","todo"]') }}
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
@@ -42,4 +53,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DAYS: ${{ github.event.inputs.days || '7' }}
           TOP: ${{ github.event.inputs.top || '10' }}
-        run: python compile.py --days "$DAYS" --top "$TOP"
+          CAT: ${{ matrix.cat }}
+        run: python compile.py --cat "$CAT" --days "$DAYS" --top "$TOP"
