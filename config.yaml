@@ -21,6 +21,12 @@ selection:
   min_duration: 8        # segundos
   max_per_run: 4         # clips procesados por ejecución (cada ~10 min)
   min_score: 5           # nota mínima (1-10) que da la IA para enviarlo
+  # Entre estas horas (UTC) se clipea a CUALQUIER streamer que juegue GTA VI, con subtítulos traducidos.
+  # 2026-11-18T23:00Z = 00:00 del 19 en España (cuando el juego llega a España). Después, solo la lista de arriba.
+  global_from: "2026-11-18T11:00:00Z"   # 12:00 en España = desbloqueo en Nueva Zelanda
+  global_until: "2026-11-18T23:00:00Z"
+  global_min_views: 300
+  global_languages: [es, en, pt, fr, de, it]
 
 brand:
   handle: "@mundolibregt6"

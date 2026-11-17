@@ -80,13 +80,13 @@ class Twitch:
 
 # ---------------------------------------------------------------- Groq
 
-def groq_transcribe(audio_path, model):
+def groq_transcribe(audio_path, model, language="es"):
     with open(audio_path, "rb") as f:
         r = requests.post(
             "https://api.groq.com/openai/v1/audio/transcriptions",
             headers={"Authorization": f"Bearer {env('GROQ_API_KEY')}"},
             files={"file": (audio_path.name, f, "audio/mpeg")},
-            data=[("model", model), ("language", "es"), ("response_format", "verbose_json"),
+            data=[("model", model), ("language", language), ("response_format", "verbose_json"),
                   ("timestamp_granularities[]", "word"), ("timestamp_granularities[]", "segment")],
             timeout=120)
     r.raise_for_status()
@@ -97,6 +97,8 @@ PROMPT = """Eres el editor de una cuenta de TikTok/Reels/Shorts en español espe
 (rabia, gritos, flipadas, risas, momentos épicos) jugando a GTA 6.
 
 Clip de Twitch de {streamer}. Título que le puso el chat: "{title}". Vistas: {views}.
+Si el streamer no es hispanohablante, el vídeo irá subtitulado al español: el gancho debe presentarlo para \
+el público hispano (ej. "Kai Cenat, el streamer más visto de EEUU, ...") y escribirse en español.
 Transcripción (puede tener errores):
 \"\"\"{transcript}\"\"\"
 
@@ -116,6 +118,26 @@ Responde SOLO con JSON:
   "gancho": "texto corto (máx 55 caracteres) para poner arriba del vídeo, que genere curiosidad, menciona al streamer",
   "descripcion": "1-2 frases para el post, natural, en español",
   "motivo": "por qué (breve)"}}"""
+
+
+def groq_translate_segments(model, segments, lang):
+    """Traduce al español el texto de cada segmento manteniendo sus tiempos."""
+    src = [{"i": i, "t": seg["text"].strip()} for i, seg in enumerate(segments)]
+    prompt = (f"Traduce al español de España, coloquial y natural (es un streamer hablando, idioma original: {lang}), "
+              "cada texto de esta lista. Mantén insultos/exclamaciones con su intensidad. "
+              'Responde SOLO con JSON: {"es": ["traducción 0", "traducción 1", ...]} con el mismo número de elementos.\n'
+              + json.dumps(src, ensure_ascii=False))
+    r = requests.post(
+        "https://api.groq.com/openai/v1/chat/completions",
+        headers={"Authorization": f"Bearer {env('GROQ_API_KEY')}"},
+        json={"model": model, "temperature": 0.2, "response_format": {"type": "json_object"},
+              "messages": [{"role": "user", "content": prompt}]},
+        timeout=60)
+    r.raise_for_status()
+    es = json.loads(r.json()["choices"][0]["message"]["content"]).get("es", [])
+    if len(es) != len(segments):
+        raise RuntimeError(f"traducción incompleta ({len(es)}/{len(segments)} segmentos)")
+    return [{**seg, "text": t} for seg, t in zip(segments, es)]
 
 
 def groq_judge(model, streamer, title, views, transcript):
@@ -282,7 +304,10 @@ def process(clip, cfg, dry_run):
         log(f"[{streamer}] descargando {clip['url']}")
         download(clip["url"], src)
         extract_audio(src, audio)
-        tr = groq_transcribe(audio, cfg["groq"]["transcribe_model"])
+        lang = (clip.get("language") or "es").split("-")[0]
+        if lang not in ("es", "en", "pt", "fr", "de", "it"):
+            lang = "es"
+        tr = groq_transcribe(audio, cfg["groq"]["transcribe_model"], lang)
         transcript = (tr.get("text") or "").strip()
 
         verdict = groq_judge(cfg["groq"]["llm_model"], streamer, clip.get("title", ""),
@@ -298,6 +323,9 @@ def process(clip, cfg, dry_run):
 
         credit = f"{brand['handle']}  ·  twitch.tv/{login}"
         ass_file = work / "subs.ass"
+        if lang != "es":
+            # Subtítulos traducidos: por segmento (los tiempos por palabra no sirven al cambiar de idioma).
+            tr = {"segments": groq_translate_segments(cfg["groq"]["llm_model"], tr.get("segments") or [], lang)}
         ass_file.write_text(build_ass(words_from_transcript(tr), hook, credit, brand), encoding="utf-8")
         OUT_DIR.mkdir(exist_ok=True)
         out = OUT_DIR / f"{datetime.now():%m%d_%H%M}_{login}_{clip['id'][:20]}.mp4"
@@ -305,7 +333,7 @@ def process(clip, cfg, dry_run):
         log(f"[{streamer}] renderizado {out.name}")
 
         tags = " ".join(brand["hashtags"] + [f"#{login}"])
-        caption = (("🐛 BUG · " if cat == "bug" else "") + f"⭐ {score}/10 · {streamer} · {clip.get('view_count', 0)} vistas en Twitch\n\n"
+        caption = (("🐛 BUG · " if cat == "bug" else "") + (f"🌍 {lang.upper()}→ES · " if lang != "es" else "") + f"⭐ {score}/10 · {streamer} · {clip.get('view_count', 0)} vistas en Twitch\n\n"
                    f"📋 TEXTO PARA PUBLICAR:\n{hook}\n\n{verdict.get('descripcion', '')}\n"
                    f"🎥 Créditos: twitch.tv/{login}\n{tags}\n\n🔗 Original: {clip['url']}")
         if dry_run:
@@ -341,6 +369,20 @@ def main():
         games = tw.game_ids(cfg.get("games", []))
         since = datetime.now(timezone.utc) - timedelta(hours=sel["window_hours"])
         candidates = []
+        now = datetime.now(timezone.utc)
+        utc = lambda s: datetime.fromisoformat(s.replace("Z", "+00:00"))
+        if sel.get("global_until") and games and utc(sel["global_from"]) <= now < utc(sel["global_until"]):
+            # Antes de que el juego llegue a España: top clips de GTA VI de cualquier streamer (subtitulados al español).
+            log("modo global: clips de cualquier streamer")
+            for gid in games:
+                for c in tw.get("clips", {"game_id": gid, "first": 100,
+                                          "started_at": since.strftime("%Y-%m-%dT%H:%M:%SZ")}):
+                    c["broadcaster_login"] = re.sub(r"[^a-z0-9_]", "", c["broadcaster_name"].lower()) or c["broadcaster_id"]
+                    if (c["id"] not in state["processed"] and c["view_count"] >= sel["global_min_views"]
+                            and c["duration"] >= sel["min_duration"]
+                            and c.get("language", "").split("-")[0] in sel["global_languages"]):
+                        candidates.append(c)
+            ids = {}
         for login, uid in ids.items():
             try:
                 for c in tw.clips(uid, since):
@@ -352,7 +394,6 @@ def main():
             except requests.HTTPError as e:
                 log(f"[{login}] error de Twitch: {e}")
         # Prioriza clips con muchas vistas para su antigüedad (lo que está explotando ahora).
-        now = datetime.now(timezone.utc)
 
         def velocity(c):
             age_h = (now - datetime.fromisoformat(c["created_at"].replace("Z", "+00:00"))).total_seconds() / 3600
