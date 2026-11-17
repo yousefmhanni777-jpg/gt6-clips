@@ -26,8 +26,8 @@ selection:
   # 2026-11-18T23:00Z = 00:00 del 19 en España (cuando el juego llega a España). Después, solo la lista de arriba.
   global_from: "2026-11-18T11:00:00Z"   # 12:00 en España = desbloqueo en Nueva Zelanda
   global_until: "2026-11-18T23:00:00Z"
-  global_min_views: 300
-  global_languages: [es, en, pt, fr, de, it]
+  # Vistas mínimas por idioma del directo (solo se cogen estos idiomas). Todo se subtitula al español.
+  global_min_views: {es: 80, en: 300, ja: 60, ko: 60, zh: 60, ru: 80, pt: 100, fr: 80, de: 80, it: 60, pl: 60, tr: 60}
 
 brand:
   handle: "@mundolibregt6"

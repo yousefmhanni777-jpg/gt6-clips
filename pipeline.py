@@ -107,6 +107,23 @@ def groq_chat_json(model, prompt, temperature):
     return json.loads(data["choices"][0]["message"]["content"])
 
 
+# Frases que Whisper se inventa en silencios (vienen de subtítulos de su entrenamiento).
+HALLUCINATIONS = re.compile(r"amara\.org|subt[ií]tul|legenda|suscr[ií]bete|gracias por ver|thanks for watching|"
+                            r"ご視聴|字幕|продолжение следует|untertitel", re.I)
+
+
+def clean_transcript(tr):
+    """Quita segmentos sin voz o alucinados, y las palabras que caen dentro de ellos."""
+    segs = tr.get("segments") or []
+    bad = [s for s in segs if s.get("no_speech_prob", 0) > 0.6 or HALLUCINATIONS.search(s.get("text", ""))]
+    if not bad:
+        return tr
+    inside = lambda t: any(b["start"] <= t < b["end"] for b in bad)
+    good = [s for s in segs if s not in bad]
+    return {**tr, "segments": good, "words": [w for w in tr.get("words") or [] if not inside(w["start"])],
+            "text": " ".join(s["text"].strip() for s in good)}
+
+
 def groq_transcribe(audio_path, model, language="es"):
     audio = audio_path.read_bytes()
     return groq_call("audio/transcriptions", model, lambda m: {
@@ -118,9 +135,10 @@ def groq_transcribe(audio_path, model, language="es"):
 PROMPT = """Eres el editor de una cuenta de TikTok/Reels/Shorts en español sobre streamers jugando a GTA 6: \
 reacciones, bugs, curiosidades del juego, momentos épicos y graciosos.
 
-Clip de Twitch de {streamer}. Título que le puso el chat: "{title}". Vistas: {views}.
-Si el streamer no es hispanohablante, el vídeo irá subtitulado al español: el gancho debe presentarlo para \
-el público hispano (ej. "Kai Cenat, el streamer más visto de EEUU, ...") y escribirse en español.
+Clip de Twitch de {streamer} (idioma del directo: {lang}). Título que le puso el chat: "{title}". Vistas: {views}.
+Si el streamer no es hispanohablante, el vídeo irá subtitulado al español y el gancho (en español) debe presentarlo \
+para el público hispano: si es muy famoso, por su nombre ("Kai Cenat, el streamer más visto de EEUU, ..."); \
+si no, por su nacionalidad según el idioma ("Streamer japonés reacciona a...", "Así reacciona Corea a GTA 6...").
 Transcripción (puede tener errores):
 \"\"\"{transcript}\"\"\"
 
@@ -162,9 +180,9 @@ def groq_translate_segments(model, segments, lang):
     return [{**seg, "text": t} for seg, t in zip(segments, es)]
 
 
-def groq_judge(model, streamer, title, views, transcript):
+def groq_judge(model, streamer, title, views, transcript, lang="es"):
     return groq_chat_json(model, PROMPT.format(
-        streamer=streamer, title=title, views=views, transcript=transcript[:3000] or "(sin voz)"), 0.4)
+        streamer=streamer, title=title, views=views, lang=lang, transcript=transcript[:3000] or "(sin voz)"), 0.4)
 
 
 # ---------------------------------------------------------------- Subtítulos ASS
@@ -308,6 +326,9 @@ def load_state():
     return state
 
 
+# Idiomas que Whisper transcribe bien (código de idioma de Twitch).
+WHISPER_LANGS = {"es", "en", "pt", "fr", "de", "it", "ja", "ko", "zh", "ru", "pl", "tr", "ar", "nl", "sv", "uk"}
+
 CAT_LABEL = {"bug": "🐛 BUG · ", "curiosidad": "🔍 CURIOSIDAD · ", "reaccion": "😱 REACCIÓN · ",
              "gracioso": "😂 GRACIOSO · ", "epico": "🔥 ÉPICO · "}
 
@@ -335,13 +356,13 @@ def process(clip, cfg, dry_run):
         download(clip["url"], src)
         extract_audio(src, audio)
         lang = (clip.get("language") or "es").split("-")[0]
-        if lang not in ("es", "en", "pt", "fr", "de", "it"):
+        if lang not in WHISPER_LANGS:
             lang = "es"
-        tr = groq_transcribe(audio, cfg["groq"]["transcribe_model"], lang)
+        tr = clean_transcript(groq_transcribe(audio, cfg["groq"]["transcribe_model"], lang))
         transcript = (tr.get("text") or "").strip()
 
         verdict = groq_judge(cfg["groq"]["llm_model"], streamer, clip.get("title", ""),
-                             clip.get("view_count", 0), transcript)
+                             clip.get("view_count", 0), transcript, lang)
         score = int(verdict.get("puntuacion", 0))
         cat = verdict.get("categoria", "otro")
         hook = verdict.get("gancho") or clip.get("title", "")
@@ -408,9 +429,11 @@ def main():
                 for c in tw.get("clips", {"game_id": gid, "first": 100,
                                           "started_at": since.strftime("%Y-%m-%dT%H:%M:%SZ")}):
                     c["broadcaster_login"] = re.sub(r"[^a-z0-9_]", "", c["broadcaster_name"].lower()) or c["broadcaster_id"]
-                    if (pending(state, c["id"]) and c["view_count"] >= sel["global_min_views"]
-                            and c["duration"] >= sel["min_duration"]
-                            and c.get("language", "").split("-")[0] in sel["global_languages"]):
+                    lang = c.get("language", "").split("-")[0]
+                    if (pending(state, c["id"]) and lang in sel["global_min_views"]
+                            and c["view_count"] >= sel["global_min_views"][lang]
+                            and c["duration"] >= sel["min_duration"]):
+                        c["min_views"] = sel["global_min_views"][lang]
                         candidates.append(c)
             ids = {}
         for login, uid in ids.items():
@@ -427,7 +450,8 @@ def main():
 
         def velocity(c):
             age_h = (now - datetime.fromisoformat(c["created_at"].replace("Z", "+00:00"))).total_seconds() / 3600
-            return c["view_count"] / max(age_h, 0.25)
+            # Relativo al umbral de su idioma, para que un streamer japonés compita con uno de EEUU.
+            return c["view_count"] / c.get("min_views", 1) / max(age_h, 0.25)
         candidates.sort(key=velocity, reverse=True)
         room = max(0, sel["max_per_hour"] - sent_last_hour(state))
         if room == 0:
