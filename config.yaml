@@ -23,10 +23,10 @@ selection:
   min_score: 5           # nota mínima (1-10) que da la IA para enviarlo
 
 brand:
-  handle: "@tucuenta"    # CAMBIAR: tu @ en redes
+  handle: "@mundolibregt6"
   color: "FFD400"        # color de marca (hex RGB) para el gancho y la palabra activa
   font: "Anton"
-  hashtags: ["#gta6", "#gtavi", "#streamers", "#clips"]
+  hashtags: ["#gta6", "#gtavi", "#mundolibregt6", "#streamers", "#clips"]
 
 groq:
   transcribe_model: whisper-large-v3
