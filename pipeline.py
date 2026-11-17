@@ -105,9 +105,14 @@ lo encontró gracioso o épico, así que NO lo descartes solo por tener poca voz
 Descarta solo si es claramente charla aburrida, o si la transcripción es mayormente letra de una canción \
 (riesgo de copyright por la radio del juego).
 
+Clasifica también el clip. "bug" = un fallo del juego (físicas raras, coches volando, NPCs atravesando paredes, \
+personajes atascados...); se nota porque el streamer dice cosas como "bug", "glitch", "¿qué ha pasado?", \
+"el juego está roto", o porque lo dice el título.
+
 Responde SOLO con JSON:
 {{"publicar": true/false,
   "puntuacion": 1-10,
+  "categoria": "bug" | "reaccion" | "epico" | "otro",
   "gancho": "texto corto (máx 55 caracteres) para poner arriba del vídeo, que genere curiosidad, menciona al streamer",
   "descripcion": "1-2 frases para el post, natural, en español",
   "motivo": "por qué (breve)"}}"""
@@ -248,11 +253,20 @@ def send_telegram(video, caption):
         raise RuntimeError(f"Telegram: {r.status_code} {r.text[:300]}")
 
 
+def send_telegram_text(text):
+    token, chat = env("TELEGRAM_BOT_TOKEN"), env("TELEGRAM_CHAT_ID")
+    for i in range(0, len(text), 4000):
+        r = requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
+                          data={"chat_id": chat, "text": text[i:i + 4000]}, timeout=60)
+        if not r.ok:
+            raise RuntimeError(f"Telegram: {r.status_code} {r.text[:300]}")
+
+
 # ---------------------------------------------------------------- Orquestación
 
 def load_state():
     state = json.loads(STATE_FILE.read_text()) if STATE_FILE.exists() else {"processed": {}}
-    cutoff = time.time() - 7 * 86400
+    cutoff = time.time() - 14 * 86400  # 14 días: la recopilación semanal tira de aquí
     state["processed"] = {k: v for k, v in state["processed"].items() if v.get("t", 0) > cutoff}
     return state
 
@@ -274,11 +288,14 @@ def process(clip, cfg, dry_run):
         verdict = groq_judge(cfg["groq"]["llm_model"], streamer, clip.get("title", ""),
                              clip.get("view_count", 0), transcript)
         score = int(verdict.get("puntuacion", 0))
-        log(f"[{streamer}] IA: publicar={verdict.get('publicar')} nota={score} · {verdict.get('motivo', '')}")
-        if not clip.get("forced") and (not verdict.get("publicar") or score < cfg["selection"]["min_score"]):
-            return {"status": "descartado", "score": score}
-
+        cat = verdict.get("categoria", "otro")
         hook = verdict.get("gancho") or clip.get("title", "")
+        meta = {"score": score, "cat": cat, "hook": hook, "url": clip["url"], "login": login,
+                "views": clip.get("view_count", 0), "duration": clip.get("duration", 0)}
+        log(f"[{streamer}] IA: {cat} publicar={verdict.get('publicar')} nota={score} · {verdict.get('motivo', '')}")
+        if not clip.get("forced") and (not verdict.get("publicar") or score < cfg["selection"]["min_score"]):
+            return {"status": "descartado", **meta}
+
         credit = f"{brand['handle']}  ·  twitch.tv/{login}"
         ass_file = work / "subs.ass"
         ass_file.write_text(build_ass(words_from_transcript(tr), hook, credit, brand), encoding="utf-8")
@@ -288,7 +305,7 @@ def process(clip, cfg, dry_run):
         log(f"[{streamer}] renderizado {out.name}")
 
         tags = " ".join(brand["hashtags"] + [f"#{login}"])
-        caption = (f"⭐ {score}/10 · {streamer} · {clip.get('view_count', 0)} vistas en Twitch\n\n"
+        caption = (("🐛 BUG · " if cat == "bug" else "") + f"⭐ {score}/10 · {streamer} · {clip.get('view_count', 0)} vistas en Twitch\n\n"
                    f"📋 TEXTO PARA PUBLICAR:\n{hook}\n\n{verdict.get('descripcion', '')}\n"
                    f"🎥 Créditos: twitch.tv/{login}\n{tags}\n\n🔗 Original: {clip['url']}")
         if dry_run:
@@ -296,7 +313,7 @@ def process(clip, cfg, dry_run):
         else:
             send_telegram(out, caption)
             out.unlink()
-        return {"status": "enviado", "score": score}
+        return {"status": "enviado", **meta}
     finally:
         shutil.rmtree(work, ignore_errors=True)
 
