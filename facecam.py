@@ -64,6 +64,30 @@ def detect_cam(video):
     return even(cx), even(cy), even(cw), even(ch), fw, fh
 
 
+def face_in_box(video, box, samples=10, min_ratio=0.3):
+    """¿Aparece una cara (de frente o de perfil) dentro del recuadro en al menos el 30% de los fotogramas?"""
+    import cv2
+    x, y, w, h = box
+    front = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
+    profile = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_profileface.xml")
+    cap = cv2.VideoCapture(str(video))
+    n = int(cap.get(cv2.CAP_PROP_FRAME_COUNT)) or 1
+    seen = total = 0
+    for i in range(samples):
+        cap.set(cv2.CAP_PROP_POS_FRAMES, int(n * (i + 0.5) / samples))
+        ok, frame = cap.read()
+        if not ok:
+            continue
+        total += 1
+        roi = cv2.cvtColor(frame[y:y + h, x:x + w], cv2.COLOR_BGR2GRAY)
+        roi = cv2.resize(roi, (480, int(480 * h / w)))  # caras de cámaras pequeñas, a un tamaño detectable
+        found = any(len(c.detectMultiScale(img, 1.1, 4, minSize=(40, 40)))
+                    for c in (front, profile) for img in (roi, cv2.flip(roi, 1)))
+        seen += found
+    cap.release()
+    return total and seen / total >= min_ratio
+
+
 def cam_for(video, login, cfg):
     """Cámara del streamer: recuadro guardado en config.yaml (fiable) o, si se activa, detección automática."""
     box = cfg.get("facecam_boxes", {}).get(login)
@@ -74,7 +98,9 @@ def cam_for(video, login, cfg):
         cap.release()
         even = lambda v: int(v) // 2 * 2
         x, y, w, h = (even(f * d) for f, d in zip(box, (fw, fh, fw, fh)))
-        return x, y, min(w, fw - x), min(h, fh - y), fw, fh
+        w, h = min(w, fw - x), min(h, fh - y)
+        # Los streamers a veces mueven la cámara: si en el recuadro no aparece una cara, formato de siempre.
+        return (x, y, w, h, fw, fh) if face_in_box(video, (x, y, w, h)) else None
     return detect_cam(video) if cfg.get("facecam_auto") else None
 
 

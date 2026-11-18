@@ -46,7 +46,7 @@ facecam_auto: false
 facecam_boxes:
   djmariio:     [0.005, 0.387, 0.235, 0.206]
   kestico:      [0.715, 0.181, 0.265, 0.263]
-  folagorlives: [0.000, 0.222, 0.177, 0.259]
+  folagorlives: [0.000, 0.107, 0.177, 0.256]
   axozer:       [0.789, 0.120, 0.197, 0.287]
   deusamir:     [0.750, 0.302, 0.248, 0.380]
   agentemaxo:   [0.002, 0.365, 0.154, 0.283]
@@ -55,6 +55,11 @@ facecam_boxes:
   vicens:       [0.010, 0.359, 0.160, 0.285]
   elabrahaham:  [0.009, 0.209, 0.235, 0.311]
   bystaxx:      [0.741, 0.189, 0.238, 0.233]
+  rubius:       [0.002, 0.435, 0.217, 0.254]
+  vegetta777:   [0.734, 0.478, 0.250, 0.263]
+  quackitytoo:  [0.000, 0.380, 0.146, 0.198]
+  lamejorclase: [0.773, 0.330, 0.225, 0.235]
+  padexxx_:     [0.000, 0.385, 0.208, 0.207]
 
 brand:
   handle: "@mundolibregt6"
