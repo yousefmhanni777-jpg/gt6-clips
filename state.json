@@ -1579,6 +1579,43 @@
    "views": 97,
    "duration": 30,
    "formato": "cara arriba"
+  },
+  "ConsiderateUglyOysterCoolCat-dk83s4r-9RDGEcpk": {
+   "t": 1795015562.0212088,
+   "streamer": "AgenteMaxo",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "AgenteMaxo prueba GTA 6 a 60 FPS",
+   "url": "https://www.twitch.tv/agentemaxo/clip/ConsiderateUglyOysterCoolCat-dk83s4r-9RDGEcpk",
+   "login": "agentemaxo",
+   "views": 107,
+   "duration": 59.9
+  },
+  "ProtectiveColorfulDinosaurWutFace-tvyUlNvo_SQikoHm": {
+   "t": 1795015621.4115431,
+   "streamer": "Alexby11",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "Alexby11 se vuelve loco con las caderas en GTA 6",
+   "url": "https://www.twitch.tv/alexby11/clip/ProtectiveColorfulDinosaurWutFace-tvyUlNvo_SQikoHm",
+   "login": "alexby11",
+   "views": 195,
+   "duration": 60,
+   "formato": "cara arriba"
+  },
+  "CuriousLuckyPeppermintCopyThis-HQhLlw0TIbs-MS8h": {
+   "t": 1795015623.693407,
+   "streamer": "vnekot",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "forza clip",
+   "url": "https://www.twitch.tv/vnekot/clip/CuriousLuckyPeppermintCopyThis-HQhLlw0TIbs-MS8h",
+   "login": "vnekot",
+   "views": 18,
+   "duration": 30
   }
  }
 }
