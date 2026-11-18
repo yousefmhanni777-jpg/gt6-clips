@@ -239,17 +239,20 @@ def words_from_transcript(tr):
     return words
 
 
-def build_ass(words, hook, credit, brand):
+def build_ass(words, hook, credit, brand, hook_margin=None, sub_margin=None):
     color, font = brand["color"], brand["font"]
     white, black = "&H00FFFFFF", "&H00000000"
-    sub_margin = H - (FG_Y + FG_H) - 260   # subtítulos justo debajo del vídeo
+    if sub_margin is None:
+        sub_margin = H - (FG_Y + FG_H) - 260   # subtítulos justo debajo del vídeo
+    if hook_margin is None:
+        hook_margin = FG_Y - 330
     lines = [
         "[Script Info]", "ScriptType: v4.00+", f"PlayResX: {W}", f"PlayResY: {H}", "WrapStyle: 0", "",
         "[V4+ Styles]",
         "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, "
         "Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, "
         "MarginL, MarginR, MarginV, Encoding",
-        f"Style: Hook,{font},78,{black},{black},{ass_color(color)},{ass_color(color)},0,0,0,0,100,100,0,0,3,18,0,8,90,90,{FG_Y - 330},1",
+        f"Style: Hook,{font},78,{black},{black},{ass_color(color)},{ass_color(color)},0,0,0,0,100,100,0,0,3,18,0,8,90,90,{hook_margin},1",
         f"Style: Sub,{font},96,{white},{white},{black},&H80000000,0,0,0,0,100,100,1,0,1,7,3,2,70,70,{sub_margin},1",
         f"Style: Credit,{font},44,&H40FFFFFF,&H40FFFFFF,&H80000000,&H00000000,0,0,0,0,100,100,1,0,1,3,0,2,60,60,170,1",
         "", "[Events]",
