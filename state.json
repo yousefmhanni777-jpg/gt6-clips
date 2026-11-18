@@ -3777,6 +3777,69 @@
    "views": 5,
    "duration": 26,
    "formato": "cara arriba"
+  },
+  "ShyCourteousCatDAESuppy-D83RnYAjTNus-gGa": {
+   "t": 1795023087.61426,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se descontrola en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/ShyCourteousCatDAESuppy-D83RnYAjTNus-gGa",
+   "login": "djmariio",
+   "views": 5,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "ColdRacyLegDansGame-hlZ4ahqgOSkIZRyi": {
+   "t": 1795023090.0684493,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO: ¡Descartando en GTA 6!",
+   "url": "https://www.twitch.tv/djmariio/clip/ColdRacyLegDansGame-hlZ4ahqgOSkIZRyi",
+   "login": "djmariio",
+   "views": 3,
+   "duration": 16.7
+  },
+  "SilkyResourcefulConsoleBIRB-V39MBNlbTSr8kKCn": {
+   "t": 1795023092.4147847,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO habla de la nueva generación",
+   "url": "https://www.twitch.tv/djmariio/clip/SilkyResourcefulConsoleBIRB-V39MBNlbTSr8kKCn",
+   "login": "djmariio",
+   "views": 4,
+   "duration": 30
+  },
+  "GoodBashfulPuppyStrawBeary-iCh2Mju4-ShbSrsf": {
+   "t": 1795023151.367802,
+   "streamer": "deusamir",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "deusamir se descontrola en GTA 6",
+   "url": "https://www.twitch.tv/deusamir/clip/GoodBashfulPuppyStrawBeary-iCh2Mju4-ShbSrsf",
+   "login": "deusamir",
+   "views": 90,
+   "duration": 60,
+   "formato": "cara arriba"
+  },
+  "GrossFrozenArtichokeLeeroyJenkins-wEaQBa2wfpsaBfHQ": {
+   "t": 1795023179.1240094,
+   "streamer": "VEGETTA777",
+   "status": "enviado",
+   "score": 6,
+   "cat": "curiosidad",
+   "hook": "VEGETTA777 descubre un mapa secreto en GTA 6",
+   "url": "https://www.twitch.tv/vegetta777/clip/GrossFrozenArtichokeLeeroyJenkins-wEaQBa2wfpsaBfHQ",
+   "login": "vegetta777",
+   "views": 4,
+   "duration": 16.5,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
