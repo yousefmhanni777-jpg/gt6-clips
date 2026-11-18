@@ -3590,6 +3590,68 @@
    "login": "quackitytoo",
    "views": 3,
    "duration": 35.1
+  },
+  "SpookyCrackyMangoYouDontSay-po0xCS98vCF6GAnM": {
+   "t": 1795022525.1658585,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se emociona y el chat lo apoya",
+   "url": "https://www.twitch.tv/djmariio/clip/SpookyCrackyMangoYouDontSay-po0xCS98vCF6GAnM",
+   "login": "djmariio",
+   "views": 4,
+   "duration": 57.7,
+   "formato": "cara arriba"
+  },
+  "BlatantSmallMarrowPicoMause-AYdoh4PXrBuSehz7": {
+   "t": 1795022527.573607,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "o cy",
+   "url": "https://www.twitch.tv/djmariio/clip/BlatantSmallMarrowPicoMause-AYdoh4PXrBuSehz7",
+   "login": "djmariio",
+   "views": 4,
+   "duration": 30
+  },
+  "SpicyVastMarrowEleGiggle-Zdw8kytBXxdgb4PH": {
+   "t": 1795022530.7442045,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO intenta explicar algo en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/SpicyVastMarrowEleGiggle-Zdw8kytBXxdgb4PH",
+   "login": "djmariio",
+   "views": 4,
+   "duration": 30
+  },
+  "TastyStormyCocoaBCouch-yl1VrWrDUBGyWlXT": {
+   "t": 1795022533.5150425,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "DjMaRiiO comenta el chat",
+   "url": "https://www.twitch.tv/djmariio/clip/TastyStormyCocoaBCouch-yl1VrWrDUBGyWlXT",
+   "login": "djmariio",
+   "views": 4,
+   "duration": 60
+  },
+  "PlacidStrangeClintmullinsDatBoi-qfInbU3gPb0cTGGa": {
+   "t": 1795022595.759115,
+   "streamer": "deusamir",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "deusamir descubre un glitch inesperado en GTA 6",
+   "url": "https://www.twitch.tv/deusamir/clip/PlacidStrangeClintmullinsDatBoi-qfInbU3gPb0cTGGa",
+   "login": "deusamir",
+   "views": 97,
+   "duration": 59.9,
+   "formato": "cara arriba"
   }
  }
 }
