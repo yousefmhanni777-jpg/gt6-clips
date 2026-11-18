@@ -3965,6 +3965,64 @@
    "views": 3,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "FrozenFragileHorseradishPeteZaroll-nhAqODw89AqRrAMp": {
+   "t": 1795023710.5711143,
+   "streamer": "deusamir",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "deusamir se vuelve loco en GTA 6",
+   "url": "https://www.twitch.tv/deusamir/clip/FrozenFragileHorseradishPeteZaroll-nhAqODw89AqRrAMp",
+   "login": "deusamir",
+   "views": 84,
+   "duration": 59.9,
+   "formato": "cara arriba"
+  },
+  "CarefulVenomousSushiArsonNoSexy--nj9QUJJAKfSewEf": {
+   "t": 1795023715.4902444,
+   "streamer": "deusamir",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "deusamir reacciona a GTA 6",
+   "url": "https://www.twitch.tv/deusamir/clip/CarefulVenomousSushiArsonNoSexy--nj9QUJJAKfSewEf",
+   "login": "deusamir",
+   "views": 84,
+   "duration": 59.9
+  },
+  "AggressivePolitePieBloodTrail-TCOcGe9ibfrLlC2g": {
+   "t": 1795023778.2313564,
+   "streamer": "deusamir",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "deusamir busca a Lucía en GTA 6",
+   "url": "https://www.twitch.tv/deusamir/clip/AggressivePolitePieBloodTrail-TCOcGe9ibfrLlC2g",
+   "login": "deusamir",
+   "views": 84,
+   "duration": 59.9,
+   "formato": "cara arriba"
+  },
+  "FlaccidVibrantVampireRitzMitz-blok_8e3776x1OkA": {
+   "t": 1795023821.175043,
+   "streamer": "deusamir",
+   "status": "error",
+   "tries": 1,
+   "error": "HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8634686115:AAFV1vc6EJmLx-y6nE2cJuk_NFGMl7hdep0/sendVideo (Caused by NewConnectionError(\"HTTPSConnection(host="
+  },
+  "BoredUnusualCroissantCeilingCat-X108k9FC-Ys6Zqav": {
+   "t": 1795023881.2114763,
+   "streamer": "deusamir",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "deusamir reacciona a GTA 6 en vivo",
+   "url": "https://www.twitch.tv/deusamir/clip/BoredUnusualCroissantCeilingCat-X108k9FC-Ys6Zqav",
+   "login": "deusamir",
+   "views": 84,
+   "duration": 60,
+   "formato": "cara arriba"
   }
  }
 }
