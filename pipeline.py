@@ -175,8 +175,11 @@ def groq_translate_segments(model, segments, lang):
               "Mantén insultos/exclamaciones con su intensidad. "
               'Responde SOLO con JSON: {"es": ["traducción 0", "traducción 1", ...]} con el mismo número de elementos.\n'
               + json.dumps(src, ensure_ascii=False))
-    es = groq_chat_json(model, prompt, 0.2).get("es", [])
-    if len(es) != len(segments):
+    for _ in range(2):  # a veces junta o parte un segmento: se repite antes de dar el clip por fallido
+        es = groq_chat_json(model, prompt, 0.2).get("es", [])
+        if len(es) == len(segments):
+            break
+    else:
         raise RuntimeError(f"traducción incompleta ({len(es)}/{len(segments)} segmentos)")
     return [{**seg, "text": t} for seg, t in zip(segments, es)]
 
