@@ -428,16 +428,28 @@ def main():
             log("modo global: clips de cualquier streamer")
             # Solo clips desde el desbloqueo: los de la cuenta atrás no sirven y gastarían el tope por hora.
             gsince = max(since, utc(sel["global_from"]))
+            # Twitch tarda minutos en contar las vistas de un clip nuevo: mientras tanto, vale el tamaño del directo
+            # (espectadores >= stream_viewers_factor x vistas mínimas del idioma).
+            factor = sel.get("stream_viewers_factor")
+            viewers = {}
+            if factor:
+                for gid in games:
+                    viewers.update({s["user_id"]: s["viewer_count"] for s in tw.get("streams", {"game_id": gid, "first": 100})})
             for gid in games:
                 for c in tw.get("clips", {"game_id": gid, "first": 100,
                                           "started_at": gsince.strftime("%Y-%m-%dT%H:%M:%SZ")}):
                     c["broadcaster_login"] = re.sub(r"[^a-z0-9_]", "", c["broadcaster_name"].lower()) or c["broadcaster_id"]
                     lang = c.get("language", "").split("-")[0]
-                    if (pending(state, c["id"]) and lang in sel["global_min_views"]
-                            and c["view_count"] >= sel["global_min_views"][lang]
+                    if not (pending(state, c["id"]) and lang in sel["global_min_views"]
                             and c["duration"] >= sel["min_duration"]):
-                        c["min_views"] = sel["global_min_views"][lang]
-                        candidates.append(c)
+                        continue
+                    c["min_views"] = sel["global_min_views"][lang]
+                    if c["view_count"] < c["min_views"]:
+                        live = viewers.get(c["broadcaster_id"], 0)
+                        if not factor or live < factor * c["min_views"]:
+                            continue
+                        c["view_count"] = max(c["view_count"], live // factor)  # estimación para ordenar
+                    candidates.append(c)
             ids = {}
         for login, uid in ids.items():
             try:

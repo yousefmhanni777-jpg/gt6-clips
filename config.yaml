@@ -21,6 +21,7 @@ selection:
   min_views: 30          # vistas mínimas del clip en Twitch
   min_duration: 12       # segundos (menos de esto no se entiende qué pasa)
   max_per_run: 3         # clips procesados por vuelta (cada ~90 s)
+  stream_viewers_factor: 50  # clip nuevo sin vistas aún: vale si el directo tiene >= 50x las vistas mínimas
   max_per_hour: 20       # tope de vídeos enviados a Telegram por hora (se envían los que más rápido suben)
   min_score: 4           # nota mínima (1-10) que da la IA para enviarlo
   # Entre estas horas (UTC) se clipea a CUALQUIER streamer que juegue GTA VI, con subtítulos traducidos.
