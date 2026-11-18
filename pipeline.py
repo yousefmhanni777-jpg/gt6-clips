@@ -482,6 +482,21 @@ def main():
             boost = sel.get("boost", {}).get(c["broadcaster_login"].lower(), 1)  # streamers a priorizar
             return boost * c["view_count"] / c.get("min_views", 1) / max(age_h, 0.25)
         candidates.sort(key=velocity, reverse=True)
+        # Tope por streamer: que uno muy activo no se coma el cupo por hora entero.
+        caps = sel.get("streamer_max_per_hour", {})
+        if caps:
+            used = {}
+            for v in state["processed"].values():
+                if v.get("status") == "enviado" and v.get("t", 0) > time.time() - 3600:
+                    used[v.get("login", "")] = used.get(v.get("login", ""), 0) + 1
+            kept = []
+            for c in candidates:
+                login = c["broadcaster_login"]
+                if login in caps and used.get(login, 0) >= caps[login]:
+                    continue
+                used[login] = used.get(login, 0) + 1
+                kept.append(c)
+            candidates = kept
         room = max(0, sel["max_per_hour"] - sent_last_hour(state))
         if room == 0:
             log(f"tope de {sel['max_per_hour']} vídeos/hora alcanzado; espero")
