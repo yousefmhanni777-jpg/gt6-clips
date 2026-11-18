@@ -467,7 +467,8 @@ def main():
         def velocity(c):
             age_h = (now - datetime.fromisoformat(c["created_at"].replace("Z", "+00:00"))).total_seconds() / 3600
             # Relativo al umbral de su idioma, para que un streamer japonés compita con uno de EEUU.
-            return c["view_count"] / c.get("min_views", 1) / max(age_h, 0.25)
+            boost = sel.get("boost", {}).get(c["broadcaster_login"].lower(), 1)  # streamers a priorizar
+            return boost * c["view_count"] / c.get("min_views", 1) / max(age_h, 0.25)
         candidates.sort(key=velocity, reverse=True)
         room = max(0, sel["max_per_hour"] - sent_last_hour(state))
         if room == 0:
