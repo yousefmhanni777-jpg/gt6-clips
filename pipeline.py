@@ -469,7 +469,9 @@ def main():
             got = {c["id"] for c in gclips}
             for login in sel.get("streamer_min_views", {}):
                 if login in ids:
-                    gclips += [c for c in tw.clips(ids[login], gsince) if c["id"] not in got and c.get("game_id") in games]
+                    new = [c for c in tw.clips(ids[login], gsince) if c["id"] not in got and c.get("game_id") in games]
+                    gclips += new
+                    got.update(c["id"] for c in new)
             # El público hispano ve el directo, no los clips: sus clips casi nunca llegan al top 100 del juego.
             # Se piden directamente a cada directo grande en esos idiomas y se aceptan con muy pocas vistas.
             live_cfg = sel.get("live", {})
