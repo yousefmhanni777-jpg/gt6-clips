@@ -3528,6 +3528,68 @@
    "login": "deusamir",
    "views": 5,
    "duration": 30
+  },
+  "PuzzledRichDuckJonCarnage-O8lo9AEcO3SulH0G": {
+   "t": 1795022304.8707776,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius habla de un \"culø\" en GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/PuzzledRichDuckJonCarnage-O8lo9AEcO3SulH0G",
+   "login": "rubius",
+   "views": 19,
+   "duration": 30
+  },
+  "FrigidBelovedWolfBrokeBack-0yQeqK9yJWR7ayU6": {
+   "t": 1795022308.0484672,
+   "streamer": "ElAbrahaham",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "ElAbrahaham en directo: ¿Qué pasa?",
+   "url": "https://www.twitch.tv/elabrahaham/clip/FrigidBelovedWolfBrokeBack-0yQeqK9yJWR7ayU6",
+   "login": "elabrahaham",
+   "views": 5,
+   "duration": 38.5
+  },
+  "FantasticWealthyBeefItsBoshyTime-iJLs7YWqkHRenCJM": {
+   "t": 1795022340.4620762,
+   "streamer": "ElAbrahaham",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "ElAbrahaham reacciona al \"policía\" de GTA 6",
+   "url": "https://www.twitch.tv/elabrahaham/clip/FantasticWealthyBeefItsBoshyTime-iJLs7YWqkHRenCJM",
+   "login": "elabrahaham",
+   "views": 15,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "ScrumptiousBoringPieSeemsGood-UCPn9Y5C_pZXgG8g": {
+   "t": 1795022363.4125292,
+   "streamer": "bysTaXx",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "BysTaXx se vuelve loco con GTA 6 por primera vez",
+   "url": "https://www.twitch.tv/bystaxx/clip/ScrumptiousBoringPieSeemsGood-UCPn9Y5C_pZXgG8g",
+   "login": "bystaxx",
+   "views": 12,
+   "duration": 22.1,
+   "formato": "cara arriba"
+  },
+  "CaringDignifiedWebRlyTho-2jdqRH0ZbEpTzEfA": {
+   "t": 1795022366.7761984,
+   "streamer": "QuackityToo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "QuackityToo se disculpa en GTA 6",
+   "url": "https://www.twitch.tv/quackitytoo/clip/CaringDignifiedWebRlyTho-2jdqRH0ZbEpTzEfA",
+   "login": "quackitytoo",
+   "views": 3,
+   "duration": 35.1
   }
  }
 }
