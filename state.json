@@ -2018,6 +2018,70 @@
    "views": 182,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "SmallVictoriousOtterTBTacoLeft-rMIDCQKYD7LW5pSM": {
+   "t": 1795017259.508244,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco con el tacón del taxi",
+   "url": "https://www.twitch.tv/djmariio/clip/SmallVictoriousOtterTBTacoLeft-rMIDCQKYD7LW5pSM",
+   "login": "djmariio",
+   "views": 6,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "CrowdedBoldDragonfruitKappaClaus-wnE6bFRrNMK_LfFM": {
+   "t": 1795017294.3111844,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "Rubius desmonta el rumor del ban en NZ",
+   "url": "https://www.twitch.tv/rubius/clip/CrowdedBoldDragonfruitKappaClaus-wnE6bFRrNMK_LfFM",
+   "login": "rubius",
+   "views": 3428,
+   "duration": 29.4,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ThoughtfulBlindingPenguinBloodTrail-LmV0ZCYWJXUXzf1m": {
+   "t": 1795017298.6703498,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Rubius intenta iniciar GTA VI y... ¿qué pasa?",
+   "url": "https://www.twitch.tv/rubius/clip/ThoughtfulBlindingPenguinBloodTrail-LmV0ZCYWJXUXzf1m",
+   "login": "rubius",
+   "views": 3428,
+   "duration": 56.4
+  },
+  "OnerousGlutenFreeSamosaKreygasm-GRE3LJTC0qkZsaVg": {
+   "t": 1795017335.7640154,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Rubius descubre la playa en GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/OnerousGlutenFreeSamosaKreygasm-GRE3LJTC0qkZsaVg",
+   "login": "rubius",
+   "views": 3428,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "EntertainingMoistCougarPJSugar-57aiAo0dlntBzgjc": {
+   "t": 1795017378.438401,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Rubius reacciona al caos de GTA VI",
+   "url": "https://www.twitch.tv/rubius/clip/EntertainingMoistCougarPJSugar-57aiAo0dlntBzgjc",
+   "login": "rubius",
+   "views": 3428,
+   "duration": 34.9,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
