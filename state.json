@@ -282,6 +282,42 @@
    "login": "djmariio",
    "views": 3,
    "duration": 30
+  },
+  "ThirstyDistinctLocustOpieOP-ttgd3QCAqL2twfxJ": {
+   "t": 1795002148.882745,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona a 75°C en Nueva Zelanda",
+   "url": "https://www.twitch.tv/djmariio/clip/ThirstyDistinctLocustOpieOP-ttgd3QCAqL2twfxJ",
+   "login": "djmariio",
+   "views": 10,
+   "duration": 30
+  },
+  "EnjoyableFaintVampireHeyGuys-hwg--AkD6aEnWSRE": {
+   "t": 1795002187.3287337,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona a algo ENORME en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/EnjoyableFaintVampireHeyGuys-hwg--AkD6aEnWSRE",
+   "login": "djmariio",
+   "views": 4,
+   "duration": 29.2
+  },
+  "RoughPlayfulAppleNinjaGrumpy-Ae3tcMQAWN6gvN_j": {
+   "t": 1795002189.8392138,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO grita sin razón, ¿qué pasa?",
+   "url": "https://www.twitch.tv/djmariio/clip/RoughPlayfulAppleNinjaGrumpy-Ae3tcMQAWN6gvN_j",
+   "login": "djmariio",
+   "views": 4,
+   "duration": 40
   }
  }
 }
