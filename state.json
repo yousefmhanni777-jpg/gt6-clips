@@ -2271,6 +2271,71 @@
    "login": "quackitytoo",
    "views": 16,
    "duration": 23.1
+  },
+  "DoubtfulTrustworthyTrollSwiftRage-gGNT0EpBoH8hSWQQ": {
+   "t": 1795018114.9645839,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco con el juego dentro del juego",
+   "url": "https://www.twitch.tv/djmariio/clip/DoubtfulTrustworthyTrollSwiftRage-gGNT0EpBoH8hSWQQ",
+   "login": "djmariio",
+   "views": 6,
+   "duration": 60,
+   "formato": "cara arriba"
+  },
+  "SpinelessBoredMagpieHeyGuys-yY-brlxu_klaUnAh": {
+   "t": 1795018154.7024305,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 7,
+   "cat": "curiosidad",
+   "hook": "Rubius descubre los nuevos badges de GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/SpinelessBoredMagpieHeyGuys-yY-brlxu_klaUnAh",
+   "login": "rubius",
+   "views": 5036,
+   "duration": 36.3,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SplendidGlutenFreeAntTBCheesePull-aYOt1CErV-3PlIcE": {
+   "t": 1795018183.1411145,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "Rubius descubre la nueva pantalla de carga de GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/SplendidGlutenFreeAntTBCheesePull-aYOt1CErV-3PlIcE",
+   "login": "rubius",
+   "views": 5036,
+   "duration": 23.4,
+   "formato": "normal: sin cámara detectada"
+  },
+  "DignifiedLachrymosePuddingKeepo-dqIGgjNt-vAg0v7i": {
+   "t": 1795018224.6455321,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "Rubius reacciona a la carga de GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/DignifiedLachrymosePuddingKeepo-dqIGgjNt-vAg0v7i",
+   "login": "rubius",
+   "views": 5036,
+   "duration": 34.6,
+   "formato": "normal: sin cámara detectada"
+  },
+  "NurturingZanyCobblerRedCoat-vqdX2aCwKQlcY73O": {
+   "t": 1795018258.482212,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "Rubius muestra sus gatos GTA: ¡no creerás el número!",
+   "url": "https://www.twitch.tv/rubius/clip/NurturingZanyCobblerRedCoat-vqdX2aCwKQlcY73O",
+   "login": "rubius",
+   "views": 5036,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
