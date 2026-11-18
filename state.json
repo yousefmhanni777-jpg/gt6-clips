@@ -5077,6 +5077,67 @@
    "views": 3,
    "duration": 60,
    "formato": "cara arriba"
+  },
+  "AcceptableFamousCardSwiftRage-g7A73LL39R46odpY": {
+   "t": 1795027541.355477,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando en este clip?",
+   "url": "https://www.twitch.tv/djmariio/clip/AcceptableFamousCardSwiftRage-g7A73LL39R46odpY",
+   "login": "djmariio",
+   "views": 3,
+   "duration": 60
+  },
+  "FurryDeafHamOneHand-KgyVtjwXCd6hmhH5": {
+   "t": 1795027544.1679592,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO en directo",
+   "url": "https://www.twitch.tv/djmariio/clip/FurryDeafHamOneHand-KgyVtjwXCd6hmhH5",
+   "login": "djmariio",
+   "views": 3,
+   "duration": 30
+  },
+  "PopularCrispyJalapenoPupper-PpsN0Vr_GCOI_NaD": {
+   "t": 1795027606.9596977,
+   "streamer": "bysTaXx",
+   "status": "enviado",
+   "score": 7,
+   "cat": "curiosidad",
+   "hook": "bysTaXx descubre algo inesperado en GTA 6",
+   "url": "https://www.twitch.tv/bystaxx/clip/PopularCrispyJalapenoPupper-PpsN0Vr_GCOI_NaD",
+   "login": "bystaxx",
+   "views": 3,
+   "duration": 59.9,
+   "formato": "cara arriba"
+  },
+  "CrazyBlitheBottleWOOP-MsxtQ-u1S7vbFMj_": {
+   "t": 1795027609.964694,
+   "streamer": "bysTaXx",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "bysTaXx se queda sin opciones en GTA 6",
+   "url": "https://www.twitch.tv/bystaxx/clip/CrazyBlitheBottleWOOP-MsxtQ-u1S7vbFMj_",
+   "login": "bystaxx",
+   "views": 3,
+   "duration": 35
+  },
+  "PlacidGenerousSwordOhMyDog-XcJeTxhdfw_BJi_c": {
+   "t": 1795027613.6656594,
+   "streamer": "LaMejorClase",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "LaMejorClase reacciona a GTA VI",
+   "url": "https://www.twitch.tv/lamejorclase/clip/PlacidGenerousSwordOhMyDog-XcJeTxhdfw_BJi_c",
+   "login": "lamejorclase",
+   "views": 3,
+   "duration": 60
   }
  }
 }
