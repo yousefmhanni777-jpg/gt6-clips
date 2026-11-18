@@ -23,6 +23,7 @@ selection:
   max_per_run: 3         # clips procesados por vuelta (cada ~90 s)
   stream_viewers_factor: 50  # clip nuevo sin vistas aún: vale si el directo tiene >= 50x las vistas mínimas
   boost: {djmariio: 10}  # prioridad al ordenar: sus clips casi no suman vistas y sin esto nunca llegaban arriba
+  priority: [djmariio]   # sus clips van siempre primero (hasta su tope por hora)
   streamer_min_views: {djmariio: 2}   # su chat no ve los clips durante el directo: casi todos tienen 2 vistas
   streamer_max_per_hour: {djmariio: 5, "*": 4}   # que nadie se coma todo el cupo ("*" = resto de streamers)
   max_per_hour: 30       # tope de vídeos enviados a Telegram por hora (se envían los que más rápido suben)

@@ -517,6 +517,9 @@ def main():
             boost = sel.get("boost", {}).get(c["broadcaster_login"].lower(), 1)  # streamers a priorizar
             return boost * c["view_count"] / c.get("min_views", 1) / max(age_h, 0.25)
         candidates.sort(key=velocity, reverse=True)
+        # Streamers prioritarios primero siempre (dentro de su tope por hora), aunque sus clips tengan pocas vistas.
+        prio = set(sel.get("priority", []))
+        candidates.sort(key=lambda c: c["broadcaster_login"] not in prio)
         # Tope por streamer: que uno muy activo no se coma el cupo por hora entero.
         caps = sel.get("streamer_max_per_hour", {})
         if caps:
