@@ -72,7 +72,8 @@ def render_facecam(video, ass_file, dest, cam):
           f"[0:v]crop={gw}:{fh}:{gx}:0,scale={p.W}:{BOT_H}:force_original_aspect_ratio=increase,crop={p.W}:{BOT_H}[bot];"
           f"[top][bot]vstack,ass={ass_file.name}:fontsdir={p.FONTS_DIR}[v]")
     p.run(["ffmpeg", "-y", "-i", str(video), "-filter_complex", fc, "-map", "[v]", "-map", "0:a?",
-           "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-pix_fmt", "yuv420p", "-r", "30",
+           "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-maxrate", "5M", "-bufsize", "10M",  # <50 MB para Telegram
+            "-pix_fmt", "yuv420p", "-r", "30",
            "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", str(dest)], cwd=ass_file.parent)
 
 
@@ -103,13 +104,36 @@ def build(clip, hook, cfg):
     return out, None
 
 
+def debug(urls, tw):
+    """Guarda un fotograma de cada clip con el recuadro de cámara elegido (verde) para revisar la detección."""
+    import cv2
+    p.OUT_DIR.mkdir(exist_ok=True)
+    for i, url in enumerate(urls):
+        clip = tw.get("clips", {"id": url.rstrip("/").split("/")[-1].split("?")[0]})[0]
+        src = p.WORK_DIR / f"dbg_{i}.mp4"
+        p.WORK_DIR.mkdir(parents=True, exist_ok=True)
+        p.download(clip["url"], src)
+        cam = detect_cam(src)
+        cap = cv2.VideoCapture(str(src))
+        cap.set(cv2.CAP_PROP_POS_FRAMES, int(cap.get(cv2.CAP_PROP_FRAME_COUNT)) // 2)
+        ok, frame = cap.read()
+        if cam:
+            x, y, w, h = cam[:4]
+            cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 4)
+        cv2.imwrite(str(p.OUT_DIR / f"debug_{i}_{clip['broadcaster_name']}.jpg"), cv2.resize(frame, (960, 540)))
+        p.log(f"[{clip['broadcaster_name']}] cámara: {cam}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--n", type=int, default=8)
     ap.add_argument("--clip")
+    ap.add_argument("--debug", help="URLs separadas por comas: guarda fotogramas con la cámara detectada")
     args = ap.parse_args()
     cfg = p.yaml.safe_load((p.ROOT / "config.yaml").read_text())
     tw = p.Twitch(p.env("TWITCH_CLIENT_ID"), p.env("TWITCH_CLIENT_SECRET"))
+    if args.debug:
+        return debug(args.debug.split(","), tw)
     if args.clip:
         jobs = [(args.clip.rstrip("/").split("/")[-1].split("?")[0], None)]
     else:

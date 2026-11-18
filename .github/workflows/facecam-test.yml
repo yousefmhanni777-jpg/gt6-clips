@@ -9,6 +9,9 @@ on:
       clip:
         description: "O la URL de un clip concreto (opcional)"
         required: false
+      debug:
+        description: "URLs separadas por comas: solo guarda fotogramas con la cámara detectada (artefacto)"
+        required: false
 
 jobs:
   run:
@@ -44,5 +47,13 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           N: ${{ github.event.inputs.n }}
           CLIP_URL: ${{ github.event.inputs.clip }}
+          DEBUG_URLS: ${{ github.event.inputs.debug }}
         run: |
+          if [ -n "$DEBUG_URLS" ]; then python facecam.py --debug "$DEBUG_URLS"; exit 0; fi
           if [ -n "$CLIP_URL" ]; then python facecam.py --clip "$CLIP_URL"; else python facecam.py --n "${N:-8}"; fi
+
+      - uses: actions/upload-artifact@v4
+        if: github.event.inputs.debug != ''
+        with:
+          name: debug
+          path: out/debug_*.jpg
