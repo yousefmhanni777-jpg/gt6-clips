@@ -3283,6 +3283,67 @@
    "views": 9,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "RefinedHedonisticKumquatRuleFive-6BLwuQNYxhIqJpAG": {
+   "t": 1795021722.7072902,
+   "streamer": "VEGETTA777",
+   "status": "enviado",
+   "score": 4,
+   "cat": "gracioso",
+   "hook": "Vegetta777 se confunde con el coche y la señora",
+   "url": "https://www.twitch.tv/vegetta777/clip/RefinedHedonisticKumquatRuleFive-6BLwuQNYxhIqJpAG",
+   "login": "vegetta777",
+   "views": 5,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ScrumptiousJoyousFriseeCoolStoryBob-4EIMpOPhSpM5Upsq": {
+   "t": 1795021725.873113,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius comenta algo curioso sobre GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/ScrumptiousJoyousFriseeCoolStoryBob-4EIMpOPhSpM5Upsq",
+   "login": "rubius",
+   "views": 11,
+   "duration": 50.9
+  },
+  "EnchantingPlayfulApeEleGiggle-hG6oieQkjEUx2uvl": {
+   "t": 1795021728.309382,
+   "streamer": "superblazing_",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "superblazing_ sin sentido",
+   "url": "https://www.twitch.tv/superblazing_/clip/EnchantingPlayfulApeEleGiggle-hG6oieQkjEUx2uvl",
+   "login": "superblazing_",
+   "views": 4,
+   "duration": 30
+  },
+  "AnimatedBovineToothBleedPurple-cMQ1KzJnyQZhrlwn": {
+   "t": 1795021730.5339763,
+   "streamer": "VEGETTA777",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "VEGETTA777 nos muestra su primer vistazo a GTA 6",
+   "url": "https://www.twitch.tv/vegetta777/clip/AnimatedBovineToothBleedPurple-cMQ1KzJnyQZhrlwn",
+   "login": "vegetta777",
+   "views": 12,
+   "duration": 30
+  },
+  "TemperedBetterCrabsPJSalt-7BGwUmhNt_02cDz9": {
+   "t": 1795021733.7406404,
+   "streamer": "Kestico",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Kestico reacciona a GTA 6: ¡Qué pasa?",
+   "url": "https://www.twitch.tv/kestico/clip/TemperedBetterCrabsPJSalt-7BGwUmhNt_02cDz9",
+   "login": "kestico",
+   "views": 23,
+   "duration": 60
   }
  }
 }
