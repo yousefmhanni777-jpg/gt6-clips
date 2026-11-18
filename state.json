@@ -1956,6 +1956,68 @@
    "login": "taisontv",
    "views": 85,
    "duration": 30
+  },
+  "CleanBoringCourgetteAMPTropPunch-abDY6j-z6n-XP4hZ": {
+   "t": 1795016999.2406375,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius sin nada que mostrar...",
+   "url": "https://www.twitch.tv/rubius/clip/CleanBoringCourgetteAMPTropPunch-abDY6j-z6n-XP4hZ",
+   "login": "rubius",
+   "views": 3062,
+   "duration": 30
+  },
+  "DistinctCleanVanillaRalpherZ-vmfnnxPtpZ-lklQJ": {
+   "t": 1795017001.8315763,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius sin palabras en GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/DistinctCleanVanillaRalpherZ-vmfnnxPtpZ-lklQJ",
+   "login": "rubius",
+   "views": 3062,
+   "duration": 30
+  },
+  "SpikyCarelessOtterMrDestructoid-Xr_hA7InMKMqJwlK": {
+   "t": 1795017003.9612353,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "🌴GTA VI🌴CODIGO CADA 10 MIN🌴DIA HISTORICO🌴",
+   "url": "https://www.twitch.tv/rubius/clip/SpikyCarelessOtterMrDestructoid-Xr_hA7InMKMqJwlK",
+   "login": "rubius",
+   "views": 3062,
+   "duration": 35
+  },
+  "HedonisticVibrantMomSuperVinlin-K4QeNa2ywls_hZq0": {
+   "t": 1795017038.3145282,
+   "streamer": "QuackityToo",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "QuackityToo grita al ver los gráficos de GTA 6",
+   "url": "https://www.twitch.tv/quackitytoo/clip/HedonisticVibrantMomSuperVinlin-K4QeNa2ywls_hZq0",
+   "login": "quackitytoo",
+   "views": 182,
+   "duration": 30.1,
+   "formato": "normal: sin cámara detectada"
+  },
+  "BlushingAntediluvianPenguinPraiseIt-mRIuGYFrxcym540t": {
+   "t": 1795017102.5354328,
+   "streamer": "QuackityToo",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "Quackity se vuelve loco en GTA 6",
+   "url": "https://www.twitch.tv/quackitytoo/clip/BlushingAntediluvianPenguinPraiseIt-mRIuGYFrxcym540t",
+   "login": "quackitytoo",
+   "views": 182,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
