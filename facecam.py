@@ -64,6 +64,20 @@ def detect_cam(video):
     return even(cx), even(cy), even(cw), even(ch), fw, fh
 
 
+def cam_for(video, login, cfg):
+    """Cámara del streamer: recuadro guardado en config.yaml (fiable) o, si se activa, detección automática."""
+    box = cfg.get("facecam_boxes", {}).get(login)
+    if box:
+        import cv2
+        cap = cv2.VideoCapture(str(video))
+        fw, fh = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH)), int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+        cap.release()
+        even = lambda v: int(v) // 2 * 2
+        x, y, w, h = (even(f * d) for f, d in zip(box, (fw, fh, fw, fh)))
+        return x, y, min(w, fw - x), min(h, fh - y), fw, fh
+    return detect_cam(video) if cfg.get("facecam_auto") else None
+
+
 def render_facecam(video, ass_file, dest, cam):
     cx, cy, cw, ch, fw, fh = cam
     gw = min(fw, int(fh * p.W / BOT_H) // 2 * 2)   # recorte del centro del juego con la proporción del piso de abajo
@@ -85,7 +99,7 @@ def build(clip, hook, cfg):
     work.mkdir(parents=True, exist_ok=True)
     src, audio = work / "src.mp4", work / "audio.mp3"
     p.download(clip["url"], src)
-    cam = detect_cam(src)
+    cam = cam_for(src, login, cfg)
     if not cam:
         return None, "no se ve una cámara con cara fija"
     p.extract_audio(src, audio)

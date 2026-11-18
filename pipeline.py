@@ -395,7 +395,7 @@ def process(clip, cfg, dry_run):
         if cfg.get("facecam"):
             try:
                 import facecam
-                cam = facecam.detect_cam(src)
+                cam = facecam.cam_for(src, login, cfg)
                 meta["formato"] = "normal: sin cámara detectada"
                 if cam:
                     ass_file.write_text(build_ass(words, hook, credit, brand, hook_margin=60,
