@@ -4460,6 +4460,69 @@
    "login": "vegetta777",
    "views": 6,
    "duration": 40.2
+  },
+  "CrowdedLongGaurKappaPride-4NDzou6n6Xk525q3": {
+   "t": 1795025402.428213,
+   "streamer": "bysTaXx",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "bysTaXx en su primer paso de GTA 6",
+   "url": "https://www.twitch.tv/bystaxx/clip/CrowdedLongGaurKappaPride-4NDzou6n6Xk525q3",
+   "login": "bystaxx",
+   "views": 3,
+   "duration": 35
+  },
+  "ObliviousConfidentBobaDBstyle-_ezZw1bOZOWGhf95": {
+   "t": 1795025433.713206,
+   "streamer": "bysTaXx",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "bysTaXx reacciona a GTA 6",
+   "url": "https://www.twitch.tv/bystaxx/clip/ObliviousConfidentBobaDBstyle-_ezZw1bOZOWGhf95",
+   "login": "bystaxx",
+   "views": 6,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "CuriousCrackyFriseeSuperVinlin-d96FamrNUymJqJTG": {
+   "t": 1795025465.3342366,
+   "streamer": "bysTaXx",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "BysTaXx reacciona a GTA 6 en directo",
+   "url": "https://www.twitch.tv/bystaxx/clip/CuriousCrackyFriseeSuperVinlin-d96FamrNUymJqJTG",
+   "login": "bystaxx",
+   "views": 3,
+   "duration": 29.7,
+   "formato": "cara arriba"
+  },
+  "SpicyCoyFrogTheRinger-2Yyci1AhX9mQvwbq": {
+   "t": 1795025468.4098742,
+   "streamer": "FolagorLives",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "FolagorLives se pierde en su propio chat",
+   "url": "https://www.twitch.tv/folagorlives/clip/SpicyCoyFrogTheRinger-2Yyci1AhX9mQvwbq",
+   "login": "folagorlives",
+   "views": 7,
+   "duration": 30
+  },
+  "CleanAstuteCatAliens-ReyjWB8jCmUI6LxO": {
+   "t": 1795025538.9950802,
+   "streamer": "FolagorLives",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "FolagorLives en plena pelea callejera",
+   "url": "https://www.twitch.tv/folagorlives/clip/CleanAstuteCatAliens-ReyjWB8jCmUI6LxO",
+   "login": "folagorlives",
+   "views": 3,
+   "duration": 60,
+   "formato": "cara arriba"
   }
  }
 }
