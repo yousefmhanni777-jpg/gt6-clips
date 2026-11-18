@@ -1302,6 +1302,42 @@
    "login": "alexby11",
    "views": 5,
    "duration": 60
+  },
+  "SoftVibrantSandwichFrankerZ-RMcN9fu-wXMpCVZX": {
+   "t": 1795012154.8635938,
+   "streamer": "Kestico",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Kestico se vuelve loco con el puzzle de GTA 6",
+   "url": "https://www.twitch.tv/kestico/clip/SoftVibrantSandwichFrankerZ-RMcN9fu-wXMpCVZX",
+   "login": "kestico",
+   "views": 89,
+   "duration": 17.8
+  },
+  "PiliableAbstruseRadishThisIsSparta-Ii61wF-06IGpVwyE": {
+   "t": 1795012188.4594626,
+   "streamer": "Vicens",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "Vicens se vuelve loco con su grito épico",
+   "url": "https://www.twitch.tv/vicens/clip/PiliableAbstruseRadishThisIsSparta-Ii61wF-06IGpVwyE",
+   "login": "vicens",
+   "views": 11,
+   "duration": 28.6
+  },
+  "SparklingDifferentLyrebirdBlargNaut-CS8C_3SuTjMS4XMq": {
+   "t": 1795012192.265186,
+   "streamer": "FolagorLives",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "FolagorLives sin nada destacable",
+   "url": "https://www.twitch.tv/folagorlives/clip/SparklingDifferentLyrebirdBlargNaut-CS8C_3SuTjMS4XMq",
+   "login": "folagorlives",
+   "views": 20,
+   "duration": 30
   }
  }
 }
