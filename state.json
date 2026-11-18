@@ -1898,6 +1898,64 @@
    "views": 213,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "RealPhilanthropicSwordUWot-Qjxn6HFtL5utqNl6": {
+   "t": 1795016783.0931587,
+   "streamer": "QuackityToo",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "QuackityToo pierde la puntería en GTA 6",
+   "url": "https://www.twitch.tv/quackitytoo/clip/RealPhilanthropicSwordUWot-Qjxn6HFtL5utqNl6",
+   "login": "quackitytoo",
+   "views": 197,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "OilyObliqueShallotLeeroyJenkins-l1brFCayPzLr2emj": {
+   "t": 1795016815.6214883,
+   "streamer": "QuackityToo",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "QuackityToo grita 'No mames' en GTA 6",
+   "url": "https://www.twitch.tv/quackitytoo/clip/OilyObliqueShallotLeeroyJenkins-l1brFCayPzLr2emj",
+   "login": "quackitytoo",
+   "views": 197,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "TenderAmericanCattleTriHard-7OKebDPpBv6CzqNj": {
+   "t": 1795016837.8225055,
+   "streamer": "QuackityToo",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "QuackityToo grita al pezito en GTA 6",
+   "url": "https://www.twitch.tv/quackitytoo/clip/TenderAmericanCattleTriHard-7OKebDPpBv6CzqNj",
+   "login": "quackitytoo",
+   "views": 197,
+   "duration": 18.2,
+   "formato": "normal: sin cámara detectada"
+  },
+  "TastyTriangularDonutBatChest-hm7nXE5WWUPzroeE": {
+   "t": 1795016899.5480783,
+   "streamer": "TaisonTV",
+   "status": "error",
+   "tries": 1,
+   "error": "Telegram: 413 {\"ok\":false,\"error_code\":413,\"description\":\"Request Entity Too Large\"}"
+  },
+  "HappyPolishedSwordKappa-QoipyWt1YX2Msk_c": {
+   "t": 1795016901.74144,
+   "streamer": "TaisonTV",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "TaisonTV sin nada interesante",
+   "url": "https://www.twitch.tv/taisontv/clip/HappyPolishedSwordKappa-QoipyWt1YX2Msk_c",
+   "login": "taisontv",
+   "views": 85,
+   "duration": 30
   }
  }
 }
