@@ -6537,6 +6537,18 @@
    "views": 49,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "UglyDeadAppleCopyThis-0WStmtcdCdGWvjlG": {
+   "t": 1795037553.3944519,
+   "streamer": "FolagorLives",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "FolagorLives sin nada épico ni gracioso",
+   "url": "https://www.twitch.tv/folagorlives/clip/UglyDeadAppleCopyThis-0WStmtcdCdGWvjlG",
+   "login": "folagorlives",
+   "views": 116,
+   "duration": 30
   }
  }
 }
