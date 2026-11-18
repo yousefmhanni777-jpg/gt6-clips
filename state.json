@@ -1266,6 +1266,42 @@
    "login": "alexby11",
    "views": 20,
    "duration": 30.5
+  },
+  "ConcernedResilientClipsmomDoritosChip-LWwJQjFefomuWdw8": {
+   "t": 1795012033.554325,
+   "streamer": "Vicens",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "Vicens se vuelve loco con los píxeles de GTA 6",
+   "url": "https://www.twitch.tv/vicens/clip/ConcernedResilientClipsmomDoritosChip-LWwJQjFefomuWdw8",
+   "login": "vicens",
+   "views": 173,
+   "duration": 30
+  },
+  "VainTenderOpossumAsianGlow-hutOH7u2PbM7OYtF": {
+   "t": 1795012036.2245228,
+   "streamer": "aXoZer",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "aXoZer habla sin nada interesante",
+   "url": "https://www.twitch.tv/axozer/clip/VainTenderOpossumAsianGlow-hutOH7u2PbM7OYtF",
+   "login": "axozer",
+   "views": 4,
+   "duration": 30
+  },
+  "BloodySolidBatBudStar-bYKrFQ913PLdeAmx": {
+   "t": 1795012039.9293158,
+   "streamer": "Alexby11",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Alexby11 habla sin sentido sobre la renta",
+   "url": "https://www.twitch.tv/alexby11/clip/BloodySolidBatBudStar-bYKrFQ913PLdeAmx",
+   "login": "alexby11",
+   "views": 5,
+   "duration": 60
   }
  }
 }
