@@ -4334,6 +4334,70 @@
    "login": "folagorlives",
    "views": 3,
    "duration": 30.9
+  },
+  "SingleRealEyeballPartyTime-R3hJRYWFqfVQC0AK": {
+   "t": 1795024972.692725,
+   "streamer": "aXoZer",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "aXoZer reacciona a GTA 6 por primera vez",
+   "url": "https://www.twitch.tv/axozer/clip/SingleRealEyeballPartyTime-R3hJRYWFqfVQC0AK",
+   "login": "axozer",
+   "views": 109,
+   "duration": 44.9,
+   "formato": "cara arriba"
+  },
+  "RespectfulSavoryDiscBCouch-XHgEMrXV0cNV6d7v": {
+   "t": 1795024996.8947387,
+   "streamer": "ElAbrahaham",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "ElAbrahaham reacciona al bug más grande",
+   "url": "https://www.twitch.tv/elabrahaham/clip/RespectfulSavoryDiscBCouch-XHgEMrXV0cNV6d7v",
+   "login": "elabrahaham",
+   "views": 3,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "VastHilariousDogeKippa-tSc0PB4B0CewBTov": {
+   "t": 1795025025.323754,
+   "streamer": "ElAbrahaham",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "ElAbrahaham reacciona a un bug INJUGABLE en GTA 6",
+   "url": "https://www.twitch.tv/elabrahaham/clip/VastHilariousDogeKippa-tSc0PB4B0CewBTov",
+   "login": "elabrahaham",
+   "views": 9,
+   "duration": 27.1,
+   "formato": "cara arriba"
+  },
+  "ArbitraryFriendlyFerretCopyThis-ifdzqvzyHCDGBv0i": {
+   "t": 1795025064.5104601,
+   "streamer": "AgenteMaxo",
+   "status": "enviado",
+   "score": 6,
+   "cat": "curiosidad",
+   "hook": "AgenteMaxo prueba 60 FPS vs 30 FPS en GTA 6",
+   "url": "https://www.twitch.tv/agentemaxo/clip/ArbitraryFriendlyFerretCopyThis-ifdzqvzyHCDGBv0i",
+   "login": "agentemaxo",
+   "views": 6,
+   "duration": 29.9,
+   "formato": "cara arriba"
+  },
+  "PolishedVictoriousPotatoFeelsBadMan-fHPpVolsO-hg1bNo": {
+   "t": 1795025068.2297068,
+   "streamer": "ElAbrahaham",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "ElAbrahaham reacciona a GTA 6",
+   "url": "https://www.twitch.tv/elabrahaham/clip/PolishedVictoriousPotatoFeelsBadMan-fHPpVolsO-hg1bNo",
+   "login": "elabrahaham",
+   "views": 8,
+   "duration": 30
   }
  }
 }
