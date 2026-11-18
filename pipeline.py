@@ -391,17 +391,20 @@ def process(clip, cfg, dry_run):
         out = OUT_DIR / f"{datetime.now():%m%d_%H%M}_{login}_{clip['id'][:20]}.mp4"
         # Cara del streamer arriba y juego abajo, si se le ve en cámara.
         # Cualquier fallo (sin cámara, sin OpenCV, error de ffmpeg) deja el formato de siempre.
-        cam = None
+        cam, meta["formato"] = None, "normal"
         if cfg.get("facecam"):
             try:
                 import facecam
                 cam = facecam.detect_cam(src)
+                meta["formato"] = "normal: sin cámara detectada"
                 if cam:
                     ass_file.write_text(build_ass(words, hook, credit, brand, hook_margin=60,
                                                   sub_margin=H - facecam.TOP_H - 55), encoding="utf-8")
                     facecam.render_facecam(src, ass_file, out, cam)
+                    meta["formato"] = "cara arriba"
             except Exception as e:
                 log(f"[{streamer}] cara arriba no disponible: {str(e)[:200]}")
+                meta["formato"] = f"normal: {str(e)[:150]}"
                 cam = None
         if not cam:
             ass_file.write_text(build_ass(words, hook, credit, brand), encoding="utf-8")
