@@ -448,6 +448,18 @@ def main():
             for login in sel.get("streamer_min_views", {}):
                 if login in ids:
                     gclips += [c for c in tw.clips(ids[login], gsince) if c["id"] not in got and c.get("game_id") in games]
+            # El público hispano ve el directo, no los clips: sus clips casi nunca llegan al top 100 del juego.
+            # Se piden directamente a cada directo grande en esos idiomas y se aceptan con muy pocas vistas.
+            live_cfg = sel.get("live", {})
+            from_live = set()
+            for lang in live_cfg.get("langs", []):
+                for gid in games:
+                    for s in tw.get("streams", {"game_id": gid, "language": lang, "first": 100}):
+                        if s["viewer_count"] >= live_cfg["min_viewers"]:
+                            new = [c for c in tw.clips(s["user_id"], gsince) if c.get("game_id") in games]
+                            from_live.update(c["id"] for c in new)
+                            gclips += [c for c in new if c["id"] not in got]
+                            got.update(c["id"] for c in new)
             for c in gclips:
                 c["broadcaster_login"] = re.sub(r"[^a-z0-9_]", "", c["broadcaster_name"].lower()) or c["broadcaster_id"]
                 lang = c.get("language", "").split("-")[0]
@@ -455,7 +467,8 @@ def main():
                         and c["duration"] >= sel["min_duration"]):
                     continue
                 # Vistas mínimas propias para algunos streamers (sus clips apenas suman vistas durante el directo)
-                c["min_views"] = sel.get("streamer_min_views", {}).get(c["broadcaster_login"], sel["global_min_views"][lang])
+                default = live_cfg["clip_min_views"] if c["id"] in from_live else sel["global_min_views"][lang]
+                c["min_views"] = sel.get("streamer_min_views", {}).get(c["broadcaster_login"], default)
                 if c["view_count"] < c["min_views"]:
                     live = viewers.get(c["broadcaster_id"], 0)
                     # Solo clips muy recientes: si no, la estimación tapa a los que ya tienen vistas reales.
@@ -492,7 +505,8 @@ def main():
             kept = []
             for c in candidates:
                 login = c["broadcaster_login"]
-                if login in caps and used.get(login, 0) >= caps[login]:
+                cap = caps.get(login, caps.get("*"))  # "*": tope para el resto de streamers
+                if cap is not None and used.get(login, 0) >= cap:
                     continue
                 used[login] = used.get(login, 0) + 1
                 kept.append(c)

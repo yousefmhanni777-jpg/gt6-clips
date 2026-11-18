@@ -24,16 +24,18 @@ selection:
   stream_viewers_factor: 50  # clip nuevo sin vistas aún: vale si el directo tiene >= 50x las vistas mínimas
   boost: {djmariio: 3}   # x3 de prioridad al ordenar (ante dos clips parecidos, sale antes el suyo)
   streamer_min_views: {djmariio: 2}   # su chat no ve los clips durante el directo: casi todos tienen 2 vistas
-  streamer_max_per_hour: {djmariio: 5}   # muy famoso, pero que no se coma todo el cupo
-  max_per_hour: 30       # tope de vídeos enviados a Telegram por hora (se envían los que más rápido suben)
+  streamer_max_per_hour: {djmariio: 5, "*": 4}   # que nadie se coma todo el cupo ("*" = resto de streamers)
+  max_per_hour: 20       # tope de vídeos enviados a Telegram por hora (se envían los que más rápido suben)
   min_score: 4           # nota mínima (1-10) que da la IA para enviarlo
-  # Entre estas horas (UTC) se clipea a CUALQUIER streamer que juegue GTA VI, con subtítulos traducidos.
-  # 2026-11-18T23:00Z = 00:00 del 19 en España (cuando el juego llega a España). Después, solo la lista de arriba.
+  # Entre estas horas (UTC) se clipea a CUALQUIER streamer que juegue GTA VI en los idiomas de global_min_views.
+  # Desde el 18/11 14:30: solo hispanohablantes (es lo que funciona en las cuentas).
   global_from: "2026-11-18T11:00:00Z"   # 12:00 en España = desbloqueo en Nueva Zelanda
-  global_until: "2026-11-18T23:00:00Z"
-  # Vistas mínimas por idioma del directo (solo se cogen estos idiomas). Todo se subtitula al español.
-  # LANZAMIENTO (12:00-13:00): tope 20/h y vistas a la mitad. Volver a 10/h y {es: 80, en: 300, ja: 60, ko: 60, zh: 60, ru: 80, pt: 100, fr: 80, de: 80, it: 60, pl: 60, tr: 60}
-  global_min_views: {es: 40, en: 150, ja: 30, ko: 30, zh: 30, ru: 40, pt: 50, fr: 40, de: 40, it: 30, pl: 30, tr: 30}
+  global_until: "2026-12-31T23:00:00Z"
+  # Vistas mínimas por idioma del directo (solo se cogen estos idiomas). Lo que no es español se subtitula.
+  # Para volver a todo el mundo: {es: 80, en: 300, ja: 60, ko: 60, zh: 60, ru: 80, pt: 100, fr: 80, de: 80, it: 60, pl: 60, tr: 60}
+  global_min_views: {es: 40}
+  # Clips pedidos directamente a cada directo grande en estos idiomas (su público casi no ve clips).
+  live: {langs: [es], min_viewers: 1000, clip_min_views: 3}
 
 brand:
   handle: "@mundolibregt6"
