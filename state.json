@@ -3840,6 +3840,68 @@
    "views": 4,
    "duration": 16.5,
    "formato": "normal: sin cámara detectada"
+  },
+  "CrazyHealthyBeefThunBeast-NfjBdx_Ol9RSu2wz": {
+   "t": 1795023305.5449812,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/CrazyHealthyBeefThunBeast-NfjBdx_Ol9RSu2wz",
+   "login": "djmariio",
+   "views": 4,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "YawningBetterMeatloafTriHard-AQzizPxv74ZPby_i": {
+   "t": 1795023308.048121,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "DjMaRiiO en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/YawningBetterMeatloafTriHard-AQzizPxv74ZPby_i",
+   "login": "djmariio",
+   "views": 4,
+   "duration": 30
+  },
+  "AgileUglyLEDResidentSleeper-x7Z06gtYhTDYzTi5": {
+   "t": 1795023310.9970968,
+   "streamer": "VEGETTA777",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "VEGETTA777 reacciona al GTA 6",
+   "url": "https://www.twitch.tv/vegetta777/clip/AgileUglyLEDResidentSleeper-x7Z06gtYhTDYzTi5",
+   "login": "vegetta777",
+   "views": 4,
+   "duration": 30
+  },
+  "SmoothAmazonianWitchWutFace-2B0tkktHBFUDp5dG": {
+   "t": 1795023314.0527709,
+   "streamer": "Kestico",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Kestico reacciona a un momento inesperado",
+   "url": "https://www.twitch.tv/kestico/clip/SmoothAmazonianWitchWutFace-2B0tkktHBFUDp5dG",
+   "login": "kestico",
+   "views": 3,
+   "duration": 30
+  },
+  "RelentlessShyOrangeSpicyBoy-k0Hz0U4yWqUMrXpw": {
+   "t": 1795023346.3546996,
+   "streamer": "Kestico",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Kestico reacciona a un crash épico en GTA 6",
+   "url": "https://www.twitch.tv/kestico/clip/RelentlessShyOrangeSpicyBoy-k0Hz0U4yWqUMrXpw",
+   "login": "kestico",
+   "views": 3,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
