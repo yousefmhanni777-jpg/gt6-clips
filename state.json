@@ -750,6 +750,30 @@
    "login": "quickhuntik",
    "views": 99,
    "duration": 30
+  },
+  "BoringBadSpindleHotPokket-tbj9d1GCC153t-Mn": {
+   "t": 1795005776.8528104,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "DjMaRiiO reacciona sin saber qué pasa",
+   "url": "https://www.twitch.tv/djmariio/clip/BoringBadSpindleHotPokket-tbj9d1GCC153t-Mn",
+   "login": "djmariio",
+   "views": 20,
+   "duration": 30
+  },
+  "LachrymoseCrackyFungusEleGiggle-8d-NK9TSwoAyN9lL": {
+   "t": 1795005864.038455,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco con el nuevo control de GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/LachrymoseCrackyFungusEleGiggle-8d-NK9TSwoAyN9lL",
+   "login": "djmariio",
+   "views": 11,
+   "duration": 60
   }
  }
 }
