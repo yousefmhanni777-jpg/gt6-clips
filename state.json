@@ -4891,6 +4891,69 @@
    "status": "error",
    "tries": 1,
    "error": "yt-dlp falló:\nERROR: [twitch:clips] ObliqueSquareElkRickroll-Ted7iFDgNdcCCaWI: This clip is no longer available\n"
+  },
+  "CovertSmallDuckHassaanChop-0DmdPWw3ygkfpdGu": {
+   "t": 1795026939.7163272,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO: ¿Qué pasa con la puerta del baño?",
+   "url": "https://www.twitch.tv/djmariio/clip/CovertSmallDuckHassaanChop-0DmdPWw3ygkfpdGu",
+   "login": "djmariio",
+   "views": 4,
+   "duration": 15
+  },
+  "SpikyBrightCoffeeDoubleRainbow-bN4qHhjUF6oBCO2S": {
+   "t": 1795026970.2641377,
+   "streamer": "aXoZer",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "¡aXoZer reacciona a GTA 6 por primera vez!",
+   "url": "https://www.twitch.tv/axozer/clip/SpikyBrightCoffeeDoubleRainbow-bN4qHhjUF6oBCO2S",
+   "login": "axozer",
+   "views": 99,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "EnchantingLightManateeKreygasm-3LrO_7bMcKBgX4WC": {
+   "t": 1795026995.4905002,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Rubius: ¡Primer Wasted en GTA VI!",
+   "url": "https://www.twitch.tv/rubius/clip/EnchantingLightManateeKreygasm-3LrO_7bMcKBgX4WC",
+   "login": "rubius",
+   "views": 81,
+   "duration": 12.1,
+   "formato": "normal: sin cámara detectada"
+  },
+  "TiredSpoopyPepperRalpherZ-arknj4gc0RukNJsr": {
+   "t": 1795026999.1984987,
+   "streamer": "ElAbrahaham",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "ElAbrahaham reacciona a un momento confuso",
+   "url": "https://www.twitch.tv/elabrahaham/clip/TiredSpoopyPepperRalpherZ-arknj4gc0RukNJsr",
+   "login": "elabrahaham",
+   "views": 4,
+   "duration": 60
+  },
+  "VastPoorBoarHumbleLife-WSLNsWc_dSnw43ZF": {
+   "t": 1795027056.05811,
+   "streamer": "FolagorLives",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "FolagorLives se queda atascado en GTA 6",
+   "url": "https://www.twitch.tv/folagorlives/clip/VastPoorBoarHumbleLife-WSLNsWc_dSnw43ZF",
+   "login": "folagorlives",
+   "views": 3,
+   "duration": 45,
+   "formato": "cara arriba"
   }
  }
 }
