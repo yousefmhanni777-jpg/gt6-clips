@@ -1616,6 +1616,38 @@
    "login": "vnekot",
    "views": 18,
    "duration": 30
+  },
+  "ElegantFragileMomPupper-E0NCTooiqWsRoSGR": {
+   "t": 1795015720.50072,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "DjMaRiiO reacciona a un momento confuso en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/ElegantFragileMomPupper-E0NCTooiqWsRoSGR",
+   "login": "djmariio",
+   "views": 27,
+   "duration": 30
+  },
+  "AggressiveDiligentToadFunRun-byfjNrBApNHQHy5B": {
+   "t": 1795015746.1283884,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco con GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/AggressiveDiligentToadFunRun-byfjNrBApNHQHy5B",
+   "login": "djmariio",
+   "views": 15,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "FunnySlipperyLyrebirdPastaThat-_I7jbzSGOnfZUxGo": {
+   "t": 1795015783.3363864,
+   "streamer": "DjMaRiiO",
+   "status": "error",
+   "tries": 1,
+   "error": "Telegram: 413 {\"ok\":false,\"error_code\":413,\"description\":\"Request Entity Too Large\"}"
   }
  }
 }
