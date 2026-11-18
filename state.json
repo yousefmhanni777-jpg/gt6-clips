@@ -2589,6 +2589,69 @@
    "views": 17,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "InterestingLivelyLampKappa-g-bvTU5nf57GZKhG": {
+   "t": 1795019206.0629525,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se enfada en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/InterestingLivelyLampKappa-g-bvTU5nf57GZKhG",
+   "login": "djmariio",
+   "views": 6,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "EasySecretiveGullPipeHype-2AGLiQTH8DBXrY8L": {
+   "t": 1795019209.5978625,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Dj mario conoce una Girl",
+   "url": "https://www.twitch.tv/djmariio/clip/EasySecretiveGullPipeHype-2AGLiQTH8DBXrY8L",
+   "login": "djmariio",
+   "views": 6,
+   "duration": 60
+  },
+  "PrettyRoughVelociraptorVoteYea-dxR4gi_C4B3uSErP": {
+   "t": 1795019244.6029224,
+   "streamer": "VEGETTA777",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Vegeta777 hace el caballito en GTA 6",
+   "url": "https://www.twitch.tv/vegetta777/clip/PrettyRoughVelociraptorVoteYea-dxR4gi_C4B3uSErP",
+   "login": "vegetta777",
+   "views": 237,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SecretiveBeautifulLyrebirdDoubleRainbow-vBtXYLy-nQmmF9cv": {
+   "t": 1795019247.1907918,
+   "streamer": "VEGETTA777",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Ve la charla random de Vegetta777",
+   "url": "https://www.twitch.tv/vegetta777/clip/SecretiveBeautifulLyrebirdDoubleRainbow-vBtXYLy-nQmmF9cv",
+   "login": "vegetta777",
+   "views": 237,
+   "duration": 30
+  },
+  "RudeAnimatedSmoothieTTours-vu868mRhLa0d8noD": {
+   "t": 1795019273.74533,
+   "streamer": "VEGETTA777",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "¡Vegetta777 se vuelve loco en GTA 6!",
+   "url": "https://www.twitch.tv/vegetta777/clip/RudeAnimatedSmoothieTTours-vu868mRhLa0d8noD",
+   "login": "vegetta777",
+   "views": 237,
+   "duration": 21.9,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
