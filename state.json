@@ -5826,6 +5826,69 @@
    "login": "rubius",
    "views": 56,
    "duration": 60
+  },
+  "StrongNimbleBunnyVoHiYo-ewGXTaUHtpGSkyxq": {
+   "t": 1795030268.8396685,
+   "streamer": "deusamir",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "deusamir se queda despierto 10h jugando GTA VI",
+   "url": "https://www.twitch.tv/deusamir/clip/StrongNimbleBunnyVoHiYo-ewGXTaUHtpGSkyxq",
+   "login": "deusamir",
+   "views": 97,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "EphemeralPowerfulBillHassanChop-v0QV317RY8z8FHCP": {
+   "t": 1795030321.3111365,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "Rubius reacciona a las físicas del GTA VI",
+   "url": "https://www.twitch.tv/rubius/clip/EphemeralPowerfulBillHassanChop-v0QV317RY8z8FHCP",
+   "login": "rubius",
+   "views": 51,
+   "duration": 38.4,
+   "formato": "cara arriba"
+  },
+  "GrossFuriousMagePRChase-ZAEyT_-nV5SRqKb1": {
+   "t": 1795030360.5789587,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Rubius se confunde con el coche en GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/GrossFuriousMagePRChase-ZAEyT_-nV5SRqKb1",
+   "login": "rubius",
+   "views": 36,
+   "duration": 29.9,
+   "formato": "cara arriba"
+  },
+  "NeighborlyGrossEyeballMVGame-KEe6bN10WyY6RG8G": {
+   "t": 1795030363.1414368,
+   "streamer": "aXoZer",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "aXoZer reacciona a GTA 6",
+   "url": "https://www.twitch.tv/axozer/clip/NeighborlyGrossEyeballMVGame-KEe6bN10WyY6RG8G",
+   "login": "axozer",
+   "views": 7,
+   "duration": 27.4
+  },
+  "AntediluvianHonestShingleMoreCowbell-41JNAw1amUM2omYX": {
+   "t": 1795030365.607889,
+   "streamer": "FolagorLives",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "FolagorLives dice: \"Me piro\"",
+   "url": "https://www.twitch.tv/folagorlives/clip/AntediluvianHonestShingleMoreCowbell-41JNAw1amUM2omYX",
+   "login": "folagorlives",
+   "views": 5,
+   "duration": 30
   }
  }
 }
