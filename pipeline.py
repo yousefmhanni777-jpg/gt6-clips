@@ -389,10 +389,10 @@ def process(clip, cfg, dry_run):
         words = words_from_transcript(tr)
         OUT_DIR.mkdir(exist_ok=True)
         out = OUT_DIR / f"{datetime.now():%m%d_%H%M}_{login}_{clip['id'][:20]}.mp4"
-        # Reacciones y graciosos con la cara del streamer arriba y el juego abajo, si se le ve en cámara.
+        # Cara del streamer arriba y juego abajo, si se le ve en cámara.
         # Cualquier fallo (sin cámara, sin OpenCV, error de ffmpeg) deja el formato de siempre.
         cam = None
-        if cfg.get("facecam") and cat in ("reaccion", "gracioso"):
+        if cfg.get("facecam"):
             try:
                 import facecam
                 cam = facecam.detect_cam(src)
