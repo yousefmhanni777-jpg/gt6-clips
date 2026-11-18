@@ -1134,6 +1134,30 @@
    "login": "djmariio",
    "views": 63,
    "duration": 30
+  },
+  "LongSuspiciousWrenchRitzMitz-cKiiR8Unm3x-O-fK": {
+   "t": 1795011379.7237706,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/LongSuspiciousWrenchRitzMitz-cKiiR8Unm3x-O-fK",
+   "login": "djmariio",
+   "views": 17,
+   "duration": 40.1
+  },
+  "BrainyGiantPartridgeGivePLZ-ylWssdQC_vJgKhBA": {
+   "t": 1795011382.195084,
+   "streamer": "FolagorLives",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "FolagorLives suelta una frase polémica sin sentido",
+   "url": "https://www.twitch.tv/folagorlives/clip/BrainyGiantPartridgeGivePLZ-ylWssdQC_vJgKhBA",
+   "login": "folagorlives",
+   "views": 42,
+   "duration": 21.8
   }
  }
 }
