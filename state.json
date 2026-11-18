@@ -3222,6 +3222,67 @@
    "views": 30,
    "duration": 49.7,
    "formato": "cara arriba"
+  },
+  "TalentedMushyGazelleYee-ULHLWxLilON10mLh": {
+   "t": 1795021514.5727599,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO en directo: ¡Vamos!",
+   "url": "https://www.twitch.tv/djmariio/clip/TalentedMushyGazelleYee-ULHLWxLilON10mLh",
+   "login": "djmariio",
+   "views": 5,
+   "duration": 30
+  },
+  "CreativeSourPterodactylCopyThis-v9XYKoXx2I1yAISX": {
+   "t": 1795021517.027277,
+   "streamer": "QuackityToo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando?",
+   "url": "https://www.twitch.tv/quackitytoo/clip/CreativeSourPterodactylCopyThis-v9XYKoXx2I1yAISX",
+   "login": "quackitytoo",
+   "views": 131,
+   "duration": 30
+  },
+  "LazyImpossibleGoldfishMau5-sHI0DzFxvRhhbzN2": {
+   "t": 1795021519.614159,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius habla de dinero en GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/LazyImpossibleGoldfishMau5-sHI0DzFxvRhhbzN2",
+   "login": "rubius",
+   "views": 22,
+   "duration": 23.9
+  },
+  "WildBreakableBaconCoolCat-fHZybK2kQaGUrgBj": {
+   "t": 1795021523.7090914,
+   "streamer": "AgenteMaxo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "AgenteMaxo en GTA 6: ¿qué pasa?",
+   "url": "https://www.twitch.tv/agentemaxo/clip/WildBreakableBaconCoolCat-fHZybK2kQaGUrgBj",
+   "login": "agentemaxo",
+   "views": 9,
+   "duration": 38.3
+  },
+  "UnusualSmoothDeerWoofer-wwv5aXgCr1nzk128": {
+   "t": 1795021578.4782481,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "Rubius enloquece con GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/UnusualSmoothDeerWoofer-wwv5aXgCr1nzk128",
+   "login": "rubius",
+   "views": 9,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
