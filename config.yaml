@@ -10,6 +10,7 @@ streamers:
   - elxokas
   - elspreen
   - quackity
+  - djmariio
 
 # Solo clips de estos juegos (nombre exacto en Twitch). Si no se encuentra, no se filtra.
 games:
