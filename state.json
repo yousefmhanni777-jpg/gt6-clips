@@ -5937,6 +5937,69 @@
    "login": "illojuan",
    "views": 3,
    "duration": 60
+  },
+  "EnthusiasticSecretiveBearTheRinger-kIMtc4fgMI5qmMMm": {
+   "t": 1795030570.7392454,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 0,
+   "cat": "otro",
+   "hook": "Yo estuve aquí ❤️ - Grand Theft Auto VI #1",
+   "url": "https://www.twitch.tv/illojuan/clip/EnthusiasticSecretiveBearTheRinger-kIMtc4fgMI5qmMMm",
+   "login": "illojuan",
+   "views": 3057,
+   "duration": 30
+  },
+  "SlipperyPoorKleeBudStar-4i6I4-35AtGExJ2T": {
+   "t": 1795030620.792957,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona a lo imposible en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/SlipperyPoorKleeBudStar-4i6I4-35AtGExJ2T",
+   "login": "illojuan",
+   "views": 3057,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ExcitedTriumphantBatteryDAESuppy--HuhFXlikocVsTuf": {
+   "t": 1795030625.219578,
+   "streamer": "deusamir",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "deusamir solo habla de música",
+   "url": "https://www.twitch.tv/deusamir/clip/ExcitedTriumphantBatteryDAESuppy--HuhFXlikocVsTuf",
+   "login": "deusamir",
+   "views": 100,
+   "duration": 60
+  },
+  "GiftedLaconicHippoDoggo-tgUomGgZ7q2v4vN9": {
+   "t": 1795030652.1071815,
+   "streamer": "deusamir",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "deusamir reacciona a GTA VI",
+   "url": "https://www.twitch.tv/deusamir/clip/GiftedLaconicHippoDoggo-tgUomGgZ7q2v4vN9",
+   "login": "deusamir",
+   "views": 100,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "DependableImpossibleChickenSaltBae-HYvg2vme2Hr0XDSL": {
+   "t": 1795030683.8493645,
+   "streamer": "deusamir",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Deusamir se convierte en Lucía en GTA 6",
+   "url": "https://www.twitch.tv/deusamir/clip/DependableImpossibleChickenSaltBae-HYvg2vme2Hr0XDSL",
+   "login": "deusamir",
+   "views": 100,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
