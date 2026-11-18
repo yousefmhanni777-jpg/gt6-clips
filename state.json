@@ -2652,6 +2652,67 @@
    "views": 237,
    "duration": 21.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "CulturedRepleteTurtleAllenHuhu-GFQUTLW8dv5lMfyf": {
+   "t": 1795019372.447666,
+   "streamer": "VEGETTA777",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "VEGETTA777 charla sin acción en GTA 6",
+   "url": "https://www.twitch.tv/vegetta777/clip/CulturedRepleteTurtleAllenHuhu-GFQUTLW8dv5lMfyf",
+   "login": "vegetta777",
+   "views": 242,
+   "duration": 47.3
+  },
+  "NaiveCredulousReindeerKeyboardCat-y2_RMiuJswSVLPfh": {
+   "t": 1795019375.4240103,
+   "streamer": "aXoZer",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "aXoZer sin voz: ¿qué pasa?",
+   "url": "https://www.twitch.tv/axozer/clip/NaiveCredulousReindeerKeyboardCat-y2_RMiuJswSVLPfh",
+   "login": "axozer",
+   "views": 149,
+   "duration": 30
+  },
+  "WittyBlindingDogPhilosoraptor--sb2NFpNZ97iA7WR": {
+   "t": 1795019377.6892004,
+   "streamer": "aXoZer",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "aXoZer sin palabras, solo música",
+   "url": "https://www.twitch.tv/axozer/clip/WittyBlindingDogPhilosoraptor--sb2NFpNZ97iA7WR",
+   "login": "axozer",
+   "views": 149,
+   "duration": 30
+  },
+  "GrotesquePunchyBork4Head-suGXHmZRXpgfwXtf": {
+   "t": 1795019443.0678427,
+   "streamer": "QuackityToo",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "QuackityToo se vuelve loco robando en México",
+   "url": "https://www.twitch.tv/quackitytoo/clip/GrotesquePunchyBork4Head-suGXHmZRXpgfwXtf",
+   "login": "quackitytoo",
+   "views": 139,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "PoisedRudeRutabagaTriHard-mBFj4xmUv6rAL9sV": {
+   "t": 1795019445.2480578,
+   "streamer": "QuackityToo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "QuackityToo sin nada que decir...",
+   "url": "https://www.twitch.tv/quackitytoo/clip/PoisedRudeRutabagaTriHard-mBFj4xmUv6rAL9sV",
+   "login": "quackitytoo",
+   "views": 139,
+   "duration": 30
   }
  }
 }
