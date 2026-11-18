@@ -155,6 +155,37 @@
    "login": "strogo",
    "views": 45,
    "duration": 59.9
+  },
+  "SlickRacyCardNerfBlueBlaster-f1y1BDs_-MB1z_j9": {
+   "t": 1795001095.22014,
+   "streamer": "evelone2004",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "123123",
+   "url": "https://www.twitch.tv/evelone2004/clip/SlickRacyCardNerfBlueBlaster-f1y1BDs_-MB1z_j9",
+   "login": "evelone2004",
+   "views": 1845,
+   "duration": 18.3
+  },
+  "BlushingSpoopyTurnipSaltBae-gfFrVoQ0VHVyhT7f": {
+   "t": 1795001099.440691,
+   "streamer": "PietSmiet",
+   "status": "error",
+   "tries": 1,
+   "error": "traducción incompleta (26/25 segmentos)"
+  },
+  "AbrasiveFamousBeaverDerp--dllYRDxF_9W1aXt": {
+   "t": 1795001155.524472,
+   "streamer": "evelone2004",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Streamer ruso se vuelve loco con GTA 6",
+   "url": "https://www.twitch.tv/evelone2004/clip/AbrasiveFamousBeaverDerp--dllYRDxF_9W1aXt",
+   "login": "evelone2004",
+   "views": 67,
+   "duration": 40.4
   }
  }
 }
