@@ -54,8 +54,9 @@ def detect_cam(video):
     y = statistics.median(f[1] for f in best)
     w = statistics.median(f[2] for f in best)
     h = statistics.median(f[3] for f in best)
-    # La cámara es más ancha que la cara: unas 3 caras de ancho, con la proporción del piso de arriba.
-    cw = min(fw, w * 3.2)
+    # La cámara es más ancha que la cara. Cuanto más amplio el recorte, menos se amplía y mejor calidad:
+    # unas 4,5 caras de ancho (y nunca menos de un tercio del vídeo), con la proporción del piso de arriba.
+    cw = min(fw, max(w * 4.5, fw / 3))
     ch = min(fh, cw * TOP_H / p.W)
     cx = min(max(0, x + w / 2 - cw / 2), fw - cw)
     cy = min(max(0, y + h * 0.45 - ch * 0.55), fh - ch)  # cara algo baja: el gancho va encima
@@ -67,11 +68,11 @@ def render_facecam(video, ass_file, dest, cam):
     cx, cy, cw, ch, fw, fh = cam
     gw = min(fw, int(fh * p.W / BOT_H) // 2 * 2)   # recorte del centro del juego con la proporción del piso de abajo
     gx = (fw - gw) // 2
-    fc = (f"[0:v]crop={cw}:{ch}:{cx}:{cy},scale={p.W}:{TOP_H}:force_original_aspect_ratio=increase,crop={p.W}:{TOP_H}[top];"
+    fc = (f"[0:v]crop={cw}:{ch}:{cx}:{cy},scale={p.W}:{TOP_H}:force_original_aspect_ratio=increase:flags=lanczos,crop={p.W}:{TOP_H},unsharp=5:5:0.8[top];"
           f"[0:v]crop={gw}:{fh}:{gx}:0,scale={p.W}:{BOT_H}:force_original_aspect_ratio=increase,crop={p.W}:{BOT_H}[bot];"
           f"[top][bot]vstack,ass={ass_file.name}:fontsdir={p.FONTS_DIR}[v]")
     p.run(["ffmpeg", "-y", "-i", str(video), "-filter_complex", fc, "-map", "[v]", "-map", "0:a?",
-           "-c:v", "libx264", "-preset", "veryfast", "-crf", "22", "-pix_fmt", "yuv420p", "-r", "30",
+           "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-pix_fmt", "yuv420p", "-r", "30",
            "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", str(dest)], cwd=ass_file.parent)
 
 
