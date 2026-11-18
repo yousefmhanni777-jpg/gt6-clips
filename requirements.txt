@@ -1,3 +1,4 @@
 requests>=2.31
 pyyaml>=6.0
 yt-dlp
+opencv-python-headless<5   # formato cara arriba (OpenCV 5 ya no trae los detectores Haar)

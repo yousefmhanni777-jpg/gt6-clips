@@ -386,15 +386,31 @@ def process(clip, cfg, dry_run):
         if lang != "es":
             # Subtítulos traducidos: por segmento (los tiempos por palabra no sirven al cambiar de idioma).
             tr = {"segments": groq_translate_segments(cfg["groq"]["llm_model"], tr.get("segments") or [], lang)}
-        ass_file.write_text(build_ass(words_from_transcript(tr), hook, credit, brand), encoding="utf-8")
+        words = words_from_transcript(tr)
         OUT_DIR.mkdir(exist_ok=True)
         out = OUT_DIR / f"{datetime.now():%m%d_%H%M}_{login}_{clip['id'][:20]}.mp4"
-        render(src, ass_file, out)
+        # Reacciones y graciosos con la cara del streamer arriba y el juego abajo, si se le ve en cámara.
+        # Cualquier fallo (sin cámara, sin OpenCV, error de ffmpeg) deja el formato de siempre.
+        cam = None
+        if cfg.get("facecam") and cat in ("reaccion", "gracioso"):
+            try:
+                import facecam
+                cam = facecam.detect_cam(src)
+                if cam:
+                    ass_file.write_text(build_ass(words, hook, credit, brand, hook_margin=60,
+                                                  sub_margin=H - facecam.TOP_H - 55), encoding="utf-8")
+                    facecam.render_facecam(src, ass_file, out, cam)
+            except Exception as e:
+                log(f"[{streamer}] cara arriba no disponible: {str(e)[:200]}")
+                cam = None
+        if not cam:
+            ass_file.write_text(build_ass(words, hook, credit, brand), encoding="utf-8")
+            render(src, ass_file, out)
         log(f"[{streamer}] renderizado {out.name}")
 
         tags = " ".join(brand["hashtags"] + [f"#{login}"])
         warn = "⚠️ POSIBLE MÚSICA CON COPYRIGHT: revísalo antes de subir\n" if verdict.get("musica") else ""
-        caption = (warn + CAT_LABEL.get(cat, "") + (f"🌍 {lang.upper()}→ES · " if lang != "es" else "") + f"⭐ {score}/10 · {streamer} · {clip.get('view_count', 0)} vistas en Twitch\n\n"
+        caption = (warn + ("📸 " if cam else "") + CAT_LABEL.get(cat, "") + (f"🌍 {lang.upper()}→ES · " if lang != "es" else "") + f"⭐ {score}/10 · {streamer} · {clip.get('view_count', 0)} vistas en Twitch\n\n"
                    f"📋 TEXTO PARA PUBLICAR:\n{hook}\n\n{verdict.get('descripcion', '')}\n"
                    f"🎥 Créditos: twitch.tv/{login}\n{tags}\n\n🔗 Original: {clip['url']}")
         if dry_run:

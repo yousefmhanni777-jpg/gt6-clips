@@ -37,6 +37,9 @@ selection:
   # Clips pedidos directamente a cada directo grande en estos idiomas (su público casi no ve clips).
   live: {langs: [es], min_viewers: 1000, clip_min_views: 3}
 
+# Reacciones y graciosos con la cara del streamer arriba y el juego abajo (si se le ve en cámara). false = formato de siempre.
+facecam: true
+
 brand:
   handle: "@mundolibregt6"
   color: "FFD400"        # color de marca (hex RGB) para el gancho y la palabra activa
