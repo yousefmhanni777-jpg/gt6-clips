@@ -4835,6 +4835,62 @@
    "views": 7,
    "duration": 34.2,
    "formato": "cara arriba"
+  },
+  "CorrectStylishGazelleSSSsss-kpmxrhH_S3U5UG7J": {
+   "t": 1795026776.506819,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "DjMaRiiO reacciona a una extraña escena",
+   "url": "https://www.twitch.tv/djmariio/clip/CorrectStylishGazelleSSSsss-kpmxrhH_S3U5UG7J",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 59
+  },
+  "EnthusiasticDependablePterodactylTheThing-gBeNJW7RZ8RpS0lY": {
+   "t": 1795026780.4422228,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO en pausa: ¿qué pasa?",
+   "url": "https://www.twitch.tv/djmariio/clip/EnthusiasticDependablePterodactylTheThing-gBeNJW7RZ8RpS0lY",
+   "login": "djmariio",
+   "views": 3,
+   "duration": 60
+  },
+  "DistinctHonorableNuggetsWoofer-p7rxRVHNDhP4T3bS": {
+   "t": 1795026783.6506548,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 4,
+   "cat": "otro",
+   "hook": "DjMaRiiO reacciona a GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/DistinctHonorableNuggetsWoofer-p7rxRVHNDhP4T3bS",
+   "login": "djmariio",
+   "views": 3,
+   "duration": 30
+  },
+  "RealSingleSmoothieMrDestructoid-z40dZ27tsprywOod": {
+   "t": 1795026839.5407333,
+   "streamer": "bysTaXx",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "Staxx se roba un caza",
+   "url": "https://www.twitch.tv/bystaxx/clip/RealSingleSmoothieMrDestructoid-z40dZ27tsprywOod",
+   "login": "bystaxx",
+   "views": 91,
+   "duration": 54.2,
+   "formato": "cara arriba"
+  },
+  "ObliqueSquareElkRickroll-Ted7iFDgNdcCCaWI": {
+   "t": 1795026840.3288805,
+   "streamer": "deusamir",
+   "status": "error",
+   "tries": 1,
+   "error": "yt-dlp falló:\nERROR: [twitch:clips] ObliqueSquareElkRickroll-Ted7iFDgNdcCCaWI: This clip is no longer available\n"
   }
  }
 }
