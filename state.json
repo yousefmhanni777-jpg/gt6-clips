@@ -2713,6 +2713,69 @@
    "login": "quackitytoo",
    "views": 139,
    "duration": 30
+  },
+  "SpicyTubularArugulaTinyFace-AULfEHdKifUW-U4S": {
+   "t": 1795019569.1821275,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco con el \"tiburón\"",
+   "url": "https://www.twitch.tv/djmariio/clip/SpicyTubularArugulaTinyFace-AULfEHdKifUW-U4S",
+   "login": "djmariio",
+   "views": 5,
+   "duration": 38,
+   "formato": "cara arriba"
+  },
+  "SassySpunkyAxeOhMyDog-JxEr2Q5EbxtGq9vX": {
+   "t": 1795019571.3976681,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin nada interesante",
+   "url": "https://www.twitch.tv/djmariio/clip/SassySpunkyAxeOhMyDog-JxEr2Q5EbxtGq9vX",
+   "login": "djmariio",
+   "views": 5,
+   "duration": 30
+  },
+  "ResourcefulFunRaccoonAsianGlow-Gzy3dwhFlMoBWjKN": {
+   "t": 1795019573.461083,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "DjMaRiiO busca algo sin éxito",
+   "url": "https://www.twitch.tv/djmariio/clip/ResourcefulFunRaccoonAsianGlow-Gzy3dwhFlMoBWjKN",
+   "login": "djmariio",
+   "views": 5,
+   "duration": 19
+  },
+  "ObliviousPolishedBadgerFeelsBadMan-wAlceL_92j-qAa_r": {
+   "t": 1795019611.7512014,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO persigue al ciervo y se vuelve cómico",
+   "url": "https://www.twitch.tv/djmariio/clip/ObliviousPolishedBadgerFeelsBadMan-wAlceL_92j-qAa_r",
+   "login": "djmariio",
+   "views": 5,
+   "duration": 50.3,
+   "formato": "cara arriba"
+  },
+  "MushySteamyMinkDuDudu-6p-7Jz2xglsZnXgL": {
+   "t": 1795019634.5163753,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco con el rodillo en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/MushySteamyMinkDuDudu-6p-7Jz2xglsZnXgL",
+   "login": "djmariio",
+   "views": 5,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
