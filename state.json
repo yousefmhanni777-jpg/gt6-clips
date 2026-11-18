@@ -6410,6 +6410,19 @@
    "views": 370,
    "duration": 29.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "CourteousElatedSalmonUWot-AYOa4qN4ZpuNO56M": {
+   "t": 1795035430.8655102,
+   "streamer": "TheGrefg",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "TheGrefg reacciona al comentario del chat",
+   "url": "https://www.twitch.tv/thegrefg/clip/CourteousElatedSalmonUWot-AYOa4qN4ZpuNO56M",
+   "login": "thegrefg",
+   "views": 370,
+   "duration": 12.7,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
