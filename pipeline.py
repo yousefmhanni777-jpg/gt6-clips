@@ -163,6 +163,8 @@ Responde SOLO con JSON:
   "categoria": "bug" | "curiosidad" | "reaccion" | "gracioso" | "epico" | "otro",
   "gancho": "texto corto (máx 55 caracteres) para poner arriba del vídeo, que genere curiosidad, menciona al streamer",
   "descripcion": "1-2 frases para el post, natural, en español",
+  "musica": true/false (true si en la transcripción aparece algún fragmento de letra de canción, o el streamer \
+habla de la radio/una canción que suena: riesgo de que TikTok silencie el vídeo o YouTube lo reclame),
   "motivo": "por qué (breve)"}}"""
 
 
@@ -388,7 +390,8 @@ def process(clip, cfg, dry_run):
         log(f"[{streamer}] renderizado {out.name}")
 
         tags = " ".join(brand["hashtags"] + [f"#{login}"])
-        caption = (CAT_LABEL.get(cat, "") + (f"🌍 {lang.upper()}→ES · " if lang != "es" else "") + f"⭐ {score}/10 · {streamer} · {clip.get('view_count', 0)} vistas en Twitch\n\n"
+        warn = "⚠️ POSIBLE MÚSICA CON COPYRIGHT: revísalo antes de subir\n" if verdict.get("musica") else ""
+        caption = (warn + CAT_LABEL.get(cat, "") + (f"🌍 {lang.upper()}→ES · " if lang != "es" else "") + f"⭐ {score}/10 · {streamer} · {clip.get('view_count', 0)} vistas en Twitch\n\n"
                    f"📋 TEXTO PARA PUBLICAR:\n{hook}\n\n{verdict.get('descripcion', '')}\n"
                    f"🎥 Créditos: twitch.tv/{login}\n{tags}\n\n🔗 Original: {clip['url']}")
         if dry_run:
