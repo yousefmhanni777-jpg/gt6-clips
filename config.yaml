@@ -25,7 +25,7 @@ selection:
   boost: {djmariio: 3}   # x3 de prioridad al ordenar (ante dos clips parecidos, sale antes el suyo)
   streamer_min_views: {djmariio: 2}   # su chat no ve los clips durante el directo: casi todos tienen 2 vistas
   streamer_max_per_hour: {djmariio: 5}   # muy famoso, pero que no se coma todo el cupo
-  max_per_hour: 20       # tope de vídeos enviados a Telegram por hora (se envían los que más rápido suben)
+  max_per_hour: 30       # tope de vídeos enviados a Telegram por hora (se envían los que más rápido suben)
   min_score: 4           # nota mínima (1-10) que da la IA para enviarlo
   # Entre estas horas (UTC) se clipea a CUALQUIER streamer que juegue GTA VI, con subtítulos traducidos.
   # 2026-11-18T23:00Z = 00:00 del 19 en España (cuando el juego llega a España). Después, solo la lista de arriba.
