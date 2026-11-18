@@ -446,7 +446,8 @@ def main():
                     c["min_views"] = sel["global_min_views"][lang]
                     if c["view_count"] < c["min_views"]:
                         live = viewers.get(c["broadcaster_id"], 0)
-                        if not factor or live < factor * c["min_views"]:
+                        # Solo clips muy recientes: si no, la estimación tapa a los que ya tienen vistas reales.
+                        if not factor or live < factor * c["min_views"] or now - utc(c["created_at"]) > timedelta(minutes=8):
                             continue
                         c["view_count"] = max(c["view_count"], live // factor)  # estimación para ordenar
                     candidates.append(c)
