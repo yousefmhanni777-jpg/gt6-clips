@@ -2525,6 +2525,70 @@
    "views": 151,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "OutstandingDullHorseKappaClaus-QKhgHrrCBw5-8lGn": {
+   "t": 1795018991.4113207,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco con el rodillo en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/OutstandingDullHorseKappaClaus-QKhgHrrCBw5-8lGn",
+   "login": "djmariio",
+   "views": 6,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "SavoryArtisticHamburgerTheThing-WUcka8SXG35dKhcT": {
+   "t": 1795018993.7560153,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO y el misterioso gimnasio de GTA VI",
+   "url": "https://www.twitch.tv/djmariio/clip/SavoryArtisticHamburgerTheThing-WUcka8SXG35dKhcT",
+   "login": "djmariio",
+   "views": 6,
+   "duration": 30
+  },
+  "SincereCoyDogeThisIsSparta-6-KXikeFZj6xQWEg": {
+   "t": 1795019013.819627,
+   "streamer": "aXoZer",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "aXoZer reacciona al primer guardado en GTA 6",
+   "url": "https://www.twitch.tv/axozer/clip/SincereCoyDogeThisIsSparta-6-KXikeFZj6xQWEg",
+   "login": "axozer",
+   "views": 146,
+   "duration": 29.9,
+   "formato": "cara arriba"
+  },
+  "BusyExuberantTireVoteNay-wDmFYmF53pXifkpU": {
+   "t": 1795019056.3642201,
+   "streamer": "QuackityToo",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "QuackityToo se vuelve loco con GTA 6",
+   "url": "https://www.twitch.tv/quackitytoo/clip/BusyExuberantTireVoteNay-wDmFYmF53pXifkpU",
+   "login": "quackitytoo",
+   "views": 142,
+   "duration": 41.1,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SaltyNastyBoarTBCheesePull-RGoIx_oeTpJC3xD2": {
+   "t": 1795019088.4023433,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "Rubius descubre GTA VI en Nueva Zelanda",
+   "url": "https://www.twitch.tv/rubius/clip/SaltyNastyBoarTBCheesePull-RGoIx_oeTpJC3xD2",
+   "login": "rubius",
+   "views": 17,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
