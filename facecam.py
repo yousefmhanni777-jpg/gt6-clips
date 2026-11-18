@@ -20,12 +20,7 @@ SAMPLES = 12                # fotogramas que se miran para encontrar la cara
 
 def detect_cam(video):
     """Recuadro (x, y, w, h) de la cámara del streamer en el vídeo original, o None si no hay una cara fija."""
-    try:
-        import cv2  # solo hace falta en este formato
-    except ImportError:  # bucle arrancado antes de añadir OpenCV a requirements.txt: se instala una vez
-        import subprocess, sys
-        subprocess.run([sys.executable, "-m", "pip", "install", "-q", "opencv-python-headless<5"], check=True, timeout=300)
-        import cv2
+    import cv2  # solo hace falta en este formato
 
     cap = cv2.VideoCapture(str(video))
     n = int(cap.get(cv2.CAP_PROP_FRAME_COUNT)) or 1
