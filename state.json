@@ -4273,6 +4273,67 @@
    "views": 6,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "MuddyEphemeralAsteriskFunRun-r6TRLBxNPuom7ay8": {
+   "t": 1795024797.6930048,
+   "streamer": "aXoZer",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "aXoZer prueba GTA 6 por primera vez",
+   "url": "https://www.twitch.tv/axozer/clip/MuddyEphemeralAsteriskFunRun-r6TRLBxNPuom7ay8",
+   "login": "axozer",
+   "views": 109,
+   "duration": 30
+  },
+  "BloodyStylishOrcaPunchTrees-f4McyGa68PA2lgsd": {
+   "t": 1795024801.1474423,
+   "streamer": "SrSerpiente",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "SrSerpiente se pierde en GTA 6",
+   "url": "https://www.twitch.tv/srserpiente/clip/BloodyStylishOrcaPunchTrees-f4McyGa68PA2lgsd",
+   "login": "srserpiente",
+   "views": 11,
+   "duration": 40.7
+  },
+  "MuddyMistyPorpoiseWholeWheat-iH8T7Ypq3poQd4oq": {
+   "t": 1795024804.402178,
+   "streamer": "bysTaXx",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "byStaxx en GTA 6: ¿qué pasa con las armas?",
+   "url": "https://www.twitch.tv/bystaxx/clip/MuddyMistyPorpoiseWholeWheat-iH8T7Ypq3poQd4oq",
+   "login": "bystaxx",
+   "views": 8,
+   "duration": 30
+  },
+  "HonestSpinelessOtterKappaRoss-zr9C4IIy7-FPd2it": {
+   "t": 1795024826.4735212,
+   "streamer": "FolagorLives",
+   "status": "enviado",
+   "score": 7,
+   "cat": "bug",
+   "hook": "FolagorLives descubre un bug épico en GTA 6",
+   "url": "https://www.twitch.tv/folagorlives/clip/HonestSpinelessOtterKappaRoss-zr9C4IIy7-FPd2it",
+   "login": "folagorlives",
+   "views": 11,
+   "duration": 14.1,
+   "formato": "cara arriba"
+  },
+  "PlausibleHandsomeLegOhMyDog-2VNvYYMLRKM3YfdZ": {
+   "t": 1795024829.915866,
+   "streamer": "FolagorLives",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "FolagorLives se descontrola en GTA 6",
+   "url": "https://www.twitch.tv/folagorlives/clip/PlausibleHandsomeLegOhMyDog-2VNvYYMLRKM3YfdZ",
+   "login": "folagorlives",
+   "views": 3,
+   "duration": 30.9
   }
  }
 }
