@@ -2145,6 +2145,69 @@
    "views": 121,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "LongHealthyClamKappaWealth-pJXnYTgH-tqh5hbl": {
+   "t": 1795017694.9783313,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO sube y baja el rodillo sin parar",
+   "url": "https://www.twitch.tv/djmariio/clip/LongHealthyClamKappaWealth-pJXnYTgH-tqh5hbl",
+   "login": "djmariio",
+   "views": 6,
+   "duration": 49,
+   "formato": "cara arriba"
+  },
+  "DrabDaintyParrotBCWarrior-Po6jgiO1k2hWVHZ_": {
+   "t": 1795017726.751006,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "Rubius se vuelve loco con GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/DrabDaintyParrotBCWarrior-Po6jgiO1k2hWVHZ_",
+   "login": "rubius",
+   "views": 4626,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ExquisiteViscousGarlicDxAbomb-3F7KmjzcGY-XONGS": {
+   "t": 1795017765.611076,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "Rubius hace su saludo clásico en GTA 6 😿🫶🏻",
+   "url": "https://www.twitch.tv/rubius/clip/ExquisiteViscousGarlicDxAbomb-3F7KmjzcGY-XONGS",
+   "login": "rubius",
+   "views": 4626,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "OptimisticIntelligentBulgogiOneHand-gZo_9N_RMY1rTmp3": {
+   "t": 1795017767.8265605,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "La presentacion",
+   "url": "https://www.twitch.tv/rubius/clip/OptimisticIntelligentBulgogiOneHand-gZo_9N_RMY1rTmp3",
+   "login": "rubius",
+   "views": 4626,
+   "duration": 30
+  },
+  "SlickHelplessAyeayeKappaClaus-4HjRzoc7ZrG2Dz2G": {
+   "t": 1795017772.5173235,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Rubius inicia su primera partida de GTA VI",
+   "url": "https://www.twitch.tv/rubius/clip/SlickHelplessAyeayeKappaClaus-4HjRzoc7ZrG2Dz2G",
+   "login": "rubius",
+   "views": 4626,
+   "duration": 30
   }
  }
 }
