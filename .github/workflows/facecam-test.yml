@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       n:
-        description: "Cuántos de los últimos clips de reacción/gracioso rehacer"
+        description: "Cuántos de los últimos clips enviados rehacer"
         default: "8"
       clip:
         description: "O la URL de un clip concreto (opcional)"

@@ -2,7 +2,7 @@
 """Formato "cara arriba, juego abajo": detecta la cámara del streamer y monta el vídeo 9:16 en dos pisos.
 
 Uso (prueba, no toca el bot):
-  python facecam.py --n 8            # rehace con este formato los últimos clips de reacción/gracioso enviados
+  python facecam.py --n 8            # rehace con este formato los últimos clips enviados
   python facecam.py --clip URL       # un clip concreto
 Los vídeos llegan a Telegram marcados como PRUEBA.
 """
@@ -115,7 +115,7 @@ def main():
     else:
         state = json.loads(p.STATE_FILE.read_text())["processed"]
         sent = sorted(((k, v) for k, v in state.items()
-                       if v.get("status") == "enviado" and v.get("cat") in ("reaccion", "gracioso")),
+                       if v.get("status") == "enviado"),
                       key=lambda kv: -kv[1]["t"])
         jobs = [(k, v.get("hook")) for k, v in sent[:args.n]]
     ok = 0
