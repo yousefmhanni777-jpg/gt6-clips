@@ -102,7 +102,8 @@ def groq_call(path, model, make_kwargs):
 
 def groq_chat_json(model, prompt, temperature):
     data = groq_call("chat/completions", model, lambda m: {"json": {
-        "model": m, "temperature": temperature, "response_format": {"type": "json_object"},
+        # reasoning_effort low: misma nota con ~1/3 de tokens, para no agotar el cupo diario de Groq
+        "model": m, "temperature": temperature, "response_format": {"type": "json_object"}, "reasoning_effort": "low",
         "messages": [{"role": "user", "content": prompt}]}})
     return json.loads(data["choices"][0]["message"]["content"])
 
@@ -425,9 +426,11 @@ def main():
         if sel.get("global_until") and games and utc(sel["global_from"]) <= now < utc(sel["global_until"]):
             # Antes de que el juego llegue a España: top clips de GTA VI de cualquier streamer (subtitulados al español).
             log("modo global: clips de cualquier streamer")
+            # Solo clips desde el desbloqueo: los de la cuenta atrás no sirven y gastarían el tope por hora.
+            gsince = max(since, utc(sel["global_from"]))
             for gid in games:
                 for c in tw.get("clips", {"game_id": gid, "first": 100,
-                                          "started_at": since.strftime("%Y-%m-%dT%H:%M:%SZ")}):
+                                          "started_at": gsince.strftime("%Y-%m-%dT%H:%M:%SZ")}):
                     c["broadcaster_login"] = re.sub(r"[^a-z0-9_]", "", c["broadcaster_name"].lower()) or c["broadcaster_id"]
                     lang = c.get("language", "").split("-")[0]
                     if (pending(state, c["id"]) and lang in sel["global_min_views"]
