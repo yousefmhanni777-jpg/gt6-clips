@@ -31,7 +31,7 @@ jobs:
           else
             sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
           fi
-          pip install -q -r requirements.txt opencv-python-headless
+          pip install -q -r requirements.txt "opencv-python-headless<5"   # OpenCV 5 sacó los detectores Haar del paquete base
           mkdir -p fonts
           curl -sfL -o fonts/Anton-Regular.ttf https://github.com/google/fonts/raw/main/ofl/anton/Anton-Regular.ttf
 
