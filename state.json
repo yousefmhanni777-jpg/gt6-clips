@@ -5577,6 +5577,68 @@
    "views": 2140,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "SlickHedonisticZebraFUNgineer-mE6bCuuNZnmobaIT": {
+   "t": 1795029498.3766952,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco con la comida del club",
+   "url": "https://www.twitch.tv/djmariio/clip/SlickHedonisticZebraFUNgineer-mE6bCuuNZnmobaIT",
+   "login": "djmariio",
+   "views": 761,
+   "duration": 33.2,
+   "formato": "normal: sin cámara detectada"
+  },
+  "YawningSpookyPicklesCharlieBitMe-YR_q1zzS2ZHlTuxG": {
+   "t": 1795029501.3774295,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO en GTA 6: ¿qué pasa aquí?",
+   "url": "https://www.twitch.tv/djmariio/clip/YawningSpookyPicklesCharlieBitMe-YR_q1zzS2ZHlTuxG",
+   "login": "djmariio",
+   "views": 519,
+   "duration": 30
+  },
+  "ExuberantProudGazellePipeHype-KdJZz6OyzoDSO0wj": {
+   "t": 1795029526.4120004,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se descontrola con el caminante",
+   "url": "https://www.twitch.tv/djmariio/clip/ExuberantProudGazellePipeHype-KdJZz6OyzoDSO0wj",
+   "login": "djmariio",
+   "views": 554,
+   "duration": 19.3,
+   "formato": "cara arriba"
+  },
+  "PleasantSneakyBearHeyGuys-_00l4ra3f2unB_w6": {
+   "t": 1795029528.6727955,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO en su primer GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/PleasantSneakyBearHeyGuys-_00l4ra3f2unB_w6",
+   "login": "djmariio",
+   "views": 111,
+   "duration": 30
+  },
+  "OriginalSpicyCrocodileBrokeBack-MyEISmTPfXmwei_o": {
+   "t": 1795029530.7326365,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "IlloJuan sin voz",
+   "url": "https://www.twitch.tv/illojuan/clip/OriginalSpicyCrocodileBrokeBack-MyEISmTPfXmwei_o",
+   "login": "illojuan",
+   "views": 2454,
+   "duration": 30.5
   }
  }
 }
