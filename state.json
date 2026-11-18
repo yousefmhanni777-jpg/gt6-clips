@@ -3714,6 +3714,69 @@
    "login": "deusamir",
    "views": 90,
    "duration": 60
+  },
+  "SourShakingFlyBudStar-6w5-5mnyPp7KA8gD": {
+   "t": 1795022890.5488737,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin voz, ¿qué pasa?",
+   "url": "https://www.twitch.tv/djmariio/clip/SourShakingFlyBudStar-6w5-5mnyPp7KA8gD",
+   "login": "djmariio",
+   "views": 4,
+   "duration": 30
+  },
+  "GentleSuspiciousPuffinAMPTropPunch-UEVaRCQrvPZpS08s": {
+   "t": 1795022912.6895213,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Rubius reacciona a una CANASTA épica",
+   "url": "https://www.twitch.tv/rubius/clip/GentleSuspiciousPuffinAMPTropPunch-UEVaRCQrvPZpS08s",
+   "login": "rubius",
+   "views": 72,
+   "duration": 12.3,
+   "formato": "normal: sin cámara detectada"
+  },
+  "RenownedTsunderePuppyStinkyCheese-EuLWR8O-UMltbIdw": {
+   "t": 1795022914.859055,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius reacciona a GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/RenownedTsunderePuppyStinkyCheese-EuLWR8O-UMltbIdw",
+   "login": "rubius",
+   "views": 46,
+   "duration": 30
+  },
+  "KawaiiSplendidPigeonDeIlluminati-AI_IJdVvLDp9Vbcn": {
+   "t": 1795022936.1120749,
+   "streamer": "VEGETTA777",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "VEGETTA777 reacciona a GTA 6",
+   "url": "https://www.twitch.tv/vegetta777/clip/KawaiiSplendidPigeonDeIlluminati-AI_IJdVvLDp9Vbcn",
+   "login": "vegetta777",
+   "views": 7,
+   "duration": 12.6,
+   "formato": "normal: sin cámara detectada"
+  },
+  "BitterEntertainingEggplantWholeWheat-BmcOa0hFnRkm2IDx": {
+   "t": 1795022961.7665129,
+   "streamer": "Kestico",
+   "status": "enviado",
+   "score": 7,
+   "cat": "bug",
+   "hook": "Kestico su auto se rompe en GTA 6",
+   "url": "https://www.twitch.tv/kestico/clip/BitterEntertainingEggplantWholeWheat-BmcOa0hFnRkm2IDx",
+   "login": "kestico",
+   "views": 5,
+   "duration": 26,
+   "formato": "cara arriba"
   }
  }
 }
