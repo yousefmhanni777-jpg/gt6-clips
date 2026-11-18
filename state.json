@@ -2838,6 +2838,70 @@
    "views": 236,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "FurtiveAffluentMilkDogFace-p7jsdKntI1DYE_YR": {
+   "t": 1795019937.307127,
+   "streamer": "LaMejorClase",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "LaMejorClase reacciona al tacón GTVI",
+   "url": "https://www.twitch.tv/lamejorclase/clip/FurtiveAffluentMilkDogFace-p7jsdKntI1DYE_YR",
+   "login": "lamejorclase",
+   "views": 113,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "HungryResoluteGazelleRlyTho-jECTTPaujGbB3Xyf": {
+   "t": 1795019972.896924,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Rubius reacciona a GTA 6 en vivo",
+   "url": "https://www.twitch.tv/rubius/clip/HungryResoluteGazelleRlyTho-jECTTPaujGbB3Xyf",
+   "login": "rubius",
+   "views": 100,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "EsteemedRacyTildeWutFace-UOgo_ykFFw15xikU": {
+   "t": 1795020006.3250082,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Rubius en PS5 Pro lagazos GTA VI xddd",
+   "url": "https://www.twitch.tv/rubius/clip/EsteemedRacyTildeWutFace-UOgo_ykFFw15xikU",
+   "login": "rubius",
+   "views": 68,
+   "duration": 28.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AgilePlausiblePlumberNononoCat-If7erjRXib-gBZcf": {
+   "t": 1795020042.7670655,
+   "streamer": "FolagorLives",
+   "status": "enviado",
+   "score": 6,
+   "cat": "curiosidad",
+   "hook": "FolagorLives descubre cómo usar intermitentes en GTA 6",
+   "url": "https://www.twitch.tv/folagorlives/clip/AgilePlausiblePlumberNononoCat-If7erjRXib-gBZcf",
+   "login": "folagorlives",
+   "views": 43,
+   "duration": 40.1,
+   "formato": "cara arriba"
+  },
+  "ReliableNastyLionBCouch-T3H6JKQwdu6YgY7I": {
+   "t": 1795020044.8351722,
+   "streamer": "Padexxx_",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Padexxx_ sin GTA 6, solo charla",
+   "url": "https://www.twitch.tv/padexxx_/clip/ReliableNastyLionBCouch-T3H6JKQwdu6YgY7I",
+   "login": "padexxx_",
+   "views": 109,
+   "duration": 27.1
   }
  }
 }
