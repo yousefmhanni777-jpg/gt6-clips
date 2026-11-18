@@ -1643,11 +1643,69 @@
    "formato": "cara arriba"
   },
   "FunnySlipperyLyrebirdPastaThat-_I7jbzSGOnfZUxGo": {
-   "t": 1795015783.3363864,
+   "t": 1795015966.3342264,
    "streamer": "DjMaRiiO",
-   "status": "error",
-   "tries": 1,
-   "error": "Telegram: 413 {\"ok\":false,\"error_code\":413,\"description\":\"Request Entity Too Large\"}"
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco con la poli en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/FunnySlipperyLyrebirdPastaThat-_I7jbzSGOnfZUxGo",
+   "login": "djmariio",
+   "views": 7,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "RespectfulInventiveDelicataItsBoshyTime-H7oTTEOEDWtHXK6J": {
+   "t": 1795015904.0229502,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/RespectfulInventiveDelicataItsBoshyTime-H7oTTEOEDWtHXK6J",
+   "login": "djmariio",
+   "views": 7,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "PeppyLightToadBatChest-Ru1qo9kt4ObwxiHs": {
+   "t": 1795015931.882131,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco con el chat: \"Bro ?\"",
+   "url": "https://www.twitch.tv/djmariio/clip/PeppyLightToadBatChest-Ru1qo9kt4ObwxiHs",
+   "login": "djmariio",
+   "views": 13,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "PlumpConfidentCarrotHotPokket-ajsitjrrycqo151C": {
+   "t": 1795015993.8357208,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO prueba GTA 6 por primera vez",
+   "url": "https://www.twitch.tv/djmariio/clip/PlumpConfidentCarrotHotPokket-ajsitjrrycqo151C",
+   "login": "djmariio",
+   "views": 7,
+   "duration": 34.6,
+   "formato": "cara arriba"
+  },
+  "LaconicAthleticBoarPhilosoraptor-rHu5Cazqhf7ySYpF": {
+   "t": 1795016045.3802903,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco con la silla en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/LaconicAthleticBoarPhilosoraptor-rHu5Cazqhf7ySYpF",
+   "login": "djmariio",
+   "views": 14,
+   "duration": 59,
+   "formato": "cara arriba"
   }
  }
 }
