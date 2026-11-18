@@ -438,22 +438,28 @@ def main():
             if factor:
                 for gid in games:
                     viewers.update({s["user_id"]: s["viewer_count"] for s in tw.get("streams", {"game_id": gid, "first": 100})})
-            for gid in games:
-                for c in tw.get("clips", {"game_id": gid, "first": 100,
-                                          "started_at": gsince.strftime("%Y-%m-%dT%H:%M:%SZ")}):
-                    c["broadcaster_login"] = re.sub(r"[^a-z0-9_]", "", c["broadcaster_name"].lower()) or c["broadcaster_id"]
-                    lang = c.get("language", "").split("-")[0]
-                    if not (pending(state, c["id"]) and lang in sel["global_min_views"]
-                            and c["duration"] >= sel["min_duration"]):
+            gclips = [c for gid in games for c in tw.get("clips", {"game_id": gid, "first": 100,
+                                                                 "started_at": gsince.strftime("%Y-%m-%dT%H:%M:%SZ")})]
+            # Los clips con pocas vistas no salen en el top 100 del juego: a esos streamers se les pide aparte.
+            got = {c["id"] for c in gclips}
+            for login in sel.get("streamer_min_views", {}):
+                if login in ids:
+                    gclips += [c for c in tw.clips(ids[login], gsince) if c["id"] not in got and c.get("game_id") in games]
+            for c in gclips:
+                c["broadcaster_login"] = re.sub(r"[^a-z0-9_]", "", c["broadcaster_name"].lower()) or c["broadcaster_id"]
+                lang = c.get("language", "").split("-")[0]
+                if not (pending(state, c["id"]) and lang in sel["global_min_views"]
+                        and c["duration"] >= sel["min_duration"]):
+                    continue
+                # Vistas mínimas propias para algunos streamers (sus clips apenas suman vistas durante el directo)
+                c["min_views"] = sel.get("streamer_min_views", {}).get(c["broadcaster_login"], sel["global_min_views"][lang])
+                if c["view_count"] < c["min_views"]:
+                    live = viewers.get(c["broadcaster_id"], 0)
+                    # Solo clips muy recientes: si no, la estimación tapa a los que ya tienen vistas reales.
+                    if not factor or live < factor * c["min_views"] or now - utc(c["created_at"]) > timedelta(minutes=8):
                         continue
-                    c["min_views"] = sel["global_min_views"][lang]
-                    if c["view_count"] < c["min_views"]:
-                        live = viewers.get(c["broadcaster_id"], 0)
-                        # Solo clips muy recientes: si no, la estimación tapa a los que ya tienen vistas reales.
-                        if not factor or live < factor * c["min_views"] or now - utc(c["created_at"]) > timedelta(minutes=8):
-                            continue
-                        c["view_count"] = max(c["view_count"], live // factor)  # estimación para ordenar
-                    candidates.append(c)
+                    c["view_count"] = max(c["view_count"], live // factor)  # estimación para ordenar
+                candidates.append(c)
             ids = {}
         for login, uid in ids.items():
             try:

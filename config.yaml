@@ -23,6 +23,7 @@ selection:
   max_per_run: 3         # clips procesados por vuelta (cada ~90 s)
   stream_viewers_factor: 50  # clip nuevo sin vistas aún: vale si el directo tiene >= 50x las vistas mínimas
   boost: {djmariio: 3}   # x3 de prioridad al ordenar (ante dos clips parecidos, sale antes el suyo)
+  streamer_min_views: {djmariio: 2}   # su chat no ve los clips durante el directo: casi todos tienen 2 vistas
   max_per_hour: 20       # tope de vídeos enviados a Telegram por hora (se envían los que más rápido suben)
   min_score: 4           # nota mínima (1-10) que da la IA para enviarlo
   # Entre estas horas (UTC) se clipea a CUALQUIER streamer que juegue GTA VI, con subtítulos traducidos.
