@@ -8870,6 +8870,25 @@
    "views": 6,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "CuriousIcyFlamingoPMSTwin-KBeAIxTZ72rD6Z7R": {
+   "t": 1795075678.8014202,
+   "streamer": "IlloJuan",
+   "status": "error",
+   "tries": 1,
+   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  },
+  "RealJazzyWombatImGlitch-iKiu4KpvsL5uJZxP": {
+   "t": 1795075681.6487896,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "AuronPlay sin nada interesante...",
+   "url": "https://www.twitch.tv/auronplay/clip/RealJazzyWombatImGlitch-iKiu4KpvsL5uJZxP",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 30
   }
  }
 }
