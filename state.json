@@ -7385,6 +7385,18 @@
    "views": 117,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "AstuteGrossClintTinyFace-3oy7eEo5acnLrGm3": {
+   "t": 1795051520.829844,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Carola reacciona a GTA VI",
+   "url": "https://www.twitch.tv/carola/clip/AstuteGrossClintTinyFace-3oy7eEo5acnLrGm3",
+   "login": "carola",
+   "views": 118,
+   "duration": 30
   }
  }
 }
