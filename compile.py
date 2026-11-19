@@ -35,6 +35,8 @@ KINDS = {
                    "tags": ["#curiosidades", "#eastereggs", "#gta6detalles"], "emoji": "🔍"},
     "todo": {"title": "LOS {n} MEJORES MOMENTOS DE STREAMERS EN GTA 6", "about": "mejores momentos",
              "tags": ["#mejoresmomentos", "#gta6momentos"], "emoji": "🔥"},
+    "reaccion": {"title": "LAS {n} MEJORES REACCIONES DE STREAMERS A GTA 6", "about": "reacciones más locas",
+                 "tags": ["#reacciones", "#gta6reacciones"], "emoji": "😱"},
 }
 ENC = ["-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-pix_fmt", "yuv420p", "-r", "30",
        "-video_track_timescale", "15360", "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-ac", "2"]
@@ -85,9 +87,14 @@ def render_segment(work, idx, src, rank, clip, brand):
          ("H", clip["hook"].upper()),
          ("C", f"twitch.tv/{clip['login']}  ·  {brand['handle']}")]), encoding="utf-8")
     out = work / f"seg_{idx:03d}.mp4"
-    vf = (f"scale={CW}:{CH}:force_original_aspect_ratio=decrease,pad={CW}:{CH}:(ow-iw)/2:(oh-ih)/2,"
-          f"setsar=1,fps=30,ass={ass.name}:fontsdir={p.FONTS_DIR}")
-    p.run(["ffmpeg", "-y", "-i", str(src), "-vf", vf, "-af", "aresample=48000", *ENC, str(out)], cwd=work)
+    if CH > CW:  # vertical (TikTok): el clip en el centro sobre su propia imagen desenfocada
+        vf = (f"[0:v]scale={CW}:{CH}:force_original_aspect_ratio=increase,crop={CW}:{CH},boxblur=25:2,"
+              f"eq=brightness=-0.18[bg];[0:v]scale={CW}:-2[fg];[bg][fg]overlay=0:(H-h)/2,"
+              f"setsar=1,fps=30,ass={ass.name}:fontsdir={p.FONTS_DIR}")
+    else:
+        vf = (f"scale={CW}:{CH}:force_original_aspect_ratio=decrease,pad={CW}:{CH}:(ow-iw)/2:(oh-ih)/2,"
+              f"setsar=1,fps=30,ass={ass.name}:fontsdir={p.FONTS_DIR}")
+    p.run(["ffmpeg", "-y", "-i", str(src), "-filter_complex", vf, "-af", "aresample=48000", *ENC, str(out)], cwd=work)
     return out
 
 
@@ -119,7 +126,7 @@ def ai_texts(model, top, clips, about):
 def publish_release(video, name, body):
     repo, token = p.env("GITHUB_REPOSITORY"), p.env("GITHUB_TOKEN")
     h = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}
-    tag = f"recopilacion-{datetime.now():%Y%m%d-%H%M}"
+    tag = f"recopilacion-{video.stem}-{datetime.now():%H%M}"
     r = requests.post(f"https://api.github.com/repos/{repo}/releases", headers=h,
                       json={"tag_name": tag, "name": name, "body": body}, timeout=60)
     r.raise_for_status()
@@ -138,8 +145,12 @@ def main():
     ap.add_argument("--top", type=int, default=10)
     ap.add_argument("--cat", choices=list(KINDS), default="bug")
     ap.add_argument("--min", type=int, default=3, help="mínimo de clips para montar el vídeo")
+    ap.add_argument("--vertical", action="store_true", help="9:16 para TikTok en vez de 16:9 para YouTube")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
+    global CW, CH
+    if args.vertical:
+        CW, CH = 1080, 1920
 
     cfg = yaml.safe_load((p.ROOT / "config.yaml").read_text())
     brand = cfg["brand"]
@@ -148,7 +159,8 @@ def main():
     kind = KINDS[args.cat]
     clips = [{"id": k, **v} for k, v in state["processed"].items()
             if v.get("t", 0) > cutoff and v.get("duration", 0) >= 10 and v.get("url")
-            and (v.get("cat") == args.cat if args.cat != "todo" else v.get("status") == "enviado")]
+            and (v.get("cat") == args.cat and v.get("status") in ("enviado", "guardado")
+                 if args.cat != "todo" else v.get("status") == "enviado")]
     clips = sorted(clips, key=lambda c: c.get("views", 0), reverse=True)[:args.top]
     if len(clips) < args.min:
         msg = (f"{kind['emoji']} Recopilación '{args.cat}': solo hay {len(clips)} clips en los últimos "
@@ -188,7 +200,7 @@ def main():
 
         (work / "list.txt").write_text("".join(f"file '{s.name}'\n" for s in segs))
         p.OUT_DIR.mkdir(exist_ok=True)
-        out = p.OUT_DIR / f"top_{args.cat}_{datetime.now():%Y%m%d}.mp4"
+        out = p.OUT_DIR / f"top_{args.cat}_{datetime.now():%Y%m%d}{'_vertical' if args.vertical else ''}.mp4"
         p.run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", "list.txt", "-c", "copy",
                "-movflags", "+faststart", str(out)], cwd=work)
         p.log(f"recopilación: {out.name} · {mmss(duration(out))} · {out.stat().st_size // 2**20} MB")
@@ -203,7 +215,8 @@ def main():
             p.log(f"--- {title} ---\n{description}")
             return
         url = publish_release(out, title, description)
-        p.send_telegram_text(f"🎬 {kind['emoji']} RECOPILACIÓN LISTA ({mmss(duration(out))})\n\n⬇️ Descargar vídeo:\n{url}\n\n"
+        fmt = "VERTICAL · TikTok" if args.vertical else "HORIZONTAL · YouTube"
+        p.send_telegram_text(f"🎬 {kind['emoji']} RECOPILACIÓN LISTA · {fmt} ({mmss(duration(out))})\n\n⬇️ Descargar vídeo:\n{url}\n\n"
                              f"📋 TÍTULO:\n{title}\n\n📋 DESCRIPCIÓN:\n{description}")
     finally:
         shutil.rmtree(work, ignore_errors=True)
