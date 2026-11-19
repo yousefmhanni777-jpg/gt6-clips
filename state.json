@@ -11376,6 +11376,31 @@
    "views": 170,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "InterestingCleanRadishTinyFace-wHaNpopR1c19Ttaq": {
+   "t": 1795116771.6752477,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "UFF TREMENDOS SENTIMIENTOS",
+   "url": "https://www.twitch.tv/djmariio/clip/InterestingCleanRadishTinyFace-wHaNpopR1c19Ttaq",
+   "login": "djmariio",
+   "views": 26,
+   "duration": 56.1
+  },
+  "SmilingBovineDunlinTwitchRaid-M6toApT23m8Daj3v": {
+   "t": 1795116823.8506224,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "¡IlloJuan reacciona con un arponazo!",
+   "url": "https://www.twitch.tv/illojuan/clip/SmilingBovineDunlinTwitchRaid-M6toApT23m8Daj3v",
+   "login": "illojuan",
+   "views": 194,
+   "duration": 15.5,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
