@@ -216,6 +216,17 @@ def main():
             return
         url = publish_release(out, title, description)
         fmt = "VERTICAL · TikTok" if args.vertical else "HORIZONTAL · YouTube"
+        # El vídeo también va directo a Telegram (los enlaces de GitHub no siempre se descargan bien en el móvil).
+        # Los bots de Telegram solo suben hasta 50 MB: si pasa, se manda una copia comprimida.
+        tg = out
+        if out.stat().st_size > 48 * 2**20:
+            kbps = int(45 * 8 * 1024 / duration(out)) - 128
+            tg = out.with_name(out.stem + "_tg.mp4")
+            p.run(["ffmpeg", "-y", "-i", str(out), "-c:v", "libx264", "-preset", "veryfast", "-b:v", f"{kbps}k",
+                   "-maxrate", f"{int(kbps * 1.1)}k", "-bufsize", f"{kbps * 2}k", "-c:a", "aac", "-b:a", "128k",
+                   "-movflags", "+faststart", str(tg)])
+        p.send_telegram(tg, f"🎬 {kind['emoji']} {fmt} ({mmss(duration(out))})"
+                            + (" · comprimido para Telegram, el original está en el enlace" if tg != out else ""))
         p.send_telegram_text(f"🎬 {kind['emoji']} RECOPILACIÓN LISTA · {fmt} ({mmss(duration(out))})\n\n⬇️ Descargar vídeo:\n{url}\n\n"
                              f"📋 TÍTULO:\n{title}\n\n📋 DESCRIPCIÓN:\n{description}")
     finally:
