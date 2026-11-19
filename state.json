@@ -8061,6 +8061,18 @@
    "views": 93,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "HungryBumblingAardvarkSuperVinlin-FLnzebJyqU1XurmX": {
+   "t": 1795062353.0833857,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Clip misterioso de Carola",
+   "url": "https://www.twitch.tv/carola/clip/HungryBumblingAardvarkSuperVinlin-FLnzebJyqU1XurmX",
+   "login": "carola",
+   "views": 162,
+   "duration": 27.9
   }
  }
 }
