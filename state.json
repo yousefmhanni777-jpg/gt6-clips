@@ -11689,6 +11689,18 @@
    "views": 23,
    "duration": 18.2,
    "formato": "normal: sin cámara detectada"
+  },
+  "TacitGentleJackalKappaRoss-2PCIlrnEyFEie88b": {
+   "t": 1795122049.224752,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "IlloJuan solo dice ¡Gracias!",
+   "url": "https://www.twitch.tv/illojuan/clip/TacitGentleJackalKappaRoss-2PCIlrnEyFEie88b",
+   "login": "illojuan",
+   "views": 154,
+   "duration": 30
   }
  }
 }
