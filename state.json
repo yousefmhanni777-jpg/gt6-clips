@@ -8872,11 +8872,17 @@
    "formato": "normal: sin cámara detectada"
   },
   "CuriousIcyFlamingoPMSTwin-KBeAIxTZ72rD6Z7R": {
-   "t": 1795075678.8014202,
+   "t": 1795078309.6507251,
    "streamer": "IlloJuan",
-   "status": "error",
-   "tries": 1,
-   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "IlloJuan borra GTA 6 por memoria muscular",
+   "url": "https://www.twitch.tv/illojuan/clip/CuriousIcyFlamingoPMSTwin-KBeAIxTZ72rD6Z7R",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 53.7,
+   "formato": "normal: sin cámara detectada"
   },
   "RealJazzyWombatImGlitch-iKiu4KpvsL5uJZxP": {
    "t": 1795075681.6487896,
@@ -9014,6 +9020,19 @@
    "login": "illojuan",
    "views": 2,
    "duration": 46.8,
+   "formato": "normal: sin cámara detectada"
+  },
+  "VainManlyBeanStoneLightning-Bv9WYylxkYzLgOmi": {
+   "t": 1795078239.4108436,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan entra por primera vez en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/VainManlyBeanStoneLightning-Bv9WYylxkYzLgOmi",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 48.6,
    "formato": "normal: sin cámara detectada"
   }
  }
