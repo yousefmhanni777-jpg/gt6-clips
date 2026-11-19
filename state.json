@@ -8793,6 +8793,31 @@
    "views": 129,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "StrangeSplendidRadishAliens-oFPETWMrlD-XxlL6": {
+   "t": 1795074365.7549036,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "IlloJuan se vuelve loco con GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/StrangeSplendidRadishAliens-oFPETWMrlD-XxlL6",
+   "login": "illojuan",
+   "views": 6,
+   "duration": 29.7,
+   "formato": "normal: sin cámara detectada"
+  },
+  "BlatantPoorGazelleUWot-ZMw6bUiVMv54CDzk": {
+   "t": 1795074368.7187207,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay en modo zent",
+   "url": "https://www.twitch.tv/auronplay/clip/BlatantPoorGazelleUWot-ZMw6bUiVMv54CDzk",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 30
   }
  }
 }
