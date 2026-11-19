@@ -11776,6 +11776,18 @@
    "views": 24,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "AnimatedNicePoxDxCat-DeDF31EVM-PNn7jv": {
+   "t": 1795123353.9624333,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "AuronPlay se desata contra Agustín",
+   "url": "https://www.twitch.tv/auronplay/clip/AnimatedNicePoxDxCat-DeDF31EVM-PNn7jv",
+   "login": "auronplay",
+   "views": 31,
+   "duration": 30
   }
  }
 }
