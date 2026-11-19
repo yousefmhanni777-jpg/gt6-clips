@@ -7132,6 +7132,18 @@
    "views": 64,
    "duration": 50,
    "formato": "normal: sin cámara detectada"
+  },
+  "SingleGrossHareRlyTho-YA7slXgKRIPLj7Os": {
+   "t": 1795047175.2802932,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Carola y su desayuno caótico",
+   "url": "https://www.twitch.tv/carola/clip/SingleGrossHareRlyTho-YA7slXgKRIPLj7Os",
+   "login": "carola",
+   "views": 117,
+   "duration": 29.7
   }
  }
 }
