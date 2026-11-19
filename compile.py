@@ -77,15 +77,34 @@ def render_intro(work, title, subtitle, brand):
     return out
 
 
-def render_segment(work, idx, src, rank, clip, brand):
+def subtitles(work, idx, src, clip, cfg):
+    """Subtítulos en español del clip (traducidos si el streamer habla otro idioma): [(inicio, fin, texto)]."""
+    try:
+        audio = work / f"aud_{idx:03d}.mp3"
+        p.extract_audio(src, audio)
+        lang = clip.get("lang") or "es"
+        tr = p.clean_transcript(p.groq_transcribe(audio, cfg["groq"]["transcribe_model"], lang))
+        segs = tr.get("segments") or []
+        if lang != "es" and segs:
+            segs = p.groq_translate_segments(cfg["groq"]["llm_model"], segs, lang)
+        return [(float(g["start"]), float(g["end"]), g["text"].strip()) for g in segs if g["text"].strip()]
+    except Exception as e:  # sin subtítulos antes que sin clip
+        p.log(f"[{clip['streamer']}] sin subtítulos: {e}")
+        return []
+
+
+def render_segment(work, idx, src, rank, clip, brand, subs=()):
     ass = work / f"seg_{idx:03d}.ass"
-    ass.write_text(ass_doc(
+    doc = ass_doc(
         [box_style("R", brand["font"], 64, brand["color"], 7, 50, 50),
          text_style("H", brand["font"], 54, 7, 50, margin_v=150),
-         text_style("C", brand["font"], 38, 3, 40, alpha="30")],
+         text_style("C", brand["font"], 38, 3, 40, alpha="30"),
+         text_style("S", brand["font"], 64 if CH > CW else 58, 2, 60, margin_v=CH // 4 if CH > CW else 110)],
         [("R", f"#{rank}  {clip['streamer'].upper()}"),
          ("H", clip["hook"].upper()),
-         ("C", f"twitch.tv/{clip['login']}  ·  {brand['handle']}")]), encoding="utf-8")
+         ("C", f"twitch.tv/{clip['login']}  ·  {brand['handle']}")])
+    doc += "".join(f"Dialogue: 1,{p.ass_time(a)},{p.ass_time(b)},S,,0,0,0,,{p.ass_escape(t)}\n" for a, b, t in subs)
+    ass.write_text(doc, encoding="utf-8")
     out = work / f"seg_{idx:03d}.mp4"
     if CH > CW:  # vertical (TikTok): el clip en el centro sobre su propia imagen desenfocada
         vf = (f"[0:v]scale={CW}:{CH}:force_original_aspect_ratio=increase,crop={CW}:{CH},boxblur=25:2,"
@@ -187,7 +206,7 @@ def main():
             try:
                 src = work / f"src_{i:03d}.mp4"
                 p.download(c["url"], src)
-                seg = render_segment(work, i, src, c["rank"], c, brand)
+                seg = render_segment(work, i, src, c["rank"], c, brand, subtitles(work, i, src, c, cfg))
             except Exception as e:
                 p.log(f"[{c['streamer']}] se salta: {e}")
                 continue

@@ -67,12 +67,12 @@ facecam_boxes:
   lamejorclase: [0.773, 0.330, 0.225, 0.235]
   padexxx_:     [0.000, 0.385, 0.208, 0.207]
 
-# Cazador de bugs (cualquier idioma) para las recopilaciones: se guardan en state.json, no van a Telegram.
+# Cazador de bugs y reacciones (cualquier idioma) para las recopilaciones: se guardan en state.json, no van a Telegram.
 bug_hunt:
   since: "2026-11-18T11:00:00Z"   # desde el lanzamiento
   min_views: 50                    # con "bug" o parecido en el título
-  review_views: 2000               # sin pista en el título: la IA mira si es un bug
-  per_run: 2                       # por vuelta del bucle, para no gastar el cupo de la IA de golpe
+  review_views: 1000               # sin pista en el título: la IA lo clasifica (bug, reacción...)
+  per_run: 3                       # por vuelta del bucle, para no gastar el cupo de la IA de golpe
   pages: 10                        # hasta 1.000 clips más vistos desde el lanzamiento
   keywords: [bug, glitch, broken, "\\bwtf\\b", bugad, bugou, buggy, "баг", "глюк", "фейл", fehler, "バグ", "버그", "bugg", "błąd", "falla", "se buge"]
 

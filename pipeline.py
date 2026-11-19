@@ -392,11 +392,14 @@ def process(clip, cfg, dry_run):
         meta = {"score": score, "cat": cat, "hook": hook, "url": clip["url"], "login": login,
                 "views": clip.get("view_count", 0), "duration": clip.get("duration", 0)}
         log(f"[{streamer}] IA: {cat} publicar={verdict.get('publicar')} nota={score} · {verdict.get('motivo', '')}")
-        if clip.get("hunt"):  # bug para recopilación: se guarda con su gancho en español, sin vídeo ni Telegram
-            # Vale si la IA lo ve como bug o el título lo dice claro ("wtf" solo no basta).
-            if cat != "bug" and not re.search(r"bug|glitch|баг|глюк|バグ|버그", clip.get("title", ""), re.I):
-                return {"status": "descartado", **meta}
-            return {"status": "guardado", **meta, "cat": "bug", "lang": lang, "title": clip.get("title", "")}
+        if clip.get("hunt"):  # para recopilaciones: se guarda con su gancho en español, sin vídeo ni Telegram
+            extra = {"lang": lang, "title": clip.get("title", "")}
+            # Bug si la IA lo ve así o el título lo dice claro ("wtf" solo no basta).
+            if cat == "bug" or re.search(r"bug|glitch|баг|глюк|バグ|버그", clip.get("title", ""), re.I):
+                return {"status": "guardado", **meta, "cat": "bug", **extra}
+            if cat in ("reaccion", "gracioso", "epico") and score >= cfg["selection"]["min_score"]:
+                return {"status": "guardado", **meta, **extra}
+            return {"status": "descartado", **meta}
         if not clip.get("forced") and (not verdict.get("publicar") or score < cfg["selection"]["min_score"]):
             return {"status": "descartado", **meta}
 
@@ -446,9 +449,10 @@ def process(clip, cfg, dry_run):
 
 
 def bug_hunt(tw, games, state, hunt):
-    """Bugs de streamers de cualquier idioma para las recopilaciones: se guardan, no se mandan a Telegram.
+    """Bugs y reacciones de streamers de cualquier idioma para las recopilaciones: se guardan, no van a Telegram.
 
-    Mira los clips más vistos del juego desde `since` y se queda con los que tienen pinta de bug en el título.
+    Mira los clips más vistos del juego desde `since`: primero los que tienen pinta de bug en el título,
+    luego los muy vistos, que la IA clasifica (bug, reacción, gracioso, épico).
     """
     if not hunt or not games:
         return []
@@ -459,7 +463,7 @@ def bug_hunt(tw, games, state, hunt):
             for c in tw.pages("clips", {"game_id": gid, "first": 100, "started_at": start}, hunt.get("pages", 5)):
                 if not (pending(state, c["id"]) and c["duration"] >= 8):
                     continue
-                # Título con pinta de bug, o clip muy visto que la IA revisa por si es un bug sin decirlo.
+                # Título con pinta de bug, o clip muy visto que la IA clasifica.
                 if kw.search(c.get("title", "")) and c["view_count"] >= hunt["min_views"]:
                     found[c["id"]] = (0, -c["view_count"], c)
                 elif c["view_count"] >= hunt["review_views"] and c["id"] not in found:
@@ -469,7 +473,7 @@ def bug_hunt(tw, games, state, hunt):
         c["broadcaster_login"] = re.sub(r"[^a-z0-9_]", "", c["broadcaster_name"].lower()) or c["broadcaster_id"]
         c["hunt"] = True
     if found:
-        log(f"cazador de bugs: {len(found)} candidatos, proceso {len(picked)}")
+        log(f"cazador (bugs y reacciones de todo el mundo): {len(found)} candidatos, proceso {len(picked)}")
     return picked
 
 
