@@ -12357,6 +12357,31 @@
    "login": "rubius",
    "views": 11,
    "duration": 30
+  },
+  "AggressiveAnnoyingFlamingoJKanStyle-u0zECQN02dowvFu9": {
+   "t": 1795132455.8971004,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco con su chat: ¡bro?",
+   "url": "https://www.twitch.tv/djmariio/clip/AggressiveAnnoyingFlamingoJKanStyle-u0zECQN02dowvFu9",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "RudeAcceptableCobblerBloodTrail-nO7HtSBryZqJDmRb": {
+   "t": 1795132458.008253,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "que fue eso",
+   "url": "https://www.twitch.tv/rubius/clip/RudeAcceptableCobblerBloodTrail-nO7HtSBryZqJDmRb",
+   "login": "rubius",
+   "views": 9,
+   "duration": 30
   }
  }
 }
