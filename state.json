@@ -7561,6 +7561,31 @@
    "views": 53,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "PolishedSpotlessHamsterNotATK-UJ3g2sDeGyEdjOnc": {
+   "t": 1795054466.9827394,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Carola habla de cámaras y OBS",
+   "url": "https://www.twitch.tv/carola/clip/PolishedSpotlessHamsterNotATK-UJ3g2sDeGyEdjOnc",
+   "login": "carola",
+   "views": 101,
+   "duration": 30
+  },
+  "BoringSuccessfulWerewolfNerfBlueBlaster-z8YqATTQsQB75DuO": {
+   "t": 1795054560.539485,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "IlloJuan se descontrola al borrar GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/BoringSuccessfulWerewolfNerfBlueBlaster-z8YqATTQsQB75DuO",
+   "login": "illojuan",
+   "views": 852,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
