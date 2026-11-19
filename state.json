@@ -9163,6 +9163,31 @@
    "login": "arigameplays",
    "views": 10,
    "duration": 50.8
+  },
+  "CrispyHomelySandpiperVoteYea-MWreDkQq7W_XBJ8_": {
+   "t": 1795081071.4158547,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "AuronPlay grita: ¡Lávate el pelo, guarro!",
+   "url": "https://www.twitch.tv/auronplay/clip/CrispyHomelySandpiperVoteYea-MWreDkQq7W_XBJ8_",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "TangibleStupidPig4Head-FsPH8yODw760pMAa": {
+   "t": 1795081074.8802934,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Carola reacciona a GTA VI",
+   "url": "https://www.twitch.tv/carola/clip/TangibleStupidPig4Head-FsPH8yODw760pMAa",
+   "login": "carola",
+   "views": 129,
+   "duration": 41.6
   }
  }
 }
