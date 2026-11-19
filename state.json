@@ -8990,6 +8990,18 @@
    "views": 3,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "SpotlessHardAsparagusPermaSmug-pPrWF8oKmK8R6wBE": {
+   "t": 1795077705.3697712,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "AuronPlay sorprendido sin razón aparente",
+   "url": "https://www.twitch.tv/auronplay/clip/SpotlessHardAsparagusPermaSmug-pPrWF8oKmK8R6wBE",
+   "login": "auronplay",
+   "views": 5,
+   "duration": 30
   }
  }
 }
