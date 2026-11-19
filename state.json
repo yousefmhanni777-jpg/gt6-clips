@@ -12169,6 +12169,18 @@
    "views": 98,
    "duration": 47.5,
    "formato": "normal: sin cámara detectada"
+  },
+  "LivelyBlitheManateeShadyLulu-byhgXss5Xo7iCGfz": {
+   "t": 1795129365.6259716,
+   "streamer": "FolagorLives",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "folagorlives 19-11 23:59 chat x2.5",
+   "url": "https://www.twitch.tv/folagorlives/clip/LivelyBlitheManateeShadyLulu-byhgXss5Xo7iCGfz",
+   "login": "folagorlives",
+   "views": 59,
+   "duration": 30
   }
  }
 }
