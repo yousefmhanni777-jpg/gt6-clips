@@ -11,6 +11,11 @@ streamers:
   - elspreen
   - quackity
   - djmariio
+  - pereira7
+  - vegetta777
+  - alexby11
+  - folagorlives
+  - vicens
 
 # Solo clips de estos juegos (nombre exacto en Twitch). Si no se encuentra, no se filtra.
 games:
@@ -23,8 +28,9 @@ selection:
   max_per_run: 5         # clips procesados por vuelta (cada ~90 s)
   stream_viewers_factor: 50  # clip nuevo sin vistas aún: vale si el directo tiene >= 50x las vistas mínimas
   boost: {djmariio: 10}  # prioridad al ordenar: sus clips casi no suman vistas y sin esto nunca llegaban arriba
-  priority: [djmariio]   # sus clips van siempre primero (hasta su tope por hora)
-  streamer_min_views: {djmariio: 2}   # su chat no ve los clips durante el directo: casi todos tienen 2 vistas
+  # Españoles primero (lo que mejor funciona en las cuentas): sus clips van siempre delante en la cola.
+  priority: [illojuan, auronplay, pereira7, djmariio, rubius, ibai, thegrefg, elxokas, vegetta777, alexby11, folagorlives, vicens]
+  streamer_min_views: {djmariio: 2, illojuan: 2, auronplay: 2, pereira7: 2}   # su chat no ve los clips durante el directo: casi todos tienen 2 vistas
   streamer_max_per_hour: {}   # sin tope por streamer (antes: {djmariio: 5, "*": 4})
   max_per_hour: 1000       # tope de vídeos enviados a Telegram por hora (se envían los que más rápido suben)
   min_score: 4           # nota mínima (1-10) que da la IA para enviarlo
