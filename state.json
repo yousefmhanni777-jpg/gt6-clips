@@ -11453,6 +11453,18 @@
    "views": 86,
    "duration": 13.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "DeadDependableKimchiBigBrother-qaYOail_hCpoCd_b": {
+   "t": 1795118039.7556174,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "TheGrefg sin sentido, ¿qué pasa?",
+   "url": "https://www.twitch.tv/thegrefg/clip/DeadDependableKimchiBigBrother-qaYOail_hCpoCd_b",
+   "login": "thegrefg",
+   "views": 129,
+   "duration": 30
   }
  }
 }
