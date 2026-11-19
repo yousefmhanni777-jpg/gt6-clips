@@ -7686,6 +7686,30 @@
    "views": 54,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "CarefulKathishSheepFloof-55lULRWofTNymCga": {
+   "t": 1795056452.2498047,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "PELON",
+   "url": "https://www.twitch.tv/carola/clip/CarefulKathishSheepFloof-55lULRWofTNymCga",
+   "login": "carola",
+   "views": 127,
+   "duration": 30
+  },
+  "OptimisticNiceSageLitFam-KopnHYvnWrqvSJ4D": {
+   "t": 1795056455.0204828,
+   "streamer": "Nissaxter",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Nissaxter sorprende con este momento",
+   "url": "https://www.twitch.tv/nissaxter/clip/OptimisticNiceSageLitFam-KopnHYvnWrqvSJ4D",
+   "login": "nissaxter",
+   "views": 56,
+   "duration": 60
   }
  }
 }
