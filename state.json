@@ -12092,6 +12092,18 @@
    "views": 5,
    "duration": 24.6,
    "formato": "normal: sin cámara detectada"
+  },
+  "ArbitraryAverageFriseeVoteNay-XcsJ5eykN0HTRlEq": {
+   "t": 1795128220.3569276,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius reacciona a GTA 6 en 3 min",
+   "url": "https://www.twitch.tv/rubius/clip/ArbitraryAverageFriseeVoteNay-XcsJ5eykN0HTRlEq",
+   "login": "rubius",
+   "views": 29,
+   "duration": 30
   }
  }
 }
