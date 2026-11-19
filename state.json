@@ -8618,6 +8618,31 @@
    "login": "elfedelobo",
    "views": 146,
    "duration": 59.9
+  },
+  "CrypticTawdryHerringUWot-o9_Xub3jIcnPhBPR": {
+   "t": 1795071501.723884,
+   "streamer": "rivers_gg",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "rivers_gg suelta una reacción épica y graciosa",
+   "url": "https://www.twitch.tv/rivers_gg/clip/CrypticTawdryHerringUWot-o9_Xub3jIcnPhBPR",
+   "login": "rivers_gg",
+   "views": 186,
+   "duration": 18.7,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SmilingDeterminedPeppermintCeilingCat-ZLGNC3kn9lGOGEYv": {
+   "t": 1795071503.7720768,
+   "streamer": "ElFedelobo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "ElFedelobo reacciona a GTA 6",
+   "url": "https://www.twitch.tv/elfedelobo/clip/SmilingDeterminedPeppermintCeilingCat-ZLGNC3kn9lGOGEYv",
+   "login": "elfedelobo",
+   "views": 146,
+   "duration": 30
   }
  }
 }
