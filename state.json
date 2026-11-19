@@ -7271,6 +7271,31 @@
    "views": 9,
    "duration": 30,
    "formato": "cara arriba"
+  },
+  "FaintTenderDelicataMVGame-qYs6bTugXxUKfDtg": {
+   "t": 1795049691.4046311,
+   "streamer": "tvandeR",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "tvandeR sin nada interesante",
+   "url": "https://www.twitch.tv/tvander/clip/FaintTenderDelicataMVGame-qYs6bTugXxUKfDtg",
+   "login": "tvander",
+   "views": 46,
+   "duration": 22.1
+  },
+  "StormyRudeYakTwitchRaid-wLOb7BeU2t9uNTLE": {
+   "t": 1795049767.2706847,
+   "streamer": "HITBOXKING",
+   "status": "enviado",
+   "score": 8,
+   "cat": "curiosidad",
+   "hook": "HITBOXKING revela cómo jugar GTA 6 a 60fps con IA",
+   "url": "https://www.twitch.tv/hitboxking/clip/StormyRudeYakTwitchRaid-wLOb7BeU2t9uNTLE",
+   "login": "hitboxking",
+   "views": 219,
+   "duration": 55.5,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
