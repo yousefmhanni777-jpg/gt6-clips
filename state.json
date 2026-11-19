@@ -7347,6 +7347,13 @@
    "views": 43,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "BashfulObliqueDadArgieB8-WSRDXy2xy3oaoKIK": {
+   "t": 1795050722.6471639,
+   "streamer": "DjMaRiiO",
+   "status": "error",
+   "tries": 1,
+   "error": "Telegram: 502 {\"ok\":false,\"error_code\":502,\"description\":\"Bad Gateway\"}"
   }
  }
 }
