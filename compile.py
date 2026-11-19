@@ -224,7 +224,11 @@ def main():
                "-movflags", "+faststart", str(out)], cwd=work)
         p.log(f"recopilación: {out.name} · {mmss(duration(out))} · {out.stat().st_size // 2**20} MB")
 
-        texts = ai_texts(cfg["groq"]["llm_model"], len(ok), ok, kind["about"])
+        try:
+            texts = ai_texts(cfg["groq"]["llm_model"], len(ok), ok, kind["about"])
+        except Exception as e:  # sin cupo de IA: título y descripción por defecto, el vídeo sale igual
+            p.log(f"textos por defecto: {e}")
+            texts = {}
         credits = "\n".join(sorted({f"twitch.tv/{c['login']}" for c in ok}))
         description = (f"{texts.get('descripcion', '')}\n\n⏱️ Capítulos\n" + "\n".join(chapters) +
                        f"\n\n🎥 Créditos a los streamers:\n{credits}\n\n"
