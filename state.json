@@ -10990,6 +10990,31 @@
    "login": "djmariio",
    "views": 35,
    "duration": 30
+  },
+  "FurtivePlausibleSandpiperMau5--0sfMr1dafXiqc0m": {
+   "t": 1795110678.824799,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 7,
+   "cat": "bug",
+   "hook": "Rubius se queja de los bugs de GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/FurtivePlausibleSandpiperMau5--0sfMr1dafXiqc0m",
+   "login": "rubius",
+   "views": 1575,
+   "duration": 59.9,
+   "formato": "cara arriba"
+  },
+  "VivaciousDelightfulPlumageKeepo-ZNBGSZ7B1-i3R7qp": {
+   "t": 1795110681.7665267,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius en GTA VI: ¿qué pasa?",
+   "url": "https://www.twitch.tv/rubius/clip/VivaciousDelightfulPlumageKeepo-ZNBGSZ7B1-i3R7qp",
+   "login": "rubius",
+   "views": 1575,
+   "duration": 30
   }
  }
 }
