@@ -9817,6 +9817,31 @@
    "views": 139,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "SeductiveWimpySwallowCharlieBitMe-xdu8JhB9GRuJv_Oj": {
+   "t": 1795091485.1363993,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Imantado reacciona a GTA 6: ¡Vamos!",
+   "url": "https://www.twitch.tv/imantado/clip/SeductiveWimpySwallowCharlieBitMe-xdu8JhB9GRuJv_Oj",
+   "login": "imantado",
+   "views": 147,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "LitigiousCrowdedTeaDoggo-dHY9C6HnTRgZ5iQu": {
+   "t": 1795091488.3949618,
+   "streamer": "Peereira7",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Peereira7 lanza insultos sin contexto",
+   "url": "https://www.twitch.tv/peereira7/clip/LitigiousCrowdedTeaDoggo-dHY9C6HnTRgZ5iQu",
+   "login": "peereira7",
+   "views": 141,
+   "duration": 30
   }
  }
 }
