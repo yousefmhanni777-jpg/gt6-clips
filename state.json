@@ -11652,6 +11652,18 @@
    "views": 121,
    "duration": 30.1,
    "formato": "normal: sin cámara detectada"
+  },
+  "HedonisticSplendidLettuceOSkomodo-D0sNK4oTQlTjVmvB": {
+   "t": 1795121323.6342664,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO repite sin sentido",
+   "url": "https://www.twitch.tv/djmariio/clip/HedonisticSplendidLettuceOSkomodo-D0sNK4oTQlTjVmvB",
+   "login": "djmariio",
+   "views": 153,
+   "duration": 20
   }
  }
 }
