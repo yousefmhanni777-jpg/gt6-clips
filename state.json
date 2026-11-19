@@ -11427,6 +11427,13 @@
    "views": 195,
    "duration": 29.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "CorrectAggressiveGazelleCoolStoryBro-a0GtgIrvGcDoIBNh": {
+   "t": 1795117629.7512426,
+   "streamer": "DjMaRiiO",
+   "status": "error",
+   "tries": 1,
+   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
   }
  }
 }
