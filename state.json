@@ -9741,6 +9741,31 @@
    "login": "illojuan",
    "views": 2,
    "duration": 55.3
+  },
+  "TenderResoluteWatermelonKippa-ii5h3OA_hAO8NCHV": {
+   "t": 1795090283.6657789,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Imantado se vuelve loco con el chat en GTA VI",
+   "url": "https://www.twitch.tv/imantado/clip/TenderResoluteWatermelonKippa-ii5h3OA_hAO8NCHV",
+   "login": "imantado",
+   "views": 126,
+   "duration": 45,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ThankfulPoisedWerewolfKAPOW-mDEKtNFHvHoNqZT0": {
+   "t": 1795090287.2633162,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Imantado sin voz, ¿qué pasó?",
+   "url": "https://www.twitch.tv/imantado/clip/ThankfulPoisedWerewolfKAPOW-mDEKtNFHvHoNqZT0",
+   "login": "imantado",
+   "views": 126,
+   "duration": 30
   }
  }
 }
