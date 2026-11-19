@@ -7349,11 +7349,17 @@
    "formato": "normal: sin cámara detectada"
   },
   "BashfulObliqueDadArgieB8-WSRDXy2xy3oaoKIK": {
-   "t": 1795050722.6471639,
+   "t": 1795050948.0269005,
    "streamer": "DjMaRiiO",
-   "status": "error",
-   "tries": 1,
-   "error": "Telegram: 502 {\"ok\":false,\"error_code\":502,\"description\":\"Bad Gateway\"}"
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco en su primer GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/BashfulObliqueDadArgieB8-WSRDXy2xy3oaoKIK",
+   "login": "djmariio",
+   "views": 4,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
