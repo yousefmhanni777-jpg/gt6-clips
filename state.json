@@ -8202,6 +8202,19 @@
    "login": "imantado",
    "views": 21,
    "duration": 60
+  },
+  "ObeseSucculentHerringTBTacoLeft-3W_XtcRT05pGjWik": {
+   "t": 1795064753.3106346,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 7,
+   "cat": "bug",
+   "hook": "Imantado se queda atrapado en una puerta imposible",
+   "url": "https://www.twitch.tv/imantado/clip/ObeseSucculentHerringTBTacoLeft-3W_XtcRT05pGjWik",
+   "login": "imantado",
+   "views": 139,
+   "duration": 44.9,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
