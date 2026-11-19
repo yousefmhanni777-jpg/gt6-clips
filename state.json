@@ -7473,6 +7473,18 @@
    "views": 41,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "TentativeKnottyLouseOMGScoots-nbXi5UgJh3-Nh_Sm": {
+   "t": 1795052870.2862928,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Carola charla sin momentos destacados",
+   "url": "https://www.twitch.tv/carola/clip/TentativeKnottyLouseOMGScoots-nbXi5UgJh3-Nh_Sm",
+   "login": "carola",
+   "views": 116,
+   "duration": 30
   }
  }
 }
