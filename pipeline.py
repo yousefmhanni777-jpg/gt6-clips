@@ -202,7 +202,7 @@ def groq_translate_segments(model, segments, lang):
 
 def groq_judge(model, streamer, title, views, transcript, lang="es"):
     return groq_chat_json(model, PROMPT.format(
-        streamer=streamer, title=title, views=views, lang=lang, transcript=transcript[:3000] or "(sin voz)"), 0.4)
+        streamer=streamer, title=title, views=views, lang=lang, transcript=transcript[:1500] or "(sin voz)"), 0.4)
 
 
 # ---------------------------------------------------------------- Subtítulos ASS

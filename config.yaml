@@ -25,7 +25,7 @@ selection:
   window_hours: 3        # buscar clips creados en las últimas N horas
   min_views: 30          # vistas mínimas del clip en Twitch
   min_duration: 12       # segundos (menos de esto no se entiende qué pasa)
-  max_per_run: 5         # clips procesados por vuelta (cada ~90 s)
+  max_per_run: 3         # clips procesados por vuelta (cada ~90 s)
   stream_viewers_factor: 50  # clip nuevo sin vistas aún: vale si el directo tiene >= 50x las vistas mínimas
   boost: {djmariio: 10}  # prioridad al ordenar: sus clips casi no suman vistas y sin esto nunca llegaban arriba
   # Españoles primero (lo que mejor funciona en las cuentas): sus clips van siempre delante en la cola.
@@ -71,8 +71,8 @@ facecam_boxes:
 bug_hunt:
   since: "2026-11-18T11:00:00Z"   # desde el lanzamiento
   min_views: 50                    # con "bug" o parecido en el título
-  review_views: 1000               # sin pista en el título: la IA lo clasifica (bug, reacción...)
-  per_run: 3                       # por vuelta del bucle, para no gastar el cupo de la IA de golpe
+  review_views: 100000000          # sin pista en el título: la IA lo clasificaría. Apagado: gasta el cupo diario de Groq (200.000 tokens/modelo)
+  per_run: 1                       # por vuelta del bucle, para no gastar el cupo de la IA de golpe
   pages: 10                        # hasta 1.000 clips más vistos desde el lanzamiento
   keywords: [bug, glitch, broken, "\\bwtf\\b", bugad, bugou, buggy, "баг", "глюк", "фейл", fehler, "バグ", "버그", "bugg", "błąd", "falla", "se buge"]
 
