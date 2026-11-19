@@ -9316,6 +9316,30 @@
    "views": 140,
    "duration": 41.7,
    "formato": "normal: sin cámara detectada"
+  },
+  "ObliviousPeacefulSageCoolCat-UZoKepVjWLOzfqM0": {
+   "t": 1795083257.1938808,
+   "streamer": "rivers_gg",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rivers_gg sin voz: ¿qué pasa?",
+   "url": "https://www.twitch.tv/rivers_gg/clip/ObliviousPeacefulSageCoolCat-UZoKepVjWLOzfqM0",
+   "login": "rivers_gg",
+   "views": 3,
+   "duration": 60
+  },
+  "RichNurturingSageHumbleLife-7F0mknoLnpYjPZak": {
+   "t": 1795083259.7300677,
+   "streamer": "AriGameplays",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "AriGameplays reacciona a un misterio en GTA 6",
+   "url": "https://www.twitch.tv/arigameplays/clip/RichNurturingSageHumbleLife-7F0mknoLnpYjPZak",
+   "login": "arigameplays",
+   "views": 8,
+   "duration": 30
   }
  }
 }
