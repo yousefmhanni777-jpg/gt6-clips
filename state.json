@@ -11478,6 +11478,31 @@
    "views": 143,
    "duration": 15.3,
    "formato": "normal: sin cámara detectada"
+  },
+  "CorrectZealousWitchRiPepperonis-jqMryh-2Js7e4x_J": {
+   "t": 1795118578.9722335,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO reacciona a GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/CorrectZealousWitchRiPepperonis-jqMryh-2Js7e4x_J",
+   "login": "djmariio",
+   "views": 11,
+   "duration": 57.4
+  },
+  "HumbleDeafAxeKappaWealth-IfTPfvsJ3LXs_QiA": {
+   "t": 1795118629.1528296,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Rubius enloquece: ¡2 hippies menos!",
+   "url": "https://www.twitch.tv/rubius/clip/HumbleDeafAxeKappaWealth-IfTPfvsJ3LXs_QiA",
+   "login": "rubius",
+   "views": 28,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
