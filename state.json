@@ -11966,6 +11966,18 @@
    "views": 45,
    "duration": 37.8,
    "formato": "normal: sin cámara detectada"
+  },
+  "SpeedyUnusualAnacondaPMSTwin-pWR3WWSLfGZmTHlN": {
+   "t": 1795126365.2456217,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "y Voló",
+   "url": "https://www.twitch.tv/rubius/clip/SpeedyUnusualAnacondaPMSTwin-pWR3WWSLfGZmTHlN",
+   "login": "rubius",
+   "views": 86,
+   "duration": 30
   }
  }
 }
