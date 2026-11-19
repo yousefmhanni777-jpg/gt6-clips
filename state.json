@@ -10287,6 +10287,30 @@
    "views": 37,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "BlitheOilyElephantHoneyBadger-8QlmyqbScs4Mx-0n": {
+   "t": 1795098734.7186246,
+   "streamer": "FolagorLives",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "FolagorLives sin nada relevante...",
+   "url": "https://www.twitch.tv/folagorlives/clip/BlitheOilyElephantHoneyBadger-8QlmyqbScs4Mx-0n",
+   "login": "folagorlives",
+   "views": 111,
+   "duration": 44.9
+  },
+  "AbstruseTangentialWebHotPokket-zpARxvhK3le0hxgS": {
+   "t": 1795098737.1866288,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasa en GTA VI? Imantado lo explica",
+   "url": "https://www.twitch.tv/imantado/clip/AbstruseTangentialWebHotPokket-zpARxvhK3le0hxgS",
+   "login": "imantado",
+   "views": 140,
+   "duration": 30
   }
  }
 }
