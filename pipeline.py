@@ -57,6 +57,20 @@ class Twitch:
         r.raise_for_status()
         return r.json()["data"]
 
+    def pages(self, path, params, n):
+        """Hasta n páginas seguidas de resultados (Twitch da 100 como mucho por página)."""
+        out, after = [], None
+        for _ in range(n):
+            r = requests.get(f"https://api.twitch.tv/helix/{path}", headers=self.h,
+                             params={**params, **({"after": after} if after else {})}, timeout=20)
+            r.raise_for_status()
+            d = r.json()
+            out += d["data"]
+            after = d.get("pagination", {}).get("cursor")
+            if not after:
+                break
+        return out
+
     def user_ids(self, logins):
         data = self.get("users", [("login", l) for l in logins])
         found = {u["login"].lower(): u["id"] for u in data}
@@ -378,6 +392,11 @@ def process(clip, cfg, dry_run):
         meta = {"score": score, "cat": cat, "hook": hook, "url": clip["url"], "login": login,
                 "views": clip.get("view_count", 0), "duration": clip.get("duration", 0)}
         log(f"[{streamer}] IA: {cat} publicar={verdict.get('publicar')} nota={score} · {verdict.get('motivo', '')}")
+        if clip.get("hunt"):  # bug para recopilación: se guarda con su gancho en español, sin vídeo ni Telegram
+            # Vale si la IA lo ve como bug o el título lo dice claro ("wtf" solo no basta).
+            if cat != "bug" and not re.search(r"bug|glitch|баг|глюк|バグ|버그", clip.get("title", ""), re.I):
+                return {"status": "descartado", **meta}
+            return {"status": "guardado", **meta, "cat": "bug", "lang": lang, "title": clip.get("title", "")}
         if not clip.get("forced") and (not verdict.get("publicar") or score < cfg["selection"]["min_score"]):
             return {"status": "descartado", **meta}
 
@@ -424,6 +443,34 @@ def process(clip, cfg, dry_run):
         return {"status": "enviado", **meta}
     finally:
         shutil.rmtree(work, ignore_errors=True)
+
+
+def bug_hunt(tw, games, state, hunt):
+    """Bugs de streamers de cualquier idioma para las recopilaciones: se guardan, no se mandan a Telegram.
+
+    Mira los clips más vistos del juego desde `since` y se queda con los que tienen pinta de bug en el título.
+    """
+    if not hunt or not games:
+        return []
+    kw = re.compile("|".join(hunt["keywords"]), re.I)
+    found = {}
+    for gid in games:
+        for start in (hunt["since"], (datetime.now(timezone.utc) - timedelta(hours=3)).strftime("%Y-%m-%dT%H:%M:%SZ")):
+            for c in tw.pages("clips", {"game_id": gid, "first": 100, "started_at": start}, hunt.get("pages", 5)):
+                if not (pending(state, c["id"]) and c["duration"] >= 8):
+                    continue
+                # Título con pinta de bug, o clip muy visto que la IA revisa por si es un bug sin decirlo.
+                if kw.search(c.get("title", "")) and c["view_count"] >= hunt["min_views"]:
+                    found[c["id"]] = (0, -c["view_count"], c)
+                elif c["view_count"] >= hunt["review_views"] and c["id"] not in found:
+                    found[c["id"]] = (1, -c["view_count"], c)
+    picked = [c for _, _, c in sorted(found.values(), key=lambda t: t[:2])][:hunt["per_run"]]
+    for c in picked:
+        c["broadcaster_login"] = re.sub(r"[^a-z0-9_]", "", c["broadcaster_name"].lower()) or c["broadcaster_id"]
+        c["hunt"] = True
+    if found:
+        log(f"cazador de bugs: {len(found)} candidatos, proceso {len(picked)}")
+    return picked
 
 
 def main():
@@ -542,6 +589,7 @@ def main():
         if room == 0:
             log(f"tope de {sel['max_per_hour']} vídeos/hora alcanzado; espero")
         candidates = candidates[:min(sel["max_per_run"], room)]
+        candidates += bug_hunt(tw, games, state, cfg.get("bug_hunt"))
 
     log(f"{len(candidates)} clips a procesar")
     for c in candidates:
