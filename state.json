@@ -8367,6 +8367,30 @@
    "views": 157,
    "duration": 15,
    "formato": "normal: sin cámara detectada"
+  },
+  "SaltyReliableSalsifyShadyLulu-sG6uvTA_eTbXy6p1": {
+   "t": 1795067425.180772,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin nada interesante...",
+   "url": "https://www.twitch.tv/djmariio/clip/SaltyReliableSalsifyShadyLulu-sG6uvTA_eTbXy6p1",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 60
+  },
+  "CrypticBloodyScorpionChocolateRain-DiYNmpiUlIqYiw8Q": {
+   "t": 1795067428.3392081,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Carola reacciona a GTA 6",
+   "url": "https://www.twitch.tv/carola/clip/CrypticBloodyScorpionChocolateRain-DiYNmpiUlIqYiw8Q",
+   "login": "carola",
+   "views": 169,
+   "duration": 30
   }
  }
 }
