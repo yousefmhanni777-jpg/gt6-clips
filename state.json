@@ -11540,6 +11540,37 @@
    "login": "djmariio",
    "views": 5,
    "duration": 30
+  },
+  "SparklingSuccessfulUdonJebaited-AvV11mp5C_BbGM9y": {
+   "t": 1795119792.9684782,
+   "streamer": "TheGrefg",
+   "status": "error",
+   "tries": 1,
+   "error": "Telegram: 502 {\"ok\":false,\"error_code\":502,\"description\":\"Bad Gateway\"}"
+  },
+  "FilthyTenuousWoodcockANELE-nNrsMNrlFD2Lp334": {
+   "t": 1795119795.0461173,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "AuronPlay suelta una frase inesperada",
+   "url": "https://www.twitch.tv/auronplay/clip/FilthyTenuousWoodcockANELE-nNrsMNrlFD2Lp334",
+   "login": "auronplay",
+   "views": 11,
+   "duration": 41
+  },
+  "BitterWanderingLyrebirdPJSugar-aNGOtUgwMMIWxC47": {
+   "t": 1795119796.9074435,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius reacciona a un tema musical en GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/BitterWanderingLyrebirdPJSugar-aNGOtUgwMMIWxC47",
+   "login": "rubius",
+   "views": 7,
+   "duration": 20.4
   }
  }
 }
