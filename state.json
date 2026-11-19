@@ -9201,6 +9201,18 @@
    "views": 9,
    "duration": 19.6,
    "formato": "normal: sin cámara detectada"
+  },
+  "HeartlessAffluentGnatOSsloth-q0N2Dw1yw0VWdSAx": {
+   "t": 1795081496.3586614,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "lag",
+   "url": "https://www.twitch.tv/illojuan/clip/HeartlessAffluentGnatOSsloth-q0N2Dw1yw0VWdSAx",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 30
   }
  }
 }
