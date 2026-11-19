@@ -8010,6 +8010,31 @@
    "views": 147,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "CrispyArbitraryPhoneBudBlast-ITF45_ZrBtfPwzG5": {
+   "t": 1795061820.3218744,
+   "streamer": "Carola",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Carola se vuelve loco con su 'tío de fiesta'",
+   "url": "https://www.twitch.tv/carola/clip/CrispyArbitraryPhoneBudBlast-ITF45_ZrBtfPwzG5",
+   "login": "carola",
+   "views": 157,
+   "duration": 58,
+   "formato": "normal: sin cámara detectada"
+  },
+  "StylishAlertRuffSoonerLater-erLElY5Ev3__kHbP": {
+   "t": 1795061823.8029602,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Carola reacciona a GTA 6",
+   "url": "https://www.twitch.tv/carola/clip/StylishAlertRuffSoonerLater-erLElY5Ev3__kHbP",
+   "login": "carola",
+   "views": 157,
+   "duration": 60
   }
  }
 }
