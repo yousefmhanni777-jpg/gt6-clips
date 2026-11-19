@@ -8718,6 +8718,31 @@
    "views": 166,
    "duration": 44.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "BlightedPreciousRamenKappaPride-Fl7Nlw4ZZZTND-2y": {
+   "t": 1795073174.2585108,
+   "streamer": "AriGameplays",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "AriGameplays sin sentido total",
+   "url": "https://www.twitch.tv/arigameplays/clip/BlightedPreciousRamenKappaPride-Fl7Nlw4ZZZTND-2y",
+   "login": "arigameplays",
+   "views": 96,
+   "duration": 59.9
+  },
+  "LuckyLuckyInternKreygasm-KcYXccMCD1HmA5GC": {
+   "t": 1795073223.2974193,
+   "streamer": "elcamacho24",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "Elcamacho24 se vuelve borracho en GTA 6",
+   "url": "https://www.twitch.tv/elcamacho24/clip/LuckyLuckyInternKreygasm-KcYXccMCD1HmA5GC",
+   "login": "elcamacho24",
+   "views": 3,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
