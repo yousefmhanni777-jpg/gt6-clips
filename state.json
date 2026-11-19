@@ -8517,6 +8517,30 @@
    "views": 232,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "HedonisticUninterestedDonkeyVoteNay-UWmQEmF1W1wOeoUt": {
+   "t": 1795069948.9256139,
+   "streamer": "rivers_gg",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Rivers_gg reacciona sin mucho sentido",
+   "url": "https://www.twitch.tv/rivers_gg/clip/HedonisticUninterestedDonkeyVoteNay-UWmQEmF1W1wOeoUt",
+   "login": "rivers_gg",
+   "views": 221,
+   "duration": 30
+  },
+  "AstuteSavageCoyotePermaSmug-5dxPxwAfqQ3zfxmP": {
+   "t": 1795069951.279135,
+   "streamer": "rivers_gg",
+   "status": "descartado",
+   "score": 2,
+   "cat": "reaccion",
+   "hook": "Rivers se vuelve loco en GTA VI",
+   "url": "https://www.twitch.tv/rivers_gg/clip/AstuteSavageCoyotePermaSmug-5dxPxwAfqQ3zfxmP",
+   "login": "rivers_gg",
+   "views": 221,
+   "duration": 30
   }
  }
 }
