@@ -9667,6 +9667,18 @@
    "views": 3,
    "duration": 18.2,
    "formato": "normal: sin cámara detectada"
+  },
+  "OptimisticEphemeralYakWOOP-QabMovulfr7To4gO": {
+   "t": 1795088937.5244985,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Imantado sin nada relevante",
+   "url": "https://www.twitch.tv/imantado/clip/OptimisticEphemeralYakWOOP-QabMovulfr7To4gO",
+   "login": "imantado",
+   "views": 62,
+   "duration": 30
   }
  }
 }
