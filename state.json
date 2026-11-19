@@ -9138,6 +9138,31 @@
    "views": 117,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "KindExquisiteChickpeaEagleEye-4h0k5bWL8LFhrscG": {
+   "t": 1795080603.0268078,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona a los comentarios locos de Snapmatic",
+   "url": "https://www.twitch.tv/illojuan/clip/KindExquisiteChickpeaEagleEye-4h0k5bWL8LFhrscG",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 36.5,
+   "formato": "normal: sin cámara detectada"
+  },
+  "KitschyFlirtyMageFunRun-PC1IfDBb7FpIe6nM": {
+   "t": 1795080605.231296,
+   "streamer": "AriGameplays",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "AriGameplays reacciona a GTA 6",
+   "url": "https://www.twitch.tv/arigameplays/clip/KitschyFlirtyMageFunRun-PC1IfDBb7FpIe6nM",
+   "login": "arigameplays",
+   "views": 10,
+   "duration": 50.8
   }
  }
 }
