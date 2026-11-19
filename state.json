@@ -11429,11 +11429,30 @@
    "formato": "normal: sin cámara detectada"
   },
   "CorrectAggressiveGazelleCoolStoryBro-a0GtgIrvGcDoIBNh": {
-   "t": 1795117629.7512426,
+   "t": 1795117908.2280936,
    "streamer": "DjMaRiiO",
-   "status": "error",
-   "tries": 1,
-   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO: ¡El peor aim de GTA 6!",
+   "url": "https://www.twitch.tv/djmariio/clip/CorrectAggressiveGazelleCoolStoryBro-a0GtgIrvGcDoIBNh",
+   "login": "djmariio",
+   "views": 21,
+   "duration": 60,
+   "formato": "cara arriba"
+  },
+  "ShortRoundWalrusANELE-68wXEo-TOR6d9Maw": {
+   "t": 1795117933.4696066,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "IlloJuan se vuelve loco en la discoteca",
+   "url": "https://www.twitch.tv/illojuan/clip/ShortRoundWalrusANELE-68wXEo-TOR6d9Maw",
+   "login": "illojuan",
+   "views": 86,
+   "duration": 13.9,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
