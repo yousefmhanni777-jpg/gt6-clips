@@ -8292,6 +8292,31 @@
    "views": 7,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "NurturingGrotesqueYogurtSeemsGood-2Qs94fEKGqU9eiV4": {
+   "t": 1795066228.5752773,
+   "streamer": "SrTumbao",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "SrTumbao se enfada con la cámara en GTA 6",
+   "url": "https://www.twitch.tv/srtumbao/clip/NurturingGrotesqueYogurtSeemsGood-2Qs94fEKGqU9eiV4",
+   "login": "srtumbao",
+   "views": 39,
+   "duration": 56.2,
+   "formato": "normal: sin cámara detectada"
+  },
+  "RespectfulDelightfulWaspCorgiDerp-Y_T-OQCya-2VPa6t": {
+   "t": 1795066232.4506905,
+   "streamer": "CursedFiber78",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "CursedFiber78 en modo caos total",
+   "url": "https://www.twitch.tv/cursedfiber78/clip/RespectfulDelightfulWaspCorgiDerp-Y_T-OQCya-2VPa6t",
+   "login": "cursedfiber78",
+   "views": 32,
+   "duration": 49.9
   }
  }
 }
