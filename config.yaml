@@ -66,6 +66,7 @@ facecam_boxes:
   quackitytoo:  [0.000, 0.380, 0.146, 0.198]
   lamejorclase: [0.773, 0.330, 0.225, 0.235]
   padexxx_:     [0.000, 0.385, 0.208, 0.207]
+  auronplay:    [0.010, 0.385, 0.175, 0.267]
 
 # Cazador de bugs y reacciones (cualquier idioma) para las recopilaciones: se guardan en state.json, no van a Telegram.
 bug_hunt:
