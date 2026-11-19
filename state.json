@@ -7798,6 +7798,18 @@
    "views": 57,
    "duration": 17.8,
    "formato": "normal: sin cámara detectada"
+  },
+  "BlindingZanyNikudonKippa-p2Acj3XbBVVu64it": {
+   "t": 1795058148.3502305,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Carola reacciona a algo inesperado",
+   "url": "https://www.twitch.tv/carola/clip/BlindingZanyNikudonKippa-p2Acj3XbBVVu64it",
+   "login": "carola",
+   "views": 140,
+   "duration": 60
   }
  }
 }
