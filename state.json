@@ -9894,6 +9894,31 @@
    "views": 171,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "StrongHomelyGnatDendiFace-fDI5NxMffIJvk7Gn": {
+   "t": 1795092720.2609339,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan enloquece con el GOTY de GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/StrongHomelyGnatDendiFace-fDI5NxMffIJvk7Gn",
+   "login": "illojuan",
+   "views": 5,
+   "duration": 40,
+   "formato": "normal: sin cámara detectada"
+  },
+  "CrunchyCarelessLarkChocolateRain-Zc_7FlNilKE6bMq7": {
+   "t": 1795092723.0513952,
+   "streamer": "Peereira7",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Peereira7 dice: ¡No, cariño!",
+   "url": "https://www.twitch.tv/peereira7/clip/CrunchyCarelessLarkChocolateRain-Zc_7FlNilKE6bMq7",
+   "login": "peereira7",
+   "views": 151,
+   "duration": 30
   }
  }
 }
