@@ -12663,6 +12663,32 @@
    "views": 161,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "EsteemedAlertWebTheRinger-TUyhkSD2OVUghtAJ": {
+   "t": 1795137311.923824,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco con el coche imposible",
+   "url": "https://www.twitch.tv/djmariio/clip/EsteemedAlertWebTheRinger-TUyhkSD2OVUghtAJ",
+   "login": "djmariio",
+   "views": 199,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SmokyTawdryKimchiGOWSkull-nyvG_XSeMHduY2-w": {
+   "t": 1795137349.27627,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 7,
+   "cat": "bug",
+   "hook": "DjMaRiiO se queda sin coche en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/SmokyTawdryKimchiGOWSkull-nyvG_XSeMHduY2-w",
+   "login": "djmariio",
+   "views": 199,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
