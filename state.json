@@ -16902,6 +16902,31 @@
    "login": "djmariio",
    "views": 2,
    "duration": 45
+  },
+  "SeductiveTolerantManateeAllenHuhu-2Wnp_4PiqWv3cnA_": {
+   "t": 1795205537.1930952,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona a la animación de llegar a casa",
+   "url": "https://www.twitch.tv/djmariio/clip/SeductiveTolerantManateeAllenHuhu-2Wnp_4PiqWv3cnA_",
+   "login": "djmariio",
+   "views": 151,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "RamshackleFineDogePraiseIt-mw2KDynfyERrMQmz": {
+   "t": 1795205539.5864093,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Clip sin acción relevante",
+   "url": "https://www.twitch.tv/djmariio/clip/RamshackleFineDogePraiseIt-mw2KDynfyERrMQmz",
+   "login": "djmariio",
+   "views": 151,
+   "duration": 59.9
   }
  }
 }
