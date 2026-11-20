@@ -16927,6 +16927,20 @@
    "login": "djmariio",
    "views": 151,
    "duration": 59.9
+  },
+  "ObeseBenevolentKalePanicBasket-GgzSln1vRdDwXq-D": {
+   "t": 1795205778.506307,
+   "streamer": "IlloJuan",
+   "status": "error",
+   "tries": 1,
+   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  },
+  "TenderClearSalmonStoneLightning-ud5gdIir69PLlqUP": {
+   "t": 1795205813.3163068,
+   "streamer": "DjMaRiiO",
+   "status": "error",
+   "tries": 1,
+   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   }
  }
 }
