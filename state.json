@@ -17075,6 +17075,26 @@
    "views": 50,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "TangibleLightCocoaBCWarrior-puXPduyjQeY3QkEI": {
+   "t": 1795209079.3107946,
+   "streamer": "DjMaRiiO",
+   "status": "error",
+   "tries": 1,
+   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
+  },
+  "TardyVibrantBeaverCoolStoryBob--n6-RAstGVfPJY3N": {
+   "t": 1795209173.8857589,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona al caos de GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/TardyVibrantBeaverCoolStoryBob--n6-RAstGVfPJY3N",
+   "login": "djmariio",
+   "views": 5,
+   "duration": 40.3,
+   "formato": "cara arriba"
   }
  }
 }
