@@ -14509,6 +14509,18 @@
    "views": 32,
    "duration": 45,
    "formato": "normal: sin cámara detectada"
+  },
+  "TenuousSmoothGuanacoRiPepperonis-bQREj9mCQzrlmTp6": {
+   "t": 1795169781.083789,
+   "streamer": "elcamacho24",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Elcamacho24 sin nada que mostrar...",
+   "url": "https://www.twitch.tv/elcamacho24/clip/TenuousSmoothGuanacoRiPepperonis-bQREj9mCQzrlmTp6",
+   "login": "elcamacho24",
+   "views": 29,
+   "duration": 44.9
   }
  }
 }
