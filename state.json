@@ -15211,6 +15211,58 @@
    "views": 120,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "AdventurousFunCodCharlieBitMe-gQpFblYxURXJICKk": {
+   "t": 1795180604.9950821,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 7,
+   "cat": "epico",
+   "hook": "DjMaRiiO en una persecución épica de GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/AdventurousFunCodCharlieBitMe-gQpFblYxURXJICKk",
+   "login": "djmariio",
+   "views": 3,
+   "duration": 27,
+   "formato": "cara arriba"
+  },
+  "ThoughtfulDeafGalagoPartyTime-Y89LAj_t8SP9CgPu": {
+   "t": 1795180636.693104,
+   "streamer": "paache_",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Paache_ reacciona a GTA 6: ¡la transición más guapa!",
+   "url": "https://www.twitch.tv/paache_/clip/ThoughtfulDeafGalagoPartyTime-Y89LAj_t8SP9CgPu",
+   "login": "paache_",
+   "views": 47,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "PuzzledCautiousYakinikuYee-H5X_VEPoFxZyZ73W": {
+   "t": 1795180640.292497,
+   "streamer": "paache_",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasa en este clip? 🤔",
+   "url": "https://www.twitch.tv/paache_/clip/PuzzledCautiousYakinikuYee-H5X_VEPoFxZyZ73W",
+   "login": "paache_",
+   "views": 47,
+   "duration": 30
+  },
+  "CulturedSleepyClipzAMPEnergyCherry-8IQtbimg3yVQa6Mz": {
+   "t": 1795180642.1586251,
+   "streamer": "bratishkinOFF",
+   "status": "guardado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "¡Brutal bug de GTA 6 con bratishkinOFF!",
+   "url": "https://www.twitch.tv/bratishkinoff/clip/CulturedSleepyClipzAMPEnergyCherry-8IQtbimg3yVQa6Mz",
+   "login": "bratishkinoff",
+   "views": 121,
+   "duration": 12.4,
+   "lang": "ru",
+   "title": "Поймал БАГ"
   }
  }
 }
