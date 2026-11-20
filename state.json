@@ -16709,11 +16709,16 @@
    "formato": "cara arriba"
   },
   "BrainyBoredSpindleTBCheesePull-bLWcehKIAb-tN79B": {
-   "t": 1795201977.105382,
+   "t": 1795203860.9187098,
    "streamer": "IlloJuan",
-   "status": "error",
-   "tries": 1,
-   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando en GTA 6?",
+   "url": "https://www.twitch.tv/illojuan/clip/BrainyBoredSpindleTBCheesePull-bLWcehKIAb-tN79B",
+   "login": "illojuan",
+   "views": 20,
+   "duration": 30
   },
   "SmellyExuberantWatercressTakeNRG-977ccvDN3u-LPS1k": {
    "t": 1795202986.7714524,
@@ -16813,6 +16818,19 @@
    "login": "djmariio",
    "views": 2,
    "duration": 30
+  },
+  "BitterCrepuscularIcecreamSSSsss-5VjlprVy3zjO6Wwb": {
+   "t": 1795203858.7454839,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se asusta en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/BitterCrepuscularIcecreamSSSsss-5VjlprVy3zjO6Wwb",
+   "login": "djmariio",
+   "views": 156,
+   "duration": 36,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
