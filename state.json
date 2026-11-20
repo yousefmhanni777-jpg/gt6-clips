@@ -16707,6 +16707,32 @@
    "views": 64,
    "duration": 12.4,
    "formato": "cara arriba"
+  },
+  "BrainyBoredSpindleTBCheesePull-bLWcehKIAb-tN79B": {
+   "t": 1795201977.105382,
+   "streamer": "IlloJuan",
+   "status": "error",
+   "tries": 1,
+   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
+  },
+  "SmellyExuberantWatercressTakeNRG-977ccvDN3u-LPS1k": {
+   "t": 1795202152.305108,
+   "streamer": "Rubius",
+   "status": "error",
+   "tries": 1,
+   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
+  },
+  "ManlyColdbloodedSaladDxAbomb-3Jeg_Nk6W9w_xmAm": {
+   "t": 1795202154.540799,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "IlloJuan sin nada que mostrar",
+   "url": "https://www.twitch.tv/illojuan/clip/ManlyColdbloodedSaladDxAbomb-3Jeg_Nk6W9w_xmAm",
+   "login": "illojuan",
+   "views": 56,
+   "duration": 30
   }
  }
 }
