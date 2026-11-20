@@ -13204,6 +13204,31 @@
    "login": "illojuan",
    "views": 2,
    "duration": 13
+  },
+  "RoughDullToadPogChamp-1C2egSF8kjNsYsOX": {
+   "t": 1795145746.7210994,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin nada épico ni gracioso",
+   "url": "https://www.twitch.tv/djmariio/clip/RoughDullToadPogChamp-1C2egSF8kjNsYsOX",
+   "login": "djmariio",
+   "views": 5,
+   "duration": 30
+  },
+  "EnchantingHyperBubbleteaMingLee-1Rzez2Mclo8ezK0g": {
+   "t": 1795145806.9605963,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona al delfín en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/EnchantingHyperBubbleteaMingLee-1Rzez2Mclo8ezK0g",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 34,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
