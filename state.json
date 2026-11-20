@@ -17567,6 +17567,31 @@
    "views": 8,
    "duration": 24.2,
    "formato": "cara arriba"
+  },
+  "ArtisticSarcasticSquirrelOSsloth-pklXEbMytEoYfJf8": {
+   "t": 1795217574.662526,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius sin palabras en GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/ArtisticSarcasticSquirrelOSsloth-pklXEbMytEoYfJf8",
+   "login": "rubius",
+   "views": 11,
+   "duration": 30
+  },
+  "SucculentPlumpGoatCeilingCat-QQo18AoyVtkPkSam": {
+   "t": 1795217639.1822789,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Auronplay robando tiendas en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/SucculentPlumpGoatCeilingCat-QQo18AoyVtkPkSam",
+   "login": "auronplay",
+   "views": 3,
+   "duration": 60,
+   "formato": "cara arriba"
   }
  }
 }
