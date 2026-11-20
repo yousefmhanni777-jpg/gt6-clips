@@ -16883,6 +16883,25 @@
    "views": 12,
    "duration": 23.2,
    "formato": "cara arriba"
+  },
+  "LazyNimbleMeerkatDxAbomb-x0xBrUq3alDJm03r": {
+   "t": 1795205135.220098,
+   "streamer": "IlloJuan",
+   "status": "error",
+   "tries": 1,
+   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
+  },
+  "BeautifulHyperHamsterOhMyDog-XAhAfqerYya6Zu3Y": {
+   "t": 1795205137.340353,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO sorprende con su reacción en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/BeautifulHyperHamsterOhMyDog-XAhAfqerYya6Zu3Y",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 45
   }
  }
 }
