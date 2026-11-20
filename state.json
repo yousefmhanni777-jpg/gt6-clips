@@ -13129,6 +13129,31 @@
    "views": 2,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "ColorfulPerfectCarabeefPogChamp-VJlhOO1rsY5tp5K-": {
+   "t": 1795144557.3746228,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "AuronPlay reacciona al trailer de GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/ColorfulPerfectCarabeefPogChamp-VJlhOO1rsY5tp5K-",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 36.7,
+   "formato": "cara arriba"
+  },
+  "HappyCreativeLeopardResidentSleeper-HIZnB4_r6plpv9K1": {
+   "t": 1795144559.8572557,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "AuronPlay y su charla sin sentido",
+   "url": "https://www.twitch.tv/auronplay/clip/HappyCreativeLeopardResidentSleeper-HIZnB4_r6plpv9K1",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 52
   }
  }
 }
