@@ -16078,6 +16078,31 @@
    "login": "auronplay",
    "views": 4,
    "duration": 30
+  },
+  "HomelyGlutenFreePrariedogVoteYea-tWg5ZjHMUgDwLwYa": {
+   "t": 1795191875.2980697,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/HomelyGlutenFreePrariedogVoteYea-tWg5ZjHMUgDwLwYa",
+   "login": "auronplay",
+   "views": 4,
+   "duration": 23.6
+  },
+  "FunnyEnchantingPastaRitzMitz--lGWoq07BJzNRhSA": {
+   "t": 1795191902.8580835,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "IlloJuan se vuelve loco con su 'Re personal era'",
+   "url": "https://www.twitch.tv/illojuan/clip/FunnyEnchantingPastaRitzMitz--lGWoq07BJzNRhSA",
+   "login": "illojuan",
+   "views": 6,
+   "duration": 15.3,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
