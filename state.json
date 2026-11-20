@@ -14046,6 +14046,31 @@
    "views": 20,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "GoldenFaintDadItsBoshyTime-MHyL0taH2wgjpSfA": {
+   "t": 1795159307.5428433,
+   "streamer": "PattyMeza",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "PattyMeza reacciona al canal de Snapmatic",
+   "url": "https://www.twitch.tv/pattymeza/clip/GoldenFaintDadItsBoshyTime-MHyL0taH2wgjpSfA",
+   "login": "pattymeza",
+   "views": 4,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SincereFlirtyRuffTheRinger-G6uNCmY86xsYN__I": {
+   "t": 1795159310.2975216,
+   "streamer": "PattyMeza",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "PattyMeza sin sentido en GTA 6",
+   "url": "https://www.twitch.tv/pattymeza/clip/SincereFlirtyRuffTheRinger-G6uNCmY86xsYN__I",
+   "login": "pattymeza",
+   "views": 3,
+   "duration": 60
   }
  }
 }
