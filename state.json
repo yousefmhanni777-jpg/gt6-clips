@@ -14599,6 +14599,18 @@
    "views": 30,
    "duration": 44.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "FrigidAntsyPicklesPRChase-0Z9LrW6qP26kttuk": {
+   "t": 1795173417.429593,
+   "streamer": "elcamacho24",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Elcamacho24 sin nada que mostrar...",
+   "url": "https://www.twitch.tv/elcamacho24/clip/FrigidAntsyPicklesPRChase-0Z9LrW6qP26kttuk",
+   "login": "elcamacho24",
+   "views": 31,
+   "duration": 45
   }
  }
 }
