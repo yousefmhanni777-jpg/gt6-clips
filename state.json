@@ -12510,6 +12510,18 @@
    "views": 4,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "CrypticSarcasticHippoCharlietheUnicorn-IxjxmGVwIjlwxkWM": {
+   "t": 1795134766.073418,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan sin nada interesante",
+   "url": "https://www.twitch.tv/illojuan/clip/CrypticSarcasticHippoCharlietheUnicorn-IxjxmGVwIjlwxkWM",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 19.3
   }
  }
 }
