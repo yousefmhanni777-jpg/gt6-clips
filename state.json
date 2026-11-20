@@ -15502,6 +15502,31 @@
    "login": "imantado",
    "views": 155,
    "duration": 30
+  },
+  "CleanHotRadishWholeWheat-27_VuDSCaT1qWRBD": {
+   "t": 1795182451.2838533,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "IlloJuan se vuelve loco con nombres aleatorios",
+   "url": "https://www.twitch.tv/illojuan/clip/CleanHotRadishWholeWheat-27_VuDSCaT1qWRBD",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "VivaciousOutstandingNostrilPhilosoraptor-Yjn0mXOgpiag54bD": {
+   "t": 1795182455.2862868,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Imantado sorprende con su reacción en GTA VI",
+   "url": "https://www.twitch.tv/imantado/clip/VivaciousOutstandingNostrilPhilosoraptor-Yjn0mXOgpiag54bD",
+   "login": "imantado",
+   "views": 164,
+   "duration": 60
   }
  }
 }
