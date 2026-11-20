@@ -14920,6 +14920,18 @@
    "views": 23,
    "duration": 48.5,
    "formato": "normal: sin cámara detectada"
+  },
+  "FuriousQuaintVampireUnSane-u8LdRiRNF7LMsRKh": {
+   "t": 1795178538.396331,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Auronplay canta en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/FuriousQuaintVampireUnSane-u8LdRiRNF7LMsRKh",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 60
   }
  }
 }
