@@ -14708,6 +14708,31 @@
    "views": 3,
    "duration": 13.2,
    "formato": "normal: sin cámara detectada"
+  },
+  "EnticingRealWombatFailFish-HWh4QHKyMwPI0cNR": {
+   "t": 1795176153.757163,
+   "streamer": "elcamacho24",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Elcamacho24 reacciona al Capítulo 2 de GTA 6",
+   "url": "https://www.twitch.tv/elcamacho24/clip/EnticingRealWombatFailFish-HWh4QHKyMwPI0cNR",
+   "login": "elcamacho24",
+   "views": 37,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AdorableBlushingMoonOSkomodo-rabYFhsnqMMFJKo7": {
+   "t": 1795176156.5001078,
+   "streamer": "jcorko_",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "jcorko_ sin nada sorprendente",
+   "url": "https://www.twitch.tv/jcorko_/clip/AdorableBlushingMoonOSkomodo-rabYFhsnqMMFJKo7",
+   "login": "jcorko_",
+   "views": 35,
+   "duration": 30
   }
  }
 }
