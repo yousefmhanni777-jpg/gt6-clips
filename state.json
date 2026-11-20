@@ -13996,6 +13996,30 @@
    "views": 20,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "PluckySpoopyJuicePMSTwin-nFN6Ces4QpLNIBHX": {
+   "t": 1795158457.2159967,
+   "streamer": "PattyMeza",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "PattyMeza: ¿Qué pasa con GTA VI?",
+   "url": "https://www.twitch.tv/pattymeza/clip/PluckySpoopyJuicePMSTwin-nFN6Ces4QpLNIBHX",
+   "login": "pattymeza",
+   "views": 28,
+   "duration": 45
+  },
+  "OpenTriumphantKeyboardSoonerLater-9Se8NlBBvtSli-Va": {
+   "t": 1795158459.5939798,
+   "streamer": "PattyMeza",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "PattyMeza reacciona sin palabras",
+   "url": "https://www.twitch.tv/pattymeza/clip/OpenTriumphantKeyboardSoonerLater-9Se8NlBBvtSli-Va",
+   "login": "pattymeza",
+   "views": 3,
+   "duration": 60
   }
  }
 }
