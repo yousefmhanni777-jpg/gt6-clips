@@ -17411,6 +17411,33 @@
    "views": 48,
    "duration": 15.4,
    "formato": "normal: sin cámara detectada"
+  },
+  "FunFlaccidPizzaCorgiDerp-WJ-NDPSTLzGuwnBD": {
+   "t": 1795214994.3561614,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Rubius se vuelve loco con la papaya",
+   "url": "https://www.twitch.tv/rubius/clip/FunFlaccidPizzaCorgiDerp-WJ-NDPSTLzGuwnBD",
+   "login": "rubius",
+   "views": 34,
+   "duration": 35.7,
+   "formato": "cara arriba",
+   "tiktok_req": "tt_FunFlaccidPizzaCorgiDerp-WJ-NDPSTLzGuwnBD",
+   "tiktok_t": 1795214933.6211088
+  },
+  "SavorySpineyHumanCoolStoryBro-qUgxIV-nv-cvH4QM": {
+   "t": 1795214998.5752609,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius solo charla en GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/SavorySpineyHumanCoolStoryBro-qUgxIV-nv-cvH4QM",
+   "login": "rubius",
+   "views": 5,
+   "duration": 59
   }
  }
 }
