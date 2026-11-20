@@ -13417,6 +13417,31 @@
    "login": "illojuan",
    "views": 2,
    "duration": 30
+  },
+  "EnthusiasticFrigidBatChocolateRain-GUFj3J6KIvAtW3_2": {
+   "t": 1795149156.3188589,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "AuronPlay y sus extraños momentos",
+   "url": "https://www.twitch.tv/auronplay/clip/EnthusiasticFrigidBatChocolateRain-GUFj3J6KIvAtW3_2",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 60
+  },
+  "OriginalSlickGrassOSkomodo-VV93Zm72P_hnNz4N": {
+   "t": 1795149197.2294297,
+   "streamer": "SrTumbao",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "SrTumbao en la pelea con la poli",
+   "url": "https://www.twitch.tv/srtumbao/clip/OriginalSlickGrassOSkomodo-VV93Zm72P_hnNz4N",
+   "login": "srtumbao",
+   "views": 35,
+   "duration": 37.7,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
