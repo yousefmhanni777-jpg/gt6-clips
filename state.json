@@ -12993,6 +12993,18 @@
    "views": 5,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "DreamyTangibleFlyArsonNoSexy-KsMJTtIodA5QCLH1": {
+   "t": 1795142248.888888,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Aterrizaje con estilo de AuronPlay",
+   "url": "https://www.twitch.tv/auronplay/clip/DreamyTangibleFlyArsonNoSexy-KsMJTtIodA5QCLH1",
+   "login": "auronplay",
+   "views": 4,
+   "duration": 30.5
   }
  }
 }
