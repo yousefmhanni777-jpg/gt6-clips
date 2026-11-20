@@ -83,6 +83,15 @@ brand:
   font: "Anton"
   hashtags: ["#gta6", "#gtavi", "#mundolibregt6", "#streamers", "#clips"]
 
+# Subida automática a TikTok con Upload-Post (secreto UPLOAD_POST_API_KEY en GitHub). Todo sigue llegando a Telegram.
+tiktok:
+  enabled: true
+  min_score: 7          # solo los clips con esta nota o más
+  per_day: 12           # TikTok deja 15 al día por cuenta: margen para subir alguno a mano
+  gap_minutes: 70       # separación mínima entre subidas: 12 vídeos repartidos de 10:00 a 24:00
+  from_hour: 10         # horario de subida (hora de España): de noche casi nadie lo ve
+  to_hour: 24
+
 groq:
   transcribe_model: whisper-large-v3
   llm_model: openai/gpt-oss-120b

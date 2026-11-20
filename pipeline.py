@@ -16,6 +16,7 @@ import sys
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
 import yaml
@@ -340,6 +341,80 @@ def send_telegram_text(text):
             raise RuntimeError(f"Telegram: {r.status_code} {r.text[:300]}")
 
 
+# ---------------------------------------------------------------- TikTok (Upload-Post)
+
+UPLOAD_POST = "https://api.upload-post.com/api"
+
+
+def upload_post_headers():
+    return {"Authorization": f"Apikey {env('UPLOAD_POST_API_KEY')}"}
+
+
+def upload_post_user():
+    """Perfil de Upload-Post con TikTok conectado (o el de UPLOAD_POST_USER si está puesto)."""
+    if os.environ.get("UPLOAD_POST_USER"):
+        return os.environ["UPLOAD_POST_USER"]
+    r = requests.get(f"{UPLOAD_POST}/uploadposts/users", headers=upload_post_headers(), timeout=30)
+    r.raise_for_status()
+    for prof in r.json().get("profiles", []):
+        if (prof.get("social_accounts") or {}).get("tiktok"):
+            return prof["username"]
+    raise RuntimeError("Upload-Post: ningún perfil tiene TikTok conectado")
+
+
+def tiktok_slot(state, cfg):
+    """Hay hueco para subir a TikTok: horario, tope diario (TikTok deja 15) y separación mínima entre vídeos."""
+    tt = cfg.get("tiktok") or {}
+    if not tt.get("enabled") or not os.environ.get("UPLOAD_POST_API_KEY"):
+        return False
+    if not tt["from_hour"] <= datetime.now(ZoneInfo("Europe/Madrid")).hour < tt["to_hour"]:
+        return False
+    now = time.time()
+    posts = [v["tiktok_t"] for v in state["processed"].values() if v.get("tiktok_t")]
+    return (sum(t > now - 86400 for t in posts) < tt["per_day"]
+            and all(t < now - tt["gap_minutes"] * 60 for t in posts))
+
+
+def post_tiktok(video, text, clip_id):
+    """Sube el vídeo a TikTok en segundo plano; devuelve el request_id para comprobarlo después."""
+    rid = f"tt_{clip_id}"[:200]
+    with open(video, "rb") as f:
+        r = requests.post(f"{UPLOAD_POST}/upload", headers={**upload_post_headers(), "Idempotency-Key": rid},
+                          data={"user": upload_post_user(), "platform[]": "tiktok", "title": text[:2200],
+                                "async_upload": "true", "request_id": rid},
+                          files={"video": (video.name, f, "video/mp4")}, timeout=600)
+    if not r.ok or not r.json().get("success"):
+        raise RuntimeError(f"Upload-Post: {r.status_code} {r.text[:300]}")
+    return r.json().get("request_id") or rid
+
+
+def check_tiktok(state):
+    """Avisa por Telegram de las subidas a TikTok que ya han terminado (publicadas o fallidas)."""
+    for v in state["processed"].values():
+        if not v.get("tiktok_req") or v.get("tiktok_status") or v["tiktok_t"] > time.time() - 180:
+            continue
+        try:
+            r = requests.get(f"{UPLOAD_POST}/uploadposts/status", headers=upload_post_headers(),
+                             params={"request_id": v["tiktok_req"]}, timeout=30)
+            d = r.json()
+        except Exception as e:
+            log(f"TikTok: no pude ver el estado de {v['tiktok_req']}: {e}")
+            continue
+        status = d.get("status")
+        res = next((x for x in d.get("results") or [] if x.get("platform") == "tiktok"), {})
+        if status == "completed" and res.get("success", True):
+            v["tiktok_status"] = "publicado"
+            link = res.get("post_url") or res.get("url") or ""
+            draft = " (ha ido a BORRADORES: TikTok ha puesto un tope diario)" if res.get("fallback_to_inbox") else ""
+            send_telegram_text(f"✅ Subido a TikTok{draft} · {v.get('streamer', '')}\n{v.get('hook', '')}\n{link}")
+        elif status in ("failed", "not_found") or (status == "completed" and not res.get("success", True)):
+            v["tiktok_status"] = "error"
+            err = res.get("error") or res.get("message") or d.get("error") or status
+            send_telegram_text(f"❌ Falló la subida a TikTok · {v.get('streamer', '')}\n{v.get('hook', '')}\n{str(err)[:300]}")
+        elif v["tiktok_t"] < time.time() - 6 * 3600:
+            v["tiktok_status"] = "sin respuesta"
+
+
 # ---------------------------------------------------------------- Orquestación
 
 def load_state():
@@ -367,7 +442,7 @@ def sent_last_hour(state):
                if v.get("status") == "enviado" and v.get("t", 0) > time.time() - 3600)
 
 
-def process(clip, cfg, dry_run):
+def process(clip, cfg, dry_run, state):
     brand = cfg["brand"]
     streamer = clip["broadcaster_name"]
     login = clip.get("broadcaster_login") or streamer.lower()
@@ -438,9 +513,22 @@ def process(clip, cfg, dry_run):
         caption = (warn + ("📸 " if cam else "") + CAT_LABEL.get(cat, "") + (f"🌍 {lang.upper()}→ES · " if lang != "es" else "") + f"⭐ {score}/10 · {streamer} · {clip.get('view_count', 0)} vistas en Twitch\n\n"
                    f"📋 TEXTO PARA PUBLICAR:\n{hook}\n\n{verdict.get('descripcion', '')}\n"
                    f"🎥 Créditos: twitch.tv/{login}\n{tags}\n\n🔗 Original: {clip['url']}")
+        tt = cfg.get("tiktok") or {}
         if dry_run:
             log("--- caption ---\n" + caption)
         else:
+            # TikTok: solo los mejores, sin música con copyright, y dentro del tope diario.
+            if (not clip.get("forced") and not verdict.get("musica")
+                    and score >= tt.get("min_score", 11) and tiktok_slot(state, cfg)):
+                text = f"{hook}\n\n{verdict.get('descripcion', '')}\n🎥 twitch.tv/{login}\n{tags}"
+                try:
+                    meta["tiktok_req"] = post_tiktok(out, text, clip["id"])
+                    meta["tiktok_t"] = time.time()
+                    caption = "📲 SUBIENDO A TIKTOK SOLO\n" + caption
+                    log(f"[{streamer}] subiendo a TikTok ({meta['tiktok_req']})")
+                except Exception as e:
+                    log(f"[{streamer}] TikTok: {e}")
+                    caption = f"❌ No se pudo subir a TikTok: {str(e)[:200]}\n" + caption
             send_telegram(out, caption)
             out.unlink()
         return {"status": "enviado", **meta}
@@ -487,6 +575,8 @@ def main():
     sel = cfg["selection"]
     tw = Twitch(env("TWITCH_CLIENT_ID"), env("TWITCH_CLIENT_SECRET"))
     state = load_state()
+    if os.environ.get("UPLOAD_POST_API_KEY") and not args.dry_run:
+        check_tiktok(state)
 
     if args.clip:
         slug = args.clip.rstrip("/").split("/")[-1].split("?")[0]
@@ -598,7 +688,7 @@ def main():
     log(f"{len(candidates)} clips a procesar")
     for c in candidates:
         try:
-            result = process(c, cfg, args.dry_run)
+            result = process(c, cfg, args.dry_run, state)
         except GroqBusy as e:  # sin cupo de IA: no se marca, se reintenta en la siguiente vuelta
             log(f"{e}; paro esta vuelta")
             break
