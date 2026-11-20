@@ -15353,6 +15353,31 @@
    "login": "agustin51",
    "views": 42,
    "duration": 30
+  },
+  "EncouragingEphemeralAnisePunchTrees-rw2aHNLH9zZqcU6K": {
+   "t": 1795181387.1463532,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Imantado sin auto, ¡qué locura!",
+   "url": "https://www.twitch.tv/imantado/clip/EncouragingEphemeralAnisePunchTrees-rw2aHNLH9zZqcU6K",
+   "login": "imantado",
+   "views": 145,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "LightSlipperyClintmullinsPermaSmug-N0ts6OaE31S0qkzM": {
+   "t": 1795181390.9362981,
+   "streamer": "agustin51",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "srgrsdgt",
+   "url": "https://www.twitch.tv/agustin51/clip/LightSlipperyClintmullinsPermaSmug-N0ts6OaE31S0qkzM",
+   "login": "agustin51",
+   "views": 48,
+   "duration": 51.8
   }
  }
 }
