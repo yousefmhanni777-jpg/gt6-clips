@@ -13718,6 +13718,31 @@
    "views": 3,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "DignifiedCoweringDonkeyYouWHY-5trV3W6YbwEEvHFn": {
+   "t": 1795153950.3599744,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "JAJAJAJ",
+   "url": "https://www.twitch.tv/auronplay/clip/DignifiedCoweringDonkeyYouWHY-5trV3W6YbwEEvHFn",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 60
+  },
+  "PricklyRenownedMartenTinyFace-SyDG3ELb8RfjCrxI": {
+   "t": 1795153987.34398,
+   "streamer": "SrTumbao",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "SrTumbao se enfada en GTA 6",
+   "url": "https://www.twitch.tv/srtumbao/clip/PricklyRenownedMartenTinyFace-SyDG3ELb8RfjCrxI",
+   "login": "srtumbao",
+   "views": 7,
+   "duration": 23.5,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
