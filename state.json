@@ -17175,6 +17175,13 @@
    "login": "djmariio",
    "views": 2,
    "duration": 30
+  },
+  "MotionlessEmpathicTermiteWOOP-m8JkwVH3JyuP_lrp": {
+   "t": 1795210833.7249374,
+   "streamer": "Rubius",
+   "status": "error",
+   "tries": 1,
+   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
   }
  }
 }
