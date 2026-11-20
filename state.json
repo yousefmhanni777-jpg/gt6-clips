@@ -13493,6 +13493,31 @@
    "login": "elfedelobo",
    "views": 107,
    "duration": 30
+  },
+  "TangibleBeautifulSkunkPRChase-TW4KDL6TNl0IweaD": {
+   "t": 1795150394.0906835,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan reacciona a algo inesperado",
+   "url": "https://www.twitch.tv/illojuan/clip/TangibleBeautifulSkunkPRChase-TW4KDL6TNl0IweaD",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 20.6
+  },
+  "LivelyKindButterHotPokket-S3NzZDjlrBuOdbv2": {
+   "t": 1795150439.8428197,
+   "streamer": "ElFedelobo",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "ElFedelobo se vuelve loco y dice \"Bañala\"",
+   "url": "https://www.twitch.tv/elfedelobo/clip/LivelyKindButterHotPokket-S3NzZDjlrBuOdbv2",
+   "login": "elfedelobo",
+   "views": 95,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
