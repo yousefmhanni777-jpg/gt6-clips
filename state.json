@@ -16716,11 +16716,17 @@
    "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
   },
   "SmellyExuberantWatercressTakeNRG-977ccvDN3u-LPS1k": {
-   "t": 1795202152.305108,
+   "t": 1795202986.7714524,
    "streamer": "Rubius",
-   "status": "error",
-   "tries": 1,
-   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "Rubius descubre una física de vapor loca en GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/SmellyExuberantWatercressTakeNRG-977ccvDN3u-LPS1k",
+   "login": "rubius",
+   "views": 44,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   },
   "ManlyColdbloodedSaladDxAbomb-3Jeg_Nk6W9w_xmAm": {
    "t": 1795202154.540799,
@@ -16770,6 +16776,18 @@
    "login": "djmariio",
    "views": 156,
    "duration": 59.9
+  },
+  "RacySourDolphinWholeWheat-8ga5Dh6_SPm4e6sm": {
+   "t": 1795202930.2107968,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasa en este clip?",
+   "url": "https://www.twitch.tv/illojuan/clip/RacySourDolphinWholeWheat-8ga5Dh6_SPm4e6sm",
+   "login": "illojuan",
+   "views": 121,
+   "duration": 30
   }
  }
 }
