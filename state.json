@@ -16034,6 +16034,26 @@
    "login": "djmariio",
    "views": 216,
    "duration": 30
+  },
+  "PunchyHeadstrongKleeThisIsSparta-3KNeCou981sWd78I": {
+   "t": 1795191272.5894318,
+   "streamer": "DjMaRiiO",
+   "status": "error",
+   "tries": 1,
+   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
+  },
+  "PowerfulRockyCider4Head-9rgGpFyN6_mJVJVl": {
+   "t": 1795191320.914997,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco con la estatuilla misteriosa",
+   "url": "https://www.twitch.tv/djmariio/clip/PowerfulRockyCider4Head-9rgGpFyN6_mJVJVl",
+   "login": "djmariio",
+   "views": 216,
+   "duration": 59.9,
+   "formato": "cara arriba"
   }
  }
 }
