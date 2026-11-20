@@ -17477,6 +17477,18 @@
    "views": 9,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "AgileCourteousSnailChefFrank-aXIZi2PwSvZcyxS2": {
+   "t": 1795215912.5614984,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius prueba el control en GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/AgileCourteousSnailChefFrank-aXIZi2PwSvZcyxS2",
+   "login": "rubius",
+   "views": 118,
+   "duration": 16.9
   }
  }
 }
