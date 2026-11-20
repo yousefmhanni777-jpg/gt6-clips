@@ -16929,18 +16929,44 @@
    "duration": 59.9
   },
   "ObeseBenevolentKalePanicBasket-GgzSln1vRdDwXq-D": {
-   "t": 1795205778.506307,
+   "t": 1795206368.6002378,
    "streamer": "IlloJuan",
    "status": "error",
-   "tries": 1,
-   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "tries": 2,
+   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
   },
   "TenderClearSalmonStoneLightning-ud5gdIir69PLlqUP": {
-   "t": 1795205813.3163068,
+   "t": 1795206522.512845,
    "streamer": "DjMaRiiO",
    "status": "error",
-   "tries": 1,
-   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "tries": 2,
+   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
+  },
+  "AwkwardSmallTrollYee-B6oPQCB0bW707bai": {
+   "t": 1795206524.2502227,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "SI LE DIO EL RELOJ",
+   "url": "https://www.twitch.tv/djmariio/clip/AwkwardSmallTrollYee-B6oPQCB0bW707bai",
+   "login": "djmariio",
+   "views": 3,
+   "duration": 15.8
+  },
+  "RockyNurturingDiscCopyThis-webUARxIwUcSOFfb": {
+   "t": 1795206526.717957,
+   "streamer": "Douglassola",
+   "status": "guardado",
+   "score": 7,
+   "cat": "bug",
+   "hook": "Douglassola descubre el primer bug de GTA 6",
+   "url": "https://www.twitch.tv/douglassola/clip/RockyNurturingDiscCopyThis-webUARxIwUcSOFfb",
+   "login": "douglassola",
+   "views": 1248,
+   "duration": 18.3,
+   "lang": "pt",
+   "title": "primeiro bug no gta6?"
   }
  }
 }
