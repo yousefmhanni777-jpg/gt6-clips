@@ -16103,6 +16103,18 @@
    "views": 6,
    "duration": 15.3,
    "formato": "normal: sin cámara detectada"
+  },
+  "HomelyCarefulSnoodRitzMitz-AE65oC4Pn65cCXIg": {
+   "t": 1795192106.003109,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "reaccion",
+   "hook": "Auronplay reacciona a algo inesperado",
+   "url": "https://www.twitch.tv/auronplay/clip/HomelyCarefulSnoodRitzMitz-AE65oC4Pn65cCXIg",
+   "login": "auronplay",
+   "views": 5,
+   "duration": 30
   }
  }
 }
