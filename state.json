@@ -17266,6 +17266,19 @@
    "status": "error",
    "tries": 1,
    "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
+  },
+  "ProudJoyousScallionNerfBlueBlaster-Y7ABvPksO8HFwbAM": {
+   "t": 1795212742.9963994,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "IlloJuan reacciona al chat: \"¿qué miras?\"",
+   "url": "https://www.twitch.tv/illojuan/clip/ProudJoyousScallionNerfBlueBlaster-Y7ABvPksO8HFwbAM",
+   "login": "illojuan",
+   "views": 2171,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
