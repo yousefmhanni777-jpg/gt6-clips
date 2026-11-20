@@ -15415,6 +15415,43 @@
    "login": "paache_",
    "views": 45,
    "duration": 30
+  },
+  "StormyKnottyLarkOSsloth-CbUqom_FSWJ06YaE": {
+   "t": 1795181664.946665,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay en GTA 6: ¡qué pasa aquí?",
+   "url": "https://www.twitch.tv/auronplay/clip/StormyKnottyLarkOSsloth-CbUqom_FSWJ06YaE",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 30
+  },
+  "NeighborlyHyperRadishCoolCat-0QED1IhbhnMzddav": {
+   "t": 1795181668.7161267,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando aquí?",
+   "url": "https://www.twitch.tv/carola/clip/NeighborlyHyperRadishCoolCat-0QED1IhbhnMzddav",
+   "login": "carola",
+   "views": 47,
+   "duration": 42.3
+  },
+  "OddUgliestLionUnSane-JSN7_P45L86jaI_W": {
+   "t": 1795181733.457358,
+   "streamer": "Carola",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Carola reacciona al caos de GTA 6",
+   "url": "https://www.twitch.tv/carola/clip/OddUgliestLionUnSane-JSN7_P45L86jaI_W",
+   "login": "carola",
+   "views": 47,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
