@@ -16251,6 +16251,31 @@
    "login": "auronplay",
    "views": 4,
    "duration": 25.3
+  },
+  "FaintPolishedSharkAllenHuhu-gZfeHazLrJYgPOOo": {
+   "t": 1795194704.6717944,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "IlloJuan borra GTA VI en directo 😂",
+   "url": "https://www.twitch.tv/illojuan/clip/FaintPolishedSharkAllenHuhu-gZfeHazLrJYgPOOo",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 55.8,
+   "formato": "normal: sin cámara detectada"
+  },
+  "RacyFlaccidParrotPrimeMe-6GITh6EGcEpf28hm": {
+   "t": 1795194706.7079706,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan agradece al chat",
+   "url": "https://www.twitch.tv/illojuan/clip/RacyFlaccidParrotPrimeMe-6GITh6EGcEpf28hm",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 30
   }
  }
 }
