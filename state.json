@@ -15452,6 +15452,44 @@
    "views": 47,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "LuckySmokyParrotVoteYea-KZ-Mz4NdlaIpKwdB": {
+   "t": 1795181903.5124874,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan se vuelve un malo malote en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/LuckySmokyParrotVoteYea-KZ-Mz4NdlaIpKwdB",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "CrispyBlightedZucchiniTheTarFu-yTcGXflkNOWTe7w8": {
+   "t": 1795181907.927003,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Carola reacciona a GTA 6 sin sentido",
+   "url": "https://www.twitch.tv/carola/clip/CrispyBlightedZucchiniTheTarFu-yTcGXflkNOWTe7w8",
+   "login": "carola",
+   "views": 50,
+   "duration": 59.9
+  },
+  "EncouragingRacyKoupreyFeelsBadMan-kAKJG1IAKSQY5fCD": {
+   "t": 1795181966.445417,
+   "streamer": "Carola",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Carola grita y corre en GTA 6: ¡qué locura!",
+   "url": "https://www.twitch.tv/carola/clip/EncouragingRacyKoupreyFeelsBadMan-kAKJG1IAKSQY5fCD",
+   "login": "carola",
+   "views": 50,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
