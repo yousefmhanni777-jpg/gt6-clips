@@ -15061,6 +15061,43 @@
    "views": 123,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "SpoopySuaveWoodpeckerDBstyle-QszEnnJbnEbcDqVo": {
+   "t": 1795179733.9701896,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Imantado reacciona a GTA 6",
+   "url": "https://www.twitch.tv/imantado/clip/SpoopySuaveWoodpeckerDBstyle-QszEnnJbnEbcDqVo",
+   "login": "imantado",
+   "views": 125,
+   "duration": 59.9
+  },
+  "VainPrettiestShrimpLeeroyJenkins-VUdn0yBOlvgoC4Hl": {
+   "t": 1795179738.855471,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Imantado sin sentido en GTA 6",
+   "url": "https://www.twitch.tv/imantado/clip/VainPrettiestShrimpLeeroyJenkins-VUdn0yBOlvgoC4Hl",
+   "login": "imantado",
+   "views": 125,
+   "duration": 59.9
+  },
+  "SnappyBrightKimchiRuleFive-eNsibxIIkLJ1Fx_4": {
+   "t": 1795179816.9692657,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 5,
+   "cat": "bug",
+   "hook": "Imantado reacciona a un bug épico en GTA 6",
+   "url": "https://www.twitch.tv/imantado/clip/SnappyBrightKimchiRuleFive-eNsibxIIkLJ1Fx_4",
+   "login": "imantado",
+   "views": 125,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
