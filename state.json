@@ -17261,11 +17261,17 @@
    "formato": "cara arriba"
   },
   "SmellySweetGrassTTours-92lG06mSToVzO4Bj": {
-   "t": 1795212410.7381074,
+   "t": 1795212889.0036106,
    "streamer": "IlloJuan",
-   "status": "error",
-   "tries": 1,
-   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona al evento de ciervos en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/SmellySweetGrassTTours-92lG06mSToVzO4Bj",
+   "login": "illojuan",
+   "views": 86,
+   "duration": 15.9,
+   "formato": "normal: sin cámara detectada"
   },
   "ProudJoyousScallionNerfBlueBlaster-Y7ABvPksO8HFwbAM": {
    "t": 1795212742.9963994,
@@ -17278,6 +17284,31 @@
    "login": "illojuan",
    "views": 2171,
    "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "IntelligentAdorableWoodpeckerStinkyCheese-WVbxlN7iF91JaPpk": {
+   "t": 1795212848.3577545,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "bxbxbh FC b",
+   "url": "https://www.twitch.tv/djmariio/clip/IntelligentAdorableWoodpeckerStinkyCheese-WVbxlN7iF91JaPpk",
+   "login": "djmariio",
+   "views": 22,
+   "duration": 30
+  },
+  "FaintLongPineappleBudStar-aTTfqbOTny287j1O": {
+   "t": 1795213003.27029,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "IlloJuan se vuelve loco con el tigre de GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/FaintLongPineappleBudStar-aTTfqbOTny287j1O",
+   "login": "illojuan",
+   "views": 31,
+   "duration": 41.6,
    "formato": "normal: sin cámara detectada"
   }
  }
