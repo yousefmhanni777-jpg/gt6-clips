@@ -15098,6 +15098,43 @@
    "views": 125,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "UglyIncredulousFungusDogFace-mMlM_2eLQKn4bQ9a": {
+   "t": 1795179919.7304554,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Clip sin audio, nada que ver",
+   "url": "https://www.twitch.tv/djmariio/clip/UglyIncredulousFungusDogFace-mMlM_2eLQKn4bQ9a",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 16.9
+  },
+  "BombasticFrigidEelBibleThump-9fXl9rhxErOAQsE2": {
+   "t": 1795179924.5998733,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Imantado enloquece sin razón",
+   "url": "https://www.twitch.tv/imantado/clip/BombasticFrigidEelBibleThump-9fXl9rhxErOAQsE2",
+   "login": "imantado",
+   "views": 128,
+   "duration": 60
+  },
+  "ExcitedGlutenFreePeachYee-xZCZTb_Kq6Mq2x_n": {
+   "t": 1795179993.794528,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Imantado pierde 11k en GTA 6",
+   "url": "https://www.twitch.tv/imantado/clip/ExcitedGlutenFreePeachYee-xZCZTb_Kq6Mq2x_n",
+   "login": "imantado",
+   "views": 128,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
