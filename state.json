@@ -13769,6 +13769,31 @@
    "views": 5,
    "duration": 52.6,
    "formato": "normal: sin cámara detectada"
+  },
+  "ResoluteBumblingBeefThisIsSparta-w2moeX2MrhL-blHF": {
+   "t": 1795154770.9621248,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "IlloJuan sorprende con un timing épico",
+   "url": "https://www.twitch.tv/illojuan/clip/ResoluteBumblingBeefThisIsSparta-w2moeX2MrhL-blHF",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 26.2,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AlluringRealZucchiniAliens-PGDfmcB1GsVD9Xqi": {
+   "t": 1795154773.116118,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay sorprendido",
+   "url": "https://www.twitch.tv/auronplay/clip/AlluringRealZucchiniAliens-PGDfmcB1GsVD9Xqi",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 52.8
   }
  }
 }
