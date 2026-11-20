@@ -17348,6 +17348,18 @@
    "views": 3,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "MoldyHotGaurFutureMan-0a4eukpVlmglkh56": {
+   "t": 1795213969.8662958,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Clip sin audio, nada que ver",
+   "url": "https://www.twitch.tv/djmariio/clip/MoldyHotGaurFutureMan-0a4eukpVlmglkh56",
+   "login": "djmariio",
+   "views": 7,
+   "duration": 23.2
   }
  }
 }
