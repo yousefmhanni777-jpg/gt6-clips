@@ -16226,6 +16226,31 @@
    "views": 2,
    "duration": 60,
    "formato": "cara arriba"
+  },
+  "PlumpKitschyGarlicDuDudu-EGx_zksvYYu-t_eS": {
+   "t": 1795194231.7944403,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "AuronPlay y la silla que se rompe en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/PlumpKitschyGarlicDuDudu-EGx_zksvYYu-t_eS",
+   "login": "auronplay",
+   "views": 20,
+   "duration": 24.8,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AverageDeterminedAirGuitarAliens-7m6-_eHAbbcdVZll": {
+   "t": 1795194233.7295785,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Auronplay se confunde en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/AverageDeterminedAirGuitarAliens-7m6-_eHAbbcdVZll",
+   "login": "auronplay",
+   "views": 4,
+   "duration": 25.3
   }
  }
 }
