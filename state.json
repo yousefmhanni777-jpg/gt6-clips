@@ -14121,6 +14121,33 @@
    "login": "pattymeza",
    "views": 3,
    "duration": 60
+  },
+  "CarefulEncouragingAnacondaLitty-SYOfCD4xbhNjCteq": {
+   "t": 1795160527.1631992,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "AuronPlay descubre un bug épico en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/CarefulEncouragingAnacondaLitty-SYOfCD4xbhNjCteq",
+   "login": "auronplay",
+   "views": 3,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "InnocentArtsyHyenaOhMyDog--9COXVqc1TGfCb5X": {
+   "t": 1795160529.0048814,
+   "streamer": "ohnePixel",
+   "status": "guardado",
+   "score": 7,
+   "cat": "bug",
+   "hook": "¡OhnePixel descubre un bug épico en GTA 6!",
+   "url": "https://www.twitch.tv/ohnepixel/clip/InnocentArtsyHyenaOhMyDog--9COXVqc1TGfCb5X",
+   "login": "ohnepixel",
+   "views": 7625,
+   "duration": 25.6,
+   "lang": "en",
+   "title": "gta-6-text-bug"
   }
  }
 }
