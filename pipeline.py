@@ -180,6 +180,9 @@ Responde SOLO con JSON:
   "descripcion": "1-2 frases para el post, natural, en español",
   "musica": true/false (true si en la transcripción aparece algún fragmento de letra de canción, o el streamer \
 habla de la radio/una canción que suena: riesgo de que TikTok silencie el vídeo o YouTube lo reclame),
+  "apto": true/false (false si hay muchas palabrotas o insultos fuertes, insultos racistas u homófobos, odio, \
+contenido sexual, drogas reales o cualquier cosa por la que TikTok pueda retirar el vídeo o castigar la cuenta; \
+la violencia DENTRO del juego, como tiroteos, atropellos o persecuciones, es normal y sí es apta),
   "motivo": "por qué (breve)"}}"""
 
 
@@ -362,6 +365,28 @@ def upload_post_user():
     raise RuntimeError("Upload-Post: ningún perfil tiene TikTok conectado")
 
 
+# Palabrotas fuertes (español e inglés): con más de tiktok.max_swears el clip no se sube solo.
+SWEARS = re.compile(r"\b(put[ao]s?|putada|hostias?|joder|jodid[ao]s?|co[ñn]o|cabr[oó]n(es)?|gilipollas|"
+                    r"mierdas?|polla|cojones|maric[oó]n(es)?|hij[oa]s? de puta|pendej[oa]s?|verga|chinga\w*|"
+                    r"culer[oa]|mamad[ao]|fuck\w*|shit|bitch\w*|nigg\w*|fagg?\w*)\b", re.I)
+
+
+def tiktok_reject(clip, verdict, score, transcript, cfg):
+    """Motivo por el que el clip no se sube solo a TikTok (None si se sube cuando haya hueco)."""
+    tt = cfg.get("tiktok") or {}
+    big = clip["broadcaster_login"].lower() in cfg["streamers"] or clip.get("live_viewers", 0) >= tt["big_viewers"]
+    if score < (tt["min_score_big"] if big else tt["min_score"]):
+        return f"nota {score} (pide {tt['min_score_big'] if big else tt['min_score']}{'' if big else ', streamer pequeño'})"
+    if verdict.get("musica"):
+        return "posible música con copyright"
+    if verdict.get("apto") is False:
+        return "contenido no apto según la IA"
+    swears = len(SWEARS.findall(transcript))
+    if swears > tt["max_swears"]:
+        return f"{swears} palabrotas"
+    return None
+
+
 def tiktok_slot(state, cfg):
     """Hay hueco para subir a TikTok: horario, tope diario (TikTok deja 15) y separación mínima entre vídeos."""
     tt = cfg.get("tiktok") or {}
@@ -517,9 +542,11 @@ def process(clip, cfg, dry_run, state):
         if dry_run:
             log("--- caption ---\n" + caption)
         else:
-            # TikTok: solo los mejores, sin música con copyright, y dentro del tope diario.
-            if (not clip.get("forced") and not verdict.get("musica")
-                    and score >= tt.get("min_score", 11) and tiktok_slot(state, cfg)):
+            # TikTok: solo los mejores (antes los streamers grandes), sin música ni contenido no apto, dentro del tope.
+            why = None if clip.get("forced") or not tt.get("enabled") else tiktok_reject(clip, verdict, score, transcript, cfg)
+            if why and score >= tt["min_score_big"]:
+                caption = f"🚫 No va a TikTok: {why}\n" + caption
+            elif not why and not clip.get("forced") and tiktok_slot(state, cfg):
                 text = f"{hook}\n\n{verdict.get('descripcion', '')}\n🎥 twitch.tv/{login}\n{tags}"
                 try:
                     meta["tiktok_req"] = post_tiktok(out, text, clip["id"])
@@ -620,6 +647,7 @@ def main():
             for lang in live_cfg.get("langs", []):
                 for gid in games:
                     for s in tw.get("streams", {"game_id": gid, "language": lang, "first": 100}):
+                        viewers[s["user_id"]] = s["viewer_count"]
                         if s["viewer_count"] >= live_cfg["min_viewers"]:
                             new = [c for c in tw.clips(s["user_id"], gsince) if c.get("game_id") in games]
                             from_live.update(c["id"] for c in new)
@@ -627,6 +655,7 @@ def main():
                             got.update(c["id"] for c in new)
             for c in gclips:
                 c["broadcaster_login"] = re.sub(r"[^a-z0-9_]", "", c["broadcaster_name"].lower()) or c["broadcaster_id"]
+                c["live_viewers"] = viewers.get(c["broadcaster_id"], 0)  # tamaño del directo: prioridad en TikTok
                 lang = c.get("language", "").split("-")[0]
                 if not (pending(state, c["id"]) and lang in sel["global_min_views"]
                         and c["duration"] >= sel["min_duration"]):

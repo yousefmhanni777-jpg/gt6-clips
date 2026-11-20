@@ -86,7 +86,10 @@ brand:
 # Subida automática a TikTok con Upload-Post (secreto UPLOAD_POST_API_KEY en GitHub). Todo sigue llegando a Telegram.
 tiktok:
   enabled: true
-  min_score: 7          # solo los clips con esta nota o más
+  min_score_big: 6      # nota mínima de los streamers grandes (los de la lista de arriba o directos de big_viewers o más)
+  min_score: 7          # nota mínima del resto
+  big_viewers: 3000     # espectadores en directo para contar como streamer grande
+  max_swears: 3         # más palabrotas que esto en la transcripción: no se sube solo (la IA además descarta lo no apto)
   per_day: 12           # TikTok deja 15 al día por cuenta: margen para subir alguno a mano
   gap_minutes: 70       # separación mínima entre subidas: 12 vídeos repartidos de 10:00 a 24:00
   from_hour: 10         # horario de subida (hora de España): de noche casi nadie lo ve
