@@ -13005,6 +13005,31 @@
    "login": "auronplay",
    "views": 4,
    "duration": 30.5
+  },
+  "PiercingEnergeticHyenaWutFace-5S7QAwPDFU6KAnZN": {
+   "t": 1795142625.9915102,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "IlloJuan se rompe con una urgencia épica",
+   "url": "https://www.twitch.tv/illojuan/clip/PiercingEnergeticHyenaWutFace-5S7QAwPDFU6KAnZN",
+   "login": "illojuan",
+   "views": 4,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SuperFlaccidLemurKappaPride-jnaMyLXgXgh5_Le_": {
+   "t": 1795142628.7109256,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan sin GTA",
+   "url": "https://www.twitch.tv/illojuan/clip/SuperFlaccidLemurKappaPride-jnaMyLXgXgh5_Le_",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 60
   }
  }
 }
