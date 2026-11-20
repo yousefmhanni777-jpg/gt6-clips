@@ -13167,6 +13167,18 @@
    "views": 2,
    "duration": 13.8,
    "formato": "normal: sin cámara detectada"
+  },
+  "KindEncouragingCroissantPRChase-85BYwfpGVqzA6Kry": {
+   "t": 1795144990.6444256,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasa con este comentario?",
+   "url": "https://www.twitch.tv/illojuan/clip/KindEncouragingCroissantPRChase-85BYwfpGVqzA6Kry",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 30
   }
  }
 }
