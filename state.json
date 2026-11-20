@@ -15135,6 +15135,43 @@
    "views": 128,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "DistinctCleverWrenBloodTrail-u4Y0JSL-Jk-qBZCi": {
+   "t": 1795180095.8164186,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan habla de Argentina en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/DistinctCleverWrenBloodTrail-u4Y0JSL-Jk-qBZCi",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 19.3
+  },
+  "AbnegateFunWolverineTheThing-G3dDKvz6QykTVE6u": {
+   "t": 1795180099.633071,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Imantado reacciona a GTA VI",
+   "url": "https://www.twitch.tv/imantado/clip/AbnegateFunWolverineTheThing-G3dDKvz6QykTVE6u",
+   "login": "imantado",
+   "views": 120,
+   "duration": 47.6
+  },
+  "NurturingConsiderateMomSpicyBoy-E2_NfXQDCVJdCQbZ": {
+   "t": 1795180170.2461443,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Imantado reacciona a GTA 6: ¡qué locura!",
+   "url": "https://www.twitch.tv/imantado/clip/NurturingConsiderateMomSpicyBoy-E2_NfXQDCVJdCQbZ",
+   "login": "imantado",
+   "views": 120,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
