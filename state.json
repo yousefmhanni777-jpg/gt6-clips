@@ -14637,6 +14637,13 @@
    "views": 32,
    "duration": 45,
    "formato": "normal: sin cámara detectada"
+  },
+  "InterestingTransparentButterflyYouDontSay-Jgf0ENzY-VB9K6_L": {
+   "t": 1795174960.4467566,
+   "streamer": "elcamacho24",
+   "status": "error",
+   "tries": 1,
+   "error": "Telegram: 413 {\"ok\":false,\"error_code\":413,\"description\":\"Request Entity Too Large\"}"
   }
  }
 }
