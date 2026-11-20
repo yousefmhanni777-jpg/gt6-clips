@@ -17077,11 +17077,17 @@
    "formato": "normal: sin cámara detectada"
   },
   "TangibleLightCocoaBCWarrior-puXPduyjQeY3QkEI": {
-   "t": 1795209079.3107946,
+   "t": 1795209928.1672158,
    "streamer": "DjMaRiiO",
-   "status": "error",
-   "tries": 1,
-   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco con el chat: \"TONTO TU\"",
+   "url": "https://www.twitch.tv/djmariio/clip/TangibleLightCocoaBCWarrior-puXPduyjQeY3QkEI",
+   "login": "djmariio",
+   "views": 18,
+   "duration": 30,
+   "formato": "cara arriba"
   },
   "TardyVibrantBeaverCoolStoryBob--n6-RAstGVfPJY3N": {
    "t": 1795209173.8857589,
