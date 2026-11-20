@@ -14644,6 +14644,18 @@
    "status": "error",
    "tries": 1,
    "error": "Telegram: 413 {\"ok\":false,\"error_code\":413,\"description\":\"Request Entity Too Large\"}"
+  },
+  "GloriousBigNarwhalPraiseIt-_FL_aY9sSko4tBM5": {
+   "t": 1795175161.7227242,
+   "streamer": "jcorko_",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "a",
+   "url": "https://www.twitch.tv/jcorko_/clip/GloriousBigNarwhalPraiseIt-_FL_aY9sSko4tBM5",
+   "login": "jcorko_",
+   "views": 3,
+   "duration": 30
   }
  }
 }
