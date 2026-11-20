@@ -14846,6 +14846,42 @@
    "views": 42,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "HilariousBlindingCookieWow-VcT4hcJcFpQL6lQT": {
+   "t": 1795177403.8972726,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "dj mario3",
+   "url": "https://www.twitch.tv/djmariio/clip/HilariousBlindingCookieWow-VcT4hcJcFpQL6lQT",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 30
+  },
+  "SuaveBitterJellyfishHassaanChop-2xx5q2rVWZBqEk56": {
+   "t": 1795177407.275047,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO grita sin sentido en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/SuaveBitterJellyfishHassaanChop-2xx5q2rVWZBqEk56",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 30
+  },
+  "GoodRelentlessBobaCharlieBitMe-0zyeRRpRJKeFLUfV": {
+   "t": 1795177409.8909276,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Imantado reacciona a GTA 6",
+   "url": "https://www.twitch.tv/imantado/clip/GoodRelentlessBobaCharlieBitMe-0zyeRRpRJKeFLUfV",
+   "login": "imantado",
+   "views": 71,
+   "duration": 39.9
   }
  }
 }
