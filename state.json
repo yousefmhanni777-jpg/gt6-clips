@@ -16941,10 +16941,10 @@
    "duration": 19.9
   },
   "TenderClearSalmonStoneLightning-ud5gdIir69PLlqUP": {
-   "t": 1795206522.512845,
+   "t": 1795207575.5421417,
    "streamer": "DjMaRiiO",
    "status": "error",
-   "tries": 2,
+   "tries": 3,
    "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
   },
   "AwkwardSmallTrollYee-B6oPQCB0bW707bai": {
