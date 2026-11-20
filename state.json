@@ -16929,11 +16929,16 @@
    "duration": 59.9
   },
   "ObeseBenevolentKalePanicBasket-GgzSln1vRdDwXq-D": {
-   "t": 1795206368.6002378,
+   "t": 1795206941.6471379,
    "streamer": "IlloJuan",
-   "status": "error",
-   "tries": 2,
-   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan reacciona a GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/ObeseBenevolentKalePanicBasket-GgzSln1vRdDwXq-D",
+   "login": "illojuan",
+   "views": 229,
+   "duration": 19.9
   },
   "TenderClearSalmonStoneLightning-ud5gdIir69PLlqUP": {
    "t": 1795206522.512845,
@@ -16967,6 +16972,19 @@
    "duration": 18.3,
    "lang": "pt",
    "title": "primeiro bug no gta6?"
+  },
+  "JoyousBusyDunlinUnSane-WtcFBDLGVFKh-Fj2": {
+   "t": 1795206939.6978421,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco con el cuerpo a cuerpo",
+   "url": "https://www.twitch.tv/djmariio/clip/JoyousBusyDunlinUnSane-WtcFBDLGVFKh-Fj2",
+   "login": "djmariio",
+   "views": 166,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
