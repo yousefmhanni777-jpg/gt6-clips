@@ -17643,6 +17643,31 @@
    "login": "illojuan",
    "views": 6,
    "duration": 30
+  },
+  "BusyYummySoymilkPicoMause-_6YRyGGo2_fQokGp": {
+   "t": 1795218946.9455338,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "AuronPlay asalta otra tienda y se vuelve épico",
+   "url": "https://www.twitch.tv/auronplay/clip/BusyYummySoymilkPicoMause-_6YRyGGo2_fQokGp",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 60,
+   "formato": "cara arriba"
+  },
+  "RespectfulEnthusiasticGoatDansGame-Re_mZnqFXDf9TwoT": {
+   "t": 1795218948.4964325,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "INJUGABLE",
+   "url": "https://www.twitch.tv/illojuan/clip/RespectfulEnthusiasticGoatDansGame-Re_mZnqFXDf9TwoT",
+   "login": "illojuan",
+   "views": 6,
+   "duration": 12.4
   }
  }
 }
