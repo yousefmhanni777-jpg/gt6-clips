@@ -12779,6 +12779,18 @@
    "views": 10,
    "duration": 26.5,
    "formato": "normal: sin cámara detectada"
+  },
+  "EndearingCrowdedPlumberTooSpicy-x3jnAYFZgjaD_D3F": {
+   "t": 1795138899.0767717,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "IlloJuan habla de mantener la calle segura",
+   "url": "https://www.twitch.tv/illojuan/clip/EndearingCrowdedPlumberTooSpicy-x3jnAYFZgjaD_D3F",
+   "login": "illojuan",
+   "views": 36,
+   "duration": 27.1
   }
  }
 }
