@@ -17182,6 +17182,18 @@
    "status": "error",
    "tries": 1,
    "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
+  },
+  "KathishCourageousAyeayeTF2John-pzkRxkSdhoZJtFvH": {
+   "t": 1795210960.7569904,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin audio",
+   "url": "https://www.twitch.tv/djmariio/clip/KathishCourageousAyeayeTF2John-pzkRxkSdhoZJtFvH",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 60
   }
  }
 }
