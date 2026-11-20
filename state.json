@@ -15936,6 +15936,30 @@
    "views": 205,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "PrettyViscousCarabeefFeelsBadMan-Ky0fy2ApwpxJVc9R": {
+   "t": 1795189592.3072813,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin nada interesante",
+   "url": "https://www.twitch.tv/djmariio/clip/PrettyViscousCarabeefFeelsBadMan-Ky0fy2ApwpxJVc9R",
+   "login": "djmariio",
+   "views": 205,
+   "duration": 16.5
+  },
+  "StupidGlutenFreeSnakeDancingBanana-sFaLMl5E05VzLim6": {
+   "t": 1795189594.3067617,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando en este clip?",
+   "url": "https://www.twitch.tv/djmariio/clip/StupidGlutenFreeSnakeDancingBanana-sFaLMl5E05VzLim6",
+   "login": "djmariio",
+   "views": 18,
+   "duration": 13.9
   }
  }
 }
