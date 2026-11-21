@@ -21074,6 +21074,31 @@
    "login": "djmariio",
    "views": 45,
    "duration": 60
+  },
+  "ImpossibleConfidentAlbatrossRickroll-Wr1GjD2ea-MBrKem": {
+   "t": 1795281458.2442944,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO grita al descubrir algo inesperado",
+   "url": "https://www.twitch.tv/djmariio/clip/ImpossibleConfidentAlbatrossRickroll-Wr1GjD2ea-MBrKem",
+   "login": "djmariio",
+   "views": 202,
+   "duration": 24.8,
+   "formato": "normal: sin cámara detectada"
+  },
+  "StrangeHelplessFlamingoTooSpicy-hFhObwOdzpapC2ww": {
+   "t": 1795281461.6904364,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "DjMaRiiO reacciona a GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/StrangeHelplessFlamingoTooSpicy-hFhObwOdzpapC2ww",
+   "login": "djmariio",
+   "views": 202,
+   "duration": 59.9
   }
  }
 }
