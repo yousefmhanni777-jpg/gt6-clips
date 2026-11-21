@@ -18498,6 +18498,31 @@
    "views": 3,
    "duration": 44.6,
    "formato": "normal: sin cámara detectada"
+  },
+  "UnsightlyBloodyEelOneHand-J2M4c_GHCuhyrLqx": {
+   "t": 1795235064.562978,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona a GTA 6, ¡qué locura!",
+   "url": "https://www.twitch.tv/illojuan/clip/UnsightlyBloodyEelOneHand-J2M4c_GHCuhyrLqx",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 49.8,
+   "formato": "normal: sin cámara detectada"
+  },
+  "HealthyFunClamVoteNay-SCLh4URbbykfBNCc": {
+   "t": 1795235067.5535774,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan sin palabras: ¿qué pasa?",
+   "url": "https://www.twitch.tv/illojuan/clip/HealthyFunClamVoteNay-SCLh4URbbykfBNCc",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 30
   }
  }
 }
