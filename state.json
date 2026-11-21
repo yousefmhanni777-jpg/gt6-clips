@@ -19071,6 +19071,13 @@
    "login": "pattymeza",
    "views": 52,
    "duration": 60
+  },
+  "AthleticProductiveEagleCeilingCat-5zsWghNk4Pt5JRRo": {
+   "t": 1795244777.0379455,
+   "streamer": "IlloJuan",
+   "status": "error",
+   "tries": 1,
+   "error": "Telegram: 413 {\"ok\":false,\"error_code\":413,\"description\":\"Request Entity Too Large\"}"
   }
  }
 }
