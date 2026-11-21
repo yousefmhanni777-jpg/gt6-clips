@@ -19046,6 +19046,31 @@
    "views": 57,
    "duration": 27,
    "formato": "normal: sin cámara detectada"
+  },
+  "DepressedDirtyTrayTBCheesePull-U_NHXr9KYbyj9q7b": {
+   "t": 1795244369.8113236,
+   "streamer": "PattyMeza",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "PattyMeza se enfrenta al bug más raro",
+   "url": "https://www.twitch.tv/pattymeza/clip/DepressedDirtyTrayTBCheesePull-U_NHXr9KYbyj9q7b",
+   "login": "pattymeza",
+   "views": 52,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "VivaciousGorgeousPineappleKappa-yyXlq8tFin5F9GOk": {
+   "t": 1795244373.253474,
+   "streamer": "PattyMeza",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "PattyMeza sin voz: ¿qué ocurre?",
+   "url": "https://www.twitch.tv/pattymeza/clip/VivaciousGorgeousPineappleKappa-yyXlq8tFin5F9GOk",
+   "login": "pattymeza",
+   "views": 52,
+   "duration": 60
   }
  }
 }
