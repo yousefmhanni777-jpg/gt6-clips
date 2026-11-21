@@ -18166,6 +18166,31 @@
    "login": "illojuan",
    "views": 8,
    "duration": 30
+  },
+  "FriendlyZealousSowGrammarKing-EqED5718WZqG_TAH": {
+   "t": 1795228862.0941184,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "TheGrefg suelta un comentario inesperado",
+   "url": "https://www.twitch.tv/thegrefg/clip/FriendlyZealousSowGrammarKing-EqED5718WZqG_TAH",
+   "login": "thegrefg",
+   "views": 3,
+   "duration": 30
+  },
+  "BumblingHyperWasabiBloodTrail-Fv1hA8GC-D_QrtEH": {
+   "t": 1795228901.5862546,
+   "streamer": "TheGrefg",
+   "status": "enviado",
+   "score": 5,
+   "cat": "bug",
+   "hook": "TheGrefg: ¡Audio perdido en GTA 6!",
+   "url": "https://www.twitch.tv/thegrefg/clip/BumblingHyperWasabiBloodTrail-Fv1hA8GC-D_QrtEH",
+   "login": "thegrefg",
+   "views": 3,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
