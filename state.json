@@ -17917,6 +17917,31 @@
    "views": 5,
    "duration": 30,
    "formato": "cara arriba"
+  },
+  "DistinctEsteemedGarlicRitzMitz-9kE71pRkssruIa4o": {
+   "t": 1795223733.5250065,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan se vuelve loco con GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/DistinctEsteemedGarlicRitzMitz-9kE71pRkssruIa4o",
+   "login": "illojuan",
+   "views": 8,
+   "duration": 39.4,
+   "formato": "normal: sin cámara detectada"
+  },
+  "DrabLittleCrowLitty-NbaSgqnUMFcVoFJo": {
+   "t": 1795223735.8970053,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "transicion",
+   "url": "https://www.twitch.tv/illojuan/clip/DrabLittleCrowLitty-NbaSgqnUMFcVoFJo",
+   "login": "illojuan",
+   "views": 9,
+   "duration": 24.8
   }
  }
 }
