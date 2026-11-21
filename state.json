@@ -18141,6 +18141,31 @@
    "views": 4,
    "duration": 55.6,
    "formato": "normal: sin cámara detectada"
+  },
+  "StrangeAgitatedWalrusFreakinStinkin-e38Zl2JBfSHmOVu2": {
+   "t": 1795228434.0895195,
+   "streamer": "TheGrefg",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "TheGrefg se vuelve loco en GTA 6",
+   "url": "https://www.twitch.tv/thegrefg/clip/StrangeAgitatedWalrusFreakinStinkin-e38Zl2JBfSHmOVu2",
+   "login": "thegrefg",
+   "views": 95,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "InquisitiveSaltyChimpanzeeFailFish-ppQJHRhJLJ5Zvwro": {
+   "t": 1795228436.9711068,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan reacciona a GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/InquisitiveSaltyChimpanzeeFailFish-ppQJHRhJLJ5Zvwro",
+   "login": "illojuan",
+   "views": 8,
+   "duration": 30
   }
  }
 }
