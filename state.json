@@ -20449,6 +20449,43 @@
    "views": 61,
    "duration": 51,
    "formato": "cara arriba"
+  },
+  "SassyFastClipsdadWow-N8KYmAR1iiWHQhwg": {
+   "t": 1795272518.7388024,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "curiosidad",
+   "hook": "AuronPlay revela secreto de Rockstar",
+   "url": "https://www.twitch.tv/auronplay/clip/SassyFastClipsdadWow-N8KYmAR1iiWHQhwg",
+   "login": "auronplay",
+   "views": 659,
+   "duration": 42.9,
+   "formato": "cara arriba"
+  },
+  "BloodyTolerantGoldfishPeanutButterJellyTime-AbRuWips-d_zhEOV": {
+   "t": 1795272521.1442318,
+   "streamer": "VEGETTA777",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "VEGETTA777 reacciona a GTA 6 #4",
+   "url": "https://www.twitch.tv/vegetta777/clip/BloodyTolerantGoldfishPeanutButterJellyTime-AbRuWips-d_zhEOV",
+   "login": "vegetta777",
+   "views": 75,
+   "duration": 30
+  },
+  "SmallSoftChinchillaHeyGirl-T02w5iy5Pu_bvMdH": {
+   "t": 1795272524.4499726,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Imantado sorprende en GTA VI",
+   "url": "https://www.twitch.tv/imantado/clip/SmallSoftChinchillaHeyGirl-T02w5iy5Pu_bvMdH",
+   "login": "imantado",
+   "views": 120,
+   "duration": 45
   }
  }
 }
