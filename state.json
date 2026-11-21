@@ -19360,6 +19360,18 @@
    "views": 2,
    "duration": 19.6,
    "formato": "normal: sin cámara detectada"
+  },
+  "ArborealSuspiciousSquirrelOneHand-a6EaB7opN47snjgA": {
+   "t": 1795253008.0411031,
+   "streamer": "Caprimint",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Caprimint sin nada destacado",
+   "url": "https://www.twitch.tv/caprimint/clip/ArborealSuspiciousSquirrelOneHand-a6EaB7opN47snjgA",
+   "login": "caprimint",
+   "views": 28,
+   "duration": 59.9
   }
  }
 }
