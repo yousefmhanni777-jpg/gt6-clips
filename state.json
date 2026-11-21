@@ -19258,6 +19258,31 @@
    "duration": 12.4,
    "lang": "en",
    "title": "KAI WTF"
+  },
+  "CalmStormyOctopusOhMyDog-Dj5tl3D0-I-P7Vlq": {
+   "t": 1795249620.6148818,
+   "streamer": "PattyMeza",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "PattyMeza se vuelve loco con GTA VI",
+   "url": "https://www.twitch.tv/pattymeza/clip/CalmStormyOctopusOhMyDog-Dj5tl3D0-I-P7Vlq",
+   "login": "pattymeza",
+   "views": 32,
+   "duration": 47.2,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SeductiveSneakyNarwhalOSsloth-BmI9Bd0aAMaaLRZL": {
+   "t": 1795249625.5190873,
+   "streamer": "PattyMeza",
+   "status": "descartado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "PattyMeza suelta una frase épica en GTA VI",
+   "url": "https://www.twitch.tv/pattymeza/clip/SeductiveSneakyNarwhalOSsloth-BmI9Bd0aAMaaLRZL",
+   "login": "pattymeza",
+   "views": 32,
+   "duration": 46.6
   }
  }
 }
