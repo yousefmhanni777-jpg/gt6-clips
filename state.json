@@ -21765,6 +21765,31 @@
    "login": "auronplay",
    "views": 4,
    "duration": 30
+  },
+  "ClearInspiringSoybeanCoolCat-zBEtIJSPQJq0t9rW": {
+   "t": 1795293392.0219936,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "AuronPlay y los códigos locos de GTA VI",
+   "url": "https://www.twitch.tv/auronplay/clip/ClearInspiringSoybeanCoolCat-zBEtIJSPQJq0t9rW",
+   "login": "auronplay",
+   "views": 4,
+   "duration": 47,
+   "formato": "cara arriba"
+  },
+  "FaithfulPuzzledGrouseTBCheesePull-CiAiHifMqnqE2FDx": {
+   "t": 1795293394.118325,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "IlloJuan descubre algo extraño en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/FaithfulPuzzledGrouseTBCheesePull-CiAiHifMqnqE2FDx",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 30
   }
  }
 }
