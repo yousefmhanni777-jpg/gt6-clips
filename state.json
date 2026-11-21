@@ -19720,7 +19720,8 @@
    "duration": 59.9,
    "formato": "normal: sin cámara detectada",
    "tiktok_req": "tt_PiliableShakingQuailMVGame-ncQUhQz9JqNqZr-w",
-   "tiktok_t": 1795267056.9207933
+   "tiktok_t": 1795267056.9207933,
+   "tiktok_status": "publicado"
   },
   "LittlePleasantLEDNerfRedBlaster-DxRfwFsFz4XNb0DZ": {
    "t": 1795267241.7779841,
@@ -19746,6 +19747,43 @@
    "login": "imantado",
    "views": 66,
    "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "TacitElegantWoodpeckerAMPEnergyCherry-3aXMOniG7la01MI0": {
+   "t": 1795267424.2995958,
+   "streamer": "paache_",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": ".",
+   "url": "https://www.twitch.tv/paache_/clip/TacitElegantWoodpeckerAMPEnergyCherry-3aXMOniG7la01MI0",
+   "login": "paache_",
+   "views": 60,
+   "duration": 30
+  },
+  "SpeedyEnticingLarkPartyTime-2ULUgfOnUpxXC98X": {
+   "t": 1795267426.8682697,
+   "streamer": "paache_",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Paache_ suelta un comentario muy subido de tono",
+   "url": "https://www.twitch.tv/paache_/clip/SpeedyEnticingLarkPartyTime-2ULUgfOnUpxXC98X",
+   "login": "paache_",
+   "views": 60,
+   "duration": 30
+  },
+  "SpikyVivaciousGarbageKappaRoss-saax90uMdaWgD6L6": {
+   "t": 1795267463.2456574,
+   "streamer": "jcorko_",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "jcorko_ agradece el follow del ídolo",
+   "url": "https://www.twitch.tv/jcorko_/clip/SpikyVivaciousGarbageKappaRoss-saax90uMdaWgD6L6",
+   "login": "jcorko_",
+   "views": 36,
+   "duration": 30,
    "formato": "normal: sin cámara detectada"
   }
  }
