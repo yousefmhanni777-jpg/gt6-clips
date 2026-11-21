@@ -21484,6 +21484,31 @@
    "views": 5,
    "duration": 21.9,
    "formato": "cara arriba"
+  },
+  "ObedientHappyCroquetteTriHard-A7_WuPOPzgxkgDMp": {
+   "t": 1795288670.7305968,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan espera la review de Xokas",
+   "url": "https://www.twitch.tv/illojuan/clip/ObedientHappyCroquetteTriHard-A7_WuPOPzgxkgDMp",
+   "login": "illojuan",
+   "views": 13,
+   "duration": 17.6
+  },
+  "ImpartialLachrymoseSquirrelPraiseIt-GmSQsU5juSrMAKwe": {
+   "t": 1795288695.8660781,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "AuronPlay y su compra inesperada en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/ImpartialLachrymoseSquirrelPraiseIt-GmSQsU5juSrMAKwe",
+   "login": "auronplay",
+   "views": 4,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
