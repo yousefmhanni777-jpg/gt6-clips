@@ -18320,6 +18320,31 @@
    "views": 3,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "MoldyAmazonianStinkbugCurseLit-1O9WgAyl41IF572P": {
+   "t": 1795231771.4123075,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona a GTA 6: ¡Folladote histórico!",
+   "url": "https://www.twitch.tv/illojuan/clip/MoldyAmazonianStinkbugCurseLit-1O9WgAyl41IF572P",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 42.6,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AgreeablePowerfulPangolin4Head-vlssPuOYdl_kErSh": {
+   "t": 1795231773.762425,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "IlloJuan se vuelve loco en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/AgreeablePowerfulPangolin4Head-vlssPuOYdl_kErSh",
+   "login": "illojuan",
+   "views": 4,
+   "duration": 30
   }
  }
 }
