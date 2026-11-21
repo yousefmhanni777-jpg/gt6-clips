@@ -18098,10 +18098,10 @@
    "formato": "cara arriba"
   },
   "ChillyAntediluvianTofuStrawBeary-6_smHozg09e0SpC8": {
-   "t": 1795226928.1243503,
+   "t": 1795227483.9896839,
    "streamer": "TheGrefg",
    "status": "error",
-   "tries": 1,
+   "tries": 2,
    "error": "Telegram: 413 {\"ok\":false,\"error_code\":413,\"description\":\"Request Entity Too Large\"}"
   },
   "EnjoyablePlumpTrollPupper-y-YXuRbSYDDh4Eq1": {
@@ -18115,6 +18115,19 @@
    "login": "illojuan",
    "views": 9,
    "duration": 29.8
+  },
+  "SleepyDeafLadiesRalpherZ-qsiV_kdlErf9IBbP": {
+   "t": 1795227396.6643906,
+   "streamer": "TheGrefg",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "TheGrefg mete el móvil en el muslo 😂",
+   "url": "https://www.twitch.tv/thegrefg/clip/SleepyDeafLadiesRalpherZ-qsiV_kdlErf9IBbP",
+   "login": "thegrefg",
+   "views": 84,
+   "duration": 28,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
