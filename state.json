@@ -18931,6 +18931,19 @@
    "status": "error",
    "tries": 3,
    "error": "yt-dlp falló:\nERROR: unable to download video data: HTTP Error 404: Not Found\n"
+  },
+  "SuspiciousRacyPandaEagleEye-HgMvPVlEn1zwKQ0_": {
+   "t": 1795242919.791002,
+   "streamer": "Caprimint",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "Caprimint se vuelve loco con María Becerra",
+   "url": "https://www.twitch.tv/caprimint/clip/SuspiciousRacyPandaEagleEye-HgMvPVlEn1zwKQ0_",
+   "login": "caprimint",
+   "views": 24,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
