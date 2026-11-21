@@ -19073,10 +19073,10 @@
    "duration": 60
   },
   "AthleticProductiveEagleCeilingCat-5zsWghNk4Pt5JRRo": {
-   "t": 1795244777.0379455,
+   "t": 1795244989.296629,
    "streamer": "IlloJuan",
    "status": "error",
-   "tries": 1,
+   "tries": 2,
    "error": "Telegram: 413 {\"ok\":false,\"error_code\":413,\"description\":\"Request Entity Too Large\"}"
   }
  }
