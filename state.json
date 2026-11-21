@@ -18752,6 +18752,32 @@
    "login": "aldo_geo",
    "views": 3,
    "duration": 60
+  },
+  "ClearBlueYogurtPartyTime-1Ty-ClAabl70k-5N": {
+   "t": 1795239381.5214787,
+   "streamer": "aldo_geo",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Aldo_geo y el misterioso mensaje del chat",
+   "url": "https://www.twitch.tv/aldo_geo/clip/ClearBlueYogurtPartyTime-1Ty-ClAabl70k-5N",
+   "login": "aldo_geo",
+   "views": 3,
+   "duration": 60
+  },
+  "WildConfidentAmazonCeilingCat-9OBbM1TnHKFzmoeP": {
+   "t": 1795239384.199752,
+   "streamer": "leva2k",
+   "status": "guardado",
+   "score": 2,
+   "cat": "bug",
+   "hook": "Leva2k reacciona a algo inesperado en GTA 6",
+   "url": "https://www.twitch.tv/leva2k/clip/WildConfidentAmazonCeilingCat-9OBbM1TnHKFzmoeP",
+   "login": "leva2k",
+   "views": 18422,
+   "duration": 29.9,
+   "lang": "ru",
+   "title": "Баг в ГТА 6"
   }
  }
 }
