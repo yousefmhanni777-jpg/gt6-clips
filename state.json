@@ -18071,6 +18071,18 @@
    "views": 12,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "AmericanSpeedyPheasantVoteNay-uRtD7wFHUSeT5OwE": {
+   "t": 1795226389.287008,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "TheGrefg habla de algo inesperado",
+   "url": "https://www.twitch.tv/thegrefg/clip/AmericanSpeedyPheasantVoteNay-uRtD7wFHUSeT5OwE",
+   "login": "thegrefg",
+   "views": 77,
+   "duration": 30
   }
  }
 }
