@@ -18957,6 +18957,31 @@
    "views": 40,
    "duration": 45.6,
    "formato": "normal: sin cámara detectada"
+  },
+  "DeafYawningPepperoniFunRun-twOfY5arAZ8I69JM": {
+   "t": 1795243225.73169,
+   "streamer": "Caprimint",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Caprimint se vuelve loco eligiendo el coche perfecto",
+   "url": "https://www.twitch.tv/caprimint/clip/DeafYawningPepperoniFunRun-twOfY5arAZ8I69JM",
+   "login": "caprimint",
+   "views": 25,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "PlainAmericanPepperUWot-D5dUdD6tQv9IOq6n": {
+   "t": 1795243229.3057542,
+   "streamer": "Caprimint",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Caprimint reacciona a algo inesperado",
+   "url": "https://www.twitch.tv/caprimint/clip/PlainAmericanPepperUWot-D5dUdD6tQv9IOq6n",
+   "login": "caprimint",
+   "views": 25,
+   "duration": 59.9
   }
  }
 }
