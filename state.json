@@ -21345,6 +21345,31 @@
    "tiktok_req": "tt_StrongAggressiveAardvarkTriHard-KuJ2XITln-oCc0YL",
    "tiktok_t": 1795285683.416079,
    "tiktok_status": "publicado"
+  },
+  "WanderingAcceptableMelonDAESuppy-rnornM199MfZ6D0M": {
+   "t": 1795286042.8362541,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco con los PREMIOS DICKSLAND",
+   "url": "https://www.twitch.tv/djmariio/clip/WanderingAcceptableMelonDAESuppy-rnornM199MfZ6D0M",
+   "login": "djmariio",
+   "views": 15,
+   "duration": 34.8,
+   "formato": "normal: sin cámara detectada"
+  },
+  "DeafRockyOkapiTheRinger-n2dLYTiS2xM41kAA": {
+   "t": 1795286044.3760169,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasó en GTA 6?",
+   "url": "https://www.twitch.tv/djmariio/clip/DeafRockyOkapiTheRinger-n2dLYTiS2xM41kAA",
+   "login": "djmariio",
+   "views": 10,
+   "duration": 17.7
   }
  }
 }
