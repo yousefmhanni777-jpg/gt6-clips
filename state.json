@@ -19606,6 +19606,44 @@
    "views": 38,
    "duration": 50,
    "formato": "normal: sin cámara detectada"
+  },
+  "StrongSplendidAlpacaCharlieBitMe-Z6fOdnA3aGMDJflw": {
+   "t": 1795265630.6657746,
+   "streamer": "paache_",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "Paache_ se vuelve loco con su 'vaya poya'",
+   "url": "https://www.twitch.tv/paache_/clip/StrongSplendidAlpacaCharlieBitMe-Z6fOdnA3aGMDJflw",
+   "login": "paache_",
+   "views": 23,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "IncredulousPlainOctopusYee-ZZaQXfRB3QCYxmqF": {
+   "t": 1795265632.7548156,
+   "streamer": "paache_",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "Paache_ reacciona a una locura inesperada",
+   "url": "https://www.twitch.tv/paache_/clip/IncredulousPlainOctopusYee-ZZaQXfRB3QCYxmqF",
+   "login": "paache_",
+   "views": 23,
+   "duration": 30
+  },
+  "MistyHealthyLlamaJKanStyle-6GiEJAv5HHU6gxza": {
+   "t": 1795265670.8409653,
+   "streamer": "paache_",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Paache_ se vuelve loco en la maratón GTA VI",
+   "url": "https://www.twitch.tv/paache_/clip/MistyHealthyLlamaJKanStyle-6GiEJAv5HHU6gxza",
+   "login": "paache_",
+   "views": 23,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
