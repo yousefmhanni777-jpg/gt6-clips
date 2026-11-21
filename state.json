@@ -21151,6 +21151,31 @@
    "views": 210,
    "duration": 54.7,
    "formato": "cara arriba"
+  },
+  "GrossPhilanthropicBibimbapYee-crhqMTBauJWN_zXo": {
+   "t": 1795282751.6128397,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco con su 'Game of the H'",
+   "url": "https://www.twitch.tv/djmariio/clip/GrossPhilanthropicBibimbapYee-crhqMTBauJWN_zXo",
+   "login": "djmariio",
+   "views": 199,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "BitterAffluentOrangeCoolCat-7VH-91Zswa8aluYX": {
+   "t": 1795282754.1493483,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 0,
+   "cat": "otro",
+   "hook": "Clip sin contenido",
+   "url": "https://www.twitch.tv/djmariio/clip/BitterAffluentOrangeCoolCat-7VH-91Zswa8aluYX",
+   "login": "djmariio",
+   "views": 199,
+   "duration": 30
   }
  }
 }
