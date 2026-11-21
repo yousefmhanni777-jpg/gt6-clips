@@ -20086,6 +20086,42 @@
    "login": "imantado",
    "views": 122,
    "duration": 59.9
+  },
+  "BraveSarcasticGerbilLitFam-Qzu4qMDAdiGLbnkm": {
+   "t": 1795270223.8832977,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasa con IlloJuan?",
+   "url": "https://www.twitch.tv/illojuan/clip/BraveSarcasticGerbilLitFam-Qzu4qMDAdiGLbnkm",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 56.9
+  },
+  "SparklyManlyTurnipKippa-pvPb6Awe3nI15ueZ": {
+   "t": 1795270229.9934502,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 0,
+   "cat": "otro",
+   "hook": "Contenido prohibido",
+   "url": "https://www.twitch.tv/imantado/clip/SparklyManlyTurnipKippa-pvPb6Awe3nI15ueZ",
+   "login": "imantado",
+   "views": 128,
+   "duration": 59.9
+  },
+  "EnthusiasticTiredPotatoSmoocherZ-MhOzRUWhU4MFgxJw": {
+   "t": 1795270232.2060056,
+   "streamer": "paache_",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Paache_ te invita al evento del día 3",
+   "url": "https://www.twitch.tv/paache_/clip/EnthusiasticTiredPotatoSmoocherZ-MhOzRUWhU4MFgxJw",
+   "login": "paache_",
+   "views": 55,
+   "duration": 30
   }
  }
 }
