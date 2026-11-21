@@ -20173,6 +20173,43 @@
    "views": 2,
    "duration": 48.9,
    "formato": "cara arriba"
+  },
+  "WanderingRelievedAardvarkPJSugar-arfE7AMUxMMgwqSb": {
+   "t": 1795270907.2985623,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "IlloJuan se vuelve loco con este comentario",
+   "url": "https://www.twitch.tv/illojuan/clip/WanderingRelievedAardvarkPJSugar-arfE7AMUxMMgwqSb",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 17,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ObliviousFilthyEggplantRlyTho-by5C-ngQ2_wzvDEV": {
+   "t": 1795270910.5065303,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Carola comparte recuerdos de móvil",
+   "url": "https://www.twitch.tv/carola/clip/ObliviousFilthyEggplantRlyTho-by5C-ngQ2_wzvDEV",
+   "login": "carola",
+   "views": 63,
+   "duration": 60
+  },
+  "ShakingCrazyDumplingsNerfBlueBlaster-V9YxMiavdD5Whtk8": {
+   "t": 1795270914.5097492,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Carola comparte recuerdos de su infancia",
+   "url": "https://www.twitch.tv/carola/clip/ShakingCrazyDumplingsNerfBlueBlaster-V9YxMiavdD5Whtk8",
+   "login": "carola",
+   "views": 63,
+   "duration": 59.9
   }
  }
 }
