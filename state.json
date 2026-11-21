@@ -21827,6 +21827,33 @@
    "login": "illojuan",
    "views": 2,
    "duration": 27.2
+  },
+  "FilthyIgnorantChipmunkSquadGoals-sKtf6SHxWBNIfU5E": {
+   "t": 1795294711.5367215,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "epico",
+   "hook": "AuronPlay en una persecución épica",
+   "url": "https://www.twitch.tv/auronplay/clip/FilthyIgnorantChipmunkSquadGoals-sKtf6SHxWBNIfU5E",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 35.4,
+   "formato": "cara arriba",
+   "tiktok_req": "tt_FilthyIgnorantChipmunkSquadGoals-sKtf6SHxWBNIfU5E",
+   "tiktok_t": 1795294708.8473952
+  },
+  "PiercingAbrasiveLemurPraiseIt-uL7ho_Wz96LkI8ur": {
+   "t": 1795294714.20097,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Auronplay comparte su opinión",
+   "url": "https://www.twitch.tv/auronplay/clip/PiercingAbrasiveLemurPraiseIt-uL7ho_Wz96LkI8ur",
+   "login": "auronplay",
+   "views": 4,
+   "duration": 60
   }
  }
 }
