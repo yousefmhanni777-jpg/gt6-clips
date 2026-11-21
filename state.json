@@ -20347,7 +20347,8 @@
    "duration": 30,
    "formato": "cara arriba",
    "tiktok_req": "tt_LivelyHumblePhoneTF2John-db6yhm3ty-WUYBMq",
-   "tiktok_t": 1795271907.876611
+   "tiktok_t": 1795271907.876611,
+   "tiktok_status": "publicado"
   },
   "SavageNastyLemurKreygasm-G8nGuboEDrQhBsJ2": {
    "t": 1795271912.893953,
@@ -20384,6 +20385,31 @@
    "login": "carola",
    "views": 66,
    "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "CoyCourteousTurtleOSsloth-94l6RDaFWa9NA8vd": {
+   "t": 1795272181.520393,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Carola reacciona al GTA 6: ¿qué pasa?",
+   "url": "https://www.twitch.tv/carola/clip/CoyCourteousTurtleOSsloth-94l6RDaFWa9NA8vd",
+   "login": "carola",
+   "views": 66,
+   "duration": 60
+  },
+  "UninterestedVastBulgogiCoolCat-aOAM_nkb9YbBXMFW": {
+   "t": 1795272209.4978294,
+   "streamer": "paache_",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Paache_ reacciona al GTA 6 con humor",
+   "url": "https://www.twitch.tv/paache_/clip/UninterestedVastBulgogiCoolCat-aOAM_nkb9YbBXMFW",
+   "login": "paache_",
+   "views": 42,
+   "duration": 24.7,
    "formato": "normal: sin cámara detectada"
   }
  }
