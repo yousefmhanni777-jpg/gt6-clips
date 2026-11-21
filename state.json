@@ -21815,6 +21815,13 @@
    "login": "illojuan",
    "views": 2,
    "duration": 29.9
+  },
+  "ObedientLitigiousPepperoniFrankerZ-xusFbWrObF-gInBO": {
+   "t": 1795294334.4923348,
+   "streamer": "IlloJuan",
+   "status": "error",
+   "tries": 1,
+   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
   }
  }
 }
