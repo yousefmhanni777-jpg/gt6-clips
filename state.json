@@ -18447,6 +18447,31 @@
    "views": 2,
    "duration": 45.8,
    "formato": "normal: sin cámara detectada"
+  },
+  "NurturingTalentedRadicchioRuleFive-h_PHGpVlPW8VwDub": {
+   "t": 1795234077.3950212,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona al chat: \"pero pero...\"",
+   "url": "https://www.twitch.tv/illojuan/clip/NurturingTalentedRadicchioRuleFive-h_PHGpVlPW8VwDub",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AlertAntediluvianOrcaNononoCat-AeCFpiqU58GRG5iJ": {
+   "t": 1795234080.9861143,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando con IlloJuan?",
+   "url": "https://www.twitch.tv/illojuan/clip/AlertAntediluvianOrcaNononoCat-AeCFpiqU58GRG5iJ",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 60
   }
  }
 }
