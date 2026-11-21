@@ -20122,6 +20122,31 @@
    "login": "paache_",
    "views": 55,
    "duration": 30
+  },
+  "RelievedSlipperyAlfalfaTriHard-yjygFMa-9Xgv0al7": {
+   "t": 1795270381.062104,
+   "streamer": "Carola",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Carola reacciona al nuevo GTA VI",
+   "url": "https://www.twitch.tv/carola/clip/RelievedSlipperyAlfalfaTriHard-yjygFMa-9Xgv0al7",
+   "login": "carola",
+   "views": 60,
+   "duration": 46.5,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SuspiciousUnsightlyKimchiBlargNaut-HP5rdiAZK-emZkkr": {
+   "t": 1795270383.5717046,
+   "streamer": "paache_",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Paache_ reacciona a GTA VI",
+   "url": "https://www.twitch.tv/paache_/clip/SuspiciousUnsightlyKimchiBlargNaut-HP5rdiAZK-emZkkr",
+   "login": "paache_",
+   "views": 54,
+   "duration": 30
   }
  }
 }
