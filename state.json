@@ -20486,6 +20486,44 @@
    "login": "imantado",
    "views": 120,
    "duration": 45
+  },
+  "FunnyColorfulWrenVoteYea-LlSDHy6ubQciPeGZ": {
+   "t": 1795272652.7838159,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Auronplay reacciona a GTA VI en directo",
+   "url": "https://www.twitch.tv/auronplay/clip/FunnyColorfulWrenVoteYea-LlSDHy6ubQciPeGZ",
+   "login": "auronplay",
+   "views": 675,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "MildExpensiveLegTTours-zVXHra9YDt4l096r": {
+   "t": 1795272654.9834719,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Auronplay reacciona a GTA VI INJUGABLE",
+   "url": "https://www.twitch.tv/auronplay/clip/MildExpensiveLegTTours-zVXHra9YDt4l096r",
+   "login": "auronplay",
+   "views": 675,
+   "duration": 30
+  },
+  "JollyGeniusReubenPanicBasket-o4i7wIagWHe4ocG2": {
+   "t": 1795272669.0172923,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Auronplay se enfada con un glitch inesperado",
+   "url": "https://www.twitch.tv/auronplay/clip/JollyGeniusReubenPanicBasket-o4i7wIagWHe4ocG2",
+   "login": "auronplay",
+   "views": 675,
+   "duration": 13.5,
+   "formato": "cara arriba"
   }
  }
 }
