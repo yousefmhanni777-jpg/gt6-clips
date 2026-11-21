@@ -21881,6 +21881,31 @@
    "views": 3,
    "duration": 28,
    "formato": "normal: sin cámara detectada"
+  },
+  "AnnoyingMoldyCardSoonerLater-6z2yOpAr7AjwXtSj": {
+   "t": 1795295605.1913674,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se descontrola en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/AnnoyingMoldyCardSoonerLater-6z2yOpAr7AjwXtSj",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "CogentTentativeChickenAliens-xs7-182E-mxDYoNz": {
+   "t": 1795295607.3493092,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando?",
+   "url": "https://www.twitch.tv/djmariio/clip/CogentTentativeChickenAliens-xs7-182E-mxDYoNz",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 30
   }
  }
 }
