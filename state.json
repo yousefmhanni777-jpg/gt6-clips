@@ -19987,6 +19987,43 @@
    "login": "imantado",
    "views": 102,
    "duration": 44.9
+  },
+  "VibrantGenerousBeePeteZarollTie-OBDZGjsrQEPOFmOF": {
+   "t": 1795269586.9428067,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "IlloJuan se vuelve loco con este momento",
+   "url": "https://www.twitch.tv/illojuan/clip/VibrantGenerousBeePeteZarollTie-OBDZGjsrQEPOFmOF",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "CloudyElegantPresidentPupper-uYpj8iYUEFh1QRD5": {
+   "t": 1795269591.3294907,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando?",
+   "url": "https://www.twitch.tv/imantado/clip/CloudyElegantPresidentPupper-uYpj8iYUEFh1QRD5",
+   "login": "imantado",
+   "views": 102,
+   "duration": 47.1
+  },
+  "JazzyIcyHamOSfrog-OPNpH3Kqo0PCJi9-": {
+   "t": 1795269595.6642635,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando en GTA 6?",
+   "url": "https://www.twitch.tv/imantado/clip/JazzyIcyHamOSfrog-OPNpH3Kqo0PCJi9-",
+   "login": "imantado",
+   "views": 102,
+   "duration": 59.9
   }
  }
 }
