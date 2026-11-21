@@ -19862,6 +19862,30 @@
    "views": 24,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "RefinedPoliteOryxPartyTime-uBA26wZnp76aLMIj": {
+   "t": 1795268226.137291,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "Imantado suelta la carcajada más loca",
+   "url": "https://www.twitch.tv/imantado/clip/RefinedPoliteOryxPartyTime-uBA26wZnp76aLMIj",
+   "login": "imantado",
+   "views": 86,
+   "duration": 59.9
+  },
+  "KnottyHilariousJuiceNinjaGrumpy-LKqCLqYmhnjIumEb": {
+   "t": 1795268228.0656757,
+   "streamer": "jcorko_",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "jcorko_ sin audio",
+   "url": "https://www.twitch.tv/jcorko_/clip/KnottyHilariousJuiceNinjaGrumpy-LKqCLqYmhnjIumEb",
+   "login": "jcorko_",
+   "views": 34,
+   "duration": 30
   }
  }
 }
