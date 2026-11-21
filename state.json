@@ -18575,6 +18575,31 @@
    "views": 2,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "IcyDeterminedTigerJonCarnage-CwZiojzBqhnd7Vq2": {
+   "t": 1795236390.7151172,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "IlloJuan se vuelve loco con GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/IcyDeterminedTigerJonCarnage-CwZiojzBqhnd7Vq2",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "CovertPunchyArugulaBrainSlug-f85b5dgbYjUwCXoo": {
+   "t": 1795236393.3468869,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan sorprendido en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/CovertPunchyArugulaBrainSlug-f85b5dgbYjUwCXoo",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 55.5
   }
  }
 }
