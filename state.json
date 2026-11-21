@@ -20247,6 +20247,43 @@
    "views": 51,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "SpinelessInexpensiveSamosaMoreCowbell-rxbG6mGVzh8mQp0L": {
+   "t": 1795271159.987215,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Carola habla de su infancia en la era del Blackberry",
+   "url": "https://www.twitch.tv/carola/clip/SpinelessInexpensiveSamosaMoreCowbell-rxbG6mGVzh8mQp0L",
+   "login": "carola",
+   "views": 63,
+   "duration": 60
+  },
+  "ObeseViscousLarkBCWarrior-WEn0O0Xh5NqVqR2c": {
+   "t": 1795271180.4138284,
+   "streamer": "paache_",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Paache_ reacciona al aterrizaje fatal en GTA 6",
+   "url": "https://www.twitch.tv/paache_/clip/ObeseViscousLarkBCWarrior-WEn0O0Xh5NqVqR2c",
+   "login": "paache_",
+   "views": 51,
+   "duration": 17.2,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ChillyAbstemiousReubenDAESuppy-uqkJ9cO-4mCGIDYB": {
+   "t": 1795271183.2797456,
+   "streamer": "karchez",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando?",
+   "url": "https://www.twitch.tv/karchez/clip/ChillyAbstemiousReubenDAESuppy-uqkJ9cO-4mCGIDYB",
+   "login": "karchez",
+   "views": 23,
+   "duration": 30
   }
  }
 }
