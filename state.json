@@ -18924,6 +18924,13 @@
    "views": 112,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "EsteemedAmazingMuleCopyThis-T3kkOvM9LoAtJZeu": {
+   "t": 1795242441.9239411,
+   "streamer": "IlloJuan",
+   "status": "error",
+   "tries": 1,
+   "error": "yt-dlp falló:\nERROR: unable to download video data: HTTP Error 404: Not Found\n"
   }
  }
 }
