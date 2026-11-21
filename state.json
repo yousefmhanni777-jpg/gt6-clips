@@ -18096,6 +18096,25 @@
    "views": 9,
    "duration": 30,
    "formato": "cara arriba"
+  },
+  "ChillyAntediluvianTofuStrawBeary-6_smHozg09e0SpC8": {
+   "t": 1795226928.1243503,
+   "streamer": "TheGrefg",
+   "status": "error",
+   "tries": 1,
+   "error": "Telegram: 413 {\"ok\":false,\"error_code\":413,\"description\":\"Request Entity Too Large\"}"
+  },
+  "EnjoyablePlumpTrollPupper-y-YXuRbSYDDh4Eq1": {
+   "t": 1795226930.4666758,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Qué",
+   "url": "https://www.twitch.tv/illojuan/clip/EnjoyablePlumpTrollPupper-y-YXuRbSYDDh4Eq1",
+   "login": "illojuan",
+   "views": 9,
+   "duration": 29.8
   }
  }
 }
