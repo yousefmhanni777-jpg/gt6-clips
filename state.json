@@ -18371,6 +18371,31 @@
    "views": 2,
    "duration": 32.5,
    "formato": "cara arriba"
+  },
+  "DeterminedReliableDiscCurseLit-uJFlhiaUW4qdmtpE": {
+   "t": 1795232660.7360003,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "curiosidad",
+   "hook": "IlloJuan descubre nubes épicas en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/DeterminedReliableDiscCurseLit-uJFlhiaUW4qdmtpE",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 50.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SlipperyToughNikudonBloodTrail-HiG8isu8DpuMotD6": {
+   "t": 1795232662.9522898,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "IlloJuan sin nada que decir...",
+   "url": "https://www.twitch.tv/illojuan/clip/SlipperyToughNikudonBloodTrail-HiG8isu8DpuMotD6",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 30
   }
  }
 }
