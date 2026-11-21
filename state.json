@@ -18926,10 +18926,10 @@
    "formato": "normal: sin cámara detectada"
   },
   "EsteemedAmazingMuleCopyThis-T3kkOvM9LoAtJZeu": {
-   "t": 1795242441.9239411,
+   "t": 1795242544.7085912,
    "streamer": "IlloJuan",
    "status": "error",
-   "tries": 1,
+   "tries": 2,
    "error": "yt-dlp falló:\nERROR: unable to download video data: HTTP Error 404: Not Found\n"
   }
  }
