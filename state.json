@@ -21817,11 +21817,16 @@
    "duration": 29.9
   },
   "ObedientLitigiousPepperoniFrankerZ-xusFbWrObF-gInBO": {
-   "t": 1795294334.4923348,
+   "t": 1795294440.6726584,
    "streamer": "IlloJuan",
-   "status": "error",
-   "tries": 1,
-   "error": "Telegram: 504 {\"ok\":false,\"error_code\":504,\"description\":\"Gateway Timeout\"}"
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona a GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/ObedientLitigiousPepperoniFrankerZ-xusFbWrObF-gInBO",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 27.2
   }
  }
 }
