@@ -26156,7 +26156,8 @@
    "duration": 29.9,
    "formato": "cara arriba",
    "tiktok_req": "tt_WimpyMagnificentAlbatrossStoneLightning-btIuScVQpLr75MKZ",
-   "tiktok_t": 1795372627.4799273
+   "tiktok_t": 1795372627.4799273,
+   "tiktok_status": "publicado"
   },
   "SincereDeterminedFiddleheadsAMPEnergyCherry-_tx66BvdzvQ6iNF_": {
    "t": 1795372631.8726063,
@@ -26169,6 +26170,18 @@
    "login": "auronplay",
    "views": 808,
    "duration": 29.9
+  },
+  "RenownedDelightfulAntTakeNRG-aAZUoWHODR7msEaV": {
+   "t": 1795372948.303685,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Auronplay sin voz? 🤔",
+   "url": "https://www.twitch.tv/auronplay/clip/RenownedDelightfulAntTakeNRG-aAZUoWHODR7msEaV",
+   "login": "auronplay",
+   "views": 830,
+   "duration": 30
   }
  }
 }
