@@ -25584,6 +25584,44 @@
    "views": 124,
    "duration": 30,
    "formato": "cara arriba"
+  },
+  "PrettyThankfulKittenPanicVis-REiH-Dg2To0ZsNzl": {
+   "t": 1795363004.7845623,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco con GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/PrettyThankfulKittenPanicVis-REiH-Dg2To0ZsNzl",
+   "login": "djmariio",
+   "views": 131,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "CarelessEntertainingMarjoramPJSugar-wuFjttdJ5FzVI3Nz": {
+   "t": 1795363008.6484594,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO reacciona al cromado en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/CarelessEntertainingMarjoramPJSugar-wuFjttdJ5FzVI3Nz",
+   "login": "djmariio",
+   "views": 131,
+   "duration": 59.9
+  },
+  "DreamySaltyConsoleThunBeast-q-gKQ7T5Kq3KsVoo": {
+   "t": 1795363060.1035404,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO reacciona a la pintura más loca",
+   "url": "https://www.twitch.tv/djmariio/clip/DreamySaltyConsoleThunBeast-q-gKQ7T5Kq3KsVoo",
+   "login": "djmariio",
+   "views": 131,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
