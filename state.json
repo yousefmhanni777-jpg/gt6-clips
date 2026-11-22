@@ -23004,6 +23004,31 @@
    "views": 36,
    "duration": 21.3,
    "formato": "normal: sin cámara detectada"
+  },
+  "FurrySoftGalagoAMPEnergyCherry-swy8l-HV63WnEAi-": {
+   "t": 1795315566.0184596,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se sorprende con un cocodrilo en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/FurrySoftGalagoAMPEnergyCherry-swy8l-HV63WnEAi-",
+   "login": "djmariio",
+   "views": 3,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "KitschyHappyCurlewYee-rqYyetKm6IJi3F-r": {
+   "t": 1795315567.8101017,
+   "streamer": "AgenteMaxo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Quién es ese? 🤔",
+   "url": "https://www.twitch.tv/agentemaxo/clip/KitschyHappyCurlewYee-rqYyetKm6IJi3F-r",
+   "login": "agentemaxo",
+   "views": 31,
+   "duration": 18
   }
  }
 }
