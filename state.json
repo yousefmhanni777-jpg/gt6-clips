@@ -23336,6 +23336,31 @@
    "views": 31,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "CrispyGloriousCormorantHassaanChop-WPH-zBeCvPllyNFm": {
+   "t": 1795321503.3047178,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Auronplay habla de coches en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/CrispyGloriousCormorantHassaanChop-WPH-zBeCvPllyNFm",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 30
+  },
+  "DepressedMushyClipsmomPupper-VZ2XvmKjeM1Pvun3": {
+   "t": 1795321542.3476417,
+   "streamer": "iaaraS2",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "iaaraS2 se vuelve loco intentando robar al policía",
+   "url": "https://www.twitch.tv/iaaras2/clip/DepressedMushyClipsmomPupper-VZ2XvmKjeM1Pvun3",
+   "login": "iaaras2",
+   "views": 30,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
