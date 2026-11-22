@@ -23799,6 +23799,19 @@
    "views": 4,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "OpenPrettyPanOpieOP-yRnuP6DMkx14ieVT": {
+   "t": 1795330601.7386866,
+   "streamer": "stdascx",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "stdascx reacciona en vivo a un momento inesperado",
+   "url": "https://www.twitch.tv/stdascx/clip/OpenPrettyPanOpieOP-yRnuP6DMkx14ieVT",
+   "login": "stdascx",
+   "views": 50,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
