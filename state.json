@@ -25232,6 +25232,43 @@
    "login": "auronplay",
    "views": 738,
    "duration": 22.5
+  },
+  "SweetAltruisticDolphinWOOP-IU_XwVg3-uQ1z_z4": {
+   "t": 1795361103.9911242,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin nada épico ni bug",
+   "url": "https://www.twitch.tv/djmariio/clip/SweetAltruisticDolphinWOOP-IU_XwVg3-uQ1z_z4",
+   "login": "djmariio",
+   "views": 45,
+   "duration": 30
+  },
+  "GoodDeterminedDugongEleGiggle-TQnCP5u24YyQrWip": {
+   "t": 1795361106.4685116,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando aquí?",
+   "url": "https://www.twitch.tv/illojuan/clip/GoodDeterminedDugongEleGiggle-TQnCP5u24YyQrWip",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 14.5
+  },
+  "CalmModernSnakeKevinTurtle-iyIcvdMcvr7G_2gu": {
+   "t": 1795361151.6029792,
+   "streamer": "Peereira7",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Peereira7 se enfada con GTA 6",
+   "url": "https://www.twitch.tv/peereira7/clip/CalmModernSnakeKevinTurtle-iyIcvdMcvr7G_2gu",
+   "login": "peereira7",
+   "views": 195,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
