@@ -23864,6 +23864,18 @@
    "views": 41,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "RamshacklePatientWormCeilingCat-SOyxqAlvLc8BLB8R": {
+   "t": 1795331144.827432,
+   "streamer": "stdascx",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando? 🤔",
+   "url": "https://www.twitch.tv/stdascx/clip/RamshacklePatientWormCeilingCat-SOyxqAlvLc8BLB8R",
+   "login": "stdascx",
+   "views": 47,
+   "duration": 30
   }
  }
 }
