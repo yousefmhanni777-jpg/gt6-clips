@@ -25442,6 +25442,31 @@
    "login": "agustin51",
    "views": 3,
    "duration": 30
+  },
+  "InquisitiveWittyEggnogKeepo-PHEmWrRMVcYWSvvn": {
+   "t": 1795362069.6571891,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Imantado reacciona a la canción oculta de GTA 6",
+   "url": "https://www.twitch.tv/imantado/clip/InquisitiveWittyEggnogKeepo-PHEmWrRMVcYWSvvn",
+   "login": "imantado",
+   "views": 73,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "CaringHonestCrowCurseLit-5Pe6OKThC6wcndzE": {
+   "t": 1795362074.2327466,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Imantado se queja de la música y Rusia",
+   "url": "https://www.twitch.tv/imantado/clip/CaringHonestCrowCurseLit-5Pe6OKThC6wcndzE",
+   "login": "imantado",
+   "views": 73,
+   "duration": 59.9
   }
  }
 }
