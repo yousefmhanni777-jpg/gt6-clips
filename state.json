@@ -26270,6 +26270,31 @@
    "views": 5,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "ReliableGoodStorkPanicBasket-4BEbFecuFlQhnYtb": {
+   "t": 1795374623.158019,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay sin filtro",
+   "url": "https://www.twitch.tv/auronplay/clip/ReliableGoodStorkPanicBasket-4BEbFecuFlQhnYtb",
+   "login": "auronplay",
+   "views": 825,
+   "duration": 44.9
+  },
+  "AmusedSavageNightingaleAsianGlow-8-AbiQ62yCEttgXd": {
+   "t": 1795374645.090702,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "IlloJuan se sorprende con un oso en un contenedor",
+   "url": "https://www.twitch.tv/illojuan/clip/AmusedSavageNightingaleAsianGlow-8-AbiQ62yCEttgXd",
+   "login": "illojuan",
+   "views": 34,
+   "duration": 13.1,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
