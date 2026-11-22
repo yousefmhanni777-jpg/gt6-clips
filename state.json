@@ -24284,7 +24284,8 @@
    "duration": 59.9,
    "formato": "normal: sin cámara detectada",
    "tiktok_req": "tt_SuaveThankfulEggplantBrokeBack-Tvxrx0IG_wb60p7y",
-   "tiktok_t": 1795352616.6457012
+   "tiktok_t": 1795352616.6457012,
+   "tiktok_status": "publicado"
   },
   "StylishRefinedPartridgeBabyRage-LDpDsaBg1n-Qkvit": {
    "t": 1795352713.9451728,
@@ -24310,6 +24311,44 @@
    "login": "imantado",
    "views": 64,
    "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "HeartlessTenaciousBisonStinkyCheese-feR0n4J92FLfCRbq": {
+   "t": 1795352917.2730136,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "Imantado reacciona a la locura de GTA 6",
+   "url": "https://www.twitch.tv/imantado/clip/HeartlessTenaciousBisonStinkyCheese-feR0n4J92FLfCRbq",
+   "login": "imantado",
+   "views": 66,
+   "duration": 59.9
+  },
+  "GiftedTiredJellyfishGingerPower-MqOfNTH8JcF3pQB3": {
+   "t": 1795352968.8024955,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "Imantado reacciona al robo del Banco Central",
+   "url": "https://www.twitch.tv/imantado/clip/GiftedTiredJellyfishGingerPower-MqOfNTH8JcF3pQB3",
+   "login": "imantado",
+   "views": 66,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "FriendlyResoluteDillMikeHogu-VIL0aa8PmHgURrXZ": {
+   "t": 1795353066.6676006,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "imantado reacciona a un momento épico en GTA 6",
+   "url": "https://www.twitch.tv/imantado/clip/FriendlyResoluteDillMikeHogu-VIL0aa8PmHgURrXZ",
+   "login": "imantado",
+   "views": 66,
+   "duration": 60,
    "formato": "normal: sin cámara detectada"
   }
  }
