@@ -22979,6 +22979,31 @@
    "login": "imantado",
    "views": 120,
    "duration": 59.9
+  },
+  "FreezingPlayfulCormorantOSsloth-AEIFYLHoSW45xHMk": {
+   "t": 1795315071.8761277,
+   "streamer": "FeirlyGab",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "FeirlyGab sin voz: ¿qué ocurre?",
+   "url": "https://www.twitch.tv/feirlygab/clip/FreezingPlayfulCormorantOSsloth-AEIFYLHoSW45xHMk",
+   "login": "feirlygab",
+   "views": 63,
+   "duration": 60
+  },
+  "CrypticSmellyKaleCoolCat-FITBoW5TbwYSW7bY": {
+   "t": 1795315107.804133,
+   "streamer": "Mictia00",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "Mictia00 se queda sin control en GTA 6",
+   "url": "https://www.twitch.tv/mictia00/clip/CrypticSmellyKaleCoolCat-FITBoW5TbwYSW7bY",
+   "login": "mictia00",
+   "views": 36,
+   "duration": 21.3,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
