@@ -25710,6 +25710,31 @@
    "views": 68,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "SparklySarcasticPeanutKevinTurtle-fmI55yrUS8f7AS2C": {
+   "t": 1795364001.5779395,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco con el gancho en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/SparklySarcasticPeanutKevinTurtle-fmI55yrUS8f7AS2C",
+   "login": "djmariio",
+   "views": 150,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "RudeCoyShieldDuDudu-Rcdsr6uJw0dEAddo": {
+   "t": 1795364004.2750485,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin sentido en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/RudeCoyShieldDuDudu-Rcdsr6uJw0dEAddo",
+   "login": "djmariio",
+   "views": 150,
+   "duration": 60
   }
  }
 }
