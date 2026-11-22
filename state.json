@@ -23606,6 +23606,32 @@
    "views": 22,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "PuzzledDifficultBaconFrankerZ-wdCQ-m4Z14-4IpEF": {
+   "t": 1795326160.6321855,
+   "streamer": "PattyMeza",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "PattyMeza pierde su arma y el caos se desata",
+   "url": "https://www.twitch.tv/pattymeza/clip/PuzzledDifficultBaconFrankerZ-wdCQ-m4Z14-4IpEF",
+   "login": "pattymeza",
+   "views": 24,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "BoredJoyousCroquetteCoolStoryBro-feQdNjScqZ08SUuc": {
+   "t": 1795326207.8732493,
+   "streamer": "SrTumbao",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "SrTumbao reacciona a hamburguesa de pescado",
+   "url": "https://www.twitch.tv/srtumbao/clip/BoredJoyousCroquetteCoolStoryBro-feQdNjScqZ08SUuc",
+   "login": "srtumbao",
+   "views": 21,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
