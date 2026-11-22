@@ -25888,7 +25888,21 @@
    "duration": 15,
    "formato": "normal: sin cámara detectada",
    "tiktok_req": "tt_SmokyCleanHamsterPeanutButterJellyTime-0BIE9TgVSm8K3rKu",
-   "tiktok_t": 1795367624.128569
+   "tiktok_t": 1795367624.128569,
+   "tiktok_status": "publicado"
+  },
+  "BlushingTsundereMangoPermaSmug-qhynryAAK8hsnrKg": {
+   "t": 1795367963.801211,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO grita: ¡Mira arriba! 🔥",
+   "url": "https://www.twitch.tv/djmariio/clip/BlushingTsundereMangoPermaSmug-qhynryAAK8hsnrKg",
+   "login": "djmariio",
+   "views": 24,
+   "duration": 23.2,
+   "formato": "cara arriba"
   }
  }
 }
