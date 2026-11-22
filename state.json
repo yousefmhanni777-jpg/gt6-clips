@@ -22502,6 +22502,18 @@
    "views": 2,
    "duration": 30.7,
    "formato": "normal: sin cámara detectada"
+  },
+  "SmoothPleasantSpiderKippa-fppMeYFUdrYi1uCQ": {
+   "t": 1795306377.9663165,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "TheGrefg reacciona a un salto épico",
+   "url": "https://www.twitch.tv/thegrefg/clip/SmoothPleasantSpiderKippa-fppMeYFUdrYi1uCQ",
+   "login": "thegrefg",
+   "views": 15,
+   "duration": 27.2
   }
  }
 }
