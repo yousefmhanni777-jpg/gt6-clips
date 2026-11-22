@@ -25356,7 +25356,8 @@
    "duration": 26.6,
    "formato": "cara arriba",
    "tiktok_req": "tt_TentativeColdRavenUWot-gpztokjrNGeRn6fP",
-   "tiktok_t": 1795361553.180319
+   "tiktok_t": 1795361553.180319,
+   "tiktok_status": "publicado"
   },
   "MildAthleticCaribouFloof-YgyLn9yHl-rJVriw": {
    "t": 1795361557.866668,
@@ -25417,6 +25418,30 @@
    "login": "vegetta777",
    "views": 140,
    "duration": 60
+  },
+  "BusyCorrectCobra4Head-zrCOrxLfr6SPB3W9": {
+   "t": 1795361778.487592,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin voz",
+   "url": "https://www.twitch.tv/djmariio/clip/BusyCorrectCobra4Head-zrCOrxLfr6SPB3W9",
+   "login": "djmariio",
+   "views": 97,
+   "duration": 30
+  },
+  "WealthyCleanAsparagusPermaSmug-Acn7jPbXQdoj5zQw": {
+   "t": 1795361781.4568703,
+   "streamer": "agustin51",
+   "status": "descartado",
+   "score": 2,
+   "cat": "reaccion",
+   "hook": "Agustin51 reacciona a algo…",
+   "url": "https://www.twitch.tv/agustin51/clip/WealthyCleanAsparagusPermaSmug-Acn7jPbXQdoj5zQw",
+   "login": "agustin51",
+   "views": 3,
+   "duration": 30
   }
  }
 }
