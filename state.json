@@ -25305,6 +25305,43 @@
    "login": "peereira7",
    "views": 195,
    "duration": 30
+  },
+  "ArtsyMoistWaspThisIsSparta-Bf5mqlQXcimwa6H7": {
+   "t": 1795361368.0690312,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Clip sin relación al juego",
+   "url": "https://www.twitch.tv/djmariio/clip/ArtsyMoistWaspThisIsSparta-Bf5mqlQXcimwa6H7",
+   "login": "djmariio",
+   "views": 86,
+   "duration": 30
+  },
+  "MoldySmokySpindleVoHiYo-nh6U202Uy2jTqPJ2": {
+   "t": 1795361370.3673577,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay sin filtro",
+   "url": "https://www.twitch.tv/auronplay/clip/MoldySmokySpindleVoHiYo-nh6U202Uy2jTqPJ2",
+   "login": "auronplay",
+   "views": 756,
+   "duration": 30
+  },
+  "AmorphousVenomousMoonImGlitch-4dBbq9H_F-IO7Upv": {
+   "t": 1795361416.6542943,
+   "streamer": "Peereira7",
+   "status": "enviado",
+   "score": 4,
+   "cat": "otro",
+   "hook": "Peereira7 reacciona al show inesperado",
+   "url": "https://www.twitch.tv/peereira7/clip/AmorphousVenomousMoonImGlitch-4dBbq9H_F-IO7Upv",
+   "login": "peereira7",
+   "views": 193,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
