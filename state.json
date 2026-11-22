@@ -23078,6 +23078,31 @@
    "login": "imantado",
    "views": 83,
    "duration": 30
+  },
+  "HardExquisiteWebDuDudu-HWtqfKa9jSoGE0kh": {
+   "t": 1795316841.507084,
+   "streamer": "FeirlyGab",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "FeirlyGab habla de monjes y misterios extraños",
+   "url": "https://www.twitch.tv/feirlygab/clip/HardExquisiteWebDuDudu-HWtqfKa9jSoGE0kh",
+   "login": "feirlygab",
+   "views": 49,
+   "duration": 59.9
+  },
+  "IncredulousKitschyChickpeaDansGame-yPwxklOrD5LslhFH": {
+   "t": 1795316879.5410337,
+   "streamer": "SrTumbao",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "SrTumbao se enoja al voltear su Porsche",
+   "url": "https://www.twitch.tv/srtumbao/clip/IncredulousKitschyChickpeaDansGame-yPwxklOrD5LslhFH",
+   "login": "srtumbao",
+   "views": 25,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
