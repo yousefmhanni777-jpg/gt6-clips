@@ -23632,6 +23632,31 @@
    "views": 21,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "PoisedAuspiciousPotatoSaltBae-P15-lYN6xxwajh0k": {
+   "t": 1795326559.322235,
+   "streamer": "FeirlyGab",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "FeirlyGab reacciona sin saber nada: ¡oso gg!",
+   "url": "https://www.twitch.tv/feirlygab/clip/PoisedAuspiciousPotatoSaltBae-P15-lYN6xxwajh0k",
+   "login": "feirlygab",
+   "views": 120,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "HelplessCrunchySwanDxAbomb-8JJGEvVodDsd1r3W": {
+   "t": 1795326561.197974,
+   "streamer": "SrTumbao",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasó en este clip?",
+   "url": "https://www.twitch.tv/srtumbao/clip/HelplessCrunchySwanDxAbomb-8JJGEvVodDsd1r3W",
+   "login": "srtumbao",
+   "views": 5,
+   "duration": 30
   }
  }
 }
