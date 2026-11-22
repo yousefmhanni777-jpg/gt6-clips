@@ -26899,7 +26899,8 @@
    "duration": 45,
    "formato": "cara arriba",
    "tiktok_req": "tt_SuperAmazingPotDoggo-gXqaXp8bHD8ZLqrW",
-   "tiktok_t": 1795385533.769798
+   "tiktok_t": 1795385533.769798,
+   "tiktok_status": "publicado"
   },
   "SarcasticWrongIcecreamAMPEnergyCherry-HFDEtvFdXHJInlwl": {
    "t": 1795385580.5216653,
@@ -26912,6 +26913,19 @@
    "login": "illojuan",
    "views": 61,
    "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "HungryHungryManateeDuDudu-Y_Z3diMDKq8fZ9y8": {
+   "t": 1795385854.2675712,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona a un bug épico",
+   "url": "https://www.twitch.tv/djmariio/clip/HungryHungryManateeDuDudu-Y_Z3diMDKq8fZ9y8",
+   "login": "djmariio",
+   "views": 150,
+   "duration": 59.9,
    "formato": "normal: sin cámara detectada"
   }
  }
