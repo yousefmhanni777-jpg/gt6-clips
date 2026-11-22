@@ -24219,6 +24219,31 @@
    "views": 3,
    "duration": 28.4,
    "formato": "normal: sin cámara detectada"
+  },
+  "AlertCorrectHeronWoofer-e7lleNhuAF1igd6q": {
+   "t": 1795351712.6499238,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "Imantado planea el robo al Banco Central 🚨",
+   "url": "https://www.twitch.tv/imantado/clip/AlertCorrectHeronWoofer-e7lleNhuAF1igd6q",
+   "login": "imantado",
+   "views": 39,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "BillowingDeadToadCharlietheUnicorn-EuEqq-5PeBNSxWXa": {
+   "t": 1795351715.0211306,
+   "streamer": "Geraldin1824",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "bys",
+   "url": "https://www.twitch.tv/geraldin1824/clip/BillowingDeadToadCharlietheUnicorn-EuEqq-5PeBNSxWXa",
+   "login": "geraldin1824",
+   "views": 3,
+   "duration": 30
   }
  }
 }
