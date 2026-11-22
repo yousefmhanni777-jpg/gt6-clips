@@ -23181,6 +23181,31 @@
    "views": 94,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "SarcasticGeniusYamHeyGuys-qRGKqI4kjt-QaTfT": {
+   "t": 1795318672.516034,
+   "streamer": "Roier",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Roier se descontrola en GTA 6",
+   "url": "https://www.twitch.tv/roier/clip/SarcasticGeniusYamHeyGuys-qRGKqI4kjt-QaTfT",
+   "login": "roier",
+   "views": 91,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "CrazyTenaciousCheetahMikeHogu-nOsRj1i1EWRKbw70": {
+   "t": 1795318675.0203612,
+   "streamer": "SrTumbao",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "SrTumbao reacciona a GTA 6",
+   "url": "https://www.twitch.tv/srtumbao/clip/CrazyTenaciousCheetahMikeHogu-nOsRj1i1EWRKbw70",
+   "login": "srtumbao",
+   "views": 25,
+   "duration": 30
   }
  }
 }
