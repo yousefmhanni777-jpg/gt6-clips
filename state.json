@@ -23889,6 +23889,18 @@
    "views": 20,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "ArtisticAmazingWaterPogChamp-3H2HNQZJqip-k2E4": {
+   "t": 1795331581.497085,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Auronplay sin filtro",
+   "url": "https://www.twitch.tv/auronplay/clip/ArtisticAmazingWaterPogChamp-3H2HNQZJqip-k2E4",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 60
   }
  }
 }
