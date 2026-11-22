@@ -26659,6 +26659,31 @@
    "formato": "normal: sin cámara detectada",
    "tiktok_req": "tt_FitEncouragingCheeseSmoocherZ-LVobdlpce2E3UNsa",
    "tiktok_t": 1795381175.7283864
+  },
+  "IcyFastSalamanderMcaT-1q9qo35WHOn19S-l": {
+   "t": 1795381416.9615536,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona a NPCs locos en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/IcyFastSalamanderMcaT-1q9qo35WHOn19S-l",
+   "login": "illojuan",
+   "views": 141,
+   "duration": 25.3,
+   "formato": "normal: sin cámara detectada"
+  },
+  "UnusualCovertLettuceDxAbomb-AA12jHXZW9ZcBeTG": {
+   "t": 1795381419.2866948,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "DjMaRiiO habla de la bici en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/UnusualCovertLettuceDxAbomb-AA12jHXZW9ZcBeTG",
+   "login": "djmariio",
+   "views": 3,
+   "duration": 25.6
   }
  }
 }
