@@ -25196,6 +25196,42 @@
    "views": 20,
    "duration": 50,
    "formato": "normal: sin cámara detectada"
+  },
+  "SavoryGorgeousPuppyKappa-Z_C4akGviDNxJmQy": {
+   "t": 1795360990.3196876,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Auronplay reacciona a un chat loco",
+   "url": "https://www.twitch.tv/auronplay/clip/SavoryGorgeousPuppyKappa-Z_C4akGviDNxJmQy",
+   "login": "auronplay",
+   "views": 738,
+   "duration": 59.9
+  },
+  "EagerSecretiveCookiePicoMause-rmpGYTALt054H7N_": {
+   "t": 1795360995.8936934,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay habla de perfumes, no GTA",
+   "url": "https://www.twitch.tv/auronplay/clip/EagerSecretiveCookiePicoMause-rmpGYTALt054H7N_",
+   "login": "auronplay",
+   "views": 738,
+   "duration": 52
+  },
+  "SingleHappySrirachaRiPepperonis-6VetiV2yalkd24-N": {
+   "t": 1795360999.2501326,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay habla de Scandal",
+   "url": "https://www.twitch.tv/auronplay/clip/SingleHappySrirachaRiPepperonis-6VetiV2yalkd24-N",
+   "login": "auronplay",
+   "views": 738,
+   "duration": 22.5
   }
  }
 }
