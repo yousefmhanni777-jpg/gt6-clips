@@ -24582,6 +24582,31 @@
    "formato": "normal: sin cámara detectada",
    "tiktok_req": "tt_SincereRealCroissantDatSheffy-6DvNhBmz2syS_HhH",
    "tiktok_t": 1795356993.327568
+  },
+  "CrackyLivelyHornetPogChamp-h0sa_cm7LwQB6jI7": {
+   "t": 1795357101.0764694,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Imantado sin nada épico que mostrar",
+   "url": "https://www.twitch.tv/imantado/clip/CrackyLivelyHornetPogChamp-h0sa_cm7LwQB6jI7",
+   "login": "imantado",
+   "views": 97,
+   "duration": 47.4
+  },
+  "PunchyAmericanGrouseCoolStoryBob-OHgOZmixrufOP9li": {
+   "t": 1795357164.4292138,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Imantado muestra su precisión en GTA 6",
+   "url": "https://www.twitch.tv/imantado/clip/PunchyAmericanGrouseCoolStoryBob-OHgOZmixrufOP9li",
+   "login": "imantado",
+   "views": 97,
+   "duration": 54.8,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
