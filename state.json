@@ -27178,6 +27178,31 @@
    "views": 152,
    "duration": 59,
    "formato": "normal: sin cámara detectada"
+  },
+  "WonderfulScrumptiousDiscPJSalt-G0ybdYK1vPQCXX71": {
+   "t": 1795390526.44012,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona al aluvión de viewers en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/WonderfulScrumptiousDiscPJSalt-G0ybdYK1vPQCXX71",
+   "login": "djmariio",
+   "views": 4,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "RichSpicyClintmullinsNotATK-TQq7t-8dt4OpxcbZ": {
+   "t": 1795390529.5831375,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "DjMaRiiO agradece",
+   "url": "https://www.twitch.tv/djmariio/clip/RichSpicyClintmullinsNotATK-TQq7t-8dt4OpxcbZ",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 60
   }
  }
 }
