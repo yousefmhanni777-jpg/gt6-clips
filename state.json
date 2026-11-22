@@ -24194,6 +24194,18 @@
    "views": 5,
    "duration": 42.1,
    "formato": "normal: sin cámara detectada"
+  },
+  "SmoothFaithfulStarlingRitzMitz-CM9c-IJRwklcr7NQ": {
+   "t": 1795350905.8543227,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "IlloJuan sin nada interesante",
+   "url": "https://www.twitch.tv/illojuan/clip/SmoothFaithfulStarlingRitzMitz-CM9c-IJRwklcr7NQ",
+   "login": "illojuan",
+   "views": 6,
+   "duration": 28.7
   }
  }
 }
