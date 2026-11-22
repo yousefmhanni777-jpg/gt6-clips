@@ -24581,7 +24581,8 @@
    "duration": 60,
    "formato": "normal: sin cámara detectada",
    "tiktok_req": "tt_SincereRealCroissantDatSheffy-6DvNhBmz2syS_HhH",
-   "tiktok_t": 1795356993.327568
+   "tiktok_t": 1795356993.327568,
+   "tiktok_status": "publicado"
   },
   "CrackyLivelyHornetPogChamp-h0sa_cm7LwQB6jI7": {
    "t": 1795357101.0764694,
@@ -24607,6 +24608,44 @@
    "views": 97,
    "duration": 54.8,
    "formato": "normal: sin cámara detectada"
+  },
+  "CogentBoringRutabagaGingerPower-hXyu2PBMBYOBucp5": {
+   "t": 1795357297.5571342,
+   "streamer": "Peereira7",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Peereira7 reacciona a Jaina hambrienta",
+   "url": "https://www.twitch.tv/peereira7/clip/CogentBoringRutabagaGingerPower-hXyu2PBMBYOBucp5",
+   "login": "peereira7",
+   "views": 161,
+   "duration": 23,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ConfidentApatheticSardineTBTacoRight-g5nTyslKSAS7BWlq": {
+   "t": 1795357369.2653117,
+   "streamer": "Peereira7",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Peereira7 reacciona furioso a GTA 6",
+   "url": "https://www.twitch.tv/peereira7/clip/ConfidentApatheticSardineTBTacoRight-g5nTyslKSAS7BWlq",
+   "login": "peereira7",
+   "views": 161,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AnimatedGenerousTrollDendiFace-7Kq0qDaGwVoG1w1N": {
+   "t": 1795357371.6173558,
+   "streamer": "Peereira7",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Peereira7 suelta una frase misteriosa",
+   "url": "https://www.twitch.tv/peereira7/clip/AnimatedGenerousTrollDendiFace-7Kq0qDaGwVoG1w1N",
+   "login": "peereira7",
+   "views": 161,
+   "duration": 30
   }
  }
 }
