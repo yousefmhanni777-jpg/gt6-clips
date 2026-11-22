@@ -26094,6 +26094,30 @@
    "views": 911,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "CoweringYawningDogeOMGScoots-qs3FC9WjY2iRmOF_": {
+   "t": 1795371734.9073958,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius sin contexto: ¿qué está pasando?",
+   "url": "https://www.twitch.tv/rubius/clip/CoweringYawningDogeOMGScoots-qs3FC9WjY2iRmOF_",
+   "login": "rubius",
+   "views": 75,
+   "duration": 30
+  },
+  "CoweringExpensivePieKappa-j5SZXqH5JdUOowE1": {
+   "t": 1795371736.731541,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 0,
+   "cat": "otro",
+   "hook": "cromo",
+   "url": "https://www.twitch.tv/djmariio/clip/CoweringExpensivePieKappa-j5SZXqH5JdUOowE1",
+   "login": "djmariio",
+   "views": 10,
+   "duration": 30
   }
  }
 }
