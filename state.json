@@ -23851,6 +23851,19 @@
    "views": 21,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "AggressiveCovertTermitePMSTwin-f_q558h2EW8dBYBp": {
+   "t": 1795331040.0027962,
+   "streamer": "stdascx",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "stdascx reacciona al caos de GTA 6",
+   "url": "https://www.twitch.tv/stdascx/clip/AggressiveCovertTermitePMSTwin-f_q558h2EW8dBYBp",
+   "login": "stdascx",
+   "views": 41,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
