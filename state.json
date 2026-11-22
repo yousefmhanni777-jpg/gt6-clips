@@ -26685,6 +26685,31 @@
    "login": "djmariio",
    "views": 3,
    "duration": 25.6
+  },
+  "ChillySeductiveVampirePanicVis-9gU1Fm1hOtwruKIg": {
+   "t": 1795381999.127012,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Rubius se vuelve loco con el clip forzado",
+   "url": "https://www.twitch.tv/rubius/clip/ChillySeductiveVampirePanicVis-9gU1Fm1hOtwruKIg",
+   "login": "rubius",
+   "views": 164,
+   "duration": 38.5,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SaltyBoredTriangleHassanChop-tbM7ffuDKDTUG8i-": {
+   "t": 1795382001.0478725,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Rubius dice: Perro malo",
+   "url": "https://www.twitch.tv/rubius/clip/SaltyBoredTriangleHassanChop-tbM7ffuDKDTUG8i-",
+   "login": "rubius",
+   "views": 129,
+   "duration": 15.1
   }
  }
 }
