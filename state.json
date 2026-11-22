@@ -24530,6 +24530,31 @@
    "views": 2,
    "duration": 25,
    "formato": "normal: sin cámara detectada"
+  },
+  "DifferentSpotlessSandpiperAMPTropPunch-DnWsZvBxhZGxbg5l": {
+   "t": 1795356539.3106902,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "AuronPlay dice \"Vámonos\"... ¿qué pasa?",
+   "url": "https://www.twitch.tv/auronplay/clip/DifferentSpotlessSandpiperAMPTropPunch-DnWsZvBxhZGxbg5l",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 29
+  },
+  "AmericanKathishDragonChocolateRain-r4mjOBgF6jyRHuN2": {
+   "t": 1795356613.3329756,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan sufre una cadera rota en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/AmericanKathishDragonChocolateRain-r4mjOBgF6jyRHuN2",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 50,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
