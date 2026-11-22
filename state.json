@@ -25342,6 +25342,45 @@
    "views": 193,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "TentativeColdRavenUWot-gpztokjrNGeRn6fP": {
+   "t": 1795361554.9875634,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 7,
+   "cat": "curiosidad",
+   "hook": "AuronPlay descubre un NPC consciente en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/TentativeColdRavenUWot-gpztokjrNGeRn6fP",
+   "login": "auronplay",
+   "views": 756,
+   "duration": 26.6,
+   "formato": "cara arriba",
+   "tiktok_req": "tt_TentativeColdRavenUWot-gpztokjrNGeRn6fP",
+   "tiktok_t": 1795361553.180319
+  },
+  "MildAthleticCaribouFloof-YgyLn9yHl-rJVriw": {
+   "t": 1795361557.866668,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay sin rumbo en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/MildAthleticCaribouFloof-YgyLn9yHl-rJVriw",
+   "login": "auronplay",
+   "views": 756,
+   "duration": 49.9
+  },
+  "CarefulMuddyButterJebaited-uLEvBCwaVF04LWw4": {
+   "t": 1795361560.4263573,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Auronplay: ¿culos o tetas? 🤔",
+   "url": "https://www.twitch.tv/auronplay/clip/CarefulMuddyButterJebaited-uLEvBCwaVF04LWw4",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 30
   }
  }
 }
