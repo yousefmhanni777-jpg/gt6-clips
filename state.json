@@ -23029,6 +23029,31 @@
    "login": "agentemaxo",
    "views": 31,
    "duration": 18
+  },
+  "RelatedFrailSandpiperOneHand-L6uOG26TnKFbvjQP": {
+   "t": 1795316085.502928,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "IlloJuan se vuelve loco con un bug de física",
+   "url": "https://www.twitch.tv/illojuan/clip/RelatedFrailSandpiperOneHand-L6uOG26TnKFbvjQP",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "PlainYummyEchidnaHeyGirl-pDqjnP24qrVE3nNq": {
+   "t": 1795316087.6807582,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "Auronplay se enoja con los obreros",
+   "url": "https://www.twitch.tv/auronplay/clip/PlainYummyEchidnaHeyGirl-pDqjnP24qrVE3nNq",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 44.6
   }
  }
 }
