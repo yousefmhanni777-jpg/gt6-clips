@@ -27857,6 +27857,18 @@
    "views": 172,
    "duration": 16.3,
    "formato": "normal: sin cámara detectada"
+  },
+  "SarcasticNeighborlyOcelotFutureMan-OqvFfdZff6pmac5H": {
+   "t": 1795402145.7147255,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay: 5 estrellas y está muerto",
+   "url": "https://www.twitch.tv/auronplay/clip/SarcasticNeighborlyOcelotFutureMan-OqvFfdZff6pmac5H",
+   "login": "auronplay",
+   "views": 13,
+   "duration": 60
   }
  }
 }
