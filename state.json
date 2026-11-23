@@ -32055,6 +32055,32 @@
    "views": 119,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "SquareObservantSpaghettiAMPEnergy-zJFw-ops85IG8t-b": {
+   "t": 1795476318.843061,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona a la canción de su país",
+   "url": "https://www.twitch.tv/illojuan/clip/SquareObservantSpaghettiAMPEnergy-zJFw-ops85IG8t-b",
+   "login": "illojuan",
+   "views": 549,
+   "duration": 17.7,
+   "formato": "normal: sin cámara detectada"
+  },
+  "CrepuscularDirtyShieldKevinTurtle-Jd_JdiTZ4K2dgjGX": {
+   "t": 1795476384.0138683,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "Rubius descubre un bug inesperado en GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/CrepuscularDirtyShieldKevinTurtle-Jd_JdiTZ4K2dgjGX",
+   "login": "rubius",
+   "views": 201,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
