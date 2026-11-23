@@ -30876,6 +30876,18 @@
    "views": 74,
    "duration": 34.5,
    "formato": "normal: sin cámara detectada"
+  },
+  "TawdryImpossibleTruffleSuperVinlin-s_4HSGbqPPJJRGn5": {
+   "t": 1795455586.091316,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "AuronPlay dice algo raro, ¿qué pasa?",
+   "url": "https://www.twitch.tv/auronplay/clip/TawdryImpossibleTruffleSuperVinlin-s_4HSGbqPPJJRGn5",
+   "login": "auronplay",
+   "views": 3,
+   "duration": 12.8
   }
  }
 }
