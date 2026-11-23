@@ -32107,6 +32107,18 @@
    "views": 123,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "CrazyCheerfulEggnogRuleFive-YBuGZpP2EGj5KgQq": {
+   "t": 1795477062.553257,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Grand Theft Auto VI clip at 8h51m32s",
+   "url": "https://www.twitch.tv/djmariio/clip/CrazyCheerfulEggnogRuleFive-YBuGZpP2EGj5KgQq",
+   "login": "djmariio",
+   "views": 119,
+   "duration": 60
   }
  }
 }
