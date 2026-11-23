@@ -28403,6 +28403,31 @@
    "views": 3,
    "duration": 18,
    "formato": "normal: sin cámara detectada"
+  },
+  "SavageViscousFiddleheadsBleedPurple-s744b1doZDXNcUwc": {
+   "t": 1795411893.3791435,
+   "streamer": "CrystalMolly",
+   "status": "enviado",
+   "score": 4,
+   "cat": "gracioso",
+   "hook": "CrystalMolly suelta un caos inesperado",
+   "url": "https://www.twitch.tv/crystalmolly/clip/SavageViscousFiddleheadsBleedPurple-s744b1doZDXNcUwc",
+   "login": "crystalmolly",
+   "views": 3,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AbstruseObedientFishMoreCowbell-QzruXkA5opJoUVy_": {
+   "t": 1795411895.0776517,
+   "streamer": "CrystalMolly",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "CrystalMolly intenta un drop",
+   "url": "https://www.twitch.tv/crystalmolly/clip/AbstruseObedientFishMoreCowbell-QzruXkA5opJoUVy_",
+   "login": "crystalmolly",
+   "views": 4,
+   "duration": 30
   }
  }
 }
