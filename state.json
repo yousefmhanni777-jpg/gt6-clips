@@ -31294,6 +31294,31 @@
    "views": 14,
    "duration": 14.4,
    "formato": "normal: sin cámara detectada"
+  },
+  "CheerfulFairYakinikuVoHiYo-WM298Cx0L0jfS287": {
+   "t": 1795462928.5585027,
+   "streamer": "FolagorLives",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Folagor se vuelve loco con el cinturón en GTA 6",
+   "url": "https://www.twitch.tv/folagorlives/clip/CheerfulFairYakinikuVoHiYo-WM298Cx0L0jfS287",
+   "login": "folagorlives",
+   "views": 29,
+   "duration": 29.7,
+   "formato": "cara arriba"
+  },
+  "PlayfulSavoryPuddingRitzMitz-bG8nAPPSRkfUCoWQ": {
+   "t": 1795462930.1912875,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay reacciona a GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/PlayfulSavoryPuddingRitzMitz-bG8nAPPSRkfUCoWQ",
+   "login": "auronplay",
+   "views": 4,
+   "duration": 22.1
   }
  }
 }
