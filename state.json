@@ -30485,6 +30485,43 @@
    "login": "peereira7",
    "views": 120,
    "duration": 19.1
+  },
+  "PleasantTardyNarwhalDatSheffy-pDh27upFK7rvfZLU": {
+   "t": 1795452670.2092497,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco con un momento épico",
+   "url": "https://www.twitch.tv/djmariio/clip/PleasantTardyNarwhalDatSheffy-pDh27upFK7rvfZLU",
+   "login": "djmariio",
+   "views": 149,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SavageAverageMosquitoHassaanChop-KASk53kdSGh5eOwB": {
+   "t": 1795452672.728675,
+   "streamer": "FolagorLives",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasa en este clip?",
+   "url": "https://www.twitch.tv/folagorlives/clip/SavageAverageMosquitoHassaanChop-KASk53kdSGh5eOwB",
+   "login": "folagorlives",
+   "views": 28,
+   "duration": 30
+  },
+  "RockyPlayfulOrcaDxCat-PN6mnkwAWUbjBRxZ": {
+   "t": 1795452674.49886,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasa en GTA VI?",
+   "url": "https://www.twitch.tv/imantado/clip/RockyPlayfulOrcaDxCat-PN6mnkwAWUbjBRxZ",
+   "login": "imantado",
+   "views": 3,
+   "duration": 30
   }
  }
 }
