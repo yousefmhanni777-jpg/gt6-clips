@@ -27568,6 +27568,19 @@
    "views": 4,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "AlertPoliteCodOSsloth--q9C9mBCqqyNNSIV": {
+   "t": 1795397145.3236556,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO encuentra un móvil inesperado",
+   "url": "https://www.twitch.tv/djmariio/clip/AlertPoliteCodOSsloth--q9C9mBCqqyNNSIV",
+   "login": "djmariio",
+   "views": 109,
+   "duration": 49.7,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
