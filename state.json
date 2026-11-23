@@ -28721,6 +28721,44 @@
    "views": 2,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "InnocentEsteemedSpaghettiYee-ZxPXXqlxDut7KBb7": {
+   "t": 1795421218.821789,
+   "streamer": "PattyMeza",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "PattyMeza se vuelve loco en GTA 6",
+   "url": "https://www.twitch.tv/pattymeza/clip/InnocentEsteemedSpaghettiYee-ZxPXXqlxDut7KBb7",
+   "login": "pattymeza",
+   "views": 28,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "BlatantFairNuggetsHoneyBadger-rmrpmDh4at33hG4w": {
+   "t": 1795421223.3890474,
+   "streamer": "PattyMeza",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "PattyMeza sorprende en GTA 6",
+   "url": "https://www.twitch.tv/pattymeza/clip/BlatantFairNuggetsHoneyBadger-rmrpmDh4at33hG4w",
+   "login": "pattymeza",
+   "views": 28,
+   "duration": 60
+  },
+  "BlindingStormyPelicanPanicVis-tDB4aq_BS06eYFar": {
+   "t": 1795421290.889609,
+   "streamer": "PattyMeza",
+   "status": "enviado",
+   "score": 4,
+   "cat": "otro",
+   "hook": "PattyMeza sorprende con su comentario loco",
+   "url": "https://www.twitch.tv/pattymeza/clip/BlindingStormyPelicanPanicVis-tDB4aq_BS06eYFar",
+   "login": "pattymeza",
+   "views": 28,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
