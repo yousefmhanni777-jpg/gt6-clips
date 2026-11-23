@@ -28377,6 +28377,19 @@
    "views": 4,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "ObedientMildUdonDatBoi-8w5q-V6_i1gb2hsb": {
+   "t": 1795411269.1375327,
+   "streamer": "SrTumbao",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "SrTumbao se vuelve loco con el bug del piso",
+   "url": "https://www.twitch.tv/srtumbao/clip/ObedientMildUdonDatBoi-8w5q-V6_i1gb2hsb",
+   "login": "srtumbao",
+   "views": 20,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
