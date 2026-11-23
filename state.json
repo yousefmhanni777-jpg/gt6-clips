@@ -29810,6 +29810,32 @@
    "views": 127,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "FrigidNaiveBubbleteaTakeNRG-7fJLmJfHSY6NnQJ9": {
+   "t": 1795449643.4345794,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "DjMaRiiO se queda sin guardar en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/FrigidNaiveBubbleteaTakeNRG-7fJLmJfHSY6NnQJ9",
+   "login": "djmariio",
+   "views": 130,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "RamshacklePiliableHyenaFunRun-SbvJECuigf5Du9oS": {
+   "t": 1795449687.3035736,
+   "streamer": "MenosTrece",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "MenosTrece reacciona a GTA VI con locura",
+   "url": "https://www.twitch.tv/menostrece/clip/RamshacklePiliableHyenaFunRun-SbvJECuigf5Du9oS",
+   "login": "menostrece",
+   "views": 34,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
