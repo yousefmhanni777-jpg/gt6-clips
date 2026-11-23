@@ -30649,6 +30649,43 @@
    "login": "carola",
    "views": 4,
    "duration": 21.6
+  },
+  "AgreeableDeterminedArtichokeHeyGuys-uQeSIA_9LJuu1lAw": {
+   "t": 1795453556.4455447,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Clip sin audio de DjMaRiiO",
+   "url": "https://www.twitch.tv/djmariio/clip/AgreeableDeterminedArtichokeHeyGuys-uQeSIA_9LJuu1lAw",
+   "login": "djmariio",
+   "views": 166,
+   "duration": 30
+  },
+  "ObeseImpossibleSparrowWOOP-uI51V3h4QKiFs9cT": {
+   "t": 1795453559.3554406,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO lanza ban en chat",
+   "url": "https://www.twitch.tv/djmariio/clip/ObeseImpossibleSparrowWOOP-uI51V3h4QKiFs9cT",
+   "login": "djmariio",
+   "views": 166,
+   "duration": 30
+  },
+  "PrettyVastAniseKeyboardCat-mMP8NGkdotxCZR05": {
+   "t": 1795453588.8685467,
+   "streamer": "VEGETTA777",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "VEGETTA777 reacciona a GTA 6 en vivo",
+   "url": "https://www.twitch.tv/vegetta777/clip/PrettyVastAniseKeyboardCat-mMP8NGkdotxCZR05",
+   "login": "vegetta777",
+   "views": 137,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
