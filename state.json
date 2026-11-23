@@ -28893,6 +28893,18 @@
    "views": 49,
    "duration": 21.8,
    "formato": "normal: sin cámara detectada"
+  },
+  "DeadOnerousTortoiseBloodTrail-W78vrLmDrd6fQU89": {
+   "t": 1795439773.8733487,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Imantado suelta una frase sin sentido",
+   "url": "https://www.twitch.tv/imantado/clip/DeadOnerousTortoiseBloodTrail-W78vrLmDrd6fQU89",
+   "login": "imantado",
+   "views": 54,
+   "duration": 59.9
   }
  }
 }
