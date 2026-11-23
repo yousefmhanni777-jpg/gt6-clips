@@ -28351,6 +28351,19 @@
    "views": 3,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "JoyousNaiveYakDAESuppy-39pQAYTJF9bbqsWn": {
+   "t": 1795410913.9503949,
+   "streamer": "SrTumbao",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "SrTumbao se vuelve loco con un bug épico",
+   "url": "https://www.twitch.tv/srtumbao/clip/JoyousNaiveYakDAESuppy-39pQAYTJF9bbqsWn",
+   "login": "srtumbao",
+   "views": 20,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
