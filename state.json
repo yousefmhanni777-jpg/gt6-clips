@@ -31879,6 +31879,31 @@
    "views": 128,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "SteamyCreativeHornetFutureMan-hWq6Q6oZ3O-TOjfm": {
+   "t": 1795473452.4897335,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco con este momento",
+   "url": "https://www.twitch.tv/djmariio/clip/SteamyCreativeHornetFutureMan-hWq6Q6oZ3O-TOjfm",
+   "login": "djmariio",
+   "views": 126,
+   "duration": 60,
+   "formato": "cara arriba"
+  },
+  "AgileTamePelicanKevinTurtle--4BZEmervrTm7-cz": {
+   "t": 1795473456.8736405,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasa con DjMaRiiO?",
+   "url": "https://www.twitch.tv/djmariio/clip/AgileTamePelicanKevinTurtle--4BZEmervrTm7-cz",
+   "login": "djmariio",
+   "views": 126,
+   "duration": 60
   }
  }
 }
