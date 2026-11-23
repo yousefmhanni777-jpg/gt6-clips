@@ -27895,6 +27895,31 @@
    "views": 2,
    "duration": 23.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "SpikyMuddyDeerTwitchRaid-sl0NCAXtyjBcQlYR": {
+   "t": 1795402873.9921243,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan habla de seguros en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/SpikyMuddyDeerTwitchRaid-sl0NCAXtyjBcQlYR",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 45.5
+  },
+  "TrappedPhilanthropicGoldfishStinkyCheese-2x7xo-nd85bf7vHI": {
+   "t": 1795402920.4875708,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 4,
+   "cat": "gracioso",
+   "hook": "IlloJuan se sorprende con la gorra Caja Rural",
+   "url": "https://www.twitch.tv/illojuan/clip/TrappedPhilanthropicGoldfishStinkyCheese-2x7xo-nd85bf7vHI",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 29.2,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
