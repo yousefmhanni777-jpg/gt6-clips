@@ -27819,6 +27819,31 @@
    "views": 176,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "FrigidPleasantTofuHeyGuys-YSW0FttrmIUSANQ0": {
+   "t": 1795401686.8018909,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO y los 30.000 pavos en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/FrigidPleasantTofuHeyGuys-YSW0FttrmIUSANQ0",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 60,
+   "formato": "cara arriba"
+  },
+  "LaconicElegantMagpiePRChase-BC8pB9YKCnUzvzDu": {
+   "t": 1795401689.5174842,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 0,
+   "cat": "otro",
+   "hook": "Grand Theft Auto VI clip at 8h58m59s",
+   "url": "https://www.twitch.tv/djmariio/clip/LaconicElegantMagpiePRChase-BC8pB9YKCnUzvzDu",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 45
   }
  }
 }
