@@ -27982,6 +27982,18 @@
    "views": 181,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "JollyBlueGoatUWot-ptpUmpr1o5axYtfE": {
+   "t": 1795404331.3649127,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay: ¿Dieta de manzanas?",
+   "url": "https://www.twitch.tv/auronplay/clip/JollyBlueGoatUWot-ptpUmpr1o5axYtfE",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 30
   }
  }
 }
