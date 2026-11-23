@@ -30173,7 +30173,8 @@
    "duration": 59.9,
    "formato": "cara arriba",
    "tiktok_req": "tt_NiceAntsySrirachaStinkyCheese-tXOmsYh8curjrJAx",
-   "tiktok_t": 1795451258.3807247
+   "tiktok_t": 1795451258.3807247,
+   "tiktok_status": "publicado"
   },
   "AttractiveBloodyPhoneStrawBeary-8mQlGFTYB_eNNkAY": {
    "t": 1795451311.970798,
@@ -30224,6 +30225,44 @@
    "login": "imantado",
    "views": 62,
    "duration": 60
+  },
+  "CogentGoldenGrassOSkomodo-0MQKAFD6rRRAYwCC": {
+   "t": 1795451560.4562395,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO reacciona a GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/CogentGoldenGrassOSkomodo-0MQKAFD6rRRAYwCC",
+   "login": "djmariio",
+   "views": 139,
+   "duration": 58.8
+  },
+  "CuteDeterminedTigerPrimeMe-7niFeVYtMy_0c-xm": {
+   "t": 1795451638.990755,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 7,
+   "cat": "epico",
+   "hook": "IlloJuan vuela su primer avión de combate",
+   "url": "https://www.twitch.tv/illojuan/clip/CuteDeterminedTigerPrimeMe-7niFeVYtMy_0c-xm",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "BusyPerfectCasetteKappaPride-ZSAyqFUX4-vrwCvD": {
+   "t": 1795451668.8524935,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "AuronPlay y los códigos para subs en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/BusyPerfectCasetteKappaPride-ZSAyqFUX4-vrwCvD",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
