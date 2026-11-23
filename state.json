@@ -31511,6 +31511,18 @@
    "views": 2,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "RepleteBlazingPizzaBIRB-NIR1DtvaWb17E2-F": {
+   "t": 1795466583.3720915,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 0,
+   "cat": "otro",
+   "hook": "djmariio - Highlight 5e91e8 Part 16",
+   "url": "https://www.twitch.tv/djmariio/clip/RepleteBlazingPizzaBIRB-NIR1DtvaWb17E2-F",
+   "login": "djmariio",
+   "views": 152,
+   "duration": 60
   }
  }
 }
