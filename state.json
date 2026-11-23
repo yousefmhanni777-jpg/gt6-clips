@@ -29405,7 +29405,8 @@
    "duration": 30,
    "formato": "cara arriba",
    "tiktok_req": "tt_ClumsySpookyGooseSaltBae-jy2HPUOFGSLGSf3a",
-   "tiktok_t": 1795446868.0308678
+   "tiktok_t": 1795446868.0308678,
+   "tiktok_status": "publicado"
   },
   "AthleticBraveAlligatorCurseLit-maZ-Nx6OHzm9CLui": {
    "t": 1795446872.5760489,
@@ -29469,6 +29470,44 @@
    "login": "djmariio",
    "views": 104,
    "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "PunchyTacitEelKlappa-rcsGCqtzvjOjCxwt": {
+   "t": 1795447272.5725894,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "DjMaRiiO habla sin parar… ¿vale la pena?",
+   "url": "https://www.twitch.tv/djmariio/clip/PunchyTacitEelKlappa-rcsGCqtzvjOjCxwt",
+   "login": "djmariio",
+   "views": 110,
+   "duration": 30
+  },
+  "SmoggyAmorphousSnoodUWot-as9V0pIP_q63JKKS": {
+   "t": 1795447319.719266,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco con GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/SmoggyAmorphousSnoodUWot-as9V0pIP_q63JKKS",
+   "login": "djmariio",
+   "views": 110,
+   "duration": 32.3,
+   "formato": "normal: sin cámara detectada"
+  },
+  "PlainRespectfulVelociraptorEleGiggle-2NwmMLdTro6hyk8j": {
+   "t": 1795447382.8341956,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Imantado reacciona al caos policial en GTA 6",
+   "url": "https://www.twitch.tv/imantado/clip/PlainRespectfulVelociraptorEleGiggle-2NwmMLdTro6hyk8j",
+   "login": "imantado",
+   "views": 9,
+   "duration": 44,
    "formato": "normal: sin cámara detectada"
   }
  }
