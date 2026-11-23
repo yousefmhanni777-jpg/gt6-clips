@@ -27607,6 +27607,18 @@
    "views": 9,
    "duration": 45.8,
    "formato": "normal: sin cámara detectada"
+  },
+  "AggressiveSmoggyCaterpillarDAESuppy-hY25jzu_dyHRbtLM": {
+   "t": 1795397820.1590767,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasó con DjMaRiiO?",
+   "url": "https://www.twitch.tv/djmariio/clip/AggressiveSmoggyCaterpillarDAESuppy-hY25jzu_dyHRbtLM",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 60
   }
  }
 }
