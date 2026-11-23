@@ -31749,6 +31749,33 @@
    "views": 135,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "TsundereAggressiveEmuRuleFive-P1OUDGbpSC6UF8jl": {
+   "t": 1795471031.6290998,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona a la misión loca de GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/TsundereAggressiveEmuRuleFive-P1OUDGbpSC6UF8jl",
+   "login": "djmariio",
+   "views": 136,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada",
+   "tiktok_req": "tt_TsundereAggressiveEmuRuleFive-P1OUDGbpSC6UF8jl",
+   "tiktok_t": 1795471029.7735965
+  },
+  "LaconicFantasticCucumberAsianGlow-yfKi6-naAHjjfqy-": {
+   "t": 1795471034.172287,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan reacciona a GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/LaconicFantasticCucumberAsianGlow-yfKi6-naAHjjfqy-",
+   "login": "illojuan",
+   "views": 93,
+   "duration": 30
   }
  }
 }
