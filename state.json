@@ -31031,6 +31031,30 @@
    "views": 7,
    "duration": 59.1,
    "formato": "cara arriba"
+  },
+  "LaconicInnocentJalapenoPRChase-Oa2wGqbD5qK9i9aH": {
+   "t": 1795458414.9284537,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona al polémico comentario de Orslok",
+   "url": "https://www.twitch.tv/illojuan/clip/LaconicInnocentJalapenoPRChase-Oa2wGqbD5qK9i9aH",
+   "login": "illojuan",
+   "views": 1359,
+   "duration": 30
+  },
+  "DeterminedTardyCrowRlyTho-12WY53-3g1lZQMHT": {
+   "t": 1795458417.0669742,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 0,
+   "cat": "otro",
+   "hook": "djobservador",
+   "url": "https://www.twitch.tv/djmariio/clip/DeterminedTardyCrowRlyTho-12WY53-3g1lZQMHT",
+   "login": "djmariio",
+   "views": 24,
+   "duration": 30
   }
  }
 }
