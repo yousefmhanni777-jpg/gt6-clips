@@ -27945,6 +27945,30 @@
    "views": 3,
    "duration": 47.5,
    "formato": "normal: sin cámara detectada"
+  },
+  "AgreeableEntertainingBaconTriHard-ylIvzEgCAkhHj-st": {
+   "t": 1795403872.0270777,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "TheGrefg se vuelve loco en GTA VI",
+   "url": "https://www.twitch.tv/thegrefg/clip/AgreeableEntertainingBaconTriHard-ylIvzEgCAkhHj-st",
+   "login": "thegrefg",
+   "views": 181,
+   "duration": 30
+  },
+  "SquareImpossibleStarAliens-T_oJt6yCeItVx9Jm": {
+   "t": 1795403874.1540196,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "TheGrefg dice algo curioso",
+   "url": "https://www.twitch.tv/thegrefg/clip/SquareImpossibleStarAliens-T_oJt6yCeItVx9Jm",
+   "login": "thegrefg",
+   "views": 181,
+   "duration": 14.4
   }
  }
 }
