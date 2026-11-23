@@ -29573,6 +29573,18 @@
    "views": 23,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "SpoopyOddHerbsFloof-3VVrlGiEcJXLY9vF": {
+   "t": 1795448013.2976935,
+   "streamer": "Peereira7",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "Peereira7 reacciona al NPC más loco",
+   "url": "https://www.twitch.tv/peereira7/clip/SpoopyOddHerbsFloof-3VVrlGiEcJXLY9vF",
+   "login": "peereira7",
+   "views": 128,
+   "duration": 15.6
   }
  }
 }
