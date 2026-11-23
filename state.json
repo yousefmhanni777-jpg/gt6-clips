@@ -31087,6 +31087,19 @@
    "status": "error",
    "tries": 1,
    "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  },
+  "ShortAmorphousParrotCoolCat-xEWyw3BR_rryzvsT": {
+   "t": 1795459354.5538435,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan se vuelve loco con GTA VI",
+   "url": "https://www.twitch.tv/illojuan/clip/ShortAmorphousParrotCoolCat-xEWyw3BR_rryzvsT",
+   "login": "illojuan",
+   "views": 1491,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
