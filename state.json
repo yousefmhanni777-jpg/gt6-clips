@@ -29548,6 +29548,31 @@
    "views": 3,
    "duration": 30.3,
    "formato": "normal: sin cámara detectada"
+  },
+  "ImpossibleTenuousAlfalfaChefFrank-r5jw9rQ_0SoVsTqc": {
+   "t": 1795447867.4306366,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "Carola se vuelve loca con GTA 6",
+   "url": "https://www.twitch.tv/carola/clip/ImpossibleTenuousAlfalfaChefFrank-r5jw9rQ_0SoVsTqc",
+   "login": "carola",
+   "views": 70,
+   "duration": 30
+  },
+  "ColdbloodedPopularSowSoBayed-pLKvTpXNW_xCjb67": {
+   "t": 1795447909.140486,
+   "streamer": "jujalag",
+   "status": "enviado",
+   "score": 4,
+   "cat": "otro",
+   "hook": "Jujalag reacciona a los chistes del chat",
+   "url": "https://www.twitch.tv/jujalag/clip/ColdbloodedPopularSowSoBayed-pLKvTpXNW_xCjb67",
+   "login": "jujalag",
+   "views": 23,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
