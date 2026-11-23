@@ -31929,6 +31929,18 @@
    "views": 2,
    "duration": 31.1,
    "formato": "normal: sin cámara detectada"
+  },
+  "CautiousArbitraryPigKippa-lIAMPMlslUn-SxUi": {
+   "t": 1795474023.9769344,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Clip sin audio, no hay contenido",
+   "url": "https://www.twitch.tv/djmariio/clip/CautiousArbitraryPigKippa-lIAMPMlslUn-SxUi",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 30
   }
  }
 }
