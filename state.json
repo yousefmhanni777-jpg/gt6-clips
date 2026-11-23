@@ -30522,6 +30522,32 @@
    "login": "imantado",
    "views": 3,
    "duration": 30
+  },
+  "MildIgnorantCucumberCharlieBitMe-WnQiXO5NOzsqXgM7": {
+   "t": 1795452798.7347865,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "auronplay se lanza a la pintura",
+   "url": "https://www.twitch.tv/auronplay/clip/MildIgnorantCucumberCharlieBitMe-WnQiXO5NOzsqXgM7",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "CourageousGloriousJaguarPogChamp-xrKKnwDfVEybegqr": {
+   "t": 1795452835.9264352,
+   "streamer": "paache_",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "Paache_ se queda sin control en GTA 6",
+   "url": "https://www.twitch.tv/paache_/clip/CourageousGloriousJaguarPogChamp-xrKKnwDfVEybegqr",
+   "login": "paache_",
+   "views": 22,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
