@@ -28868,6 +28868,18 @@
    "views": 46,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "GracefulBoldTildeTinyFace-HiUn-jxYFHWG1nPK": {
+   "t": 1795439529.1953518,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Imantado sin voz, ¿qué pasa?",
+   "url": "https://www.twitch.tv/imantado/clip/GracefulBoldTildeTinyFace-HiUn-jxYFHWG1nPK",
+   "login": "imantado",
+   "views": 46,
+   "duration": 30
   }
  }
 }
