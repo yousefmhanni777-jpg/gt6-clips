@@ -34284,6 +34284,43 @@
    "views": 40,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "AlluringLovelyClintmullinsPastaThat-QvoNSsk1BjtI195P": {
+   "t": 1795526946.5305,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 4,
+   "cat": "gracioso",
+   "hook": "IlloJuan se pregunta: ¿Cómo pollas?",
+   "url": "https://www.twitch.tv/illojuan/clip/AlluringLovelyClintmullinsPastaThat-QvoNSsk1BjtI195P",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 26.2
+  },
+  "SmilingTastyGuanacoFunRun-zxNeGdjFSyTE6UzV": {
+   "t": 1795527030.0013852,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 6,
+   "cat": "curiosidad",
+   "hook": "Imantado muestra sus cascos Razer",
+   "url": "https://www.twitch.tv/imantado/clip/SmilingTastyGuanacoFunRun-zxNeGdjFSyTE6UzV",
+   "login": "imantado",
+   "views": 42,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ClearObedientDadCclamChamp-IRf2_psw6qNf9mpX": {
+   "t": 1795527033.9177635,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasa con este clip?",
+   "url": "https://www.twitch.tv/imantado/clip/ClearObedientDadCclamChamp-IRf2_psw6qNf9mpX",
+   "login": "imantado",
+   "views": 42,
+   "duration": 60
   }
  }
 }
