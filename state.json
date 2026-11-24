@@ -36690,7 +36690,20 @@
    "duration": 37.7,
    "formato": "normal: sin cámara detectada",
    "tiktok_req": "tt_HotBrainyDaikonOSfrog-sTc42gYlZveqhRJe",
-   "tiktok_t": 1795559407.2358518
+   "tiktok_t": 1795559407.2358518,
+   "tiktok_status": "publicado"
+  },
+  "TallSeductiveBaconPrimeMe-_zb8-q-FCaIp0iqY": {
+   "t": 1795559643.5342958,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Chat de DjMaRiiO: ¿Qué está pasando?",
+   "url": "https://www.twitch.tv/djmariio/clip/TallSeductiveBaconPrimeMe-_zb8-q-FCaIp0iqY",
+   "login": "djmariio",
+   "views": 159,
+   "duration": 60
   }
  }
 }
