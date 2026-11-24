@@ -32217,6 +32217,31 @@
    "login": "rubius",
    "views": 23,
    "duration": 17.2
+  },
+  "BumblingRoundCobblerKlappa-CFnzLPo61DJJKWTh": {
+   "t": 1795479184.1030142,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "AuronPlay y la extraña funda del café",
+   "url": "https://www.twitch.tv/auronplay/clip/BumblingRoundCobblerKlappa-CFnzLPo61DJJKWTh",
+   "login": "auronplay",
+   "views": 15,
+   "duration": 60,
+   "formato": "cara arriba"
+  },
+  "ScrumptiousDarlingChoughArgieB8-d4gmDQjaHPk8hgQ3": {
+   "t": 1795479186.8852658,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Rubius sin voz, ¿qué pasó?",
+   "url": "https://www.twitch.tv/rubius/clip/ScrumptiousDarlingChoughArgieB8-d4gmDQjaHPk8hgQ3",
+   "login": "rubius",
+   "views": 15,
+   "duration": 30
   }
  }
 }
