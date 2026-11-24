@@ -33607,6 +33607,19 @@
    "views": 30,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "SmoothBigTofuBlargNaut-2s827vcoomE4yVvE": {
+   "t": 1795503715.6215744,
+   "streamer": "PattyMeza",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "PattyMeza reacciona al ser delincuente",
+   "url": "https://www.twitch.tv/pattymeza/clip/SmoothBigTofuBlargNaut-2s827vcoomE4yVvE",
+   "login": "pattymeza",
+   "views": 3,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
