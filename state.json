@@ -33203,6 +33203,31 @@
    "views": 72,
    "duration": 47.8,
    "formato": "normal: sin cámara detectada"
+  },
+  "IncredulousSteamyHamTebowing-yY1k5-8zbDoVV8G0": {
+   "t": 1795496743.6526253,
+   "streamer": "Staryuuki",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "Staryuuki se vuelve loco sin advertir nada",
+   "url": "https://www.twitch.tv/staryuuki/clip/IncredulousSteamyHamTebowing-yY1k5-8zbDoVV8G0",
+   "login": "staryuuki",
+   "views": 69,
+   "duration": 44.5
+  },
+  "ConfidentFastAppleSwiftRage-8bjUC8k_MRd_lAop": {
+   "t": 1795496780.4518044,
+   "streamer": "MichaelQuesadaPCMaster",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "MichaelQuesadaPCMaster se queda sin elevarse",
+   "url": "https://www.twitch.tv/michaelquesadapcmaster/clip/ConfidentFastAppleSwiftRage-8bjUC8k_MRd_lAop",
+   "login": "michaelquesadapcmaster",
+   "views": 20,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
