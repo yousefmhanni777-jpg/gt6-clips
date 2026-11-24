@@ -36310,6 +36310,18 @@
    "views": 117,
    "duration": 29.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "SpotlessSmoothTildeGivePLZ-KCbt3zKVS_xduYvU": {
+   "t": 1795552951.167678,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasa con esta frase? 🤔",
+   "url": "https://www.twitch.tv/thegrefg/clip/SpotlessSmoothTildeGivePLZ-KCbt3zKVS_xduYvU",
+   "login": "thegrefg",
+   "views": 112,
+   "duration": 30
   }
  }
 }
