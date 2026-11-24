@@ -34502,6 +34502,31 @@
    "views": 61,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "BlazingSleepyAnacondaOMGScoots-zoWyX_SVfsyrKDvk": {
+   "t": 1795528753.2654045,
+   "streamer": "Zeling",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Zeling se vuelve loco con el mapa",
+   "url": "https://www.twitch.tv/zeling/clip/BlazingSleepyAnacondaOMGScoots-zoWyX_SVfsyrKDvk",
+   "login": "zeling",
+   "views": 48,
+   "duration": 16.6,
+   "formato": "normal: sin cámara detectada"
+  },
+  "GeniusConsideratePeachChefFrank-99hzTjLiJ_AyBfYW": {
+   "t": 1795528755.0657353,
+   "streamer": "Zeling",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "casi echa la po ta",
+   "url": "https://www.twitch.tv/zeling/clip/GeniusConsideratePeachChefFrank-99hzTjLiJ_AyBfYW",
+   "login": "zeling",
+   "views": 48,
+   "duration": 22.6
   }
  }
 }
