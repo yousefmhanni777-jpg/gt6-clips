@@ -32318,6 +32318,31 @@
    "login": "rubius",
    "views": 16,
    "duration": 30
+  },
+  "EphemeralKawaiiJalapenoOSkomodo-7zniBjppFxCaainb": {
+   "t": 1795481092.9047298,
+   "streamer": "TheGrefg",
+   "status": "enviado",
+   "score": 7,
+   "cat": "curiosidad",
+   "hook": "TheGrefg descubre el Easter Egg más loco de GTA 6",
+   "url": "https://www.twitch.tv/thegrefg/clip/EphemeralKawaiiJalapenoOSkomodo-7zniBjppFxCaainb",
+   "login": "thegrefg",
+   "views": 45,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ArbitraryWealthySproutSpicyBoy-Pc24aXLqCfjKx_xg": {
+   "t": 1795481096.632882,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "TheGrefg sin acción real en GTA 6",
+   "url": "https://www.twitch.tv/thegrefg/clip/ArbitraryWealthySproutSpicyBoy-Pc24aXLqCfjKx_xg",
+   "login": "thegrefg",
+   "views": 45,
+   "duration": 30
   }
  }
 }
