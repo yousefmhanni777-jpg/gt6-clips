@@ -32872,6 +32872,44 @@
    "views": 3,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "WrongBrainyOtterArsonNoSexy-HFYJlNKlK2gWxTxq": {
+   "t": 1795491250.4937313,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "IlloJuan se vuelve loco con la tormenta en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/WrongBrainyOtterArsonNoSexy-HFYJlNKlK2gWxTxq",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 60
+  },
+  "AwkwardBoldVelociraptorGrammarKing-TusGki0Rgc_LHIN2": {
+   "t": 1795491339.7917204,
+   "streamer": "TheGrefg",
+   "status": "enviado",
+   "score": 4,
+   "cat": "otro",
+   "hook": "TheGrefg reacciona a un momento loco en GTA 6",
+   "url": "https://www.twitch.tv/thegrefg/clip/AwkwardBoldVelociraptorGrammarKing-TusGki0Rgc_LHIN2",
+   "login": "thegrefg",
+   "views": 3,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AbstemiousGentleShrewPeteZaroll-SCOcYZOlxeNn8oX0": {
+   "t": 1795491367.5612118,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "IlloJuan reacciona a: ¿es gay?",
+   "url": "https://www.twitch.tv/illojuan/clip/AbstemiousGentleShrewPeteZaroll-SCOcYZOlxeNn8oX0",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 20.6,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
