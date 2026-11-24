@@ -36066,6 +36066,31 @@
    "views": 4,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "FineIronicAlbatrossNononoCat-PGu2AXgqnVKBmBlS": {
+   "t": 1795548588.9544437,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco al palo",
+   "url": "https://www.twitch.tv/djmariio/clip/FineIronicAlbatrossNononoCat-PGu2AXgqnVKBmBlS",
+   "login": "djmariio",
+   "views": 3,
+   "duration": 18.7,
+   "formato": "normal: sin cámara detectada"
+  },
+  "LitigiousAntediluvianGalagoKevinTurtle-GII_xzrhC8y8AZvL": {
+   "t": 1795548591.3796122,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO agradece a suscriptores",
+   "url": "https://www.twitch.tv/djmariio/clip/LitigiousAntediluvianGalagoKevinTurtle-GII_xzrhC8y8AZvL",
+   "login": "djmariio",
+   "views": 3,
+   "duration": 19.2
   }
  }
 }
