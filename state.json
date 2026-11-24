@@ -32519,6 +32519,30 @@
    "views": 4,
    "duration": 13,
    "formato": "normal: sin cámara detectada"
+  },
+  "FrigidBadPrariedogRuleFive-eNjraw_PRh41is9G": {
+   "t": 1795484620.0690827,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "AuronPlay habla de ver Twitch en móvil",
+   "url": "https://www.twitch.tv/auronplay/clip/FrigidBadPrariedogRuleFive-eNjraw_PRh41is9G",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 30
+  },
+  "BillowingFairWatercressItsBoshyTime-koFcm1rhXYpXaRn6": {
+   "t": 1795484622.3160841,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "Rubius se enfada con rutas inesperadas",
+   "url": "https://www.twitch.tv/rubius/clip/BillowingFairWatercressItsBoshyTime-koFcm1rhXYpXaRn6",
+   "login": "rubius",
+   "views": 3,
+   "duration": 12
   }
  }
 }
