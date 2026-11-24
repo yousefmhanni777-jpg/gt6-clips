@@ -33393,6 +33393,18 @@
    "views": 5,
    "duration": 19.4,
    "formato": "normal: sin cámara detectada"
+  },
+  "WildDeadKiwiCopyThis-av2cqsdw78cFOmVl": {
+   "t": 1795500240.259417,
+   "streamer": "ElFedelobo",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "ElFedelobo habla sin nada interesante",
+   "url": "https://www.twitch.tv/elfedelobo/clip/WildDeadKiwiCopyThis-av2cqsdw78cFOmVl",
+   "login": "elfedelobo",
+   "views": 65,
+   "duration": 30
   }
  }
 }
