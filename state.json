@@ -36523,6 +36523,31 @@
    "views": 18,
    "duration": 18.2,
    "formato": "normal: sin cámara detectada"
+  },
+  "PlainTastyKoupreyItsBoshyTime-wEiEL3DOA0o6Otnd": {
+   "t": 1795556754.5592396,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "DjMaRiiO dice \"No llores\"",
+   "url": "https://www.twitch.tv/djmariio/clip/PlainTastyKoupreyItsBoshyTime-wEiEL3DOA0o6Otnd",
+   "login": "djmariio",
+   "views": 126,
+   "duration": 59.9
+  },
+  "RamshackleColorfulWaterRaccAttack-shSI6igz8kba5Ms2": {
+   "t": 1795556802.9240787,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "curiosidad",
+   "hook": "DjMaRiiO descubre el código secreto en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/RamshackleColorfulWaterRaccAttack-shSI6igz8kba5Ms2",
+   "login": "djmariio",
+   "views": 126,
+   "duration": 60,
+   "formato": "cara arriba"
   }
  }
 }
