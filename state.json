@@ -34463,6 +34463,31 @@
    "formato": "normal: sin cámara detectada",
    "tiktok_req": "tt_EsteemedRockyWitchFutureMan-Kp5lsSfkaMv5Yhbd",
    "tiktok_t": 1795528304.7939942
+  },
+  "FantasticDeafMomTakeNRG-nfMz3EKenvcdkpPh": {
+   "t": 1795528431.4653742,
+   "streamer": "Zeling",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Zeling finalmente lo entiende 😂",
+   "url": "https://www.twitch.tv/zeling/clip/FantasticDeafMomTakeNRG-nfMz3EKenvcdkpPh",
+   "login": "zeling",
+   "views": 47,
+   "duration": 12.3,
+   "formato": "normal: sin cámara detectada"
+  },
+  "PopularGleamingHippoPMSTwin-ONhWodFGt3lJWbL5": {
+   "t": 1795528433.2187395,
+   "streamer": "Zeling",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Zeling reacciona a GTA 6",
+   "url": "https://www.twitch.tv/zeling/clip/PopularGleamingHippoPMSTwin-ONhWodFGt3lJWbL5",
+   "login": "zeling",
+   "views": 47,
+   "duration": 21.7
   }
  }
 }
