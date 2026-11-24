@@ -34462,7 +34462,8 @@
    "duration": 60,
    "formato": "normal: sin cámara detectada",
    "tiktok_req": "tt_EsteemedRockyWitchFutureMan-Kp5lsSfkaMv5Yhbd",
-   "tiktok_t": 1795528304.7939942
+   "tiktok_t": 1795528304.7939942,
+   "tiktok_status": "publicado"
   },
   "FantasticDeafMomTakeNRG-nfMz3EKenvcdkpPh": {
    "t": 1795528431.4653742,
@@ -34488,6 +34489,19 @@
    "login": "zeling",
    "views": 47,
    "duration": 21.7
+  },
+  "HeadstrongCooperativeOrangeDoggo-JJZWhYehs8jsLWI6": {
+   "t": 1795528624.8293123,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Imantado grita: ¡Hijo de puta! 😡",
+   "url": "https://www.twitch.tv/imantado/clip/HeadstrongCooperativeOrangeDoggo-JJZWhYehs8jsLWI6",
+   "login": "imantado",
+   "views": 61,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
