@@ -33012,6 +33012,31 @@
    "views": 29,
    "duration": 27.5,
    "formato": "normal: sin cámara detectada"
+  },
+  "CorrectGoldenDeerKappa-YWy4zgRlwyJnRKWW": {
+   "t": 1795493567.5279465,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "IlloJuan se vuelve loco con \"La maquilló\"",
+   "url": "https://www.twitch.tv/illojuan/clip/CorrectGoldenDeerKappa-YWy4zgRlwyJnRKWW",
+   "login": "illojuan",
+   "views": 6,
+   "duration": 34.4,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SuccessfulBumblingEggplantPeteZaroll-a0llFF2LvahnDagU": {
+   "t": 1795493569.850895,
+   "streamer": "TommyPervan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué dice TommyPervan en GTA 6?",
+   "url": "https://www.twitch.tv/tommypervan/clip/SuccessfulBumblingEggplantPeteZaroll-a0llFF2LvahnDagU",
+   "login": "tommypervan",
+   "views": 4,
+   "duration": 15
   }
  }
 }
