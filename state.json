@@ -34372,6 +34372,44 @@
    "views": 45,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "ResourcefulMagnificentPastaBCWarrior-1aVUwVNiNdtvieCc": {
+   "t": 1795527648.6753595,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Auronplay reacciona a un cuchillito inesperado",
+   "url": "https://www.twitch.tv/auronplay/clip/ResourcefulMagnificentPastaBCWarrior-1aVUwVNiNdtvieCc",
+   "login": "auronplay",
+   "views": 3,
+   "duration": 60,
+   "formato": "cara arriba"
+  },
+  "CharmingIronicOwlOneHand-gtEbJaExdO-iguhc": {
+   "t": 1795527679.0115607,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Imantado se enoja con GTA 6",
+   "url": "https://www.twitch.tv/imantado/clip/CharmingIronicOwlOneHand-gtEbJaExdO-iguhc",
+   "login": "imantado",
+   "views": 50,
+   "duration": 18.1,
+   "formato": "normal: sin cámara detectada"
+  },
+  "BigBeautifulDugongDatBoi-OEPPcIUmeTPbZHev": {
+   "t": 1795527682.8906634,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Imantado sorprende con su reacción en GTA 6",
+   "url": "https://www.twitch.tv/imantado/clip/BigBeautifulDugongDatBoi-OEPPcIUmeTPbZHev",
+   "login": "imantado",
+   "views": 50,
+   "duration": 58.5
   }
  }
 }
