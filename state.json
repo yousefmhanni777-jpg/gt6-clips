@@ -32707,6 +32707,44 @@
    "login": "auronplay",
    "views": 2,
    "duration": 24.5
+  },
+  "ScrumptiousFairGooseArgieB8-zfLc8p8P2k0AFthm": {
+   "t": 1795488320.9983938,
+   "streamer": "TheGrefg",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "TheGrefg se vuelve loco en GTA 6",
+   "url": "https://www.twitch.tv/thegrefg/clip/ScrumptiousFairGooseArgieB8-zfLc8p8P2k0AFthm",
+   "login": "thegrefg",
+   "views": 164,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "LongCreativeMilkSwiftRage-ZGeLPWA9cMRizd7i": {
+   "t": 1795488409.0357323,
+   "streamer": "TheGrefg",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "TheGrefg se vuelve loco con GTA 6",
+   "url": "https://www.twitch.tv/thegrefg/clip/LongCreativeMilkSwiftRage-ZGeLPWA9cMRizd7i",
+   "login": "thegrefg",
+   "views": 164,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "UnusualConcernedFriesPogChamp-FtO5K9t4W2k_2vzn": {
+   "t": 1795488412.2229111,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "TheGrefg se pierde en GTA 6",
+   "url": "https://www.twitch.tv/thegrefg/clip/UnusualConcernedFriesPogChamp-FtO5K9t4W2k_2vzn",
+   "login": "thegrefg",
+   "views": 7,
+   "duration": 52.6
   }
  }
 }
