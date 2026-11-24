@@ -33280,6 +33280,31 @@
    "views": 57,
    "duration": 18.8,
    "formato": "normal: sin cámara detectada"
+  },
+  "SmokyLachrymoseGarlicWutFace-J2oTxry6e5eitK9y": {
+   "t": 1795498068.2000458,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "AuronPlay compara coches en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/SmokyLachrymoseGarlicWutFace-J2oTxry6e5eitK9y",
+   "login": "auronplay",
+   "views": 3,
+   "duration": 34.9,
+   "formato": "cara arriba"
+  },
+  "InexpensiveSparklingHedgehogLitty-mfwmc9BxeAC-wdPo": {
+   "t": 1795498070.0491889,
+   "streamer": "ElFedelobo",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "ElFedelobo sin voz",
+   "url": "https://www.twitch.tv/elfedelobo/clip/InexpensiveSparklingHedgehogLitty-mfwmc9BxeAC-wdPo",
+   "login": "elfedelobo",
+   "views": 85,
+   "duration": 30
   }
  }
 }
