@@ -35872,6 +35872,18 @@
    "views": 681,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "DependableSwissDadDendiFace-mwpEXX3PE1V3xw2K": {
+   "t": 1795545089.6021974,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Rubius en silencio",
+   "url": "https://www.twitch.tv/rubius/clip/DependableSwissDadDendiFace-mwpEXX3PE1V3xw2K",
+   "login": "rubius",
+   "views": 3,
+   "duration": 30
   }
  }
 }
