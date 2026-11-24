@@ -33330,6 +33330,31 @@
    "views": 4,
    "duration": 30,
    "formato": "cara arriba"
+  },
+  "TangentialTiredPidgeonPipeHype-jThBOi_oXv-g-BJJ": {
+   "t": 1795498856.4402134,
+   "streamer": "ElFedelobo",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "ElFedelobo activa el ultra instinto",
+   "url": "https://www.twitch.tv/elfedelobo/clip/TangentialTiredPidgeonPipeHype-jThBOi_oXv-g-BJJ",
+   "login": "elfedelobo",
+   "views": 69,
+   "duration": 16.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "HonorableAbstrusePartridgeRitzMitz-pMOF69EA8ZRrPxhS": {
+   "t": 1795498859.2762341,
+   "streamer": "ElFedelobo",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Clip sin audio",
+   "url": "https://www.twitch.tv/elfedelobo/clip/HonorableAbstrusePartridgeRitzMitz-pMOF69EA8ZRrPxhS",
+   "login": "elfedelobo",
+   "views": 69,
+   "duration": 30
   }
  }
 }
