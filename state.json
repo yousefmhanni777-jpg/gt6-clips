@@ -32543,6 +32543,32 @@
    "login": "rubius",
    "views": 3,
    "duration": 12
+  },
+  "TastyBashfulCoffeeWholeWheat-Aa5SdwB096P6Q0fw": {
+   "t": 1795485151.1660135,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 4,
+   "cat": "bug",
+   "hook": "Rubius descubre un glitch con el Mitsubishi Eclipse",
+   "url": "https://www.twitch.tv/rubius/clip/TastyBashfulCoffeeWholeWheat-Aa5SdwB096P6Q0fw",
+   "login": "rubius",
+   "views": 49,
+   "duration": 51.7,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SourSleepyMetalCoolStoryBro-BffY6h1p54RfE1bP": {
+   "t": 1795485203.4608462,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "IlloJuan y los chupaleches en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/SourSleepyMetalCoolStoryBro-BffY6h1p54RfE1bP",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 32.3,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
