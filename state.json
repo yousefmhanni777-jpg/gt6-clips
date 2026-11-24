@@ -32834,6 +32834,31 @@
    "views": 196,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "ObliqueFlaccidPizzaLeeroyJenkins-7UPXqfJauN7bHwGS": {
+   "t": 1795490497.6639643,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "IlloJuan enciende la gasolina y se vuelve loco",
+   "url": "https://www.twitch.tv/illojuan/clip/ObliqueFlaccidPizzaLeeroyJenkins-7UPXqfJauN7bHwGS",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "StrongGoodWatercressTBTacoRight-E0JYjkscKCO2XrCr": {
+   "t": 1795490500.5729017,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "doble kill",
+   "url": "https://www.twitch.tv/illojuan/clip/StrongGoodWatercressTBTacoRight-E0JYjkscKCO2XrCr",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 50
   }
  }
 }
