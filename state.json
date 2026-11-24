@@ -34679,6 +34679,30 @@
    "views": 103,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "BlazingSarcasticPheasantStoneLightning-CcSq0ctbEglxcoiC": {
+   "t": 1795531315.6876166,
+   "streamer": "Zeling",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Sin contenido visible",
+   "url": "https://www.twitch.tv/zeling/clip/BlazingSarcasticPheasantStoneLightning-CcSq0ctbEglxcoiC",
+   "login": "zeling",
+   "views": 56,
+   "duration": 30
+  },
+  "HealthyHandsomeDaikonMVGame-tX22tSqqi2RIdb3n": {
+   "t": 1795531318.5700853,
+   "streamer": "Zeling",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando?",
+   "url": "https://www.twitch.tv/zeling/clip/HealthyHandsomeDaikonMVGame-tX22tSqqi2RIdb3n",
+   "login": "zeling",
+   "views": 56,
+   "duration": 30
   }
  }
 }
