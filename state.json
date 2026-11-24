@@ -32242,6 +32242,31 @@
    "login": "rubius",
    "views": 15,
    "duration": 30
+  },
+  "NaiveSparklingToothWholeWheat-LQzfou-cuRhSCxBy": {
+   "t": 1795479615.671683,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "gracioso",
+   "hook": "IlloJuan se vuelve loco con la apuesta más extraña",
+   "url": "https://www.twitch.tv/illojuan/clip/NaiveSparklingToothWholeWheat-LQzfou-cuRhSCxBy",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 30
+  },
+  "HandsomeSpoopyFoxFunRun-Tg3XATOZP9JrCOT8": {
+   "t": 1795479733.8179615,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Rubius rompe ruedas en GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/HandsomeSpoopyFoxFunRun-Tg3XATOZP9JrCOT8",
+   "login": "rubius",
+   "views": 16,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
