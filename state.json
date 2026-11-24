@@ -36187,6 +36187,34 @@
    "status": "error",
    "tries": 1,
    "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  },
+  "SweetRelatedOxPMSTwin-go75176KY73cfBqf": {
+   "t": 1795550774.325782,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Rubius se vuelve loco con \"pescadito pescadito\"",
+   "url": "https://www.twitch.tv/rubius/clip/SweetRelatedOxPMSTwin-go75176KY73cfBqf",
+   "login": "rubius",
+   "views": 972,
+   "duration": 30,
+   "formato": "cara arriba",
+   "tiktok_req": "tt_SweetRelatedOxPMSTwin-go75176KY73cfBqf",
+   "tiktok_t": 1795550771.0069232
+  },
+  "PatientAgreeableSalamanderNerfRedBlaster-cxHsaqepxsuAsxVK": {
+   "t": 1795550821.8497758,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "Rubius cae de la forma más tonta xddd",
+   "url": "https://www.twitch.tv/rubius/clip/PatientAgreeableSalamanderNerfRedBlaster-cxHsaqepxsuAsxVK",
+   "login": "rubius",
+   "views": 972,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
