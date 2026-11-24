@@ -32192,6 +32192,31 @@
    "views": 20,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "LaconicHappyGaragePrimeMe-f5_8ecCKW4K17aib": {
+   "t": 1795478805.8966084,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Rubius pierde millones en GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/LaconicHappyGaragePrimeMe-f5_8ecCKW4K17aib",
+   "login": "rubius",
+   "views": 28,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "NastyAnnoyingKangarooKlappa-MBwGhePigF6YDiDx": {
+   "t": 1795478808.1299436,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius reacciona a un momento raro",
+   "url": "https://www.twitch.tv/rubius/clip/NastyAnnoyingKangarooKlappa-MBwGhePigF6YDiDx",
+   "login": "rubius",
+   "views": 23,
+   "duration": 17.2
   }
  }
 }
