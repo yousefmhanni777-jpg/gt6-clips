@@ -34839,7 +34839,8 @@
    "duration": 30,
    "formato": "cara arriba",
    "tiktok_req": "tt_UninterestedTsundereGarageKappaWealth-2wdnvOalSetqq0e2",
-   "tiktok_t": 1795532587.1982107
+   "tiktok_t": 1795532587.1982107,
+   "tiktok_status": "publicado"
   },
   "SuaveCrowdedGoldfishAllenHuhu-Ob8CsGCBqSn1fkAu": {
    "t": 1795532594.8830216,
@@ -34902,6 +34903,30 @@
    "views": 82,
    "duration": 18.2,
    "formato": "cara arriba"
+  },
+  "DrabStylishCroquetteAMPTropPunch-HDkK1xifNzMLUVFj": {
+   "t": 1795532945.467754,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin sentido en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/DrabStylishCroquetteAMPTropPunch-HDkK1xifNzMLUVFj",
+   "login": "djmariio",
+   "views": 105,
+   "duration": 30
+  },
+  "MildWonderfulAdminKevinTurtle-arK05iAITU8v2Dd8": {
+   "t": 1795532948.1568294,
+   "streamer": "VEGETTA777",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué dice VEGETTA777 en GTA 6?",
+   "url": "https://www.twitch.tv/vegetta777/clip/MildWonderfulAdminKevinTurtle-arK05iAITU8v2Dd8",
+   "login": "vegetta777",
+   "views": 82,
+   "duration": 30
   }
  }
 }
