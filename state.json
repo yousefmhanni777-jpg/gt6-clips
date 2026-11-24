@@ -33050,6 +33050,31 @@
    "views": 29,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "CallousDeadPastaPastaThat-1RapPsPZd8u4k-B5": {
+   "t": 1795494065.5584912,
+   "streamer": "ElMariana",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "ElMariana habla sin parar en su stream de GTA VI",
+   "url": "https://www.twitch.tv/elmariana/clip/CallousDeadPastaPastaThat-1RapPsPZd8u4k-B5",
+   "login": "elmariana",
+   "views": 7,
+   "duration": 30
+  },
+  "AdorableAthleticReindeerGivePLZ-EWdh3M5qR39YVxMC": {
+   "t": 1795494105.15045,
+   "streamer": "ElMariana",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "ElMariana se vuelve loco con Lucía 😂",
+   "url": "https://www.twitch.tv/elmariana/clip/AdorableAthleticReindeerGivePLZ-EWdh3M5qR39YVxMC",
+   "login": "elmariana",
+   "views": 5,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
