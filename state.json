@@ -33683,6 +33683,31 @@
    "views": 3,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "WonderfulWimpyPartridgeSmoocherZ-XLM0x5nXfOiL2iai": {
+   "t": 1795505140.4847429,
+   "streamer": "PattyMeza",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "te pago",
+   "url": "https://www.twitch.tv/pattymeza/clip/WonderfulWimpyPartridgeSmoocherZ-XLM0x5nXfOiL2iai",
+   "login": "pattymeza",
+   "views": 27,
+   "duration": 29.9
+  },
+  "YawningFrigidChipmunkEagleEye-9J2kS5ni5WGi7Y1_": {
+   "t": 1795505184.466811,
+   "streamer": "PattyMeza",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "PattyMeza reacciona al robo en GTA 6",
+   "url": "https://www.twitch.tv/pattymeza/clip/YawningFrigidChipmunkEagleEye-9J2kS5ni5WGi7Y1_",
+   "login": "pattymeza",
+   "views": 3,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
