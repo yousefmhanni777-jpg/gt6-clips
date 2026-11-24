@@ -32394,6 +32394,31 @@
    "login": "thegrefg",
    "views": 66,
    "duration": 29.9
+  },
+  "TangibleGentleManateeTwitchRPG-tciiQt5HHl9-zOHJ": {
+   "t": 1795482397.3919451,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona al CEO de NVIDIA",
+   "url": "https://www.twitch.tv/illojuan/clip/TangibleGentleManateeTwitchRPG-tciiQt5HHl9-zOHJ",
+   "login": "illojuan",
+   "views": 75,
+   "duration": 28.2
+  },
+  "SquareFamousCiderPMSTwin-mFv3FPm3prMf0ys8": {
+   "t": 1795482433.613238,
+   "streamer": "TheGrefg",
+   "status": "enviado",
+   "score": 7,
+   "cat": "curiosidad",
+   "hook": "TheGrefg descubre el Easter Egg más loco de GTA 6",
+   "url": "https://www.twitch.tv/thegrefg/clip/SquareFamousCiderPMSTwin-mFv3FPm3prMf0ys8",
+   "login": "thegrefg",
+   "views": 75,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
