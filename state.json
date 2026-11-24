@@ -32293,6 +32293,31 @@
    "views": 7,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "HeadstrongSeductiveWaterRiPepperonis-HrVoIfB0aFvYVjyp": {
+   "t": 1795480594.1830664,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Rubius no puede decir la palabra prohibida",
+   "url": "https://www.twitch.tv/rubius/clip/HeadstrongSeductiveWaterRiPepperonis-HrVoIfB0aFvYVjyp",
+   "login": "rubius",
+   "views": 8,
+   "duration": 26.8,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ZealousSourJamCoolStoryBro-J7kKoMnTQ1YFHpzI": {
+   "t": 1795480596.7637734,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius reacciona a GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/ZealousSourJamCoolStoryBro-J7kKoMnTQ1YFHpzI",
+   "login": "rubius",
+   "views": 16,
+   "duration": 30
   }
  }
 }
