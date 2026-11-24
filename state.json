@@ -32569,6 +32569,30 @@
    "views": 2,
    "duration": 32.3,
    "formato": "normal: sin cámara detectada"
+  },
+  "HotGlutenFreeBorkWow-Gjwbw9Dpbqb-acdN": {
+   "t": 1795485525.6516953,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "clober es el papá",
+   "url": "https://www.twitch.tv/illojuan/clip/HotGlutenFreeBorkWow-Gjwbw9Dpbqb-acdN",
+   "login": "illojuan",
+   "views": 4,
+   "duration": 30
+  },
+  "TangentialTangentialBunnyChefFrank-0eN8fM_oFyEb10Fa": {
+   "t": 1795485528.673654,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "TheGrefg intenta un truco…",
+   "url": "https://www.twitch.tv/thegrefg/clip/TangentialTangentialBunnyChefFrank-0eN8fM_oFyEb10Fa",
+   "login": "thegrefg",
+   "views": 3,
+   "duration": 60
   }
  }
 }
