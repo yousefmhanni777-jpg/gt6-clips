@@ -33480,6 +33480,31 @@
    "login": "pattymeza",
    "views": 30,
    "duration": 30
+  },
+  "CharmingFrozenChimpanzeePupper-YJsvozP92ACeUzES": {
+   "t": 1795501892.6244268,
+   "streamer": "PattyMeza",
+   "status": "descartado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "PattyMeza grita y se apodera del coche!",
+   "url": "https://www.twitch.tv/pattymeza/clip/CharmingFrozenChimpanzeePupper-YJsvozP92ACeUzES",
+   "login": "pattymeza",
+   "views": 29,
+   "duration": 60
+  },
+  "BelovedJazzyMouseCoolCat-bzaSEYakmiTP-LRe": {
+   "t": 1795501955.51935,
+   "streamer": "PattyMeza",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "PattyMeza se vuelve loco con el coche más rápido",
+   "url": "https://www.twitch.tv/pattymeza/clip/BelovedJazzyMouseCoolCat-bzaSEYakmiTP-LRe",
+   "login": "pattymeza",
+   "views": 29,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
