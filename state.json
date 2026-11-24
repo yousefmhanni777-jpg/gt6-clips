@@ -36182,11 +36182,16 @@
    "duration": 40.1
   },
   "ArtsyGiantStrawberryPogChamp-IATxYDNC75nVyS34": {
-   "t": 1795550403.5361915,
+   "t": 1795551720.186115,
    "streamer": "Rubius",
-   "status": "error",
-   "tries": 1,
-   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Rubius lamenta su tiempo perdido",
+   "url": "https://www.twitch.tv/rubius/clip/ArtsyGiantStrawberryPogChamp-IATxYDNC75nVyS34",
+   "login": "rubius",
+   "views": 29,
+   "duration": 30
   },
   "SweetRelatedOxPMSTwin-go75176KY73cfBqf": {
    "t": 1795550774.325782,
@@ -36241,6 +36246,19 @@
    "login": "thegrefg",
    "views": 114,
    "duration": 29.9
+  },
+  "ArtisticSmokyDadMikeHogu-A3IOxtC0uUvSD8g8": {
+   "t": 1795551717.765073,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "epico",
+   "hook": "Rubius hace un salto épico con su coche",
+   "url": "https://www.twitch.tv/rubius/clip/ArtisticSmokyDadMikeHogu-A3IOxtC0uUvSD8g8",
+   "login": "rubius",
+   "views": 24,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
