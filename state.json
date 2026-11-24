@@ -35963,6 +35963,32 @@
    "views": 786,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "NimbleFrigidCamelPanicVis-Xtvwgw_exQE9OrLA": {
+   "t": 1795546812.9610837,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Rubius reacciona a un momento inesperado en GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/NimbleFrigidCamelPanicVis-Xtvwgw_exQE9OrLA",
+   "login": "rubius",
+   "views": 32,
+   "duration": 12.1,
+   "formato": "normal: sin cámara detectada"
+  },
+  "PowerfulAdventurousClipsmomPRChase-hsO8sf0K-XHodHfZ": {
+   "t": 1795546845.6746716,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "Rubius: ¡Perro volando en GTA 6!",
+   "url": "https://www.twitch.tv/rubius/clip/PowerfulAdventurousClipsmomPRChase-hsO8sf0K-XHodHfZ",
+   "login": "rubius",
+   "views": 14,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
