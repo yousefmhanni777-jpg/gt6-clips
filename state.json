@@ -32419,6 +32419,30 @@
    "views": 75,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "IgnorantPiliableTeaImGlitch-A42lneBKYAMiDTV9": {
+   "t": 1795482864.1933641,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "IlloJuan suelta una frase loca: ¿qué pasa?",
+   "url": "https://www.twitch.tv/illojuan/clip/IgnorantPiliableTeaImGlitch-A42lneBKYAMiDTV9",
+   "login": "illojuan",
+   "views": 5,
+   "duration": 16
+  },
+  "RespectfulApatheticPancakeThisIsSparta-WvlTcjh7eda9hO8d": {
+   "t": 1795482866.3543036,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Rubius se enfada con su móvil",
+   "url": "https://www.twitch.tv/rubius/clip/RespectfulApatheticPancakeThisIsSparta-WvlTcjh7eda9hO8d",
+   "login": "rubius",
+   "views": 3,
+   "duration": 15.4
   }
  }
 }
