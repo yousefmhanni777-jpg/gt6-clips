@@ -41363,6 +41363,34 @@
    "login": "illojuan",
    "views": 4,
    "duration": 30
+  },
+  "OpenBillowingStapleJonCarnage-49eMAAZvLy6jv6iL": {
+   "t": 1795641971.2564564,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "IlloJuan suelta una frase cómica con Jason",
+   "url": "https://www.twitch.tv/illojuan/clip/OpenBillowingStapleJonCarnage-49eMAAZvLy6jv6iL",
+   "login": "illojuan",
+   "views": 4,
+   "duration": 26.1,
+   "formato": "normal: sin cámara detectada"
+  },
+  "EnticingConcernedWolverineDoritosChip-lTKkcPaud0slBpmQ": {
+   "t": 1795642027.1998544,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Auronplay se atrapa en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/EnticingConcernedWolverineDoritosChip-lTKkcPaud0slBpmQ",
+   "login": "auronplay",
+   "views": 4,
+   "duration": 30,
+   "formato": "cara arriba",
+   "tiktok_req": "tt_EnticingConcernedWolverineDoritosChip-lTKkcPaud0slBpmQ",
+   "tiktok_t": 1795642024.857889
   }
  }
 }
