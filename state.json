@@ -40078,6 +40078,43 @@
    "views": 5,
    "duration": 13,
    "formato": "normal: sin cámara detectada"
+  },
+  "PlainRelievedHedgehogPipeHype-a_0cOG8D-1-D7-ac": {
+   "t": 1795626918.0306199,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando con IlloJuan?",
+   "url": "https://www.twitch.tv/illojuan/clip/PlainRelievedHedgehogPipeHype-a_0cOG8D-1-D7-ac",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 45.2
+  },
+  "FunnyTiredGrassTriHard-GhyfXXud8D0bnFaW": {
+   "t": 1795626941.718845,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "IlloJuan en inglés: ¡Esto es un caos!",
+   "url": "https://www.twitch.tv/illojuan/clip/FunnyTiredGrassTriHard-GhyfXXud8D0bnFaW",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 12.8,
+   "formato": "normal: sin cámara detectada"
+  },
+  "LitigiousCalmDuckOneHand-Qsl8URE7iHSNwi3s": {
+   "t": 1795626943.9698873,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan reacciona a GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/LitigiousCalmDuckOneHand-Qsl8URE7iHSNwi3s",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 30
   }
  }
 }
