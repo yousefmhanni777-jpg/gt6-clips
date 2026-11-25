@@ -39624,6 +39624,43 @@
    "login": "illojuan",
    "views": 570,
    "duration": 30
+  },
+  "GorgeousYummyEggWow-uGYZm5LFl5synPZp": {
+   "t": 1795624432.1270354,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se sorprende con GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/GorgeousYummyEggWow-uGYZm5LFl5synPZp",
+   "login": "djmariio",
+   "views": 94,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "SmoothQuaintVanillaDeIlluminati-7drKcHfy78SDbz_H": {
+   "t": 1795624434.726287,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "IlloJuan habla de su dolor de muñeca",
+   "url": "https://www.twitch.tv/illojuan/clip/SmoothQuaintVanillaDeIlluminati-7drKcHfy78SDbz_H",
+   "login": "illojuan",
+   "views": 681,
+   "duration": 30
+  },
+  "AstuteDelightfulPorcupineHassanChop-4VOSMFrXrfeSUQIb": {
+   "t": 1795624437.9395154,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan: ¿está drogado?",
+   "url": "https://www.twitch.tv/illojuan/clip/AstuteDelightfulPorcupineHassanChop-4VOSMFrXrfeSUQIb",
+   "login": "illojuan",
+   "views": 681,
+   "duration": 40.3
   }
  }
 }
