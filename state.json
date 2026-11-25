@@ -40677,6 +40677,30 @@
    "views": 2,
    "duration": 27.5,
    "formato": "cara arriba"
+  },
+  "ConcernedCuteVanillaRuleFive-5xyMC91ypqnDuZ5m": {
+   "t": 1795630234.1567965,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "CINEE CINEE",
+   "url": "https://www.twitch.tv/djmariio/clip/ConcernedCuteVanillaRuleFive-5xyMC91ypqnDuZ5m",
+   "login": "djmariio",
+   "views": 105,
+   "duration": 16.2
+  },
+  "SarcasticFaithfulSangMrDestructoid-NvM3rZVPPFsy_g6r": {
+   "t": 1795630236.3939288,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "DjMaRiiO reacciona a GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/SarcasticFaithfulSangMrDestructoid-NvM3rZVPPFsy_g6r",
+   "login": "djmariio",
+   "views": 105,
+   "duration": 30
   }
  }
 }
