@@ -41057,6 +41057,31 @@
    "views": 10,
    "duration": 24,
    "formato": "cara arriba"
+  },
+  "ObedientPhilanthropicOctopusSoonerLater-ntPtuNCFyvG9ik92": {
+   "t": 1795636795.0333853,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "IlloJuan se desata con su acento andaluz",
+   "url": "https://www.twitch.tv/illojuan/clip/ObedientPhilanthropicOctopusSoonerLater-ntPtuNCFyvG9ik92",
+   "login": "illojuan",
+   "views": 34,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "BrainyPopularWoodpeckerPeteZarollTie-ZuKdsuLmj6Hrw5YV": {
+   "t": 1795636796.8062797,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "reaccion",
+   "hook": "Auronplay lanza insultos a Juan Guarnizo",
+   "url": "https://www.twitch.tv/auronplay/clip/BrainyPopularWoodpeckerPeteZarollTie-ZuKdsuLmj6Hrw5YV",
+   "login": "auronplay",
+   "views": 8,
+   "duration": 30.1
   }
  }
 }
