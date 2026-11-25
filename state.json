@@ -41495,6 +41495,32 @@
    "views": 268,
    "duration": 19.6,
    "formato": "normal: sin cámara detectada"
+  },
+  "RoughEphemeralSpindleCoolCat-8B8lJw3ug6NBIPaE": {
+   "t": 1795644270.0817957,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "IlloJuan se vuelve loco con el coche glitch",
+   "url": "https://www.twitch.tv/illojuan/clip/RoughEphemeralSpindleCoolCat-8B8lJw3ug6NBIPaE",
+   "login": "illojuan",
+   "views": 8,
+   "duration": 12.5,
+   "formato": "normal: sin cámara detectada"
+  },
+  "PiliableMildNikudonCoolStoryBro-h4Wav_9osW5xzO4O": {
+   "t": 1795644299.3897092,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona al disparo inesperado en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/PiliableMildNikudonCoolStoryBro-h4Wav_9osW5xzO4O",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
