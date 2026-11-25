@@ -39445,7 +39445,8 @@
    "duration": 59.9,
    "formato": "normal: sin cámara detectada",
    "tiktok_req": "tt_SuperClumsyMagpieBudStar-HD59sMyhKjd9Nfau",
-   "tiktok_t": 1795623326.31467
+   "tiktok_t": 1795623326.31467,
+   "tiktok_status": "publicado"
   },
   "RealHonestGarlicPastaThat-pccUVCdvgjJXiykL": {
    "t": 1795623331.1231797,
@@ -39509,6 +39510,45 @@
    "login": "djmariio",
    "views": 88,
    "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "GracefulStylishIcecreamM4xHeh-3Yqs7JJPRUvVk9FG": {
+   "t": 1795623868.806704,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "DjMaRiiO reacciona a un bug épico en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/GracefulStylishIcecreamM4xHeh-3Yqs7JJPRUvVk9FG",
+   "login": "djmariio",
+   "views": 90,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "BovineEndearingToadSuperVinlin-sEp3poE18dz1Fp6n": {
+   "t": 1795623930.1383188,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se enoja por peso",
+   "url": "https://www.twitch.tv/djmariio/clip/BovineEndearingToadSuperVinlin-sEp3poE18dz1Fp6n",
+   "login": "djmariio",
+   "views": 90,
+   "duration": 39.4,
+   "formato": "normal: sin cámara detectada"
+  },
+  "EncouragingFurryLarkPastaThat-GrWNExKZSxymUDZR": {
+   "t": 1795623991.030406,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO grita '¡Cállate!' en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/EncouragingFurryLarkPastaThat-GrWNExKZSxymUDZR",
+   "login": "djmariio",
+   "views": 90,
+   "duration": 36.9,
    "formato": "normal: sin cámara detectada"
   }
  }
