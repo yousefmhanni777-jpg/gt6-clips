@@ -40853,6 +40853,31 @@
    "views": 73,
    "duration": 28.3,
    "formato": "normal: sin cámara detectada"
+  },
+  "KnottyClumsyPepperPogChamp-yMfYotTaJGHSMpt5": {
+   "t": 1795633353.4906747,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Rubius reacciona al caos de 'aplastado'",
+   "url": "https://www.twitch.tv/rubius/clip/KnottyClumsyPepperPogChamp-yMfYotTaJGHSMpt5",
+   "login": "rubius",
+   "views": 248,
+   "duration": 24,
+   "formato": "normal: sin cámara detectada"
+  },
+  "TentativeMistyCattleTBTacoRight-pREH-brKzbdeNzHP": {
+   "t": 1795633355.5121953,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan reacciona a GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/TentativeMistyCattleTBTacoRight-pREH-brKzbdeNzHP",
+   "login": "illojuan",
+   "views": 47,
+   "duration": 30
   }
  }
 }
