@@ -37437,6 +37437,31 @@
    "views": 2,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "ShyYummyPigeonANELE-WwPWidoGIOQdp3Nf": {
+   "t": 1795573099.8334296,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "AuronPlay busca el panel perdido en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/ShyYummyPigeonANELE-WwPWidoGIOQdp3Nf",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 60,
+   "formato": "cara arriba"
+  },
+  "AttractiveFriendlyBottlePraiseIt-rDCyBzpUhFp6bPEm": {
+   "t": 1795573103.523836,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan lanza un monólogo sin sentido",
+   "url": "https://www.twitch.tv/illojuan/clip/AttractiveFriendlyBottlePraiseIt-rDCyBzpUhFp6bPEm",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 38.8
   }
  }
 }
