@@ -37729,6 +37729,31 @@
    "views": 3,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "PrettiestDarlingClipsmomBlargNaut-ag9OwhqmtbD9k5g-": {
+   "t": 1795578275.1977456,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona a un momento inesperado",
+   "url": "https://www.twitch.tv/illojuan/clip/PrettiestDarlingClipsmomBlargNaut-ag9OwhqmtbD9k5g-",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 29.9
+  },
+  "RamshackleInventiveZucchiniPupper-VLv0Lx-YLiozSX7B": {
+   "t": 1795578316.9564607,
+   "streamer": "ElMariana",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "ElMariana reacciona a GTA 6",
+   "url": "https://www.twitch.tv/elmariana/clip/RamshackleInventiveZucchiniPupper-VLv0Lx-YLiozSX7B",
+   "login": "elmariana",
+   "views": 3,
+   "duration": 36.7,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
