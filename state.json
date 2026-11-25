@@ -39431,6 +39431,46 @@
    "views": 3,
    "duration": 60,
    "formato": "cara arriba"
+  },
+  "SuperClumsyMagpieBudStar-HD59sMyhKjd9Nfau": {
+   "t": 1795623329.0713801,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO grita a Kyle en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/SuperClumsyMagpieBudStar-HD59sMyhKjd9Nfau",
+   "login": "djmariio",
+   "views": 90,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada",
+   "tiktok_req": "tt_SuperClumsyMagpieBudStar-HD59sMyhKjd9Nfau",
+   "tiktok_t": 1795623326.31467
+  },
+  "RealHonestGarlicPastaThat-pccUVCdvgjJXiykL": {
+   "t": 1795623331.1231797,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasó en GTA 6?",
+   "url": "https://www.twitch.tv/djmariio/clip/RealHonestGarlicPastaThat-pccUVCdvgjJXiykL",
+   "login": "djmariio",
+   "views": 90,
+   "duration": 30
+  },
+  "CourageousObliviousDoveMrDestructoid-sVxw_4hPFVgFeL4h": {
+   "t": 1795623378.1156402,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "¡DjMaRiiO reacciona al glitch de GTA 6!",
+   "url": "https://www.twitch.tv/djmariio/clip/CourageousObliviousDoveMrDestructoid-sVxw_4hPFVgFeL4h",
+   "login": "djmariio",
+   "views": 90,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
