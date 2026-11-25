@@ -40040,6 +40040,44 @@
    "views": 102,
    "duration": 60,
    "formato": "cara arriba"
+  },
+  "SpookyCoweringRaisinKippa-Fed-_VwATzuDNILc": {
+   "t": 1795626785.392402,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "IlloJuan se enciende con GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/SpookyCoweringRaisinKippa-Fed-_VwATzuDNILc",
+   "login": "illojuan",
+   "views": 1070,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "BetterVibrantWrenGrammarKing-2vECJuziZ4w9kJR7": {
+   "t": 1795626787.33682,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan reacciona a GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/BetterVibrantWrenGrammarKing-2vECJuziZ4w9kJR7",
+   "login": "illojuan",
+   "views": 4,
+   "duration": 14.1
+  },
+  "InspiringVibrantWallabyKippa-21EEsmX12G14ZRZz": {
+   "t": 1795626810.839411,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona al bug de GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/InspiringVibrantWallabyKippa-21EEsmX12G14ZRZz",
+   "login": "illojuan",
+   "views": 5,
+   "duration": 13,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
