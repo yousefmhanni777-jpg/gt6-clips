@@ -40152,6 +40152,44 @@
    "views": 61,
    "duration": 53.1,
    "formato": "normal: sin cámara detectada"
+  },
+  "InterestingSoftKimchiBloodTrail-x1Vrt7fhwK47WnUo": {
+   "t": 1795627288.0613885,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "¡IlloJuan reacciona al GTA 6!",
+   "url": "https://www.twitch.tv/illojuan/clip/InterestingSoftKimchiBloodTrail-x1Vrt7fhwK47WnUo",
+   "login": "illojuan",
+   "views": 1132,
+   "duration": 29.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SpotlessImpartialAubergineDatSheffy-EnrQhcufOQsCSKFF": {
+   "t": 1795627290.1331065,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan y su chat: ¡La lavadora del GTA VI!",
+   "url": "https://www.twitch.tv/illojuan/clip/SpotlessImpartialAubergineDatSheffy-EnrQhcufOQsCSKFF",
+   "login": "illojuan",
+   "views": 1132,
+   "duration": 30
+  },
+  "TriangularArtisticCodRalpherZ-f2VEsXsSxA0XbJAA": {
+   "t": 1795627382.8602076,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO sin dinero en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/TriangularArtisticCodRalpherZ-f2VEsXsSxA0XbJAA",
+   "login": "djmariio",
+   "views": 105,
+   "duration": 56.4,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
