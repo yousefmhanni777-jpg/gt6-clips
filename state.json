@@ -38681,6 +38681,31 @@
    "login": "imantado",
    "views": 110,
    "duration": 39.9
+  },
+  "QuaintEvilAubergineKlappa-5jzPGVL0DiJ7xZV2": {
+   "t": 1795617257.8153543,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "Imantado reacciona a una locura en GTA 6",
+   "url": "https://www.twitch.tv/imantado/clip/QuaintEvilAubergineKlappa-5jzPGVL0DiJ7xZV2",
+   "login": "imantado",
+   "views": 116,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "HomelySpookyYamBloodTrail-imReMMNYOLD8Sdjn": {
+   "t": 1795617261.3557742,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Imantado suelta una frase inesperada",
+   "url": "https://www.twitch.tv/imantado/clip/HomelySpookyYamBloodTrail-imReMMNYOLD8Sdjn",
+   "login": "imantado",
+   "views": 116,
+   "duration": 30
   }
  }
 }
