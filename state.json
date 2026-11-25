@@ -37233,6 +37233,31 @@
    "login": "rubius",
    "views": 70,
    "duration": 30
+  },
+  "IronicHeadstrongGaragePRChase-To8DC3KdqTu5GeRz": {
+   "t": 1795568934.4538968,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO intenta escapar con 17k",
+   "url": "https://www.twitch.tv/djmariio/clip/IronicHeadstrongGaragePRChase-To8DC3KdqTu5GeRz",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 30
+  },
+  "RepletePlausibleCheetahCoolStoryBob-v43P0pPq8Hr-yjru": {
+   "t": 1795568964.9829636,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Rubius se vuelve loco con el camión",
+   "url": "https://www.twitch.tv/rubius/clip/RepletePlausibleCheetahCoolStoryBob-v43P0pPq8Hr-yjru",
+   "login": "rubius",
+   "views": 58,
+   "duration": 17.3,
+   "formato": "cara arriba"
   }
  }
 }
