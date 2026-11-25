@@ -40328,6 +40328,31 @@
    "login": "imantado",
    "views": 3,
    "duration": 60
+  },
+  "BeautifulAdventurousPrariedogHoneyBadger-hBgAPd1E7jEza41n": {
+   "t": 1795628117.029405,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan anuncia su giveaway",
+   "url": "https://www.twitch.tv/illojuan/clip/BeautifulAdventurousPrariedogHoneyBadger-hBgAPd1E7jEza41n",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 30
+  },
+  "NaiveLongRavenTinyFace-WIO5l7D3WZjBkNpH": {
+   "t": 1795628187.6683679,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Imantado reacciona a GTA 6 en vivo",
+   "url": "https://www.twitch.tv/imantado/clip/NaiveLongRavenTinyFace-WIO5l7D3WZjBkNpH",
+   "login": "imantado",
+   "views": 50,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
