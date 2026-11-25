@@ -40115,6 +40115,43 @@
    "login": "illojuan",
    "views": 2,
    "duration": 30
+  },
+  "JollyBitterSangCopyThis-DQCOSrqzrB8fEXBD": {
+   "t": 1795627050.6988018,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO grita ¡Vamos! en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/JollyBitterSangCopyThis-DQCOSrqzrB8fEXBD",
+   "login": "djmariio",
+   "views": 109,
+   "duration": 60
+  },
+  "BraveTawdryGrassNinjaGrumpy-5IxzUVo1FCxB8sB5": {
+   "t": 1795627053.8107646,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "niña",
+   "url": "https://www.twitch.tv/illojuan/clip/BraveTawdryGrassNinjaGrumpy-5IxzUVo1FCxB8sB5",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 30
+  },
+  "DaintyUgliestGaurNerfBlueBlaster-1pPY8oVUVUMXME9l": {
+   "t": 1795627134.8472168,
+   "streamer": "Carola",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "Carola reacciona a la lluvia en GTA VI",
+   "url": "https://www.twitch.tv/carola/clip/DaintyUgliestGaurNerfBlueBlaster-1pPY8oVUVUMXME9l",
+   "login": "carola",
+   "views": 61,
+   "duration": 53.1,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
