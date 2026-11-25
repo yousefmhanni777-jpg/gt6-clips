@@ -40301,6 +40301,33 @@
    "views": 5,
    "duration": 14.2,
    "formato": "normal: sin cámara detectada"
+  },
+  "HandsomeStylishRaisinFailFish-IkgQY6syDJFn8C9P": {
+   "t": 1795627987.6676524,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "IlloJuan se vuelve loco con GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/HandsomeStylishRaisinFailFish-IkgQY6syDJFn8C9P",
+   "login": "illojuan",
+   "views": 7,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada",
+   "tiktok_req": "tt_HandsomeStylishRaisinFailFish-IkgQY6syDJFn8C9P",
+   "tiktok_t": 1795627985.4071317
+  },
+  "EmpathicDeadSharkAsianGlow-r6HRSgAxVhbRAFHO": {
+   "t": 1795627990.1330223,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Imantado reacciona a GTA 6 sin parar",
+   "url": "https://www.twitch.tv/imantado/clip/EmpathicDeadSharkAsianGlow-r6HRSgAxVhbRAFHO",
+   "login": "imantado",
+   "views": 3,
+   "duration": 60
   }
  }
 }
