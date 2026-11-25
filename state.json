@@ -39737,6 +39737,44 @@
    "views": 3,
    "duration": 30,
    "formato": "cara arriba"
+  },
+  "HungryVainTurtleRiPepperonis-yvl6QDuI1TPrNalv": {
+   "t": 1795625044.851747,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO reacciona a GTA 6 y se vuelve loco",
+   "url": "https://www.twitch.tv/djmariio/clip/HungryVainTurtleRiPepperonis-yvl6QDuI1TPrNalv",
+   "login": "djmariio",
+   "views": 94,
+   "duration": 58.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AssiduousHonestDuckTheThing-zRyicqls47qGYfcJ": {
+   "t": 1795625047.6005933,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "DjMaRiiO en modo desconcertado",
+   "url": "https://www.twitch.tv/djmariio/clip/AssiduousHonestDuckTheThing-zRyicqls47qGYfcJ",
+   "login": "djmariio",
+   "views": 94,
+   "duration": 30
+  },
+  "ResoluteLovelyPlumberKappaRoss-JSQs0f2zqVyzQTs9": {
+   "t": 1795625097.4054368,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona a GTA 6: ¡BOOOFFFF!",
+   "url": "https://www.twitch.tv/illojuan/clip/ResoluteLovelyPlumberKappaRoss-JSQs0f2zqVyzQTs9",
+   "login": "illojuan",
+   "views": 802,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
