@@ -38912,7 +38912,8 @@
    "duration": 30,
    "formato": "cara arriba",
    "tiktok_req": "tt_CautiousShyKittenStrawBeary-Mqdv93RVR8_W3kjK",
-   "tiktok_t": 1795619064.531067
+   "tiktok_t": 1795619064.531067,
+   "tiktok_status": "publicado"
   },
   "HeartlessFaithfulRatPogChamp-CpsKxEl23aPSaJIn": {
    "t": 1795619069.8030858,
@@ -38976,6 +38977,44 @@
    "login": "illojuan",
    "views": 2,
    "duration": 30
+  },
+  "GrotesqueAuspiciousOkapiCurseLit-kBL8l5CMLB54C0WP": {
+   "t": 1795619409.504342,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "IlloJuan se vuelve loco con su propio slang",
+   "url": "https://www.twitch.tv/illojuan/clip/GrotesqueAuspiciousOkapiCurseLit-kBL8l5CMLB54C0WP",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 30
+  },
+  "WiseAbnegateJaguarWoofer-mqSjDlgaly6Z4oQM": {
+   "t": 1795619508.0080857,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "IlloJuan se vuelve loco con el ovni",
+   "url": "https://www.twitch.tv/illojuan/clip/WiseAbnegateJaguarWoofer-mqSjDlgaly6Z4oQM",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 59,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ExuberantSmilingKimchiTBTacoLeft-_QbkW1azg5J3tU0H": {
+   "t": 1795619607.935434,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "IlloJuan se vuelve loco con un OVNI en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/ExuberantSmilingKimchiTBTacoLeft-_QbkW1azg5J3tU0H",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
