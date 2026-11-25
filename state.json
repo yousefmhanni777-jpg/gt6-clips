@@ -41044,6 +41044,19 @@
    "views": 16,
    "duration": 30.7,
    "formato": "normal: sin cámara detectada"
+  },
+  "PlacidDeterminedOysterSaltBae-sDa1rJihQAjp7pB1": {
+   "t": 1795636445.8029175,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Auronplay reacciona al sticker con sonido",
+   "url": "https://www.twitch.tv/auronplay/clip/PlacidDeterminedOysterSaltBae-sDa1rJihQAjp7pB1",
+   "login": "auronplay",
+   "views": 10,
+   "duration": 24,
+   "formato": "cara arriba"
   }
  }
 }
