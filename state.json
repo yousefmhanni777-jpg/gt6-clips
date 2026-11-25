@@ -39814,6 +39814,42 @@
    "views": 841,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "FunHappyNuggetsRuleFive-ESbAYxk8uZc_jtWw": {
+   "t": 1795625503.793652,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO: ¿qué pasa con el 84%?",
+   "url": "https://www.twitch.tv/djmariio/clip/FunHappyNuggetsRuleFive-ESbAYxk8uZc_jtWw",
+   "login": "djmariio",
+   "views": 99,
+   "duration": 30
+  },
+  "CleverStormyPanRiPepperonis-fHdAbjNpocDJ02cp": {
+   "t": 1795625506.346169,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO reacciona a GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/CleverStormyPanRiPepperonis-fHdAbjNpocDJ02cp",
+   "login": "djmariio",
+   "views": 99,
+   "duration": 59.9
+  },
+  "RoughPunchyGnatKeepo-j-2nxCp3aGNwQBoF": {
+   "t": 1795625508.7871106,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasó en GTA 6? 🤔",
+   "url": "https://www.twitch.tv/djmariio/clip/RoughPunchyGnatKeepo-j-2nxCp3aGNwQBoF",
+   "login": "djmariio",
+   "views": 99,
+   "duration": 30
   }
  }
 }
