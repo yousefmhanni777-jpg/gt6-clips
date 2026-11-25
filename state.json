@@ -39661,6 +39661,44 @@
    "login": "illojuan",
    "views": 681,
    "duration": 40.3
+  },
+  "ProductiveTolerantTigerKappaRoss-t1IwYmmGdtTTtnIv": {
+   "t": 1795624602.5027535,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 7,
+   "cat": "bug",
+   "hook": "DjMaRiiO pierde su dinero en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/ProductiveTolerantTigerKappaRoss-t1IwYmmGdtTTtnIv",
+   "login": "djmariio",
+   "views": 96,
+   "duration": 59.9,
+   "formato": "cara arriba"
+  },
+  "GiantRockyJamWutFace-E4E8TOT4RWns6iy2": {
+   "t": 1795624654.1960125,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 7,
+   "cat": "bug",
+   "hook": "¡IlloJuan descubre un bug de GTA 6!",
+   "url": "https://www.twitch.tv/illojuan/clip/GiantRockyJamWutFace-E4E8TOT4RWns6iy2",
+   "login": "illojuan",
+   "views": 681,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "CoyExquisiteGarlicHoneyBadger-J0V505avQiCiroso": {
+   "t": 1795624656.5216618,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "IlloJuan sin GTA, solo drama",
+   "url": "https://www.twitch.tv/illojuan/clip/CoyExquisiteGarlicHoneyBadger-J0V505avQiCiroso",
+   "login": "illojuan",
+   "views": 681,
+   "duration": 30
   }
  }
 }
