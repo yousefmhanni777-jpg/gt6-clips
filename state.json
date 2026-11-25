@@ -41621,6 +41621,33 @@
    "login": "djmariio",
    "views": 2,
    "duration": 30
+  },
+  "StrangeHomelySpaghettiBlargNaut-dvytESj_OFTbe-hC": {
+   "t": 1795646568.277863,
+   "streamer": "TheGrefg",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "TheGrefg se vuelve loco con la nueva gráfica de GTA 6",
+   "url": "https://www.twitch.tv/thegrefg/clip/StrangeHomelySpaghettiBlargNaut-dvytESj_OFTbe-hC",
+   "login": "thegrefg",
+   "views": 62,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada",
+   "tiktok_req": "tt_StrangeHomelySpaghettiBlargNaut-dvytESj_OFTbe-hC",
+   "tiktok_t": 1795646565.889806
+  },
+  "SillyElatedToad4Head-7CqRSeAoqm0sTqaN": {
+   "t": 1795646570.9569414,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "TheGrefg reacciona a GTA 6",
+   "url": "https://www.twitch.tv/thegrefg/clip/SillyElatedToad4Head-7CqRSeAoqm0sTqaN",
+   "login": "thegrefg",
+   "views": 62,
+   "duration": 29.9
   }
  }
 }
