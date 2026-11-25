@@ -40701,6 +40701,31 @@
    "login": "djmariio",
    "views": 105,
    "duration": 30
+  },
+  "JollyComfortableSparrowJonCarnage-fCCEA6T-iAe1lHGR": {
+   "t": 1795630653.412734,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "sitcom",
+   "url": "https://www.twitch.tv/illojuan/clip/JollyComfortableSparrowJonCarnage-fCCEA6T-iAe1lHGR",
+   "login": "illojuan",
+   "views": 192,
+   "duration": 19.8
+  },
+  "SolidAntsySnoodPoooound-2Fm59g2r_ZY0snnz": {
+   "t": 1795630685.7685454,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Auronplay reacciona al pitbull temeroso",
+   "url": "https://www.twitch.tv/auronplay/clip/SolidAntsySnoodPoooound-2Fm59g2r_ZY0snnz",
+   "login": "auronplay",
+   "views": 4,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
