@@ -40503,6 +40503,44 @@
    "login": "carola",
    "views": 58,
    "duration": 30
+  },
+  "TangentialDreamyBeaverANELE-2mb-nLevmBlsZ6HI": {
+   "t": 1795629216.739455,
+   "streamer": "MenosTrece",
+   "status": "enviado",
+   "score": 5,
+   "cat": "otro",
+   "hook": "MenosTrece reacciona a una carrera épica en GTA VI",
+   "url": "https://www.twitch.tv/menostrece/clip/TangentialDreamyBeaverANELE-2mb-nLevmBlsZ6HI",
+   "login": "menostrece",
+   "views": 39,
+   "duration": 41.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "RudeZanyLEDHassaanChop-35KYOVK7XS4x4n_U": {
+   "t": 1795629219.425168,
+   "streamer": "deusamir",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "deusamir reacciona a GTA 6",
+   "url": "https://www.twitch.tv/deusamir/clip/RudeZanyLEDHassaanChop-35KYOVK7XS4x4n_U",
+   "login": "deusamir",
+   "views": 21,
+   "duration": 29.9
+  },
+  "WittyTriumphantSalamanderPeanutButterJellyTime-F28ax6wJmC1q568N": {
+   "t": 1795629273.8678844,
+   "streamer": "deusamir",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Deusamir reacciona a GTA 6 con locura",
+   "url": "https://www.twitch.tv/deusamir/clip/WittyTriumphantSalamanderPeanutButterJellyTime-F28ax6wJmC1q568N",
+   "login": "deusamir",
+   "views": 21,
+   "duration": 60,
+   "formato": "cara arriba"
   }
  }
 }
