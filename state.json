@@ -39191,6 +39191,44 @@
    "login": "carola",
    "views": 63,
    "duration": 12.2
+  },
+  "FunPerfectTrollMoreCowbell-q3phe-sSw5Z_y6Ve": {
+   "t": 1795621602.3412526,
+   "streamer": "VEGETTA777",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "VEGETTA777 reacciona a GTA 6",
+   "url": "https://www.twitch.tv/vegetta777/clip/FunPerfectTrollMoreCowbell-q3phe-sSw5Z_y6Ve",
+   "login": "vegetta777",
+   "views": 116,
+   "duration": 59.9,
+   "formato": "cara arriba"
+  },
+  "GorgeousPlainGrouseKappaPride-FooKy6joBFc_RYCF": {
+   "t": 1795621604.5080273,
+   "streamer": "VEGETTA777",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "VEGETTA777 reacciona al GTA 6",
+   "url": "https://www.twitch.tv/vegetta777/clip/GorgeousPlainGrouseKappaPride-FooKy6joBFc_RYCF",
+   "login": "vegetta777",
+   "views": 116,
+   "duration": 30
+  },
+  "ObeseCarefulCarabeefKreygasm-JPRWuolW4p9dlSvn": {
+   "t": 1795621653.5245836,
+   "streamer": "Carola",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "Carola reacciona al bug de Critter's Soul",
+   "url": "https://www.twitch.tv/carola/clip/ObeseCarefulCarabeefKreygasm-JPRWuolW4p9dlSvn",
+   "login": "carola",
+   "views": 63,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
