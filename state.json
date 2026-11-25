@@ -37031,6 +37031,31 @@
    "views": 128,
    "duration": 60,
    "formato": "cara arriba"
+  },
+  "FrailSpicyYogurtCharlieBitMe-GsmKzzwHMULsACb5": {
+   "t": 1795565711.606016,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Rubius falla en medio del atraco",
+   "url": "https://www.twitch.tv/rubius/clip/FrailSpicyYogurtCharlieBitMe-GsmKzzwHMULsACb5",
+   "login": "rubius",
+   "views": 81,
+   "duration": 13.8,
+   "formato": "normal: sin cámara detectada"
+  },
+  "FilthyOutstandingClipzShazBotstix-oOAGazPLx79KtXal": {
+   "t": 1795565713.8049939,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "reaccion",
+   "hook": "Rubius reacciona a algo inesperado",
+   "url": "https://www.twitch.tv/rubius/clip/FilthyOutstandingClipzShazBotstix-oOAGazPLx79KtXal",
+   "login": "rubius",
+   "views": 3,
+   "duration": 15.9
   }
  }
 }
