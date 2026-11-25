@@ -39550,6 +39550,43 @@
    "views": 90,
    "duration": 36.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "CuriousIncredulousPartridgeDendiFace-B65f9cRnC9iJGfom": {
+   "t": 1795624126.2293925,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO ayuda a Kyle en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/CuriousIncredulousPartridgeDendiFace-B65f9cRnC9iJGfom",
+   "login": "djmariio",
+   "views": 91,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "AgreeableSilkyJamDxCat-SOfKokmRvNNhb8vL": {
+   "t": 1795624128.441333,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan en el médico",
+   "url": "https://www.twitch.tv/illojuan/clip/AgreeableSilkyJamDxCat-SOfKokmRvNNhb8vL",
+   "login": "illojuan",
+   "views": 570,
+   "duration": 30
+  },
+  "GoodTsundereWoodpeckerPermaSmug-KrfASTPgOpP22QTy": {
+   "t": 1795624130.7197976,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan se descontrola en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/GoodTsundereWoodpeckerPermaSmug-KrfASTPgOpP22QTy",
+   "login": "illojuan",
+   "views": 570,
+   "duration": 30
   }
  }
 }
