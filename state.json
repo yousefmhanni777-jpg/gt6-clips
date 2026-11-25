@@ -38070,6 +38070,31 @@
    "login": "mictia00",
    "views": 26,
    "duration": 30
+  },
+  "BoredNastyAnacondaKippa-PJNlYjhX6IboMefs": {
+   "t": 1795585096.4012685,
+   "streamer": "Mictia00",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Mictia00 sin nada relevante",
+   "url": "https://www.twitch.tv/mictia00/clip/BoredNastyAnacondaKippa-PJNlYjhX6IboMefs",
+   "login": "mictia00",
+   "views": 27,
+   "duration": 59.9
+  },
+  "BoredBlueInternDancingBaby-OTgNk_T9qodQ5Piz": {
+   "t": 1795585185.2917085,
+   "streamer": "Mictia00",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "Mictia00 reacciona a un bug épico en GTA VI",
+   "url": "https://www.twitch.tv/mictia00/clip/BoredBlueInternDancingBaby-OTgNk_T9qodQ5Piz",
+   "login": "mictia00",
+   "views": 27,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
