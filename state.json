@@ -41160,6 +41160,19 @@
    "views": 7,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "SilkyOpenDoveWholeWheat-aqVNJRypxmXZoJQF": {
+   "t": 1795638424.9168417,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Rubius reacciona a 'MERICAAA!'",
+   "url": "https://www.twitch.tv/rubius/clip/SilkyOpenDoveWholeWheat-aqVNJRypxmXZoJQF",
+   "login": "rubius",
+   "views": 55,
+   "duration": 13.8,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
