@@ -40430,6 +40430,30 @@
    "views": 8,
    "duration": 21.1,
    "formato": "normal: sin cámara detectada"
+  },
+  "FancyProtectiveMallardUncleNox-21yyfmHshPnP16zy": {
+   "t": 1795628704.2351782,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Clip sin audio, nada que ver",
+   "url": "https://www.twitch.tv/illojuan/clip/FancyProtectiveMallardUncleNox-21yyfmHshPnP16zy",
+   "login": "illojuan",
+   "views": 1243,
+   "duration": 30
+  },
+  "NiceIronicOrangeNononoCat-dXluuDmR8emXfy2z": {
+   "t": 1795628706.312945,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Carola reacciona a algo inesperado",
+   "url": "https://www.twitch.tv/carola/clip/NiceIronicOrangeNononoCat-dXluuDmR8emXfy2z",
+   "login": "carola",
+   "views": 4,
+   "duration": 30
   }
  }
 }
