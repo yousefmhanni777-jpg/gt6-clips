@@ -39027,6 +39027,31 @@
    "login": "illojuan",
    "views": 2,
    "duration": 30
+  },
+  "RealUninterestedMagpieCorgiDerp-GMOHt0_i034ByTck": {
+   "t": 1795619946.9394004,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "AuronPlay reacciona a la pensión de la abuela 😭",
+   "url": "https://www.twitch.tv/auronplay/clip/RealUninterestedMagpieCorgiDerp-GMOHt0_i034ByTck",
+   "login": "auronplay",
+   "views": 3,
+   "duration": 16.9,
+   "formato": "cara arriba"
+  },
+  "AlertDifferentFungusDatBoi-E2EndasJCo_pCDRg": {
+   "t": 1795619949.6540053,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan sin palabras: ¿qué pasa?",
+   "url": "https://www.twitch.tv/illojuan/clip/AlertDifferentFungusDatBoi-E2EndasJCo_pCDRg",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 29.9
   }
  }
 }
