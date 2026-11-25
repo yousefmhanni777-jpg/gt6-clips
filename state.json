@@ -37906,6 +37906,31 @@
    "views": 64,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "CleverDepressedElk4Head-4bBzhI4BkAeYvsbI": {
+   "t": 1795580895.7510602,
+   "streamer": "ElFedelobo",
+   "status": "enviado",
+   "score": 4,
+   "cat": "gracioso",
+   "hook": "ElFedelobo se vuelve loco con \"Ah don pepe\"",
+   "url": "https://www.twitch.tv/elfedelobo/clip/CleverDepressedElk4Head-4bBzhI4BkAeYvsbI",
+   "login": "elfedelobo",
+   "views": 40,
+   "duration": 18.6,
+   "formato": "normal: sin cámara detectada"
+  },
+  "PrettyBlindingCattleResidentSleeper-iPm_8QrCSeeDmDIB": {
+   "t": 1795580898.363823,
+   "streamer": "ElFedelobo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "ElFedelobo sin palabras: ¿qué ocurre?",
+   "url": "https://www.twitch.tv/elfedelobo/clip/PrettyBlindingCattleResidentSleeper-iPm_8QrCSeeDmDIB",
+   "login": "elfedelobo",
+   "views": 40,
+   "duration": 30
   }
  }
 }
