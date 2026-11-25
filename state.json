@@ -37500,6 +37500,31 @@
    "views": 32,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "SourInexpensivePartridgeWow-3NvAcJSD206LP0Lr": {
+   "t": 1795574325.0087264,
+   "streamer": "CrystalMolly",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "CrystalMolly reacciona a los extraños precios de GTA 6",
+   "url": "https://www.twitch.tv/crystalmolly/clip/SourInexpensivePartridgeWow-3NvAcJSD206LP0Lr",
+   "login": "crystalmolly",
+   "views": 64,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "HorribleSilkyShingleBCouch-KEkSxACavqK41cbk": {
+   "t": 1795574329.0924904,
+   "streamer": "Mictia00",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Mictia00 reacciona a GTA VI",
+   "url": "https://www.twitch.tv/mictia00/clip/HorribleSilkyShingleBCouch-KEkSxACavqK41cbk",
+   "login": "mictia00",
+   "views": 29,
+   "duration": 60
   }
  }
 }
