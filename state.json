@@ -39317,6 +39317,43 @@
    "views": 55,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "SparklingAlluringStrawberryGivePLZ-fmwMssaPNfPEPWlj": {
+   "t": 1795622477.6255605,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Grand Theft Auto VI clip at 10m0s",
+   "url": "https://www.twitch.tv/djmariio/clip/SparklingAlluringStrawberryGivePLZ-fmwMssaPNfPEPWlj",
+   "login": "djmariio",
+   "views": 64,
+   "duration": 30
+  },
+  "GloriousLuckyClintThisIsSparta-DN4leCXVHzfRKAeD": {
+   "t": 1795622525.2468493,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "bug",
+   "hook": "DjMaRiiO descubre un bug inesperado en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/GloriousLuckyClintThisIsSparta-DN4leCXVHzfRKAeD",
+   "login": "djmariio",
+   "views": 64,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "DeadSavageDaikonPMSTwin-6r-akNj1Jahh70Es": {
+   "t": 1795622527.2593703,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin audio",
+   "url": "https://www.twitch.tv/djmariio/clip/DeadSavageDaikonPMSTwin-6r-akNj1Jahh70Es",
+   "login": "djmariio",
+   "views": 64,
+   "duration": 30
   }
  }
 }
