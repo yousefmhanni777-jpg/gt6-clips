@@ -41133,7 +41133,20 @@
    "duration": 36.2,
    "formato": "cara arriba",
    "tiktok_req": "tt_ThoughtfulOutstandingGarbageKappaRoss-7GKkv_HQPConPD44",
-   "tiktok_t": 1795637719.369762
+   "tiktok_t": 1795637719.369762,
+   "tiktok_status": "publicado"
+  },
+  "TolerantEnchantingFinchTooSpicy-4s3hOJhbyefQYGCa": {
+   "t": 1795637938.6278915,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Lucía sexy",
+   "url": "https://www.twitch.tv/rubius/clip/TolerantEnchantingFinchTooSpicy-4s3hOJhbyefQYGCa",
+   "login": "rubius",
+   "views": 9,
+   "duration": 30
   }
  }
 }
