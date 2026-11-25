@@ -39850,6 +39850,43 @@
    "login": "djmariio",
    "views": 99,
    "duration": 30
+  },
+  "ObedientHappyGaurDxAbomb-QpqZHX-ZsNROA0-5": {
+   "t": 1795625615.765377,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "DjMaRiiO nos sorprende con esto",
+   "url": "https://www.twitch.tv/djmariio/clip/ObedientHappyGaurDxAbomb-QpqZHX-ZsNROA0-5",
+   "login": "djmariio",
+   "views": 99,
+   "duration": 59.9
+  },
+  "ThankfulFancyDiamondVoHiYo-UukpmCAFs-h8TCDj": {
+   "t": 1795625668.8425944,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona a GTA 6, ¡no te lo pierdas!",
+   "url": "https://www.twitch.tv/illojuan/clip/ThankfulFancyDiamondVoHiYo-UukpmCAFs-h8TCDj",
+   "login": "illojuan",
+   "views": 914,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AgreeableObliqueRadishBatChest-j0FngWTd-sGgW0qo": {
+   "t": 1795625670.9926493,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué dice el chat? 🤔",
+   "url": "https://www.twitch.tv/illojuan/clip/AgreeableObliqueRadishBatChest-j0FngWTd-sGgW0qo",
+   "login": "illojuan",
+   "views": 914,
+   "duration": 30
   }
  }
 }
