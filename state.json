@@ -40979,6 +40979,32 @@
    "views": 26,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "HealthyLuckyTeaSeemsGood-0kJWrHdS8tuizI8J": {
+   "t": 1795635419.5251625,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO en modo sigilo 😱",
+   "url": "https://www.twitch.tv/djmariio/clip/HealthyLuckyTeaSeemsGood-0kJWrHdS8tuizI8J",
+   "login": "djmariio",
+   "views": 3,
+   "duration": 43,
+   "formato": "cara arriba"
+  },
+  "BumblingHelplessSandstormWOOP-zWpbEbbCmAouTvsW": {
+   "t": 1795635447.4830737,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Rubius reacciona a GTA 6 y el chat grita 'que mono~'",
+   "url": "https://www.twitch.tv/rubius/clip/BumblingHelplessSandstormWOOP-zWpbEbbCmAouTvsW",
+   "login": "rubius",
+   "views": 18,
+   "duration": 12.3,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
