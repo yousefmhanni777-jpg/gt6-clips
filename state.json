@@ -43572,6 +43572,32 @@
    "status": "error",
    "tries": 1,
    "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  },
+  "BetterTsundereBubbleteaCurseLit-sfJvTSyKJUbqKf2T": {
+   "t": 1795705655.0508618,
+   "streamer": "VEGETTA777",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "¡Reacción de Vegetta777 en GTA 6 que no te puedes perder!",
+   "url": "https://www.twitch.tv/vegetta777/clip/BetterTsundereBubbleteaCurseLit-sfJvTSyKJUbqKf2T",
+   "login": "vegetta777",
+   "views": 76,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "StrongBreakableDootSoonerLater-x_xL0NrUbfMleRJ5": {
+   "t": 1795705700.0235865,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Imantado reacciona a un momento inesperado",
+   "url": "https://www.twitch.tv/imantado/clip/StrongBreakableDootSoonerLater-x_xL0NrUbfMleRJ5",
+   "login": "imantado",
+   "views": 72,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
