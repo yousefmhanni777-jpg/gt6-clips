@@ -45503,6 +45503,44 @@
    "views": 2,
    "duration": 60,
    "formato": "cara arriba"
+  },
+  "GoldenGleamingHorseradishMcaT-9iXQGquxnkPfsOyg": {
+   "t": 1795717613.014302,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Carola habla de emotes en GTA VI",
+   "url": "https://www.twitch.tv/carola/clip/GoldenGleamingHorseradishMcaT-9iXQGquxnkPfsOyg",
+   "login": "carola",
+   "views": 48,
+   "duration": 29.9
+  },
+  "HelpfulSparklyMetalDancingBaby-suMP1_RQvENcZ17V": {
+   "t": 1795717629.9556274,
+   "streamer": "jujalag",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Jujalag reacciona al glitch más raro",
+   "url": "https://www.twitch.tv/jujalag/clip/HelpfulSparklyMetalDancingBaby-suMP1_RQvENcZ17V",
+   "login": "jujalag",
+   "views": 29,
+   "duration": 14.8,
+   "formato": "normal: sin cámara detectada"
+  },
+  "CuriousEvilSharkKreygasm-tOLKvsC5FJo_YuWd": {
+   "t": 1795717680.4207172,
+   "streamer": "MenosTrece",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "MenosTrece reacciona al Eclipse 1997 en GTA VI",
+   "url": "https://www.twitch.tv/menostrece/clip/CuriousEvilSharkKreygasm-tOLKvsC5FJo_YuWd",
+   "login": "menostrece",
+   "views": 28,
+   "duration": 41.5,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
