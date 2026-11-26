@@ -43346,6 +43346,33 @@
    "views": 53,
    "duration": 22.4,
    "formato": "normal: sin cámara detectada"
+  },
+  "AntsyDreamyPangolinImGlitch-tSYXqcVOuJHQ7liD": {
+   "t": 1795703226.5069187,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "IlloJuan se vuelve loco con la Mandy",
+   "url": "https://www.twitch.tv/illojuan/clip/AntsyDreamyPangolinImGlitch-tSYXqcVOuJHQ7liD",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada",
+   "tiktok_req": "tt_AntsyDreamyPangolinImGlitch-tSYXqcVOuJHQ7liD",
+   "tiktok_t": 1795703224.0743194
+  },
+  "BlushingTangibleSpindleNerfRedBlaster-49B96189jVOQkwP7": {
+   "t": 1795703229.0831604,
+   "streamer": "Zeling",
+   "status": "descartado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "Zeling suelta una frase loca en vivo",
+   "url": "https://www.twitch.tv/zeling/clip/BlushingTangibleSpindleNerfRedBlaster-49B96189jVOQkwP7",
+   "login": "zeling",
+   "views": 48,
+   "duration": 24.3
   }
  }
 }
