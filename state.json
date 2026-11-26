@@ -45615,6 +45615,31 @@
    "login": "carola",
    "views": 49,
    "duration": 30
+  },
+  "OnerousAveragePonyPermaSmug-LmavLYrlK3oQJWUv": {
+   "t": 1795718102.4488323,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Auronplay se enoja con GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/OnerousAveragePonyPermaSmug-LmavLYrlK3oQJWUv",
+   "login": "auronplay",
+   "views": 490,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "CrazyWittyBaconPermaSmug-3WSacYcmiK7i2KBg": {
+   "t": 1795718105.016231,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay sin sentido en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/CrazyWittyBaconPermaSmug-3WSacYcmiK7i2KBg",
+   "login": "auronplay",
+   "views": 490,
+   "duration": 30
   }
  }
 }
