@@ -45640,6 +45640,43 @@
    "login": "auronplay",
    "views": 490,
    "duration": 30
+  },
+  "HonorableNimbleNewtPeteZaroll-iTGFnQ24weeuaS9L": {
+   "t": 1795718212.869073,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan empieza directo sin intro",
+   "url": "https://www.twitch.tv/illojuan/clip/HonorableNimbleNewtPeteZaroll-iTGFnQ24weeuaS9L",
+   "login": "illojuan",
+   "views": 960,
+   "duration": 30
+  },
+  "SingleTiredCrabsEleGiggle-O0LsEBt5gPTVg9Of": {
+   "t": 1795718253.7474022,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan revela el secreto del port APC en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/SingleTiredCrabsEleGiggle-O0LsEBt5gPTVg9Of",
+   "login": "illojuan",
+   "views": 960,
+   "duration": 38.8,
+   "formato": "normal: sin cámara detectada"
+  },
+  "TenuousPlainHyenaYouDontSay-Ek1bal-lDGQeRtUD": {
+   "t": 1795718257.1109295,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay reacciona a GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/TenuousPlainHyenaYouDontSay-Ek1bal-lDGQeRtUD",
+   "login": "auronplay",
+   "views": 490,
+   "duration": 43.9
   }
  }
 }
