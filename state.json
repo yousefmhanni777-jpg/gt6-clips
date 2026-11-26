@@ -46611,6 +46611,18 @@
    "views": 7,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "FlaccidScrumptiousElephantWOOP-DBY73t7OePDxxFlh": {
+   "t": 1795734253.022625,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius reacciona a un chat loco",
+   "url": "https://www.twitch.tv/rubius/clip/FlaccidScrumptiousElephantWOOP-DBY73t7OePDxxFlh",
+   "login": "rubius",
+   "views": 52,
+   "duration": 60
   }
  }
 }
