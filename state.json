@@ -46265,6 +46265,31 @@
    "login": "illojuan",
    "views": 43,
    "duration": 13.2
+  },
+  "ShyFunnyHeronKreygasm-6k2ol2jh9xa87kwr": {
+   "t": 1795728461.9891355,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "Rubius se vuelve loco con los MODS",
+   "url": "https://www.twitch.tv/rubius/clip/ShyFunnyHeronKreygasm-6k2ol2jh9xa87kwr",
+   "login": "rubius",
+   "views": 16,
+   "duration": 35.8,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ShakingAltruisticHareAMPTropPunch-9EpqP3cWrmiJ9Mvi": {
+   "t": 1795728464.7987664,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "xd",
+   "url": "https://www.twitch.tv/rubius/clip/ShakingAltruisticHareAMPTropPunch-9EpqP3cWrmiJ9Mvi",
+   "login": "rubius",
+   "views": 13,
+   "duration": 30
   }
  }
 }
