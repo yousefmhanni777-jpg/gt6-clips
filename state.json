@@ -45960,6 +45960,18 @@
    "views": 6,
    "duration": 19.6,
    "formato": "normal: sin cámara detectada"
+  },
+  "ClumsyConfidentCiderRuleFive-EB29Lr4ksci9DkDP": {
+   "t": 1795723073.3882697,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco con los NPCs",
+   "url": "https://www.twitch.tv/djmariio/clip/ClumsyConfidentCiderRuleFive-EB29Lr4ksci9DkDP",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 32.9
   }
  }
 }
