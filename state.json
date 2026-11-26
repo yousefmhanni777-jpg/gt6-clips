@@ -42406,6 +42406,31 @@
    "views": 65,
    "duration": 23.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "UninterestedColorfulNewtSwiftRage-Mu9az6mVQzu9wzdt": {
+   "t": 1795660078.0806317,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "AuronPlay suelta un fuerte insulto en vivo",
+   "url": "https://www.twitch.tv/auronplay/clip/UninterestedColorfulNewtSwiftRage-Mu9az6mVQzu9wzdt",
+   "login": "auronplay",
+   "views": 3,
+   "duration": 30
+  },
+  "MoldyObedientToothSeemsGood-ztcRQwjysqMzL5EO": {
+   "t": 1795660108.5974734,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "bug",
+   "hook": "IlloJuan cae en un bug épico",
+   "url": "https://www.twitch.tv/illojuan/clip/MoldyObedientToothSeemsGood-ztcRQwjysqMzL5EO",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 16.6,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
