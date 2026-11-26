@@ -42507,6 +42507,31 @@
    "views": 3,
    "duration": 21.8,
    "formato": "normal: sin cámara detectada"
+  },
+  "LongCrazyDuckPhilosoraptor-MfuqICoQPDxFHTaz": {
+   "t": 1795661953.5821915,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "AuronPlay y la tóxica Lucia",
+   "url": "https://www.twitch.tv/auronplay/clip/LongCrazyDuckPhilosoraptor-MfuqICoQPDxFHTaz",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "UglyAgreeableNoodleHeyGirl-989fXMakdUkoOqzu": {
+   "t": 1795661955.8215315,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasa con IlloJuan?",
+   "url": "https://www.twitch.tv/illojuan/clip/UglyAgreeableNoodleHeyGirl-989fXMakdUkoOqzu",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 60
   }
  }
 }
