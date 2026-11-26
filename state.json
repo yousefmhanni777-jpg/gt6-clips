@@ -46484,6 +46484,31 @@
    "login": "djmariio",
    "views": 2,
    "duration": 30
+  },
+  "PatientUgliestQuailDxCat-T-z_xX5Uk2dcZs_v": {
+   "t": 1795732195.7791946,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona a los últimos easter eggs",
+   "url": "https://www.twitch.tv/djmariio/clip/PatientUgliestQuailDxCat-T-z_xX5Uk2dcZs_v",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 25.5,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SmilingColdbloodedEchidnaVoteNay-cxlFpG_jmDaqEULv": {
+   "t": 1795732197.7331018,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 0,
+   "cat": "otro",
+   "hook": "well well well",
+   "url": "https://www.twitch.tv/rubius/clip/SmilingColdbloodedEchidnaVoteNay-cxlFpG_jmDaqEULv",
+   "login": "rubius",
+   "views": 4,
+   "duration": 21.7
   }
  }
 }
