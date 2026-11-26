@@ -46712,6 +46712,30 @@
    "views": 2,
    "duration": 27.4,
    "formato": "normal: sin cámara detectada"
+  },
+  "UninterestedAntediluvianPorpoisePanicVis-Jcs0cnzlA9tUVg_o": {
+   "t": 1795736151.5533926,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona a un momento caótico en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/UninterestedAntediluvianPorpoisePanicVis-Jcs0cnzlA9tUVg_o",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 30
+  },
+  "SquareUnusualPuffinWow-lAd3CzYm-r0ZS11z": {
+   "t": 1795736153.8908887,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan sin rumbo en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/SquareUnusualPuffinWow-lAd3CzYm-r0ZS11z",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 30
   }
  }
 }
