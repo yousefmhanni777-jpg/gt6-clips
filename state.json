@@ -46290,6 +46290,31 @@
    "login": "rubius",
    "views": 13,
    "duration": 30
+  },
+  "DependableApatheticPeppermintLitFam-lbNrBHXRBRRgHhIN": {
+   "t": 1795728815.244673,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se vuelve loco con el gato en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/DependableApatheticPeppermintLitFam-lbNrBHXRBRRgHhIN",
+   "login": "djmariio",
+   "views": 117,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "FitEnergeticCamelKappa-BQ9InENDVwa0YkQd": {
+   "t": 1795728818.6728246,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Clip sin acción destacada",
+   "url": "https://www.twitch.tv/djmariio/clip/FitEnergeticCamelKappa-BQ9InENDVwa0YkQd",
+   "login": "djmariio",
+   "views": 117,
+   "duration": 59
   }
  }
 }
