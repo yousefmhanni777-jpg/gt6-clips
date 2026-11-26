@@ -42307,6 +42307,30 @@
    "views": 8,
    "duration": 30.8,
    "formato": "normal: sin cámara detectada"
+  },
+  "SarcasticHappyPorpoiseTheTarFu-wltgx6l1Eyrgb94Y": {
+   "t": 1795658309.4525375,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "AuronPlay se vuelve loco con el CEO de Nauti Dog",
+   "url": "https://www.twitch.tv/auronplay/clip/SarcasticHappyPorpoiseTheTarFu-wltgx6l1Eyrgb94Y",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 60
+  },
+  "TrustworthyNaiveWatercressPhilosoraptor-fWcDUaKnEzaGYanP": {
+   "t": 1795658312.3522196,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "TheGrefg se descontrola en GTA 6",
+   "url": "https://www.twitch.tv/thegrefg/clip/TrustworthyNaiveWatercressPhilosoraptor-fWcDUaKnEzaGYanP",
+   "login": "thegrefg",
+   "views": 3,
+   "duration": 59.9
   }
  }
 }
