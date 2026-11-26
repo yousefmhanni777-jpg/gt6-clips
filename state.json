@@ -42117,6 +42117,18 @@
    "views": 10,
    "duration": 16.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "BusyFitShrewBIRB-NCRQXP5VubkcLgsv": {
+   "t": 1795654791.6863015,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "TheGrefg reacciona a un momento inesperado",
+   "url": "https://www.twitch.tv/thegrefg/clip/BusyFitShrewBIRB-NCRQXP5VubkcLgsv",
+   "login": "thegrefg",
+   "views": 13,
+   "duration": 42.7
   }
  }
 }
