@@ -44502,7 +44502,8 @@
    "duration": 49.9,
    "formato": "cara arriba",
    "tiktok_req": "tt_ObservantAmorphousOkapiArgieB8-on4cBC5l4JKSCwMj",
-   "tiktok_t": 1795711870.4295287
+   "tiktok_t": 1795711870.4295287,
+   "tiktok_status": "publicado"
   },
   "ImportantCoyWatercressDeIlluminati-OIT9NP043mQsMMk0": {
    "t": 1795711875.6863217,
@@ -44552,6 +44553,32 @@
    "login": "vegetta777",
    "views": 150,
    "duration": 30
+  },
+  "StrongOddAubergineBIRB-OGssZhvQDDAV53db": {
+   "t": 1795712153.6636364,
+   "streamer": "paache_",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Paache_ reacciona a GTA VI en vivo",
+   "url": "https://www.twitch.tv/paache_/clip/StrongOddAubergineBIRB-OGssZhvQDDAV53db",
+   "login": "paache_",
+   "views": 26,
+   "duration": 39.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AggressiveGlutenFreeDillPanicVis-hjwlBBFRs8OaIxax": {
+   "t": 1795712189.6036656,
+   "streamer": "paache_",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Paache_ se vuelve loco con el coche bomba",
+   "url": "https://www.twitch.tv/paache_/clip/AggressiveGlutenFreeDillPanicVis-hjwlBBFRs8OaIxax",
+   "login": "paache_",
+   "views": 9,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
