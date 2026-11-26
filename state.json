@@ -45315,6 +45315,43 @@
    "views": 49,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "ProductiveSmellyBaboonKeepo-z1jeJkNNPFU8kCVo": {
+   "t": 1795716747.5301857,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando en GTA 6?",
+   "url": "https://www.twitch.tv/illojuan/clip/ProductiveSmellyBaboonKeepo-z1jeJkNNPFU8kCVo",
+   "login": "illojuan",
+   "views": 704,
+   "duration": 30
+  },
+  "PreciousEnjoyablePanFeelsBadMan-Q4561KBbPXuBp-oy": {
+   "t": 1795716776.1262841,
+   "streamer": "Carola",
+   "status": "enviado",
+   "score": 5,
+   "cat": "bug",
+   "hook": "Carola reacciona al bug inesperado en GTA VI",
+   "url": "https://www.twitch.tv/carola/clip/PreciousEnjoyablePanFeelsBadMan-Q4561KBbPXuBp-oy",
+   "login": "carola",
+   "views": 51,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "DoubtfulPoliteDadDoritosChip-zNyqPZnJPPm7RRjN": {
+   "t": 1795716778.9589534,
+   "streamer": "MenosTrece",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "MenosTrece reacciona a GTA VI",
+   "url": "https://www.twitch.tv/menostrece/clip/DoubtfulPoliteDadDoritosChip-zNyqPZnJPPm7RRjN",
+   "login": "menostrece",
+   "views": 30,
+   "duration": 30
   }
  }
 }
