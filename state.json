@@ -45727,6 +45727,31 @@
    "login": "illojuan",
    "views": 1043,
    "duration": 60
+  },
+  "FineGoodKoupreySuperVinlin-ejlu3lF0Upvs03VW": {
+   "t": 1795719100.9088204,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "IlloJuan se vuelve loco buscando el bunker",
+   "url": "https://www.twitch.tv/illojuan/clip/FineGoodKoupreySuperVinlin-ejlu3lF0Upvs03VW",
+   "login": "illojuan",
+   "views": 10,
+   "duration": 50,
+   "formato": "normal: sin cámara detectada"
+  },
+  "WanderingWrongCucumberGivePLZ-l1LjaGQ-F9UjzVx3": {
+   "t": 1795719104.0432594,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan reacciona a GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/WanderingWrongCucumberGivePLZ-l1LjaGQ-F9UjzVx3",
+   "login": "illojuan",
+   "views": 5,
+   "duration": 22.9
   }
  }
 }
