@@ -45465,6 +45465,44 @@
    "views": 884,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "WonderfulNiceChipmunkOSkomodo-fEkrJ6y1S-Xry5Jv": {
+   "t": 1795717456.585236,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 7,
+   "cat": "bug",
+   "hook": "IlloJuan: ¡El dron se queda pegado!",
+   "url": "https://www.twitch.tv/illojuan/clip/WonderfulNiceChipmunkOSkomodo-fEkrJ6y1S-Xry5Jv",
+   "login": "illojuan",
+   "views": 948,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "DistinctLitigiousCucumberJebaited-LVfdbAEATG6iqf6l": {
+   "t": 1795717459.402617,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "IlloJuan suelta un grito inesperado",
+   "url": "https://www.twitch.tv/illojuan/clip/DistinctLitigiousCucumberJebaited-LVfdbAEATG6iqf6l",
+   "login": "illojuan",
+   "views": 4,
+   "duration": 30
+  },
+  "LitigiousSpotlessCrowTBCheesePull-P_A0qtSrhWFXrVp3": {
+   "t": 1795717505.0500395,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Auronplay se enoja con GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/LitigiousSpotlessCrowTBCheesePull-P_A0qtSrhWFXrVp3",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 60,
+   "formato": "cara arriba"
   }
  }
 }
