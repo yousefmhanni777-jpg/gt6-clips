@@ -45909,6 +45909,31 @@
    "login": "illojuan",
    "views": 28,
    "duration": 24.8
+  },
+  "CrunchyTenderSharkKippa-Dx-n4VmYbUpympme": {
+   "t": 1795722319.1786292,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona al traidor en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/CrunchyTenderSharkKippa-Dx-n4VmYbUpympme",
+   "login": "djmariio",
+   "views": 124,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AntsySpicyScorpionRuleFive-HEB-3ipe6updZuca": {
+   "t": 1795722322.2339768,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin voz",
+   "url": "https://www.twitch.tv/djmariio/clip/AntsySpicyScorpionRuleFive-HEB-3ipe6updZuca",
+   "login": "djmariio",
+   "views": 124,
+   "duration": 30
   }
  }
 }
