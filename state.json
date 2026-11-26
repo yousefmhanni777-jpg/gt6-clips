@@ -44870,6 +44870,44 @@
    "views": 3,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "DignifiedDarkTriangleMau5-6JcGbTw5RgmDUO9f": {
+   "t": 1795714367.6865964,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando en este clip?",
+   "url": "https://www.twitch.tv/djmariio/clip/DignifiedDarkTriangleMau5-6JcGbTw5RgmDUO9f",
+   "login": "djmariio",
+   "views": 171,
+   "duration": 40.7
+  },
+  "JollyCarelessWrenchImGlitch-v6YgJ8wSmf7XB_GN": {
+   "t": 1795714402.8709018,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Imantado reacciona a GTA VI en modo furioso",
+   "url": "https://www.twitch.tv/imantado/clip/JollyCarelessWrenchImGlitch-v6YgJ8wSmf7XB_GN",
+   "login": "imantado",
+   "views": 72,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "DaintyGlutenFreeMilkMikeHogu-z0R3TLoX-vyYQ--P": {
+   "t": 1795714456.3985593,
+   "streamer": "Carola",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Carola reacciona al GTA VI",
+   "url": "https://www.twitch.tv/carola/clip/DaintyGlutenFreeMilkMikeHogu-z0R3TLoX-vyYQ--P",
+   "login": "carola",
+   "views": 43,
+   "duration": 49.9,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
