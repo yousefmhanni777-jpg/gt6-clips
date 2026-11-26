@@ -42431,6 +42431,31 @@
    "views": 3,
    "duration": 16.6,
    "formato": "normal: sin cámara detectada"
+  },
+  "FragileNurturingPonyWow-aN_Ct1DJXvz1rgo3": {
+   "t": 1795660519.8902218,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 4,
+   "cat": "gracioso",
+   "hook": "IlloJuan se vuelve loco con el FBI en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/FragileNurturingPonyWow-aN_Ct1DJXvz1rgo3",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "UglyArtisticFinchKappaWealth-815TsD72ULcaLMmK": {
+   "t": 1795660521.9574697,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay sin mute en GTA VI",
+   "url": "https://www.twitch.tv/auronplay/clip/UglyArtisticFinchKappaWealth-815TsD72ULcaLMmK",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 30
   }
  }
 }
