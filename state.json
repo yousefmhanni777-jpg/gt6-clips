@@ -42232,6 +42232,30 @@
    "views": 13,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "IcyMistyJamTriHard-iSxsHVIFUQ-2RYY9": {
+   "t": 1795656907.8234913,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "TheGrefg se descontrola en vivo",
+   "url": "https://www.twitch.tv/thegrefg/clip/IcyMistyJamTriHard-iSxsHVIFUQ-2RYY9",
+   "login": "thegrefg",
+   "views": 3,
+   "duration": 47.7
+  },
+  "WildGrotesquePicklesDoritosChip-AugpOL2GtwugIgA-": {
+   "t": 1795656911.0336132,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "TheGrefg se vuelve loco con la ducha de Lucía",
+   "url": "https://www.twitch.tv/thegrefg/clip/WildGrotesquePicklesDoritosChip-AugpOL2GtwugIgA-",
+   "login": "thegrefg",
+   "views": 3,
+   "duration": 60
   }
  }
 }
