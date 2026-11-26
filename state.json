@@ -42207,6 +42207,18 @@
    "views": 10,
    "duration": 16.1,
    "formato": "normal: sin cámara detectada"
+  },
+  "WrongResourcefulGooseKappaPride-OpwW3j_kl4_hFvXo": {
+   "t": 1795656419.4644637,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "clip",
+   "url": "https://www.twitch.tv/auronplay/clip/WrongResourcefulGooseKappaPride-OpwW3j_kl4_hFvXo",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 22.2
   }
  }
 }
