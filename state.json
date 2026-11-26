@@ -45238,6 +45238,43 @@
    "login": "illojuan",
    "views": 433,
    "duration": 30
+  },
+  "HungrySmellyGalagoCmonBruh-gh0UM4QRNlNl-bap": {
+   "t": 1795716395.0222523,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "IlloJuan sin voz",
+   "url": "https://www.twitch.tv/illojuan/clip/HungrySmellyGalagoCmonBruh-gh0UM4QRNlNl-bap",
+   "login": "illojuan",
+   "views": 597,
+   "duration": 30
+  },
+  "HyperResilientQuailKappaWealth-I5WAuWl5wWnF_QkE": {
+   "t": 1795716418.2584817,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO sorprende con un arcoíris inesperado",
+   "url": "https://www.twitch.tv/djmariio/clip/HyperResilientQuailKappaWealth-I5WAuWl5wWnF_QkE",
+   "login": "djmariio",
+   "views": 11,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "OilyVivaciousPterodactylAMPEnergy-XdczOKkZQq7n2V5u": {
+   "t": 1795716420.9575891,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO intenta forzar clip sin éxito",
+   "url": "https://www.twitch.tv/djmariio/clip/OilyVivaciousPterodactylAMPEnergy-XdczOKkZQq7n2V5u",
+   "login": "djmariio",
+   "views": 7,
+   "duration": 41.2
   }
  }
 }
