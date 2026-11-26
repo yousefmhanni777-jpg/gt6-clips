@@ -42356,6 +42356,31 @@
    "views": 3,
    "duration": 14.3,
    "formato": "normal: sin cámara detectada"
+  },
+  "AbstemiousWimpyReubenWoofer-qqwiT2USCuCE4n9H": {
+   "t": 1795659198.675347,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan sin reacción visible",
+   "url": "https://www.twitch.tv/illojuan/clip/AbstemiousWimpyReubenWoofer-qqwiT2USCuCE4n9H",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 30
+  },
+  "CloudyBumblingAmazonUncleNox-T5tik3HJOYWyB0Ru": {
+   "t": 1795659295.57885,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona al GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/CloudyBumblingAmazonUncleNox-T5tik3HJOYWyB0Ru",
+   "login": "illojuan",
+   "views": 4,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
