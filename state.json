@@ -43540,6 +43540,38 @@
    "views": 66,
    "duration": 59.9,
    "formato": "cara arriba"
+  },
+  "BigLazyBobaArgieB8-hHW3VtsFr9LTU6YN": {
+   "t": 1795705485.2604332,
+   "streamer": "VEGETTA777",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Vegetta777 suelta una anécdota loca",
+   "url": "https://www.twitch.tv/vegetta777/clip/BigLazyBobaArgieB8-hHW3VtsFr9LTU6YN",
+   "login": "vegetta777",
+   "views": 66,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "ViscousGiftedPepperoniJKanStyle-zB30LVu-v2uS0z1f": {
+   "t": 1795705487.9568958,
+   "streamer": "VEGETTA777",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "GTA 6 ¡VICE CITY ES NUESTRA! #9",
+   "url": "https://www.twitch.tv/vegetta777/clip/ViscousGiftedPepperoniJKanStyle-zB30LVu-v2uS0z1f",
+   "login": "vegetta777",
+   "views": 66,
+   "duration": 30
+  },
+  "OutstandingImpartialMagpieMingLee-GLybmDcmaGZViGJd": {
+   "t": 1795705517.283651,
+   "streamer": "VEGETTA777",
+   "status": "error",
+   "tries": 1,
+   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   }
  }
 }
