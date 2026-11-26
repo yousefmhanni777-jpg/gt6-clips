@@ -44794,6 +44794,38 @@
    "views": 41,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "AbrasiveMoistPidgeonPJSalt-kRxbGWW7ZlZ83zme": {
+   "t": 1795713837.431875,
+   "streamer": "paache_",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Paache_ enloquece con GTA 6",
+   "url": "https://www.twitch.tv/paache_/clip/AbrasiveMoistPidgeonPJSalt-kRxbGWW7ZlZ83zme",
+   "login": "paache_",
+   "views": 49,
+   "duration": 24.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ConsiderateAbrasiveFloofKevinTurtle-wUk_cOtYJ_1y7zkB": {
+   "t": 1795713839.6607735,
+   "streamer": "paache_",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Paache_ reacciona a GTA 6",
+   "url": "https://www.twitch.tv/paache_/clip/ConsiderateAbrasiveFloofKevinTurtle-wUk_cOtYJ_1y7zkB",
+   "login": "paache_",
+   "views": 49,
+   "duration": 40
+  },
+  "HomelySeductiveWormPraiseIt-ntSuLjeX7yoJRIK6": {
+   "t": 1795713841.7860067,
+   "streamer": "Carola",
+   "status": "error",
+   "tries": 1,
+   "error": "400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions"
   }
  }
 }
