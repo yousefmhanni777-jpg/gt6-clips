@@ -45884,6 +45884,31 @@
    "views": 32,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "MuddyMotionlessTildeM4xHeh-Txjl1lxbgLUXnN8g": {
+   "t": 1795721841.4064736,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Rubius se vuelve loco con los bollos en GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/MuddyMotionlessTildeM4xHeh-Txjl1lxbgLUXnN8g",
+   "login": "rubius",
+   "views": 511,
+   "duration": 44.4,
+   "formato": "normal: sin cámara detectada"
+  },
+  "YawningKitschyStaplePlanking-LP4nSAJVeQ9Z6Lq7": {
+   "t": 1795721844.48131,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan en la Moncloa: ¡qué confusión!",
+   "url": "https://www.twitch.tv/illojuan/clip/YawningKitschyStaplePlanking-LP4nSAJVeQ9Z6Lq7",
+   "login": "illojuan",
+   "views": 28,
+   "duration": 24.8
   }
  }
 }
