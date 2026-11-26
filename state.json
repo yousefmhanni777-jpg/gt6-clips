@@ -45389,6 +45389,43 @@
    "login": "imantado",
    "views": 22,
    "duration": 45.2
+  },
+  "ZanyObservantTardigradeTinyFace-_ibCVi0kwtghFdF2": {
+   "t": 1795717032.2646308,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan sin sentido",
+   "url": "https://www.twitch.tv/illojuan/clip/ZanyObservantTardigradeTinyFace-_ibCVi0kwtghFdF2",
+   "login": "illojuan",
+   "views": 797,
+   "duration": 30
+  },
+  "AmazingRockyWolfSeemsGood-4ByRbFFyPI50A-W9": {
+   "t": 1795717036.6143231,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando en GTA 6?",
+   "url": "https://www.twitch.tv/illojuan/clip/AmazingRockyWolfSeemsGood-4ByRbFFyPI50A-W9",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 49
+  },
+  "VastKnottyMageDxCat-17LybS3HXmneCWnO": {
+   "t": 1795717090.126523,
+   "streamer": "Carola",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Carola se vuelve loca con GTA VI",
+   "url": "https://www.twitch.tv/carola/clip/VastKnottyMageDxCat-17LybS3HXmneCWnO",
+   "login": "carola",
+   "views": 49,
+   "duration": 58.2,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
