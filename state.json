@@ -43307,6 +43307,19 @@
    "views": 42,
    "duration": 12,
    "formato": "normal: sin cámara detectada"
+  },
+  "CrowdedSpotlessBarracudaANELE-Zpk-YRymOARNEk3h": {
+   "t": 1795702304.0674028,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Imantado se vuelve loco en GTAVI",
+   "url": "https://www.twitch.tv/imantado/clip/CrowdedSpotlessBarracudaANELE-Zpk-YRymOARNEk3h",
+   "login": "imantado",
+   "views": 45,
+   "duration": 19.2,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
