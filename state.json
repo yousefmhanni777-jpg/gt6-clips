@@ -44821,11 +44821,16 @@
    "duration": 40
   },
   "HomelySeductiveWormPraiseIt-ntSuLjeX7yoJRIK6": {
-   "t": 1795713841.7860067,
+   "t": 1795713946.2277699,
    "streamer": "Carola",
-   "status": "error",
-   "tries": 1,
-   "error": "400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions"
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "Carola reacciona a GTA VI con comentarios explícitos",
+   "url": "https://www.twitch.tv/carola/clip/HomelySeductiveWormPraiseIt-ntSuLjeX7yoJRIK6",
+   "login": "carola",
+   "views": 34,
+   "duration": 30
   }
  }
 }
