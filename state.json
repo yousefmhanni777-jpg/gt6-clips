@@ -45804,6 +45804,31 @@
    "views": 413,
    "duration": 14.5,
    "formato": "cara arriba"
+  },
+  "SullenThankfulPizzaTinyFace-WDT3oNXpJYLCGINL": {
+   "t": 1795720416.419716,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Rubius decide entre el disco y el abogado 🤔",
+   "url": "https://www.twitch.tv/rubius/clip/SullenThankfulPizzaTinyFace-WDT3oNXpJYLCGINL",
+   "login": "rubius",
+   "views": 471,
+   "duration": 44,
+   "formato": "normal: sin cámara detectada"
+  },
+  "HungryDoubtfulCrocodileChocolateRain-oyHer7af1y0FflwT": {
+   "t": 1795720419.1903558,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Rubius sin voz, ¿qué pasó?",
+   "url": "https://www.twitch.tv/rubius/clip/HungryDoubtfulCrocodileChocolateRain-oyHer7af1y0FflwT",
+   "login": "rubius",
+   "views": 471,
+   "duration": 30
   }
  }
 }
