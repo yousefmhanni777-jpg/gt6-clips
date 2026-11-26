@@ -43079,6 +43079,19 @@
    "views": 45,
    "duration": 49.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "CleverCoweringPotKippa-nBOPiZHUtHQOH7eF": {
+   "t": 1795671863.1687357,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Auronplay reacciona a stickers con sonido",
+   "url": "https://www.twitch.tv/auronplay/clip/CleverCoweringPotKippa-nBOPiZHUtHQOH7eF",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 16.3,
+   "formato": "cara arriba"
   }
  }
 }
