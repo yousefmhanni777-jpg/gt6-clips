@@ -45677,6 +45677,44 @@
    "login": "auronplay",
    "views": 490,
    "duration": 43.9
+  },
+  "UglyPolishedPotatoPMSTwin-dYGNYBxyCavHtpAr": {
+   "t": 1795718366.934719,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "IlloJuan habla de trojan",
+   "url": "https://www.twitch.tv/illojuan/clip/UglyPolishedPotatoPMSTwin-dYGNYBxyCavHtpAr",
+   "login": "illojuan",
+   "views": 960,
+   "duration": 45
+  },
+  "ConfidentFantasticTrayThunBeast-EyJzm43DUY6NTXTV": {
+   "t": 1795718427.1549878,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan se queja de GTA 6 FPS",
+   "url": "https://www.twitch.tv/illojuan/clip/ConfidentFantasticTrayThunBeast-EyJzm43DUY6NTXTV",
+   "login": "illojuan",
+   "views": 960,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AgreeableEntertainingKittenBudStar--4Hl7Ou2mqjYUzi2": {
+   "t": 1795718461.6424642,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 7,
+   "cat": "epico",
+   "hook": "AuronPlay se vuelve loco en una carrera épica",
+   "url": "https://www.twitch.tv/auronplay/clip/AgreeableEntertainingKittenBudStar--4Hl7Ou2mqjYUzi2",
+   "login": "auronplay",
+   "views": 498,
+   "duration": 50,
+   "formato": "cara arriba"
   }
  }
 }
