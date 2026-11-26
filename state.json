@@ -42381,6 +42381,31 @@
    "views": 4,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "SolidRudeBoarAliens-VE56_VeljeZaLreO": {
+   "t": 1795659609.503503,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "AuronPlay se pregunta qué le gusta más",
+   "url": "https://www.twitch.tv/auronplay/clip/SolidRudeBoarAliens-VE56_VeljeZaLreO",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 30
+  },
+  "TriumphantLightLadiesMoreCowbell-0w7FipBsINylFywG": {
+   "t": 1795659661.6348274,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Rubius reacciona a GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/TriumphantLightLadiesMoreCowbell-0w7FipBsINylFywG",
+   "login": "rubius",
+   "views": 65,
+   "duration": 23.9,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
