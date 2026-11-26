@@ -43813,7 +43813,8 @@
    "duration": 30,
    "formato": "cara arriba",
    "tiktok_req": "tt_RenownedImportantHerringNononoCat-cAqHCNUymDz8FO7k",
-   "tiktok_t": 1795707614.9734867
+   "tiktok_t": 1795707614.9734867,
+   "tiktok_status": "publicado"
   },
   "AverageResourcefulDiamondPJSalt-Y_1cfA9nH0UdX5Qn": {
    "t": 1795707649.789464,
@@ -43865,6 +43866,19 @@
    "login": "imantado",
    "views": 3,
    "duration": 37,
+   "formato": "normal: sin cámara detectada"
+  },
+  "MoldyPlausibleKittenPartyTime-tyewYzUMmrF9cK2m": {
+   "t": 1795708072.6929142,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco con la roca misteriosa",
+   "url": "https://www.twitch.tv/djmariio/clip/MoldyPlausibleKittenPartyTime-tyewYzUMmrF9cK2m",
+   "login": "djmariio",
+   "views": 78,
+   "duration": 19.4,
    "formato": "normal: sin cámara detectada"
   }
  }
