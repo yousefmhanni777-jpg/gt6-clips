@@ -45579,6 +45579,42 @@
    "views": 40,
    "duration": 44.3,
    "formato": "normal: sin cámara detectada"
+  },
+  "VibrantSilkySquidStoneLightning-BfOZw7blIU7AUpJE": {
+   "t": 1795717969.0735767,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "IlloJuan se descontrola en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/VibrantSilkySquidStoneLightning-BfOZw7blIU7AUpJE",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 30
+  },
+  "AgreeableFaintMomDuDudu-IDrlwJfYnHSYZw0r": {
+   "t": 1795717972.8931649,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Carola habla de noticias, no GTA",
+   "url": "https://www.twitch.tv/carola/clip/AgreeableFaintMomDuDudu-IDrlwJfYnHSYZw0r",
+   "login": "carola",
+   "views": 49,
+   "duration": 58.6
+  },
+  "SpineyInterestingPresidentKevinTurtle-JN0m4nQ0tRFzUQ9N": {
+   "t": 1795717975.9543507,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Carola habla de emotes en GTA VI",
+   "url": "https://www.twitch.tv/carola/clip/SpineyInterestingPresidentKevinTurtle-JN0m4nQ0tRFzUQ9N",
+   "login": "carola",
+   "views": 49,
+   "duration": 30
   }
  }
 }
