@@ -42699,6 +42699,32 @@
    "views": 2,
    "duration": 29.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "DoubtfulTenuousLionBlargNaut-cuBfCJLRWYUZvOM_": {
+   "t": 1795665292.328919,
+   "streamer": "TheGrefg",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "TheGrefg se vuelve loco con la locura de Vicky",
+   "url": "https://www.twitch.tv/thegrefg/clip/DoubtfulTenuousLionBlargNaut-cuBfCJLRWYUZvOM_",
+   "login": "thegrefg",
+   "views": 126,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "TenuousSmilingLarkOSkomodo-NpoWRdAVzpO3mtII": {
+   "t": 1795665358.2133996,
+   "streamer": "TheGrefg",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "TheGrefg descubre un bug inesperado en GTA 6",
+   "url": "https://www.twitch.tv/thegrefg/clip/TenuousSmilingLarkOSkomodo-NpoWRdAVzpO3mtII",
+   "login": "thegrefg",
+   "views": 126,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
