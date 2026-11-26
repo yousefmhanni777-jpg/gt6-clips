@@ -42456,6 +42456,31 @@
    "login": "auronplay",
    "views": 2,
    "duration": 30
+  },
+  "ElegantEndearingBobaNerfBlueBlaster-zMyF0pSKMaBtd0MV": {
+   "t": 1795661046.9800856,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "IlloJuan se vuelve loco con la Remington",
+   "url": "https://www.twitch.tv/illojuan/clip/ElegantEndearingBobaNerfBlueBlaster-zMyF0pSKMaBtd0MV",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "WiseWittyAnteaterPMSTwin-vuVj_RVWBQY4BfBp": {
+   "t": 1795661049.2191608,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan se enfada con Team Carne",
+   "url": "https://www.twitch.tv/illojuan/clip/WiseWittyAnteaterPMSTwin-vuVj_RVWBQY4BfBp",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 26.3
   }
  }
 }
