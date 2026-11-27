@@ -51238,6 +51238,44 @@
    "login": "juansguarnizo",
    "views": 168,
    "duration": 30
+  },
+  "SpikySlickFennelDansGame-uPmCUpqqOrFMVU_K": {
+   "t": 1795816200.5999978,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasa con DjMaRiiO?",
+   "url": "https://www.twitch.tv/djmariio/clip/SpikySlickFennelDansGame-uPmCUpqqOrFMVU_K",
+   "login": "djmariio",
+   "views": 209,
+   "duration": 60
+  },
+  "TangentialSplendidDillDoubleRainbow-Fcvy_FLMClfsfC-p": {
+   "t": 1795816265.0777447,
+   "streamer": "Carola",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Carola reacciona a GTA 6: ¡Qué pasada!",
+   "url": "https://www.twitch.tv/carola/clip/TangentialSplendidDillDoubleRainbow-Fcvy_FLMClfsfC-p",
+   "login": "carola",
+   "views": 111,
+   "duration": 53.8,
+   "formato": "normal: sin cámara detectada"
+  },
+  "TsundereBoxyPuddingCharlieBitMe-dTO7WDY56vzCmc-j": {
+   "t": 1795816338.5215323,
+   "streamer": "Carola",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "Carola reacciona a GTA 6 y se vuelve loca",
+   "url": "https://www.twitch.tv/carola/clip/TsundereBoxyPuddingCharlieBitMe-dTO7WDY56vzCmc-j",
+   "login": "carola",
+   "views": 111,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
