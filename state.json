@@ -51301,6 +51301,30 @@
    "views": 214,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "AbstruseBusyChowderPeteZarollTie-ZeQW0-r1ddU_xHOv": {
+   "t": 1795816797.5495872,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO pregunta algo raro",
+   "url": "https://www.twitch.tv/djmariio/clip/AbstruseBusyChowderPeteZarollTie-ZeQW0-r1ddU_xHOv",
+   "login": "djmariio",
+   "views": 214,
+   "duration": 30
+  },
+  "SuccessfulLazyScallionMcaT-w_2gt_8vzSdzSoQB": {
+   "t": 1795816800.1969135,
+   "streamer": "orslok",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Orslok se queda sin palabras...",
+   "url": "https://www.twitch.tv/orslok/clip/SuccessfulLazyScallionMcaT-w_2gt_8vzSdzSoQB",
+   "login": "orslok",
+   "views": 79,
+   "duration": 30.3
   }
  }
 }
