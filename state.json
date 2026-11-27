@@ -47520,6 +47520,18 @@
    "views": 134,
    "duration": 29.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "FancyEphemeralElephantBudBlast-J4U8Z_tmS8NrQ9KM": {
+   "t": 1795750364.0457802,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay sin sentido",
+   "url": "https://www.twitch.tv/auronplay/clip/FancyEphemeralElephantBudBlast-J4U8Z_tmS8NrQ9KM",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 30.3
   }
  }
 }
