@@ -47963,6 +47963,18 @@
    "views": 44,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "OpenCarefulTruffleTBTacoLeft-Fk8Lc0cTHfws1PHT": {
+   "t": 1795770495.183359,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan suelta un discurso polémico",
+   "url": "https://www.twitch.tv/illojuan/clip/OpenCarefulTruffleTBTacoLeft-Fk8Lc0cTHfws1PHT",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 18.4
   }
  }
 }
