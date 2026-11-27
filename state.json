@@ -50734,6 +50734,31 @@
    "views": 60,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "AgitatedStormyEndiveHoneyBadger-yoKyLiggCj5KLnF7": {
+   "t": 1795812718.095212,
+   "streamer": "Carola",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "Carola descubre un bug épico en GTA VI",
+   "url": "https://www.twitch.tv/carola/clip/AgitatedStormyEndiveHoneyBadger-yoKyLiggCj5KLnF7",
+   "login": "carola",
+   "views": 122,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "BlazingAggressivePastaBCouch-fs1ROJMTBYnE5aqf": {
+   "t": 1795812720.8729582,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "reaccion",
+   "hook": "Carola reacciona a una escena inesperada",
+   "url": "https://www.twitch.tv/carola/clip/BlazingAggressivePastaBCouch-fs1ROJMTBYnE5aqf",
+   "login": "carola",
+   "views": 122,
+   "duration": 30
   }
  }
 }
