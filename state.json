@@ -50292,6 +50292,31 @@
    "views": 3,
    "duration": 41.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "SpotlessRelievedAxePRChase-JbozIfDNoaLXkahj": {
+   "t": 1795809545.2741058,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se enoja con GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/SpotlessRelievedAxePRChase-JbozIfDNoaLXkahj",
+   "login": "djmariio",
+   "views": 191,
+   "duration": 58.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SparklyApatheticShallotHassaanChop-TCznGb-lg5o6pKy8": {
+   "t": 1795809548.0139363,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "JuanSguarnizo habla de 7up Pink Lemonade",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/SparklyApatheticShallotHassaanChop-TCznGb-lg5o6pKy8",
+   "login": "juansguarnizo",
+   "views": 4,
+   "duration": 35.7
   }
  }
 }
