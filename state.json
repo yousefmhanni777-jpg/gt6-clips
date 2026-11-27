@@ -47230,6 +47230,44 @@
    "login": "rubius",
    "views": 3,
    "duration": 24.9
+  },
+  "CreativeInquisitiveJamShazBotstix-WfZAPqce9ZNcqFmO": {
+   "t": 1795745508.533318,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "Rubius busca a Jason y su frase polémica",
+   "url": "https://www.twitch.tv/rubius/clip/CreativeInquisitiveJamShazBotstix-WfZAPqce9ZNcqFmO",
+   "login": "rubius",
+   "views": 26,
+   "duration": 28.8
+  },
+  "TangentialTangentialDogeSMOrc-3NVsTcVnDKA-Y1A-": {
+   "t": 1795745548.406802,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "IlloJuan reacciona al rap más loco de GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/TangentialTangentialDogeSMOrc-3NVsTcVnDKA-Y1A-",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "RelievedCreativeSeahorseBudBlast-7rQBoeUiQxDruTq_": {
+   "t": 1795745590.598237,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "IlloJuan se desquicia con los maratones de GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/RelievedCreativeSeahorseBudBlast-7rQBoeUiQxDruTq_",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
