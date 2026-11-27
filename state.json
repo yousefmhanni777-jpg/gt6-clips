@@ -47681,6 +47681,18 @@
    "views": 2,
    "duration": 38.8,
    "formato": "normal: sin cámara detectada"
+  },
+  "ProudFantasticVampireTwitchRPG-pXOGbGVEqU75icqW": {
+   "t": 1795753361.1689394,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "TheGrefg sin palabras: ¿qué pasó?",
+   "url": "https://www.twitch.tv/thegrefg/clip/ProudFantasticVampireTwitchRPG-pXOGbGVEqU75icqW",
+   "login": "thegrefg",
+   "views": 26,
+   "duration": 15.5
   }
  }
 }
