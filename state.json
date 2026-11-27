@@ -50520,6 +50520,44 @@
    "views": 174,
    "duration": 20,
    "formato": "normal: sin cámara detectada"
+  },
+  "FamousPhilanthropicPigBleedPurple-Ub4wEomYxyvOdbCH": {
+   "t": 1795810993.6046913,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se enoja con GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/FamousPhilanthropicPigBleedPurple-Ub4wEomYxyvOdbCH",
+   "login": "djmariio",
+   "views": 186,
+   "duration": 59.9,
+   "formato": "cara arriba"
+  },
+  "CleverTenuousCobraAliens-vErHxOQNf-6UYCkA": {
+   "t": 1795811040.0159833,
+   "streamer": "Carola",
+   "status": "enviado",
+   "score": 6,
+   "cat": "curiosidad",
+   "hook": "Carola descubre el club secreto en GTA VI",
+   "url": "https://www.twitch.tv/carola/clip/CleverTenuousCobraAliens-vErHxOQNf-6UYCkA",
+   "login": "carola",
+   "views": 118,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SmallGorgeousJalapenoBCouch-onM975TAAm2d89v_": {
+   "t": 1795811042.3827069,
+   "streamer": "imantado",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Clip sin audio",
+   "url": "https://www.twitch.tv/imantado/clip/SmallGorgeousJalapenoBCouch-onM975TAAm2d89v_",
+   "login": "imantado",
+   "views": 64,
+   "duration": 30
   }
  }
 }
