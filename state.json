@@ -49937,6 +49937,44 @@
    "login": "imantado",
    "views": 66,
    "duration": 30
+  },
+  "PowerfulCorrectHerdBIRB-Cq956p2iEiAlh_Ec": {
+   "t": 1795807073.746262,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 7,
+   "cat": "bug",
+   "hook": "DjMaRiiO descubre un bug épico en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/PowerfulCorrectHerdBIRB-Cq956p2iEiAlh_Ec",
+   "login": "djmariio",
+   "views": 174,
+   "duration": 36.4,
+   "formato": "cara arriba"
+  },
+  "BlatantProudTriangleItsBoshyTime-Aivb4Tekx8KR5U1f": {
+   "t": 1795807076.1479843,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 0,
+   "cat": "otro",
+   "hook": "DJ BUGS",
+   "url": "https://www.twitch.tv/djmariio/clip/BlatantProudTriangleItsBoshyTime-Aivb4Tekx8KR5U1f",
+   "login": "djmariio",
+   "views": 174,
+   "duration": 18.6
+  },
+  "RichTenderClintANELE-G9PDrSD5Or-vCmDH": {
+   "t": 1795807110.4534488,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona a GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/RichTenderClintANELE-G9PDrSD5Or-vCmDH",
+   "login": "djmariio",
+   "views": 174,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
