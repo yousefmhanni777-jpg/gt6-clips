@@ -50483,6 +50483,43 @@
    "views": 2,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "PrettiestLivelyClipzRitzMitz-9QQNF3VQnlZecsUr": {
+   "t": 1795810794.2737556,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO en GTA 6: ¿qué pasa aquí?",
+   "url": "https://www.twitch.tv/djmariio/clip/PrettiestLivelyClipzRitzMitz-9QQNF3VQnlZecsUr",
+   "login": "djmariio",
+   "views": 186,
+   "duration": 20
+  },
+  "NastyGiantWeaselHassaanChop-Amr8e0az4dQTgbke": {
+   "t": 1795810796.962662,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Clip sin sentido de DjMaRiiO",
+   "url": "https://www.twitch.tv/djmariio/clip/NastyGiantWeaselHassaanChop-Amr8e0az4dQTgbke",
+   "login": "djmariio",
+   "views": 186,
+   "duration": 59
+  },
+  "ResourcefulGlamorousVelociraptorPanicVis-QVEWH4PyMbnqgN_o": {
+   "t": 1795810830.7808022,
+   "streamer": "juansguarnizo",
+   "status": "enviado",
+   "score": 5,
+   "cat": "bug",
+   "hook": "¡JuanSGuarnizo se queda atascado en GTA VI!",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/ResourcefulGlamorousVelociraptorPanicVis-QVEWH4PyMbnqgN_o",
+   "login": "juansguarnizo",
+   "views": 174,
+   "duration": 20,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
