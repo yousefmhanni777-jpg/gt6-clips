@@ -49236,6 +49236,42 @@
    "views": 60,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "TentativeOriginalReubenKappaRoss-SnhSII5D7pU0o6Cn": {
+   "t": 1795801699.085825,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin nada que destacar",
+   "url": "https://www.twitch.tv/djmariio/clip/TentativeOriginalReubenKappaRoss-SnhSII5D7pU0o6Cn",
+   "login": "djmariio",
+   "views": 168,
+   "duration": 51.4
+  },
+  "GracefulPlacidApplePogChamp-XK2GXKvvTxe8SXxa": {
+   "t": 1795801701.24778,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Clip sin audio, nada que ver",
+   "url": "https://www.twitch.tv/djmariio/clip/GracefulPlacidApplePogChamp-XK2GXKvvTxe8SXxa",
+   "login": "djmariio",
+   "views": 168,
+   "duration": 19.1
+  },
+  "HedonisticRepleteClipz4Head-rO4dLKdGboD9KXNh": {
+   "t": 1795801704.5155337,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin voz",
+   "url": "https://www.twitch.tv/djmariio/clip/HedonisticRepleteClipz4Head-rO4dLKdGboD9KXNh",
+   "login": "djmariio",
+   "views": 168,
+   "duration": 30
   }
  }
 }
