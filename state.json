@@ -50659,6 +50659,31 @@
    "views": 118,
    "duration": 18.5,
    "formato": "normal: sin cámara detectada"
+  },
+  "ElatedFurtiveCoyoteKlappa-h8vkek2P7wbyfB6r": {
+   "t": 1795811855.885336,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona a GTA 6 en 5:18:28",
+   "url": "https://www.twitch.tv/djmariio/clip/ElatedFurtiveCoyoteKlappa-h8vkek2P7wbyfB6r",
+   "login": "djmariio",
+   "views": 185,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "PiercingCharmingGerbilKevinTurtle-zOdWC0uUzSl_tIoH": {
+   "t": 1795811858.778176,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Carola busca easter eggs en GTA VI",
+   "url": "https://www.twitch.tv/carola/clip/PiercingCharmingGerbilKevinTurtle-zOdWC0uUzSl_tIoH",
+   "login": "carola",
+   "views": 118,
+   "duration": 30
   }
  }
 }
