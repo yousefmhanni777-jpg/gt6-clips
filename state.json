@@ -49622,6 +49622,31 @@
    "views": 2,
    "duration": 59.6,
    "formato": "normal: sin cámara detectada"
+  },
+  "FrailRealMangoYee-6c3oX1zAJH6OczV7": {
+   "t": 1795804738.2563412,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO reacciona a GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/FrailRealMangoYee-6c3oX1zAJH6OczV7",
+   "login": "djmariio",
+   "views": 160,
+   "duration": 30
+  },
+  "BovineConsiderateDonutPastaThat-fNgZqxihFvR5Nal6": {
+   "t": 1795804779.727137,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Auronplay en GTA 6: ¡carreras con Josefo!",
+   "url": "https://www.twitch.tv/auronplay/clip/BovineConsiderateDonutPastaThat-fNgZqxihFvR5Nal6",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 47,
+   "formato": "cara arriba"
   }
  }
 }
