@@ -47040,6 +47040,31 @@
    "login": "illojuan",
    "views": 3,
    "duration": 28.1
+  },
+  "OnerousThankfulShrimpSoBayed-_ewsIAEgNDN1uxij": {
+   "t": 1795742119.3166058,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "IlloJuan suelta una frase épica en el chat",
+   "url": "https://www.twitch.tv/illojuan/clip/OnerousThankfulShrimpSoBayed-_ewsIAEgNDN1uxij",
+   "login": "illojuan",
+   "views": 22,
+   "duration": 12.3
+  },
+  "ImpartialDifferentBeanWTRuck-93gB20vnLXoO9Mll": {
+   "t": 1795742159.1256735,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "Auronplay en GTA VI: ¡Reacción épica!",
+   "url": "https://www.twitch.tv/auronplay/clip/ImpartialDifferentBeanWTRuck-93gB20vnLXoO9Mll",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
