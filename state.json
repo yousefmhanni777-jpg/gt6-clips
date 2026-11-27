@@ -47595,6 +47595,18 @@
    "views": 2,
    "duration": 56.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "ShortCrowdedGalagoOSfrog-e9K-mPJ9glnAMCzO": {
+   "t": 1795751750.633455,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay y su abuela",
+   "url": "https://www.twitch.tv/auronplay/clip/ShortCrowdedGalagoOSfrog-e9K-mPJ9glnAMCzO",
+   "login": "auronplay",
+   "views": 4,
+   "duration": 27.6
   }
  }
 }
