@@ -50213,6 +50213,44 @@
    "views": 2,
    "duration": 60,
    "formato": "cara arriba"
+  },
+  "TiredPiliableDunlinMau5-C8Sc7WWyzzSGWhks": {
+   "t": 1795808865.5844283,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay reacciona a algo raro en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/TiredPiliableDunlinMau5-C8Sc7WWyzzSGWhks",
+   "login": "auronplay",
+   "views": 3,
+   "duration": 51.6
+  },
+  "IronicEphemeralBoarCopyThis-Al2lQFYxyZrGdn50": {
+   "t": 1795808923.4717724,
+   "streamer": "juansguarnizo",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "¡Los loros de GTA 6 hacen reír a juansguarnizo!",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/IronicEphemeralBoarCopyThis-Al2lQFYxyZrGdn50",
+   "login": "juansguarnizo",
+   "views": 171,
+   "duration": 41.3,
+   "formato": "normal: sin cámara detectada"
+  },
+  "VictoriousRenownedKleeNerfRedBlaster-ptE3pwI2sqipE0Nd": {
+   "t": 1795808956.4894938,
+   "streamer": "juansguarnizo",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "¡JuansGuarnizo reacciona a nutrias en GTA 6!",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/VictoriousRenownedKleeNerfRedBlaster-ptE3pwI2sqipE0Nd",
+   "login": "juansguarnizo",
+   "views": 3,
+   "duration": 21.3,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
