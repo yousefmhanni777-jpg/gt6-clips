@@ -49698,6 +49698,31 @@
    "formato": "normal: sin cámara detectada",
    "tiktok_req": "tt_OpenHonorableDumplingsOSsloth-rhIrbDO5_FzXeD-U",
    "tiktok_t": 1795805027.7406123
+  },
+  "GiftedBlightedMonkeyKappaPride-uTlYQsnNAJbL0y8Q": {
+   "t": 1795805173.7454119,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "AuronPlay se vuelve nonchalante en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/GiftedBlightedMonkeyKappaPride-uTlYQsnNAJbL0y8Q",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 34.1,
+   "formato": "normal: sin cámara detectada"
+  },
+  "FlirtyRoughHamSpicyBoy-Asw1Rm7obmsTS0od": {
+   "t": 1795805175.738216,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay intenta farmear aura",
+   "url": "https://www.twitch.tv/auronplay/clip/FlirtyRoughHamSpicyBoy-Asw1Rm7obmsTS0od",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 25.3
   }
  }
 }
