@@ -48502,7 +48502,8 @@
    "duration": 30,
    "formato": "cara arriba",
    "tiktok_req": "tt_WonderfulFineSaladFloof-EpqFV-TI9NENXMkW",
-   "tiktok_t": 1795795546.0078528
+   "tiktok_t": 1795795546.0078528,
+   "tiktok_status": "publicado"
   },
   "CovertNaiveLaptopCmonBruh-RbFi2LzG1--JeZW3": {
    "t": 1795795605.6108577,
@@ -48529,6 +48530,45 @@
    "views": 2,
    "duration": 25,
    "formato": "normal: sin cámara detectada"
+  },
+  "TallEagerYakPrimeMe-xr3FBJ5QABoqIFet": {
+   "t": 1795795775.6070487,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se lanza a la fuga épica",
+   "url": "https://www.twitch.tv/djmariio/clip/TallEagerYakPrimeMe-xr3FBJ5QABoqIFet",
+   "login": "djmariio",
+   "views": 125,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "NaiveCredulousDinosaurBlargNaut-2Q-noJPNa4DF5TsO": {
+   "t": 1795795804.5401897,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona al robo del banco",
+   "url": "https://www.twitch.tv/djmariio/clip/NaiveCredulousDinosaurBlargNaut-2Q-noJPNa4DF5TsO",
+   "login": "djmariio",
+   "views": 125,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "HealthyEmpathicWasabiDAESuppy-hWti8qQuwxrWUWfD": {
+   "t": 1795795833.8912327,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco por la falta de explosivos",
+   "url": "https://www.twitch.tv/djmariio/clip/HealthyEmpathicWasabiDAESuppy-hWti8qQuwxrWUWfD",
+   "login": "djmariio",
+   "views": 125,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
