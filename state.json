@@ -47015,6 +47015,31 @@
    "login": "thegrefg",
    "views": 54,
    "duration": 30
+  },
+  "AliveBraveThymeTwitchRPG-zk3borrfczMbBYDW": {
+   "t": 1795741571.3749459,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "Auronplay y el señor del ordenador",
+   "url": "https://www.twitch.tv/auronplay/clip/AliveBraveThymeTwitchRPG-zk3borrfczMbBYDW",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 26,
+   "formato": "cara arriba"
+  },
+  "TransparentStormyVampireKippa-oWozBpKKD8TXQ_uU": {
+   "t": 1795741574.1216438,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan en GTA 6 sin sentido",
+   "url": "https://www.twitch.tv/illojuan/clip/TransparentStormyVampireKippa-oWozBpKKD8TXQ_uU",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 28.1
   }
  }
 }
