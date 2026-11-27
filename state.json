@@ -49408,6 +49408,31 @@
    "views": 60,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "PoisedOnerousCobblerSMOrc-YgPspOuxCXzXhU6s": {
+   "t": 1795802853.6934943,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "Imantado se descontrola en GTA VI",
+   "url": "https://www.twitch.tv/imantado/clip/PoisedOnerousCobblerSMOrc-YgPspOuxCXzXhU6s",
+   "login": "imantado",
+   "views": 63,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AntediluvianEnthusiasticEelOSsloth-9bwoUTjY_9cBJyWd": {
+   "t": 1795802857.031229,
+   "streamer": "aXoZer",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "aXoZer y el misterio del día de la humanidad",
+   "url": "https://www.twitch.tv/axozer/clip/AntediluvianEnthusiasticEelOSsloth-9bwoUTjY_9cBJyWd",
+   "login": "axozer",
+   "views": 27,
+   "duration": 30
   }
  }
 }
