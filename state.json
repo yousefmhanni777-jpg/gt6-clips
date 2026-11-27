@@ -49445,6 +49445,32 @@
    "login": "auronplay",
    "views": 2,
    "duration": 23
+  },
+  "SparklingPoorChoughKevinTurtle-3BnbQPE9X-VDPki7": {
+   "t": 1795803137.2274632,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Imantado dispara a GTA 6 en modo loco",
+   "url": "https://www.twitch.tv/imantado/clip/SparklingPoorChoughKevinTurtle-3BnbQPE9X-VDPki7",
+   "login": "imantado",
+   "views": 61,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "HorribleFantasticCockroachBuddhaBar-PECk1IKk1nOgOzN0": {
+   "t": 1795803166.9645762,
+   "streamer": "aXoZer",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "¡aXoZer se enoja al disparar sin avisar!",
+   "url": "https://www.twitch.tv/axozer/clip/HorribleFantasticCockroachBuddhaBar-PECk1IKk1nOgOzN0",
+   "login": "axozer",
+   "views": 28,
+   "duration": 29.9,
+   "formato": "cara arriba"
   }
  }
 }
