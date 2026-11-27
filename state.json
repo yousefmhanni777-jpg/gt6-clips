@@ -50584,6 +50584,44 @@
    "views": 179,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "PlausibleOutstandingPheasantLitFam-HFcfUNKfayl-GbMX": {
+   "t": 1795811501.8878808,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco con 30.000 en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/PlausibleOutstandingPheasantLitFam-HFcfUNKfayl-GbMX",
+   "login": "djmariio",
+   "views": 185,
+   "duration": 20,
+   "formato": "cara arriba"
+  },
+  "NiceFilthyPlumagePogChamp-Ra00195n8uradPPS": {
+   "t": 1795811504.7903352,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Carola descubre algo en GTA VI",
+   "url": "https://www.twitch.tv/carola/clip/NiceFilthyPlumagePogChamp-Ra00195n8uradPPS",
+   "login": "carola",
+   "views": 117,
+   "duration": 30
+  },
+  "MiniatureTacitWrenchTheRinger-d7p4ACJB7aMAU8hb": {
+   "t": 1795811577.5699356,
+   "streamer": "Carola",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Carola se enfada con GTA VI",
+   "url": "https://www.twitch.tv/carola/clip/MiniatureTacitWrenchTheRinger-d7p4ACJB7aMAU8hb",
+   "login": "carola",
+   "views": 117,
+   "duration": 50,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
