@@ -47494,6 +47494,19 @@
    "login": "thegrefg",
    "views": 3,
    "duration": 30
+  },
+  "ClearOriginalFoxSoonerLater-gUC1mvztNRNKDGgs": {
+   "t": 1795750002.9013796,
+   "streamer": "TheGrefg",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "TheGrefg reacciona a un coche que desaparece",
+   "url": "https://www.twitch.tv/thegrefg/clip/ClearOriginalFoxSoonerLater-gUC1mvztNRNKDGgs",
+   "login": "thegrefg",
+   "views": 4,
+   "duration": 33.2,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
