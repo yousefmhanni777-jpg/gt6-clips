@@ -50061,6 +50061,31 @@
    "login": "juansguarnizo",
    "views": 161,
    "duration": 30
+  },
+  "PoliteFrigidMuleKappaPride-m9AAdBZGIX0tkvl1": {
+   "t": 1795807810.3289316,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "AuronPlay se vuelve loco con GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/PoliteFrigidMuleKappaPride-m9AAdBZGIX0tkvl1",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 60,
+   "formato": "cara arriba"
+  },
+  "SilkyAgreeablePonyResidentSleeper-hlqP6cXfvI42Vvm7": {
+   "t": 1795807812.627754,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando en GTA VI?",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/SilkyAgreeablePonyResidentSleeper-hlqP6cXfvI42Vvm7",
+   "login": "juansguarnizo",
+   "views": 164,
+   "duration": 30
   }
  }
 }
