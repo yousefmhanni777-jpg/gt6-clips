@@ -47091,6 +47091,31 @@
    "views": 9,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "SullenCloudyStingrayTheThing-FA-ZgGsUfz28vICN": {
+   "t": 1795742930.9184346,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "AuronPlay se vuelve loca en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/SullenCloudyStingrayTheThing-FA-ZgGsUfz28vICN",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 34.8,
+   "formato": "cara arriba"
+  },
+  "InexpensiveRealWoodpeckerKreygasm-kYm3Mindz0CugrEw": {
+   "t": 1795742933.3268218,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan reacciona a GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/InexpensiveRealWoodpeckerKreygasm-kYm3Mindz0CugrEw",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 30
   }
  }
 }
