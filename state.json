@@ -51200,6 +51200,44 @@
    "login": "juansguarnizo",
    "views": 3,
    "duration": 60
+  },
+  "CuteSwissWaspBabyRage-wtU-uCxRJzT7gWm8": {
+   "t": 1795816028.7438302,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona a un audio inesperado",
+   "url": "https://www.twitch.tv/djmariio/clip/CuteSwissWaspBabyRage-wtU-uCxRJzT7gWm8",
+   "login": "djmariio",
+   "views": 211,
+   "duration": 21.6,
+   "formato": "normal: sin cámara detectada"
+  },
+  "AmazingHedonisticCardFeelsBadMan-ZMTJ-4jyUXd9bR7x": {
+   "t": 1795816091.885585,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "IlloJuan se enreda con los controles de GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/AmazingHedonisticCardFeelsBadMan-ZMTJ-4jyUXd9bR7x",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 44.7,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ArtisticCreativeSowKappaWealth-JGxfMIsX3y6LC5JQ": {
+   "t": 1795816094.156065,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "JuanSGuarnizo: ¿Qué está pasando?",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/ArtisticCreativeSowKappaWealth-JGxfMIsX3y6LC5JQ",
+   "login": "juansguarnizo",
+   "views": 168,
+   "duration": 30
   }
  }
 }
