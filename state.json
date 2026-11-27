@@ -50848,7 +50848,8 @@
    "duration": 60,
    "formato": "normal: sin cámara detectada",
    "tiktok_req": "tt_PlumpZanyChowderHeyGuys-Igsji76mrAYaCr9x",
-   "tiktok_t": 1795813508.246219
+   "tiktok_t": 1795813508.246219,
+   "tiktok_status": "publicado"
   },
   "SolidExuberantOcelotPhilosoraptor-566M7bbp6WgYXDC6": {
    "t": 1795813690.360617,
@@ -50886,6 +50887,31 @@
    "login": "juansguarnizo",
    "views": 182,
    "duration": 30
+  },
+  "KnottyElegantSheepBleedPurple-MXOj19SzdQVzMJul": {
+   "t": 1795813801.0501256,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO se enoja en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/KnottyElegantSheepBleedPurple-MXOj19SzdQVzMJul",
+   "login": "djmariio",
+   "views": 182,
+   "duration": 30
+  },
+  "ResourcefulChillyTigerDansGame-Aq2Kvyt8ue-n1JHl": {
+   "t": 1795813826.8615246,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona a algo inesperado en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/ResourcefulChillyTigerDansGame-Aq2Kvyt8ue-n1JHl",
+   "login": "djmariio",
+   "views": 182,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
