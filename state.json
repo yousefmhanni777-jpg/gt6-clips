@@ -48632,6 +48632,44 @@
    "views": 2,
    "duration": 40.6,
    "formato": "normal: sin cámara detectada"
+  },
+  "SpoopyGoldenLasagnaRalpherZ-UWMrZuBvwRLUi21y": {
+   "t": 1795796289.553087,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin voz: ¿qué pasó?",
+   "url": "https://www.twitch.tv/djmariio/clip/SpoopyGoldenLasagnaRalpherZ-UWMrZuBvwRLUi21y",
+   "login": "djmariio",
+   "views": 131,
+   "duration": 30
+  },
+  "StupidHilariousScorpionUnSane-zgUCsFbqPHGtpCvq": {
+   "t": 1795796340.2823803,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 7,
+   "cat": "epico",
+   "hook": "DjMaRiiO alcanza 6 estrellas en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/StupidHilariousScorpionUnSane-zgUCsFbqPHGtpCvq",
+   "login": "djmariio",
+   "views": 131,
+   "duration": 59.9,
+   "formato": "cara arriba"
+  },
+  "BravePatientOstrichDatSheffy-8CrIaEWqKqULMt7O": {
+   "t": 1795796382.4004257,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se pregunta si puede irse sin él",
+   "url": "https://www.twitch.tv/djmariio/clip/BravePatientOstrichDatSheffy-8CrIaEWqKqULMt7O",
+   "login": "djmariio",
+   "views": 131,
+   "duration": 51.8,
+   "formato": "cara arriba"
   }
  }
 }
