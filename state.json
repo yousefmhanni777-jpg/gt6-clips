@@ -50622,6 +50622,43 @@
    "views": 117,
    "duration": 50,
    "formato": "normal: sin cámara detectada"
+  },
+  "TolerantHyperRavenChefFrank-OXZEJp77fw-dQrDX": {
+   "t": 1795811684.2314012,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "JuanSGuarnizo reacciona a GTA VI",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/TolerantHyperRavenChefFrank-OXZEJp77fw-dQrDX",
+   "login": "juansguarnizo",
+   "views": 172,
+   "duration": 60
+  },
+  "CrazyFlaccidChoughBIRB-vjbxf2CCZx8_wXdI": {
+   "t": 1795811686.5643585,
+   "streamer": "Carola",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Carola sin nada que ver",
+   "url": "https://www.twitch.tv/carola/clip/CrazyFlaccidChoughBIRB-vjbxf2CCZx8_wXdI",
+   "login": "carola",
+   "views": 118,
+   "duration": 30
+  },
+  "DiligentTriumphantSrirachaVoteNay-LWFT7-8Fh4Fj-Dci": {
+   "t": 1795811716.7782776,
+   "streamer": "Carola",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Carola reacciona al autito patrocinado por Burger King",
+   "url": "https://www.twitch.tv/carola/clip/DiligentTriumphantSrirachaVoteNay-LWFT7-8Fh4Fj-Dci",
+   "login": "carola",
+   "views": 118,
+   "duration": 18.5,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
