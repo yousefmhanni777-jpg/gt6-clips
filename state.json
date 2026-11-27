@@ -49308,6 +49308,42 @@
    "login": "djmariio",
    "views": 2,
    "duration": 30
+  },
+  "CoySassyHerdPMSTwin-Xc0WbnB2mM30ob5p": {
+   "t": 1795802028.7039835,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasa con este clip?",
+   "url": "https://www.twitch.tv/djmariio/clip/CoySassyHerdPMSTwin-Xc0WbnB2mM30ob5p",
+   "login": "djmariio",
+   "views": 172,
+   "duration": 30
+  },
+  "EnergeticHilariousFishWutFace-f7I-Cg4WYKupTtYa": {
+   "t": 1795802030.8432758,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Clip sin audio",
+   "url": "https://www.twitch.tv/djmariio/clip/EnergeticHilariousFishWutFace-f7I-Cg4WYKupTtYa",
+   "login": "djmariio",
+   "views": 172,
+   "duration": 30
+  },
+  "AmusedBillowingCoyoteOptimizePrime-uJdXTnhsMnsfGwtj": {
+   "t": 1795802033.531214,
+   "streamer": "paache_",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Paache_ intenta apagar la Play",
+   "url": "https://www.twitch.tv/paache_/clip/AmusedBillowingCoyoteOptimizePrime-uJdXTnhsMnsfGwtj",
+   "login": "paache_",
+   "views": 24,
+   "duration": 30
   }
  }
 }
