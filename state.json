@@ -50278,7 +50278,8 @@
    "duration": 20.5,
    "formato": "normal: sin cámara detectada",
    "tiktok_req": "tt_PoorConcernedDonkeyKappaRoss-Gu7iW5OmW_XgnZBY",
-   "tiktok_t": 1795809280.5210154
+   "tiktok_t": 1795809280.5210154,
+   "tiktok_status": "publicado"
   },
   "RealCourteousShingleBleedPurple-7jAU5G_jvi_wPKPR": {
    "t": 1795809345.4919186,
@@ -50317,6 +50318,44 @@
    "login": "juansguarnizo",
    "views": 4,
    "duration": 35.7
+  },
+  "EnergeticPlainRadishPanicBasket-EQ_whjm6U841YmY_": {
+   "t": 1795809658.9687865,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO reacciona a GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/EnergeticPlainRadishPanicBasket-EQ_whjm6U841YmY_",
+   "login": "djmariio",
+   "views": 194,
+   "duration": 30
+  },
+  "SingleAntsyTermiteKevinTurtle-YT_jn9HBHic5YmY-": {
+   "t": 1795809749.240796,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se descontrola en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/SingleAntsyTermiteKevinTurtle-YT_jn9HBHic5YmY-",
+   "login": "djmariio",
+   "views": 194,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "EnticingHedonisticAubergineDAESuppy-Zs3t0L6V_I_WFLDt": {
+   "t": 1795809772.5872571,
+   "streamer": "juansguarnizo",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "JuanSGuarnizo reacciona a GTA 6 en directo",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/EnticingHedonisticAubergineDAESuppy-Zs3t0L6V_I_WFLDt",
+   "login": "juansguarnizo",
+   "views": 3,
+   "duration": 13.4,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
