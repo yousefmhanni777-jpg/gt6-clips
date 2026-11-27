@@ -50356,6 +50356,44 @@
    "views": 3,
    "duration": 13.4,
    "formato": "normal: sin cámara detectada"
+  },
+  "GleamingPlayfulWheelDxCat-ZXK8XVEzER5otISz": {
+   "t": 1795809998.6634593,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO en acción: ¡Esto es épico!",
+   "url": "https://www.twitch.tv/djmariio/clip/GleamingPlayfulWheelDxCat-ZXK8XVEzER5otISz",
+   "login": "djmariio",
+   "views": 196,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "FriendlyCovertToadOptimizePrime-ig6Z9sxI95fzfvh8": {
+   "t": 1795810001.267791,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "JuanSGuarnizo habla de dinero para el niño",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/FriendlyCovertToadOptimizePrime-ig6Z9sxI95fzfvh8",
+   "login": "juansguarnizo",
+   "views": 172,
+   "duration": 30
+  },
+  "FrozenWealthyPassionfruitFreakinStinkin-WH4J8ONWOHiPRP7U": {
+   "t": 1795810092.7346802,
+   "streamer": "imantado",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Imantado se descontrola en GTA 6",
+   "url": "https://www.twitch.tv/imantado/clip/FrozenWealthyPassionfruitFreakinStinkin-WH4J8ONWOHiPRP7U",
+   "login": "imantado",
+   "views": 61,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
