@@ -51670,6 +51670,31 @@
    "views": 2,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "SucculentKitschySpaghettiResidentSleeper-iUKTL2zhX9BxWBPj": {
+   "t": 1795823515.8890986,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO grita ¡Esteban! en atraco histórico",
+   "url": "https://www.twitch.tv/djmariio/clip/SucculentKitschySpaghettiResidentSleeper-iUKTL2zhX9BxWBPj",
+   "login": "djmariio",
+   "views": 3,
+   "duration": 57.4,
+   "formato": "normal: sin cámara detectada"
+  },
+  "DistinctCheerfulPastaYee-NqdeitH54ZbxeJ4X": {
+   "t": 1795823518.1659935,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO en GTA 6: ¡esto no es lo que esperas!",
+   "url": "https://www.twitch.tv/djmariio/clip/DistinctCheerfulPastaYee-NqdeitH54ZbxeJ4X",
+   "login": "djmariio",
+   "views": 2,
+   "duration": 60
   }
  }
 }
