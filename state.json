@@ -47558,6 +47558,18 @@
    "views": 2,
    "duration": 60,
    "formato": "normal: sin cámara detectada"
+  },
+  "SpookyMildMushroomBrokeBack-VELxAntsnZLmch2e": {
+   "t": 1795751020.4573047,
+   "streamer": "TheGrefg",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "TheGrefg se enfada con el chat por un mensaje",
+   "url": "https://www.twitch.tv/thegrefg/clip/SpookyMildMushroomBrokeBack-VELxAntsnZLmch2e",
+   "login": "thegrefg",
+   "views": 3,
+   "duration": 29.9
   }
  }
 }
