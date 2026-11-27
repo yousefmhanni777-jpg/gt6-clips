@@ -51125,6 +51125,44 @@
    "views": 3,
    "duration": 24.2,
    "formato": "normal: sin cámara detectada"
+  },
+  "DeterminedSplendidAniseLeeroyJenkins-KO9zQBYqM4Mt8wRc": {
+   "t": 1795815671.0645018,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona furioso a GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/DeterminedSplendidAniseLeeroyJenkins-KO9zQBYqM4Mt8wRc",
+   "login": "djmariio",
+   "views": 201,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "BenevolentDeliciousRhinocerosPraiseIt-yTkWphFLJ2CFBZlo": {
+   "t": 1795815674.0084112,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando en GTA 6?",
+   "url": "https://www.twitch.tv/djmariio/clip/BenevolentDeliciousRhinocerosPraiseIt-yTkWphFLJ2CFBZlo",
+   "login": "djmariio",
+   "views": 201,
+   "duration": 30
+  },
+  "ImpossibleTacitCourgetteRuleFive-2yLQH9L1yUFXricS": {
+   "t": 1795815751.388127,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona a GTA 6 en 6:22:21",
+   "url": "https://www.twitch.tv/djmariio/clip/ImpossibleTacitCourgetteRuleFive-2yLQH9L1yUFXricS",
+   "login": "djmariio",
+   "views": 201,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
