@@ -49812,6 +49812,44 @@
    "views": 66,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "TalentedAdventurousVelociraptorDancingBanana-jBgt-cF45PcBdQdz": {
+   "t": 1795806225.8295724,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO reacciona a GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/TalentedAdventurousVelociraptorDancingBanana-jBgt-cF45PcBdQdz",
+   "login": "djmariio",
+   "views": 180,
+   "duration": 50.8
+  },
+  "SmokyEnticingKale4Head-MlJOUPz-Akg8O9pY": {
+   "t": 1795806284.9232686,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona a GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/SmokyEnticingKale4Head-MlJOUPz-Akg8O9pY",
+   "login": "djmariio",
+   "views": 180,
+   "duration": 59.9,
+   "formato": "cara arriba"
+  },
+  "CaringEndearingOxTwitchRPG-V1sXBNufzrvhCK76": {
+   "t": 1795806324.3998158,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Auronplay reacciona a disparos épicos",
+   "url": "https://www.twitch.tv/auronplay/clip/CaringEndearingOxTwitchRPG-V1sXBNufzrvhCK76",
+   "login": "auronplay",
+   "views": 3,
+   "duration": 30,
+   "formato": "cara arriba"
   }
  }
 }
