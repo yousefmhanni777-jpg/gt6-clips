@@ -49888,6 +49888,31 @@
    "views": 4,
    "duration": 41.7,
    "formato": "normal: sin cámara detectada"
+  },
+  "SpoopyEnthusiasticSkirretChefFrank-rmwc8NWpxFImXyo1": {
+   "t": 1795806671.7584112,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "JuanSGuarnizo sin voz",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/SpoopyEnthusiasticSkirretChefFrank-rmwc8NWpxFImXyo1",
+   "login": "juansguarnizo",
+   "views": 148,
+   "duration": 29.9
+  },
+  "NaiveBoringTaroRalpherZ-YixPVRvkFRrtkJ-x": {
+   "t": 1795806715.335049,
+   "streamer": "juansguarnizo",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "JuanSGuarnizo reacciona al servicio secreto",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/NaiveBoringTaroRalpherZ-YixPVRvkFRrtkJ-x",
+   "login": "juansguarnizo",
+   "views": 4,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
