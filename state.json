@@ -47835,6 +47835,18 @@
    "views": 21,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "FaithfulSpoopyCardPanicBasket--YMpghrmmrkUQpVm": {
+   "t": 1795757082.345387,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "sda",
+   "url": "https://www.twitch.tv/illojuan/clip/FaithfulSpoopyCardPanicBasket--YMpghrmmrkUQpVm",
+   "login": "illojuan",
+   "views": 3,
+   "duration": 29.9
   }
  }
 }
