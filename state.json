@@ -49016,7 +49016,8 @@
    "duration": 30,
    "formato": "cara arriba",
    "tiktok_req": "tt_GeniusColdbloodedKittenEleGiggle-jT1A7_On36ol6atb",
-   "tiktok_t": 1795800111.1196263
+   "tiktok_t": 1795800111.1196263,
+   "tiktok_status": "publicado"
   },
   "PatientElegantCroissantDendiFace-qCL5yhvAz1orYIbD": {
    "t": 1795800116.1310875,
@@ -49068,6 +49069,45 @@
    "views": 53,
    "duration": 59.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "TrappedEagerDumplingsShazBotstix-0cDtEQcLgnE2WsMP": {
+   "t": 1795800581.0444381,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO se sorprende con este hallazgo en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/TrappedEagerDumplingsShazBotstix-0cDtEQcLgnE2WsMP",
+   "login": "djmariio",
+   "views": 157,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "EmpathicKitschyAlfalfaPupper-v6bfmpHnZcZBBTzG": {
+   "t": 1795800642.4109633,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/EmpathicKitschyAlfalfaPupper-v6bfmpHnZcZBBTzG",
+   "login": "djmariio",
+   "views": 157,
+   "duration": 60,
+   "formato": "cara arriba"
+  },
+  "SmilingArtsyHorseBuddhaBar-FhENq1MD9kSxE8Rj": {
+   "t": 1795800705.5245905,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco con la misión de la mercancía",
+   "url": "https://www.twitch.tv/djmariio/clip/SmilingArtsyHorseBuddhaBar-FhENq1MD9kSxE8Rj",
+   "login": "djmariio",
+   "views": 157,
+   "duration": 59.9,
+   "formato": "cara arriba"
   }
  }
 }
