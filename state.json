@@ -47797,6 +47797,18 @@
    "views": 21,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "KawaiiSpikyDonkeyHassaanChop-gNhjRWDumOxQ6qVa": {
+   "t": 1795755385.6788907,
+   "streamer": "MirreyTv",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "MirreyTv sin sentido, ¿qué pasa?",
+   "url": "https://www.twitch.tv/mirreytv/clip/KawaiiSpikyDonkeyHassaanChop-gNhjRWDumOxQ6qVa",
+   "login": "mirreytv",
+   "views": 3,
+   "duration": 30
   }
  }
 }
