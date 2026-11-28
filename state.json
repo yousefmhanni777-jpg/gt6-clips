@@ -54101,6 +54101,44 @@
    "views": 108,
    "duration": 46.9,
    "formato": "normal: sin cámara detectada"
+  },
+  "EnticingWimpyToothFutureMan-_teJnjT22pYRL-jL": {
+   "t": 1795887781.1520836,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "DjMaRiiO sin voz",
+   "url": "https://www.twitch.tv/djmariio/clip/EnticingWimpyToothFutureMan-_teJnjT22pYRL-jL",
+   "login": "djmariio",
+   "views": 104,
+   "duration": 30
+  },
+  "OriginalCrispyLionStoneLightning-SyecdFCHybWItVcs": {
+   "t": 1795887830.4392786,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO consigue el final bueno de GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/OriginalCrispyLionStoneLightning-SyecdFCHybWItVcs",
+   "login": "djmariio",
+   "views": 104,
+   "duration": 59.9,
+   "formato": "cara arriba"
+  },
+  "JazzyDirtyWaffleSquadGoals-rvfZCBEhrTtGDz6G": {
+   "t": 1795887859.8784366,
+   "streamer": "VEGETTA777",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "VEGETTA777 reacciona a GTA 6",
+   "url": "https://www.twitch.tv/vegetta777/clip/JazzyDirtyWaffleSquadGoals-rvfZCBEhrTtGDz6G",
+   "login": "vegetta777",
+   "views": 3,
+   "duration": 31.3,
+   "formato": "cara arriba"
   }
  }
 }
