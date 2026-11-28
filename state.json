@@ -51905,6 +51905,31 @@
    "login": "illojuan",
    "views": 2,
    "duration": 30
+  },
+  "PeppySpikyDuckDogFace-z2kqw1x83_DW2zxw": {
+   "t": 1795827841.4642506,
+   "streamer": "juansguarnizo",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "¡JuanSGuarnizo se enciende con GTA 6!",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/PeppySpikyDuckDogFace-z2kqw1x83_DW2zxw",
+   "login": "juansguarnizo",
+   "views": 4,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "IntelligentDoubtfulPeachChocolateRain-O1QZHsgFHMk2lQa6": {
+   "t": 1795827843.997268,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "juansguarnizo se vuelve loco en GTA VI",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/IntelligentDoubtfulPeachChocolateRain-O1QZHsgFHMk2lQa6",
+   "login": "juansguarnizo",
+   "views": 4,
+   "duration": 60
   }
  }
 }
