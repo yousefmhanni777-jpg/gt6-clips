@@ -55147,6 +55147,46 @@
    "login": "rubius",
    "views": 3,
    "duration": 60
+  },
+  "IntelligentDoubtfulMilkAsianGlow-LbKY2e7wS8EiJ0Q0": {
+   "t": 1795895974.3522174,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO busca el final bueno de GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/IntelligentDoubtfulMilkAsianGlow-LbKY2e7wS8EiJ0Q0",
+   "login": "djmariio",
+   "views": 100,
+   "duration": 30,
+   "formato": "cara arriba",
+   "tiktok_req": "tt_IntelligentDoubtfulMilkAsianGlow-LbKY2e7wS8EiJ0Q0",
+   "tiktok_t": 1795895971.8607438
+  },
+  "TenuousSpunkyCheddarSquadGoals-cBsi3rX-77embdRp": {
+   "t": 1795895976.206607,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "¡JuanSGuarnizo se pierde en GTA VI!",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/TenuousSpunkyCheddarSquadGoals-cBsi3rX-77embdRp",
+   "login": "juansguarnizo",
+   "views": 144,
+   "duration": 30
+  },
+  "AttractiveQuaintAardvarkTBTacoLeft-O48XVXKmJRyRYhil": {
+   "t": 1795896010.7124743,
+   "streamer": "juansguarnizo",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "JuanSGuarnizo reacciona al GTA 6",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/AttractiveQuaintAardvarkTBTacoLeft-O48XVXKmJRyRYhil",
+   "login": "juansguarnizo",
+   "views": 144,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
