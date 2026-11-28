@@ -52992,6 +52992,44 @@
    "views": 58,
    "duration": 30,
    "formato": "cara arriba"
+  },
+  "GracefulSpookyCattleCclamChamp-tbQP6KlQb2rr1U64": {
+   "t": 1795877730.0335763,
+   "streamer": "VEGETTA777",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Vegetta777 habla de Pokémon y Black Friday",
+   "url": "https://www.twitch.tv/vegetta777/clip/GracefulSpookyCattleCclamChamp-tbQP6KlQb2rr1U64",
+   "login": "vegetta777",
+   "views": 66,
+   "duration": 30
+  },
+  "HelplessTameThymeHeyGuys-8tcTgpvOhwQqX2Oc": {
+   "t": 1795877763.2550454,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 4,
+   "cat": "gracioso",
+   "hook": "AuronPlay y Jason se vuelven locos",
+   "url": "https://www.twitch.tv/auronplay/clip/HelplessTameThymeHeyGuys-8tcTgpvOhwQqX2Oc",
+   "login": "auronplay",
+   "views": 3,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "DeterminedPhilanthropicTortoiseJebaited-AX7zV7rptEAaNyWG": {
+   "t": 1795877787.156459,
+   "streamer": "Zeling",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Zeling se vuelve loco con el tortazo en GTA 6",
+   "url": "https://www.twitch.tv/zeling/clip/DeterminedPhilanthropicTortoiseJebaited-AX7zV7rptEAaNyWG",
+   "login": "zeling",
+   "views": 53,
+   "duration": 13.9,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
