@@ -55188,6 +55188,18 @@
    "views": 144,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "AgreeableFaithfulPlumberOSkomodo-xBAWR905w7hvB-6C": {
+   "t": 1795896320.7504525,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": ".",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/AgreeableFaithfulPlumberOSkomodo-xBAWR905w7hvB-6C",
+   "login": "juansguarnizo",
+   "views": 3,
+   "duration": 40.2
   }
  }
 }
