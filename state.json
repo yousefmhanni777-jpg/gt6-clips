@@ -51720,6 +51720,31 @@
    "login": "djmariio",
    "views": 3,
    "duration": 55.7
+  },
+  "AliveDiligentStinkbugOSkomodo-pIDmzUKwHQoUnQaL": {
+   "t": 1795824472.4734142,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona al caos en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/AliveDiligentStinkbugOSkomodo-pIDmzUKwHQoUnQaL",
+   "login": "djmariio",
+   "views": 4,
+   "duration": 31.5,
+   "formato": "normal: sin cámara detectada"
+  },
+  "TastyImportantRadishDuDudu-zTUUxVwCTBrESA9f": {
+   "t": 1795824474.8148513,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan: 25 FPS y nada de horas",
+   "url": "https://www.twitch.tv/illojuan/clip/TastyImportantRadishDuDudu-zTUUxVwCTBrESA9f",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 30
   }
  }
 }
