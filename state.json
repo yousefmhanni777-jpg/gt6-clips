@@ -55237,6 +55237,44 @@
    "login": "juansguarnizo",
    "views": 3,
    "duration": 60
+  },
+  "PlausibleSpinelessTaroTTours-5ZlXuEeDVxAbs7bo": {
+   "t": 1795896847.0187979,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco con 'SASASA'",
+   "url": "https://www.twitch.tv/djmariio/clip/PlausibleSpinelessTaroTTours-5ZlXuEeDVxAbs7bo",
+   "login": "djmariio",
+   "views": 111,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "RamshackleBitterRadishNerfBlueBlaster-6NkqW1Dh_sr7R8wf": {
+   "t": 1795896936.8242023,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 4,
+   "cat": "otro",
+   "hook": "Rubius reacciona a GTA 6",
+   "url": "https://www.twitch.tv/rubius/clip/RamshackleBitterRadishNerfBlueBlaster-6NkqW1Dh_sr7R8wf",
+   "login": "rubius",
+   "views": 3,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "FriendlySpotlessPeafowlTheRinger-7GpaGoTekIGP0ZMo": {
+   "t": 1795896938.7964535,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "12 HORAS DE GTA VI 😎",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/FriendlySpotlessPeafowlTheRinger-7GpaGoTekIGP0ZMo",
+   "login": "juansguarnizo",
+   "views": 133,
+   "duration": 29.9
   }
  }
 }
