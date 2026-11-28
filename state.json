@@ -51856,6 +51856,43 @@
    "views": 2,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "ElatedEntertainingRaccoonVoHiYo-qsbuUaPD096Uirz2": {
+   "t": 1795827215.065767,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "fgf",
+   "url": "https://www.twitch.tv/illojuan/clip/ElatedEntertainingRaccoonVoHiYo-qsbuUaPD096Uirz2",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 23.9
+  },
+  "TalentedProudWoodcockFreakinStinkin-pVfOTt2D5qpOkwh9": {
+   "t": 1795827280.5707653,
+   "streamer": "Mictia00",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "Mictia00 reacciona al GTA VI",
+   "url": "https://www.twitch.tv/mictia00/clip/TalentedProudWoodcockFreakinStinkin-pVfOTt2D5qpOkwh9",
+   "login": "mictia00",
+   "views": 31,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "DeadWiseUdonMcaT-CG8mxrBvtMJ-3L2q": {
+   "t": 1795827284.6094902,
+   "streamer": "Mictia00",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DIA 8🌴 GTA VI 🌴 + 🎁 !SORTEO x2 PLAY V + GTA VI 🎁",
+   "url": "https://www.twitch.tv/mictia00/clip/DeadWiseUdonMcaT-CG8mxrBvtMJ-3L2q",
+   "login": "mictia00",
+   "views": 31,
+   "duration": 59.9
   }
  }
 }
