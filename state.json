@@ -52523,6 +52523,19 @@
    "views": 20,
    "duration": 13.8,
    "formato": "normal: sin cámara detectada"
+  },
+  "ShyKnottyMooseTwitchRaid-8wYkfS0XIKirKvlK": {
+   "t": 1795838632.6593356,
+   "streamer": "MichaelQuesadaPCMaster",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "MichaelQuesadaPCMaster: ¡Murió Terminator!",
+   "url": "https://www.twitch.tv/michaelquesadapcmaster/clip/ShyKnottyMooseTwitchRaid-8wYkfS0XIKirKvlK",
+   "login": "michaelquesadapcmaster",
+   "views": 20,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
