@@ -54365,6 +54365,43 @@
    "views": 2,
    "duration": 30,
    "formato": "cara arriba"
+  },
+  "PrettiestToughDragonflyCharlietheUnicorn-Wi8nQHcbpAk65PU1": {
+   "t": 1795889533.8873515,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 7,
+   "cat": "gracioso",
+   "hook": "Rubius intenta una escena de película y falla épicamente",
+   "url": "https://www.twitch.tv/rubius/clip/PrettiestToughDragonflyCharlietheUnicorn-Wi8nQHcbpAk65PU1",
+   "login": "rubius",
+   "views": 508,
+   "duration": 48.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SmellyUninterestedGarbagePlanking-IdpLRloXSMr5TaSZ": {
+   "t": 1795889536.0863442,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Rubius sin voz",
+   "url": "https://www.twitch.tv/rubius/clip/SmellyUninterestedGarbagePlanking-IdpLRloXSMr5TaSZ",
+   "login": "rubius",
+   "views": 21,
+   "duration": 30
+  },
+  "InnocentResoluteCougarMingLee-63jvbfe1UEENgZYH": {
+   "t": 1795889541.6437852,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona a GTA 6: ¡Dropa a ellos!",
+   "url": "https://www.twitch.tv/illojuan/clip/InnocentResoluteCougarMingLee-63jvbfe1UEENgZYH",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 60
   }
  }
 }
