@@ -53157,6 +53157,31 @@
    "views": 2,
    "duration": 39.2,
    "formato": "cara arriba"
+  },
+  "KitschyChillyStorkUnSane-zAEZVfQosoKc6WRj": {
+   "t": 1795879145.6293685,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "IlloJuan y los pasos permitidos: ¡qué locura!",
+   "url": "https://www.twitch.tv/illojuan/clip/KitschyChillyStorkUnSane-zAEZVfQosoKc6WRj",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SpookyPeppyTapirNerfRedBlaster-yrg3a5N7nL53b32k": {
+   "t": 1795879147.9194262,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 3,
+   "cat": "reaccion",
+   "hook": "AuronPlay se vuelve loco con GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/SpookyPeppyTapirNerfRedBlaster-yrg3a5N7nL53b32k",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 40.3
   }
  }
 }
