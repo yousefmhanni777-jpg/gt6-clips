@@ -53909,7 +53909,8 @@
    "duration": 30,
    "formato": "cara arriba",
    "tiktok_req": "tt_ThankfulPerfectWalletDxAbomb-0zQtgjQzIJs7BoMw",
-   "tiktok_t": 1795886751.5487442
+   "tiktok_t": 1795886751.5487442,
+   "tiktok_status": "publicado"
   },
   "NimbleHomelyStrawberryCoolCat-v93p_UkMEkbEQHbH": {
    "t": 1795886780.7286856,
@@ -53960,6 +53961,45 @@
    "login": "djmariio",
    "views": 106,
    "duration": 30
+  },
+  "SavageDignifiedChoughKAPOW-_Wfqf8VULe4hQ4bY": {
+   "t": 1795887084.4919145,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO: ¡Conseguimos el final bueno!",
+   "url": "https://www.twitch.tv/djmariio/clip/SavageDignifiedChoughKAPOW-_Wfqf8VULe4hQ4bY",
+   "login": "djmariio",
+   "views": 105,
+   "duration": 60,
+   "formato": "cara arriba"
+  },
+  "InventiveColorfulDeerGingerPower-LzhommE5vBGSj5sJ": {
+   "t": 1795887109.3475628,
+   "streamer": "VEGETTA777",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "VEGETTA777 descubre un bug inesperado en GTA 6",
+   "url": "https://www.twitch.tv/vegetta777/clip/InventiveColorfulDeerGingerPower-LzhommE5vBGSj5sJ",
+   "login": "vegetta777",
+   "views": 3,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "NimblePuzzledAnteaterCeilingCat-DnYYt18UFpVFkv_m": {
+   "t": 1795887134.1827147,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "IlloJuan y el abrazo épico en la casa de empeños",
+   "url": "https://www.twitch.tv/illojuan/clip/NimblePuzzledAnteaterCeilingCat-DnYYt18UFpVFkv_m",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 17.3,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
