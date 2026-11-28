@@ -54277,6 +54277,43 @@
    "views": 108,
    "duration": 30,
    "formato": "cara arriba"
+  },
+  "WildSpineyPoultryPeteZarollTie-vEmF2Ltjtnosm5_J": {
+   "t": 1795888863.7775211,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "Rubius reacciona a algo inesperado",
+   "url": "https://www.twitch.tv/rubius/clip/WildSpineyPoultryPeteZarollTie-vEmF2Ltjtnosm5_J",
+   "login": "rubius",
+   "views": 8,
+   "duration": 30
+  },
+  "RealSpoopyCheddarFutureMan-fAkAJlKP9Qi9cIAm": {
+   "t": 1795888865.7374344,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Auronplay en GTA 6",
+   "url": "https://www.twitch.tv/auronplay/clip/RealSpoopyCheddarFutureMan-fAkAJlKP9Qi9cIAm",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 30
+  },
+  "AmazonianBreakableChimpanzeeCoolStoryBob-56F-mdXHkDz8UMe8": {
+   "t": 1795888913.5148692,
+   "streamer": "Rubius",
+   "status": "enviado",
+   "score": 4,
+   "cat": "reaccion",
+   "hook": "Rubius se vuelve loco con códigos y cartas legendarias",
+   "url": "https://www.twitch.tv/rubius/clip/AmazonianBreakableChimpanzeeCoolStoryBob-56F-mdXHkDz8UMe8",
+   "login": "rubius",
+   "views": 3,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
