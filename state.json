@@ -53846,6 +53846,43 @@
    "views": 9,
    "duration": 20.5,
    "formato": "cara arriba"
+  },
+  "DrabAbrasiveFriseeDxCat-GjqAYm4Z1LId-h2f": {
+   "t": 1795886495.2099926,
+   "streamer": "auronplay",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "AuronPlay sin palabras: ¿qué pasa?",
+   "url": "https://www.twitch.tv/auronplay/clip/DrabAbrasiveFriseeDxCat-GjqAYm4Z1LId-h2f",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 30
+  },
+  "DeadMoistArtichokeBrokeBack-xCbUqkJvssIlhXXg": {
+   "t": 1795886552.3190193,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "IlloJuan reacciona al Toys ’R’ Us de los mayores",
+   "url": "https://www.twitch.tv/illojuan/clip/DeadMoistArtichokeBrokeBack-xCbUqkJvssIlhXXg",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 46.7,
+   "formato": "normal: sin cámara detectada"
+  },
+  "BlightedFineSangBabyRage-0Zmag1WTtcC6lcLb": {
+   "t": 1795886554.145617,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan sin voz: ¿qué pasa?",
+   "url": "https://www.twitch.tv/illojuan/clip/BlightedFineSangBabyRage-0Zmag1WTtcC6lcLb",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 15.2
   }
  }
 }
