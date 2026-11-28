@@ -54817,6 +54817,44 @@
    "views": 3,
    "duration": 47,
    "formato": "normal: sin cámara detectada"
+  },
+  "FrozenScrumptiousOwlKippa-DwMLYBRSwEFQT6NP": {
+   "t": 1795893623.4535558,
+   "streamer": "juansguarnizo",
+   "status": "enviado",
+   "score": 5,
+   "cat": "reaccion",
+   "hook": "JuanSGuarnizo: ¡Muy cerca! 😂",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/FrozenScrumptiousOwlKippa-DwMLYBRSwEFQT6NP",
+   "login": "juansguarnizo",
+   "views": 141,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SullenHomelyButterVoteYea-JeXyNwIclURhF2MC": {
+   "t": 1795893663.1958418,
+   "streamer": "juansguarnizo",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "¡JuanSguarnizo se vuelve loco en GTA 6!",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/SullenHomelyButterVoteYea-JeXyNwIclURhF2MC",
+   "login": "juansguarnizo",
+   "views": 141,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
+  },
+  "MotionlessCrepuscularGoatDancingBaby-txgjluh5BB3TisAI": {
+   "t": 1795893665.1291363,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué pasa con esta locura?",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/MotionlessCrepuscularGoatDancingBaby-txgjluh5BB3TisAI",
+   "login": "juansguarnizo",
+   "views": 141,
+   "duration": 29.9
   }
  }
 }
