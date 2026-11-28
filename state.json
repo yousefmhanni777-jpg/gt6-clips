@@ -55477,6 +55477,18 @@
    "views": 26,
    "duration": 49.7,
    "formato": "normal: sin cámara detectada"
+  },
+  "TenaciousOpenBaguetteDAESuppy-rNXJr2ZCVATafMCD": {
+   "t": 1795899188.5975275,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "Rubius reacciona a algo…",
+   "url": "https://www.twitch.tv/rubius/clip/TenaciousOpenBaguetteDAESuppy-rNXJr2ZCVATafMCD",
+   "login": "rubius",
+   "views": 3,
+   "duration": 56.4
   }
  }
 }
