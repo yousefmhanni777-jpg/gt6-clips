@@ -54000,6 +54000,44 @@
    "views": 2,
    "duration": 17.3,
    "formato": "normal: sin cámara detectada"
+  },
+  "AgileIgnorantHareTriHard-gsXgeS5OKz4WAe1z": {
+   "t": 1795887266.2239728,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 6,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO se vuelve loco en GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/AgileIgnorantHareTriHard-gsXgeS5OKz4WAe1z",
+   "login": "djmariio",
+   "views": 105,
+   "duration": 30,
+   "formato": "cara arriba"
+  },
+  "PeppySwissGoshawkChocolateRain-mNHtahgIHd7PUNWo": {
+   "t": 1795887268.6178787,
+   "streamer": "IlloJuan",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "IlloJuan reacciona a GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/PeppySwissGoshawkChocolateRain-mNHtahgIHd7PUNWo",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 30
+  },
+  "WittyArtsyPorpoiseJonCarnage-wjZz0phieWu9wL_3": {
+   "t": 1795887315.0171752,
+   "streamer": "auronplay",
+   "status": "enviado",
+   "score": 6,
+   "cat": "curiosidad",
+   "hook": "AuronPlay descubre el lore de Rockstar",
+   "url": "https://www.twitch.tv/auronplay/clip/WittyArtsyPorpoiseJonCarnage-wjZz0phieWu9wL_3",
+   "login": "auronplay",
+   "views": 2,
+   "duration": 60,
+   "formato": "cara arriba"
   }
  }
 }
