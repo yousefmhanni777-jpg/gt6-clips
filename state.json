@@ -55213,6 +55213,30 @@
    "views": 102,
    "duration": 30,
    "formato": "normal: sin cámara detectada"
+  },
+  "ApatheticProudGrouseOhMyDog-n6wsSf7i75sOrAVT": {
+   "t": 1795896569.4242222,
+   "streamer": "Rubius",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "Rubius en vivo: ¿qué pasa?",
+   "url": "https://www.twitch.tv/rubius/clip/ApatheticProudGrouseOhMyDog-n6wsSf7i75sOrAVT",
+   "login": "rubius",
+   "views": 3,
+   "duration": 30
+  },
+  "SwissInspiringEyeballWow-hYkH5L1YjY_Zr28D": {
+   "t": 1795896571.7352412,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "12 HORAS DE GTA VI 😎",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/SwissInspiringEyeballWow-hYkH5L1YjY_Zr28D",
+   "login": "juansguarnizo",
+   "views": 3,
+   "duration": 60
   }
  }
 }
