@@ -54441,6 +54441,43 @@
    "views": 3,
    "duration": 52.1,
    "formato": "cara arriba"
+  },
+  "AlivePleasantHerbsPeteZarollTie-z-FCJnxB8ulyXTPT": {
+   "t": 1795890041.1693091,
+   "streamer": "juansguarnizo",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "¡El mejor piloto se estrella en GTA 6!",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/AlivePleasantHerbsPeteZarollTie-z-FCJnxB8ulyXTPT",
+   "login": "juansguarnizo",
+   "views": 124,
+   "duration": 56.3,
+   "formato": "normal: sin cámara detectada"
+  },
+  "LovelyJollyCatKAPOW-ul8PCl5fcnazBut5": {
+   "t": 1795890044.0815725,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "JuanSGuarnizo en 12h de GTA VI",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/LovelyJollyCatKAPOW-ul8PCl5fcnazBut5",
+   "login": "juansguarnizo",
+   "views": 124,
+   "duration": 30
+  },
+  "PluckyFunHornetFailFish-5wQktIRNhjwY9YyJ": {
+   "t": 1795890046.5834277,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 3,
+   "cat": "otro",
+   "hook": "JuansGuarnizo: 12h de GTA VI",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/PluckyFunHornetFailFish-5wQktIRNhjwY9YyJ",
+   "login": "juansguarnizo",
+   "views": 124,
+   "duration": 30
   }
  }
 }
