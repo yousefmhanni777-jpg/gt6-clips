@@ -55287,6 +55287,43 @@
    "login": "auronplay",
    "views": 3,
    "duration": 30
+  },
+  "FreezingUnusualTruffleLitFam-IVRmeovrG8ZQk2I1": {
+   "t": 1795897355.9921832,
+   "streamer": "juansguarnizo",
+   "status": "enviado",
+   "score": 6,
+   "cat": "gracioso",
+   "hook": "JuanSguarnizo se vuelve loco con su 'besito' en GTA 6",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/FreezingUnusualTruffleLitFam-IVRmeovrG8ZQk2I1",
+   "login": "juansguarnizo",
+   "views": 131,
+   "duration": 59.9,
+   "formato": "normal: sin cámara detectada"
+  },
+  "ReliableFairGoblinSMOrc-KItVTjzvVLw_o7kl": {
+   "t": 1795897358.0180216,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 1,
+   "cat": "otro",
+   "hook": "JuanSGuarnizo: 12 horas de GTA VI",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/ReliableFairGoblinSMOrc-KItVTjzvVLw_o7kl",
+   "login": "juansguarnizo",
+   "views": 131,
+   "duration": 29.9
+  },
+  "AbstemiousExquisiteSardineBrokeBack-zHc0BLMwWbBcxFV8": {
+   "t": 1795897360.3891075,
+   "streamer": "juansguarnizo",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "¿Qué está pasando en este clip?",
+   "url": "https://www.twitch.tv/juansguarnizo/clip/AbstemiousExquisiteSardineBrokeBack-zHc0BLMwWbBcxFV8",
+   "login": "juansguarnizo",
+   "views": 131,
+   "duration": 59.9
   }
  }
 }
