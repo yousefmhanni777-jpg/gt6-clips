@@ -54614,7 +54614,8 @@
    "duration": 30,
    "formato": "normal: sin cámara detectada",
    "tiktok_req": "tt_SneakyVainAniseTF2John-Gpeb7ljkHWkI5HoE",
-   "tiktok_t": 1795891662.0408392
+   "tiktok_t": 1795891662.0408392,
+   "tiktok_status": "publicado"
   },
   "CleanBillowingQueleaOneHand-KHRfuwanHF3KUBmv": {
    "t": 1795891739.6725101,
@@ -54640,6 +54641,19 @@
    "login": "rubius",
    "views": 3,
    "duration": 30
+  },
+  "ZanySeductivePotStoneLightning-eVo9sPMRDrXsqFGP": {
+   "t": 1795891990.5332682,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 5,
+   "cat": "gracioso",
+   "hook": "DjMaRiiO bromea con GTA 6",
+   "url": "https://www.twitch.tv/djmariio/clip/ZanySeductivePotStoneLightning-eVo9sPMRDrXsqFGP",
+   "login": "djmariio",
+   "views": 17,
+   "duration": 30,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
