@@ -55085,6 +55085,44 @@
    "views": 101,
    "duration": 59.9,
    "formato": "cara arriba"
+  },
+  "LachrymoseRepleteFoxSmoocherZ-CMgVdONKP1FkEEN8": {
+   "t": 1795895605.899852,
+   "streamer": "DjMaRiiO",
+   "status": "enviado",
+   "score": 7,
+   "cat": "reaccion",
+   "hook": "DjMaRiiO reacciona al GTA 6 Final",
+   "url": "https://www.twitch.tv/djmariio/clip/LachrymoseRepleteFoxSmoocherZ-CMgVdONKP1FkEEN8",
+   "login": "djmariio",
+   "views": 105,
+   "duration": 60,
+   "formato": "normal: sin cámara detectada"
+  },
+  "SpoopyShinyMacaroniBloodTrail-MHwo9zvbvvnXw-Ih": {
+   "t": 1795895608.4298828,
+   "streamer": "DjMaRiiO",
+   "status": "descartado",
+   "score": 2,
+   "cat": "otro",
+   "hook": "DjMaRiiO sorprende con su reacción",
+   "url": "https://www.twitch.tv/djmariio/clip/SpoopyShinyMacaroniBloodTrail-MHwo9zvbvvnXw-Ih",
+   "login": "djmariio",
+   "views": 105,
+   "duration": 59.9
+  },
+  "BumblingPeacefulGiraffeBudStar-z8_v3QQ9QL-PqBHS": {
+   "t": 1795895630.770185,
+   "streamer": "IlloJuan",
+   "status": "enviado",
+   "score": 6,
+   "cat": "bug",
+   "hook": "IlloJuan reacciona a un bug épico en GTA 6",
+   "url": "https://www.twitch.tv/illojuan/clip/BumblingPeacefulGiraffeBudStar-z8_v3QQ9QL-PqBHS",
+   "login": "illojuan",
+   "views": 2,
+   "duration": 12.7,
+   "formato": "normal: sin cámara detectada"
   }
  }
 }
